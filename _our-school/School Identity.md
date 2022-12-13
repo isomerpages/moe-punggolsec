@@ -41,6 +41,21 @@ Achievers with Character
 
 **Values**
 
-Propriety          Righteousness            Integrity          Self-Respect
-
-       礼                        义                              廉                         耻
+<table>
+<thead>
+  <tr>
+    <td>Propriety</td>
+    <td>Righteousness</td>
+    <td>Integrity</td>
+    <td>Self-Respect</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>礼</td>
+    <td>义</td>
+    <td>廉</td>
+    <td>耻</td>
+  </tr>
+</tbody>
+</table>
