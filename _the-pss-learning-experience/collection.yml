@@ -2,7 +2,7 @@ collections:
   the-pss-learning-experience:
     output: true
     order:
-      - CCE/MOE Sexuality in Schools.md
-      - CCE/PSS Student Support Team.md
-      - CCE/Character and Citizenship Education.md
       - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/PSS Student Support Team.md
+      - CCE/MOE Sexuality in Schools.md
