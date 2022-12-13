@@ -195,3 +195,39 @@ b.    Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
+<u>**_eTeens_** **Programme**:</u>
+
+8.       _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.      Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Punggol Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<table>
+<thead>
+  <tr>
+    <th>Topics/Lessons</th>
+    <th>Programme Learning Objectives</th>
+    <th>Time Period</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mass Talk by HPB appointed vendor</td>
+    <td>·       Awareness of the different STIs and HIV/AIDS<br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV</td>
+    <td rowspan="2"><br><br><br>Term 3</td>
+  </tr>
+  <tr>
+    <td>Classroom-based Lesson</td>
+    <td>·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**
+
+10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here (ANNEX A)](/files/The%20PSS%20Learning%20Experience/Sexed%20Opt%20Out_Annex%20A%202022ah.pdf). The completed form is to be submitted by 30 April 2022.
+
+12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here (ANNEX B)](/files/The%20PSS%20Learning%20Experience/ANNEX%20B.pdf).  The completed form is to be submitted by 30 April 2022.
