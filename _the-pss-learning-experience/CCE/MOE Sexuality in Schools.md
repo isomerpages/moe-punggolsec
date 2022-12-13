@@ -139,3 +139,38 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+**Secondary 4**
+
+<table>
+<thead>
+  <tr>
+    <th>UNIT</th>
+    <th>LESSONS / DURATION</th>
+    <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+    <th>TIME PERIOD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td>1<br>(60 mins)</td>
+    <td><br>  - Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br> - Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br> - Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
+    <td rowspan="4"><br>Term 3 - 4<br></td>
+  </tr>
+  <tr>
+    <td><br>2<br>(60 mins)<br></td>
+    <td><br> - Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br> - Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br> - Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br> - Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br></td>
+  </tr>
+  <tr>
+    <td><br>3<br>(60 mins)<br></td>
+    <td><br> - Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br><br> - Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br> - Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br></td>
+  </tr>
+  <tr>
+    <td><br><br></td>
+    <td><br>4<br>(60 mins)<br></td>
+    <td><br> - Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+  </tr>
+</tbody>
+</table>
+
