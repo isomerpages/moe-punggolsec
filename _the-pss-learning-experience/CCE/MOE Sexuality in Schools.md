@@ -110,3 +110,32 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+**Secondary 3**
+
+<table>
+<thead>
+  <tr>
+    <th>UNIT</th>
+    <th>LESSONS / DURATION</th>
+    <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+    <th>TIME PERIOD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td>1A<br>(60 mins)</td>
+    <td><br> - Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br> - Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br> - Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br></td>
+    <td rowspan="3">Term 3</td>
+  </tr>
+  <tr>
+    <td>1B<br>(60 mins)</td>
+    <td><br> - Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br> - Know that a decision to end a relationship will have consequences on oneself and others.<br><br> - Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br> - Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
+  </tr>
+  <tr>
+    <td>2<br>(60 mins)</td>
+    <td> - Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br> - Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+  </tr>
+</tbody>
+</table>
