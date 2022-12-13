@@ -1,6 +1,4 @@
 collections:
   our-school:
     output: true
-    order:
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+    order: []
