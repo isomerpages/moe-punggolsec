@@ -3,6 +3,8 @@ title: School Advisory Committee
 permalink: /our-school/school-advisory-committtee/
 description: ""
 ---
+![](/images/Our%20School/subbanner.jpg)
+
 ## School Advisory Committtee
 
 <table>
