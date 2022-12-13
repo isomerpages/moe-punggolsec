@@ -174,3 +174,24 @@ b.    Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
+**Secondary 5**
+
+<table>
+<thead>
+  <tr>
+    <th>UNIT</th>
+    <th>LESSONS / DURATION</th>
+    <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+    <th>TIME PERIOD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Respectful Relationships &amp; Safety<br></td>
+    <td><br>1<br>(60 mins)<br></td>
+    <td><br> - Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br> - Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br> - Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
+    <td><br>Term 3</td>
+  </tr>
+</tbody>
+</table>
+
