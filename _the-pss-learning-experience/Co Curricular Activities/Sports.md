@@ -11,19 +11,19 @@ third_nav_title: Co Curricular Activities
 
 For Sports & Games, the CCAs offered are:
 
-·         [Basketball](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Basketball.pdf)
+·         [Basketball](/files/Co%20Curricular%20Activities/Sports/Basketball.pdf)
 
-·         [Football](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Football.pdf)
+·         [Football](/files/Co%20Curricular%20Activities/Sports/Football.pdf)
 
-·         [Netball](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Netball.pdf)
+·         [Netball](/files/Co%20Curricular%20Activities/Sports/Netball.pdf)
 
-·         [Shooting](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Shooting_%20Air%20Rifle.pdf)
+·         [Shooting](/files/Co%20Curricular%20Activities/Sports/Shooting_%20Air%20Rifle.pdf)
 
-·         [Table Tennis](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Table%20Tennis.pdf)
+·         [Table Tennis](/files/Co%20Curricular%20Activities/Sports/Shooting_%20Air%20Rifle.pdf)
 
-·         [Volleyball (Boys)](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Volleyball%20Boys.pdf)
+·         [Volleyball (Boys)](/files/Co%20Curricular%20Activities/Sports/Volleyball%20Boys.pdf)
 
-·         [Volleyball (Girls)](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Volleyball%20Girls.pdf)
+·         [Volleyball (Girls)](/files/Co%20Curricular%20Activities/Sports/Volleyball%20Girls.pdf)
 
 **CCA Achievements**
 
