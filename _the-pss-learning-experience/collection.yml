@@ -2,6 +2,7 @@ collections:
   the-pss-learning-experience:
     output: true
     order:
+      - Academic Subjects/Craft & Technology.md
       - Academic Subjects/Humanities.md
       - Academic Subjects/Mother Tongue Languages.md
       - Academic Subjects/Science.md
