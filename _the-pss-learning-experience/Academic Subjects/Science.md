@@ -85,3 +85,112 @@ Through the entire competition, our students established excellent research and 
 </tbody>
 </table>
 
+![](/images/Academic%20Subjects/Science/Young%20scientists%20ready%20to%20impress%20judges.png)
+Young scientists ready to impress the judges
+
+**_Ignite Skills Challenge organised by ITE Central_**
+
+  
+
+Secondary 3T1 students took part in the annual IgnITE Skills Challenge at ITE Central in 2019. The IgnITE Skills Challenge is a national-level skills competition organised by the ITE, Singapore with the aim to excite secondary school students about the value of vocational and skills education.
+
+  
+
+Two teams made it to the finals and one team clinched the third place in the Flying Saucers competition.
+
+![](/images/Academic%20Subjects/Science/Students%20engrossed%20circuit%20tinketing%20challenge.png)
+Students engrossed in their circuit tinkering challenge
+
+<table>
+<thead>
+  <tr>
+    <th>Year<br></th>
+    <th>Achievement<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2017<br></td>
+    <td>Teams qualified for the Finals<br></td>
+  </tr>
+  <tr>
+    <td>2018<br></td>
+    <td>Teams qualified for the Finals<br></td>
+  </tr>
+  <tr>
+    <td>2019<br></td>
+    <td>Teams qualified for the Finals and<br>one team emerged 2nd runner up</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+**_2019 1st SEAMEO RECSAM Science Olympiad_**
+
+
+Punggol Secondary School participated in the 1st Southeast Asian Ministers of Education Organisation’s Regional Centre for Education in Science and Mathematics (SEAMEO RECSAM) Science Olympiad in Penang from 4 to 8 March 2019.
+
+  
+
+Students were given opportunities to apply scientific knowledge based on real world contexts. 13 students from Secondary 2 to 4 participated in this competition.
+
+  
+
+The Olympiad comprises four levels – two levels of paper-based tests and two Science, Technology, Engineering and Mathematics (STEM) challenges. The paper-based tests focus on scientific knowledge and problem solving, while STEM challenges require students to apply STEM principles. Through this competition, students also forged many new friendships while strengthening current ones, as they are given various opportunities to interact with participants from other countries.Our students gave this competition their very best and had a meaningful learning experience.
+
+![](/images/Academic%20Subjects/Science/SEAMEO%20Competition.jpg)
+Group shot with Mr Yuji Otsuka, one of the creators of the challengers, encouraged and guided Punggolites throughout the olympiad
+
+![](/images/Academic%20Subjects/Science/Student%20participants%20at%20the%20SEAMEO%20olympiad.jpg)
+Students working keenly on their scientific investigations
+
+**_Singapore Junior Physics Olympiad_**
+
+  
+
+The Singapore Junior Physics Olympiad (SJPO) is a Physics competition organised by the Institute of Physics Singapore and is catered to secondary school students. This is an annual competition to encourage the study and appreciation of Physics among all secondary school students. In addition, it is also a competition to highlight Physics talents and also part of the process to identify students for early training for the IPhO (International Physics Olympiad).
+
+  
+
+This year, nine students from Sec 4A & 4E, and five students from Sec 3D, participated and nine of them received honourable mention.
+
+<table>
+<thead>
+  <tr>
+    <th>Year<br></th>
+    <th>Achievement<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2018<br></td>
+    <td>1 student achieved the Bronze Medal<br></td>
+  </tr>
+  <tr>
+    <td>2020<br></td>
+    <td>9 students achieved Honorable Mentions</td>
+  </tr>
+</tbody>
+</table>
+
+**_2020 Singapore Junior Biology Olympiad (SJBO)_**
+
+  
+
+Organised by The Singapore Institute of Biology in collaboration with Science Centre Singapore, and supported by the Ministry of Education, SJBO provides a platform for upper secondary students to challenge themselves further in the area of biology, and is an initiative built on their strong grasp on fundamentals – as evidenced by Singapore’s recent PISA results.
+
+  
+
+SJBO will focus on critical thinking skills as applied to biology, and it is hoped that students develop a holistic culture and passion in learning and applying biology in their lives.
+
+  
+
+This year, the competition was an online Theory Test as a home-based, open book test. Although by no means ideal, this alternative will retain SJBO as an avenue for the bright minds of Biology to continue to challenge themselves and further their learning during this Covid-19 period.
+
+  
+
+10 students from 4A and 4B participated in SJBO 2020 and all received the Certificate of Merit award.
+
+![](/images/Academic%20Subjects/Science/Participants%20received%20Certificates%20of%20Merit.png)
+Participants received their Certificates of Merit with teacher-in-charge, Mr Teo Chin Ann
