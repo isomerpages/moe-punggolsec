@@ -2,6 +2,7 @@ collections:
   the-pss-learning-experience:
     output: true
     order:
+      - Co Curricular Activities/.keep
       - Academic Subjects/.keep
       - Academic Subjects/English Language & Literature.md
       - Academic Subjects/Mathematics.md
