@@ -10,17 +10,17 @@ third_nav_title: Co Curricular Activities
 
 For Clubs & Societies, the CCAs offered are:
 
-·         [Art Club](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Art%20Club.pdf)
+·         [Art Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Art%20Club.pdf)
 
-·         [Audio Visual Aid Club](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Audio%20Visual%20Club.pdf)
+·         [Audio Visual Aid Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Audio%20Visual%20Club.pdf)
 
-·         [English Literary Drama and Debate Society](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/ELDDS.pdf)
+·         [English Literary Drama and Debate Society](/files/Co%20Curricular%20Activities/Club%20and%20Societies/ELDDS.pdf)
 
-·         [Environmental Club](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Environmental%20Club.pdf)
+·         [Environmental Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Environmental%20Club.pdf)
 
-·         [Indian Literary Drama and Debate Society](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Indian%20LDDS.pdf)  
+·         [Indian Literary Drama and Debate Society](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Indian%20LDDS.pdf)
 
-·         [Interact Club](https://punggolsec.moe.edu.sg/qql/slot/u365/2022/2022%20CCA%20info/Interact%20Club.pdf)
+·         [Interact Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Interact%20Club.pdf)
 
   
 
