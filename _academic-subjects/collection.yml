@@ -2,6 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Electives.md
       - Physical Education Programme.md
       - Craft & Technology.md
       - Humanities.md
