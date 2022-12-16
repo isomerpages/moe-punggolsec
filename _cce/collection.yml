@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - PSS Student Support Team.md
       - Character and Citizenship Education.md
