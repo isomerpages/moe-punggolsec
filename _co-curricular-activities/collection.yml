@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - LEAPS/.keep
       - LEAPS 2 domains.md
       - LEAPS.md
       - Uniformed Groups.md
