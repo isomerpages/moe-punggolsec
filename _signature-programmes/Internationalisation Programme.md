@@ -49,3 +49,4 @@ List of past OLJs
 <img src="/images/Signature%20Programmes/Internationalisation%20Programme/Cultural%20and%20school%20immersion%20trip.jpg">
 <figcaption> <strong>Cultural and school immersion trip to Chengdu, Guang An, China</strong> </figcaption>
 </figure>
+
