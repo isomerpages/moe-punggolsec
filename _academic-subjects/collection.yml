@@ -2,5 +2,6 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Science.md
       - Mathematics.md
       - English Language & Literature.md
