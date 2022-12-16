@@ -127,3 +127,8 @@ Yearly, the PSG will set up a booth at the school Open House to engage visiting 
 <img src=/images/Useful%20Links/For%20Parents/Parents%20attending%20a%20talk%20coordinated%20by%20the%20school.jpg">
 <figcaption> <strong> Parents attending a talk coordinated by the school</strong> </figcaption>
 </figure>
+																																																									 
+<figure>
+<img src=/images/Useful%20Links/For%20Parents/Parents%20attend%20a%20PSG%20talk,%20led%20by%20the%20school%20leaders.jpg">
+<figcaption> <strong>Parents attend a PSG talk, led by the school leaders</strong> </figcaption>
+</figure>																																																									 
