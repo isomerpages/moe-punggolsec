@@ -4,7 +4,6 @@ collections:
     order:
       - Co Curricular Activities/.keep
       - Academic Subjects/.keep
-      - Academic Subjects/Humanities.md
       - Academic Subjects/Craft & Technology.md
       - Academic Subjects/Physical Education Programme.md
       - Academic Subjects/Electives.md
