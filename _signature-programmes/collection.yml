@@ -2,5 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Internationalisation Programme.md
       - Learning For Life Programme in Community and Youth Leadership.md
       - Applied Learning Programme in Environment Education.md
