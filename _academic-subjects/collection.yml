@@ -2,11 +2,11 @@ collections:
   academic-subjects:
     output: true
     order:
-      - Electives.md
-      - Physical Education Programme.md
-      - Craft & Technology.md
-      - Humanities.md
-      - Mother Tongue Languages.md
-      - Science.md
-      - Mathematics.md
       - English Language & Literature.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Humanities.md
+      - Craft & Technology.md
+      - Physical Education Programme.md
+      - Electives.md
