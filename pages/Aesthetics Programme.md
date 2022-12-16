@@ -30,3 +30,25 @@ Aesthetics education in PSS provides students with the opportunity to be exposed
   </tr>
 </tbody>
 </table>
+
+
+### Aesthetic Programme
+
+As part of Punggol Secondary School’s emphasis on holistic development and nurturing students in the 5 domains (德智体群美), Secondary 1 students got to experience art forms such as traditional Ethnic Percussion, Dancesports, or Visual Arts programme. Students who displayed strong passion in aesthetics received advanced training for them to showcase their talents through school and public performances. Through the aesthetics programme, students cultivate artistic discipline which strengthens their character and holistic development.
+
+![](/images/Aesthetic%20Programme/Students%20participate%20percussion%20programme.jpg)
+Students participating in the percussion programme.
+
+![](/images/Aesthetic%20Programme/A%20Dance%20Sport%20performance%20by%20sec%20one%20students.jpg)
+A Dance Sport performance by secondary one students.
+
+### Music Education
+  
+
+Music education in Punggol Secondary School is guided by the belief that music, as part of aesthetics appreciation, is an important element of students’ lives. We believe that every student can be creative and is able to exercise their musical ideas in a safe and inspiring environment during their time in the school. The students learn about various music genres and take up skills like playing the guitar and percussion where they will work with classmates to form bands, to create and perform cover songs and originals.
+
+![](/images/Aesthetic%20Programme/Students%20learn%20play%20guitar%20and%20compose%20music.jpg)
+Students learn to play the guitar and compose music during music lessons.
+
+![](/images/Aesthetic%20Programme/Members%20staff%20participate%20learn%20of%20aesthetics.jpg)
+Members of staff participating in the learning of aesthetics as well.
