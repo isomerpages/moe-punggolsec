@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Signature Level Programmes/Secondary 2.md
       - Signature Level Programmes/Secondary 1.md
       - Signature Level Programmes/.keep
       - Internationalisation Programme.md
