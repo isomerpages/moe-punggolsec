@@ -1,7 +1,0 @@
-collections:
-  the-pss-learning-experience:
-    output: true
-    order:
-      - Co Curricular Activities/.keep
-      - Academic Subjects/.keep
-      - CCE/.keep
