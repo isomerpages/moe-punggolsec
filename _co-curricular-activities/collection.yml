@@ -2,10 +2,10 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies.md
+      - Performing Arts.md
+      - Sports.md
+      - Uniformed Groups.md
+      - LEAPS/.keep
       - LEAPS/LEAPS 2 domains.md
       - LEAPS/LEAPS.md
-      - LEAPS/.keep
-      - Uniformed Groups.md
-      - Sports.md
-      - Performing Arts.md
-      - Clubs and Societies.md
