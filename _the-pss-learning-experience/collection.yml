@@ -4,7 +4,6 @@ collections:
     order:
       - Co Curricular Activities/.keep
       - Academic Subjects/.keep
-      - Academic Subjects/English Language & Literature.md
       - Academic Subjects/Mathematics.md
       - Academic Subjects/Science.md
       - Academic Subjects/Mother Tongue Languages.md
