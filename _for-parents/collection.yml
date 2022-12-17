@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Forms.md
       - Parenting Resources by MOE.md
       - Positive Parenting Programme.md
       - Parent Support Group.md
