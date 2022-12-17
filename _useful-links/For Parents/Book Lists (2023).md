@@ -25,21 +25,21 @@ To order, please log on to [www.oapl.sg](http://www.oapl.sg/)
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_2E.pdf">Express</a></td>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_3E.pdf">Express</a></td>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_4E.pdf">Express</a></td>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_5NA.pdf">Normal Academic</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_2E.pdf">Express</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_3E.pdf">Express</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_4E.pdf">Express</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_5NA.pdf">Normal Academic</a></td>
   </tr>
   <tr>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_2NA.pdf">Normal Academic</a></td>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_3NA.pdf">Normal Academic</a></td>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_4NA.pdf">Normal Academic</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_2NA.pdf">Normal Academic</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_3NA.pdf">Normal Academic</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_4NA.pdf">Normal Academic</a></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_2NT.pdf">Normal Technical</a> </td>
-    <td><a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_3NT.pdf">Normal Technical </a></td>
-    <td> <a href="https://punggolsec.moe.edu.sg/qql/slot/u365/2023/Book%20lists/Booklist%202023_PSS_4NT.pdf">Normal Technical</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_2NT.pdf">Normal Technical</a> </td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_3NT.pdf">Normal Technical </a></td>
+    <td> <a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_4NT.pdf">Normal Technical</a></td>
     <td> </td>
   </tr>
 </tbody>
