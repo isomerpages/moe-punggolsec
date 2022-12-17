@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Student Online Portal Password Reset.md
       - Timetable.md
       - GCE N Level Results Release/.keep
       - GCE N Level Results Release/2022 GCE N Level Results Release.md
