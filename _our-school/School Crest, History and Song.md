@@ -10,7 +10,7 @@ description: ""
 
 ### School Crest
 
-<img src="/images/Our%20School/School%20Crest.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Our%20School/School%20Crest.png" style="width:20%;margin-right:15px;" align = "left">
 
 The torch symbolises a beacon of truth and wisdom as students constantly seek to increase their knowledge and capacity for learning.  
 
