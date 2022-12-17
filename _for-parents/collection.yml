@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Purchase of Uniform.md
       - Book Lists (2023).md
       - Forms.md
       - Parenting Resources by MOE.md
