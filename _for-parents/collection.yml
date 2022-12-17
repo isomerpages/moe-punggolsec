@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Rental of Lockers (FAQs).md
       - Purchase of Uniform.md
       - Book Lists (2023).md
       - Forms.md
