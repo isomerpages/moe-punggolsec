@@ -2,12 +2,12 @@ collections:
   useful-links:
     output: true
     order:
-      - For Parents/Rental of Lockers (FAQs).md
-      - For Parents/Purchase of Uniform.md
-      - For Parents/Book Lists (2023).md
-      - For Parents/Forms.md
-      - For Parents/Parenting Resources by MOE.md
-      - For Parents/Positive Parenting Programme.md
-      - For Parents/Parent Support Group.md
-      - For Parents/Parents Gateway.md
       - For Parents/.keep
+      - For Parents/Parents Gateway.md
+      - For Parents/Parent Support Group.md
+      - For Parents/Positive Parenting Programme.md
+      - For Parents/Parenting Resources by MOE.md
+      - For Parents/Forms.md
+      - For Parents/Book Lists (2023).md
+      - For Parents/Purchase of Uniform.md
+      - For Parents/Rental of Lockers (FAQs).md
