@@ -3,7 +3,6 @@ title: MOE Sexuality in Schools
 permalink: /the-pss-learning-experience/character-and-citizenship-education/moe-sexuality-in-schools/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## MOE Sexuality in Schools
@@ -52,7 +51,7 @@ b.    Character and Citizenship Education (CCE)
 **At Punggol Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2022</u>:**
 
 
-**Secondary 1**
+**<center>Secondary 1</center>**
 
 <table>
 <thead>
@@ -82,7 +81,7 @@ b.    Character and Citizenship Education (CCE)
 </table>
 
 
-**Secondary 2**
+**<center>Secondary 2</center>**
 
 <table>
 <thead>
