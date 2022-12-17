@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - Rental of Lockers (FAQs).md
-      - Purchase of Uniform.md
-      - Book Lists (2023).md
-      - Forms.md
-      - Parenting Resources by MOE.md
-      - Positive Parenting Programme.md
-      - Parent Support Group.md
       - Parents Gateway.md
+      - Parent Support Group.md
+      - Positive Parenting Programme.md
+      - Parenting Resources by MOE.md
+      - Forms.md
+      - Book Lists (2023).md
+      - Purchase of Uniform.md
+      - Rental of Lockers (FAQs).md
