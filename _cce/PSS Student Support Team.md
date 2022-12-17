@@ -3,7 +3,6 @@ title: PSS Student Support Team
 permalink: /the-pss-learning-experience/character-and-citizenship-education/pss-student-support-team/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## PSS Student Support Team
@@ -37,15 +36,14 @@ description: ""
 
 
 <img src="/images/CCE/PSS%20Student%20Support%20Team/Contact%20Us.png"  
-     style="width:15%;margin-right:15px;" align = "left">
+     style="width:10%;margin-right:15px;" align = "left">
 		 
 **CONTACT US**
 		 
 Students and parents can speak to the form teachers or Year Heads about any problems students may be facing. If additional support is required, teachers will get in touch with parents to explore for a referral to the PSSST.
 
 <img src="/images/CCE/PSS%20Student%20Support%20Team/Confidentiality.png"  
-     style="width:15%;margin-right:15px;" align = "left">
+     style="width:10%;margin-right:15px;" align = "left">
 **CONFIDENTIALLY**
 
 Part of the counselling process involves a therapeutic relationship between the student and counsellor. Confidentiality is maintained and information is shared by the school counsellor on a need-to-know basis, with the exceptions where safety becomes a concern to the student, or law has been breached.
-		 
