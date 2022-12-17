@@ -2,7 +2,25 @@ logo: /images/school logo.png
 links:
   - title: Our School
     collection: our-school
+  - title: The PSS Learning Experience
+    url: /the-pss-learning-experience/character-and-citizenship-education
+    sublinks:
+      - title: CCE
+        url: /the-pss-learning-experience/character-and-citizenship-education
+      - title: Academic Subjects
+        url: /the-pss-learning-experience/academic-subjects/english-language-n-literature
+      - title: Co-Curricular Activities
+        url: /the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies
+      - title: Aesthetics Programme
+        url: /the-pss-learning-experience/aesthetics-programme
   - title: Signature Programmes
     collection: signature-programmes
+  - title: Useful Links
+    url: /useful-links/for-parents/parents-gateway
+    sublinks:
+      - title: For Parents
+        url: /useful-links/for-parents/parents-gateway
+      - title: For Students
+        url: /useful-links/for-students/2022-gce-n-level-results-release
   - title: 2022 e-Open House
     url: /2022-e-open-house
