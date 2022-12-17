@@ -22,8 +22,6 @@ will be released on Monday, 19 December 2022 at 2pm in School Hall. Parents/guar
 
 5.     Thank you and all the best.
 
-Best Regards,
-
-National Examination Committee
-
+Best Regards,<br>
+National Examination Committee<br>
 Punggol Secondary School
