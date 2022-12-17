@@ -74,37 +74,37 @@ For more information on the 'N' levels admission exercise, download this documen
 <table>
 <thead>
   <tr>
-    <th>PFP – Polytechnic Foundation Programme<br>PFP is a one-year programme that offers a practice-oriented curriculum taught by polytechnic lecturers to better prepare polytechnic-bound N(A) students for entry into relevant polytechnic diploma courses.<br> <br>PFP students are given provisional places in diploma programmes, subject to them passing all modules in the one-year PFP.</th>
+    <td><b><u>PFP – Polytechnic Foundation Programme</b></u><br><br>PFP is a one-year programme that offers a practice-oriented curriculum taught by polytechnic lecturers to better prepare polytechnic-bound N(A) students for entry into relevant polytechnic diploma courses.<br> <br>PFP students are given provisional places in diploma programmes, subject to them passing all modules in the one-year PFP.</td>
     <th><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp">https://www.moe.gov.sg/post-secondary/admissions/pfp</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>DPP – Direct-Entry-Scheme to Polytechnic Programme<br>DPP allows secondary 4N(A) students to be admitted directly into a two-year Higher Nitec programme at ITE without having to sit for the O-Level examinations or undergo a Nitec programme.<br> <br>DPP students who successfully complete their Higher Nitec courses at ITE and attain the required qualifying Grade Point Average (GPA) scores are guaranteed a place in a polytechnic diploma course mapped to their Higher Nitec course.</td>
+    <td><b><u>DPP – Direct-Entry-Scheme to Polytechnic Programme</b></u><br><br>DPP allows secondary 4N(A) students to be admitted directly into a two-year Higher Nitec programme at ITE without having to sit for the O-Level examinations or undergo a Nitec programme.<br> <br>DPP students who successfully complete their Higher Nitec courses at ITE and attain the required qualifying Grade Point Average (GPA) scores are guaranteed a place in a polytechnic diploma course mapped to their Higher Nitec course.</td>
     <td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a></td>
   </tr>
   <tr>
-    <td>JIE ‘N’ / JIE ‘E’ – Joint Intake Exercise<br>The JIE ‘N’ is for GCE N(T)-/N(A)-Level holders to apply for the two-year Nitec course.<br> <br>The JIE ‘E’ is for GCE N(T) students to apply for the three-year Nitec course with Enhanced Nitec Foundation Programme.</td>
+    <td><b><u>JIE ‘N’ / JIE ‘E’ – Joint Intake Exercise</b></u><br><br>The JIE ‘N’ is for GCE N(T)-/N(A)-Level holders to apply for the two-year Nitec course.<br> <br>The JIE ‘E’ is for GCE N(T) students to apply for the three-year Nitec course with Enhanced Nitec Foundation Programme.</td>
     <td><br><a href="https://www.ite.edu.sg/apply-for-ITE-courses">https://www.ite.edu.sg/apply-for-ITE-courses</a></td>
   </tr>
   <tr>
-    <td>ITE EAE – ITE Early Admissions Exercise<br>ITE EAE is an aptitude-based admissions exercise that allows students to apply and receive conditional offers for admission to ITE based on their aptitude and interest, prior to receiving their final GCE N-Level examination results. It allows students to demonstrate their aptitudes and interests apart from academic grades, thus allowing a wider range of talents to be recognised.</td>
+    <td><b><u>ITE EAE – ITE Early Admissions Exercise</b></u><br><br>ITE EAE is an aptitude-based admissions exercise that allows students to apply and receive conditional offers for admission to ITE based on their aptitude and interest, prior to receiving their final GCE N-Level examination results. It allows students to demonstrate their aptitudes and interests apart from academic grades, thus allowing a wider range of talents to be recognised.</td>
     <td><br><a href="https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise">https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise</a></td>
   </tr>
   <tr>
-    <td>NFP – NAFA Foundation Programme<br>NFP is a one-year practice-based programme that prepares N(A)-level holders to pursue a diploma in the creative arts.</td>
+    <td><b><u>NFP – NAFA Foundation Programme</b></u><br><br>NFP is a one-year practice-based programme that prepares N(A)-level holders to pursue a diploma in the creative arts.</td>
     <td><br><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/</a></td>
   </tr>
   <tr>
-    <td>5N(A) E-Application Form</td>
+    <td><b><u>5N(A) E-Application Form</b></u></td>
     <td><br><a href="https://form.gov.sg/6397c433ea4e4c0012ce5a0f">https://form.gov.sg/6397c433ea4e4c0012ce5a0f</a></td>
   </tr>
   <tr>
-    <td>4N(A) Repeat E-Application Form</td>
+    <td><b><u>4N(A) Repeat E-Application Form</b></u></td>
     <td><br><a href="https://form.gov.sg/6397c24dfe67470013ea6daa">https://form.gov.sg/6397c24dfe67470013ea6daa</a></td>
   </tr>
   <tr>
-    <td>Booking form for ECG counselling with Ms Corinne Tan</td>
+    <td><b><u>Booking form for ECG counselling with Ms Corinne Tan</b></u></td>
     <td><br><a href="https://go.gov.sg/pssecg">https://go.gov.sg/pssecg</a></td>
   </tr>
 </tbody>
