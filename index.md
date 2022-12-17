@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: ""
-      url: /announcements
+      url: /announcements/
   - infopic:
       title: 2022 E-Open House
       button: Click Here
