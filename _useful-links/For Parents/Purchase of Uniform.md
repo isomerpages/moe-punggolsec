@@ -27,7 +27,7 @@ Operating hours:
 Wednesday to Friday: 3 pm - 8 pm  
 Saturday: 10 am - 4 pm  
 Closed on Sunday to Tuesday and Public holiday  
-Email: myuniformshopasia@gmail.com  
+Email: <a href="mailto:myuniformshopasia@gmail.com">myuniformshopasia@gmail.com</a>  
 Tel: 6276 6689 (operating hours)  
 
   
