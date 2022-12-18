@@ -3,7 +3,6 @@ title: Mother Tongue Languages
 permalink: /the-pss-learning-experience/academic-subjects/mother-tongue-languages/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Mother Tongue Languages
@@ -27,11 +26,18 @@ The Mother Tongue Languages (MTL) Department aims to inspire and empower each st
 This 2-weeks long programme aims to create an immersive environment for the learning of MTL. A wide range of hands-on activities such as tea appreciation, making traditional food and handicrafts have been organised to provide authentic opportunities for students to speak their MTL as well as gain a better understanding of their own heritage and culture.
 
 
-![](/images/Academic%20Subjects/Mother%20Tongue%20Languages/Students%20learning%20to%20make%20traditional%20food%20during%20MTL%20fortnight.jpg)
-Students learning to make traditional food during MTL fortnight
 
-![](/images/Academic%20Subjects/Mother%20Tongue%20Languages/Tamil%20Poems%20and%20Song%20Appereciation_MTL%20Fortnight.jpeg)
-Students participating in an MTL Fortnight activity, where they learn to appreciate Tamil Poems and Song Appreciation
+<figure>
+<img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Students%20learning%20to%20make%20traditional%20food%20during%20MTL%20fortnight.jpg">
+<figcaption> <strong> Students learning to make traditional food during MTL fortnight </strong> </figcaption>
+</figure>
+
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Tamil%20Poems%20and%20Song%20Appereciation_MTL%20Fortnight.jpeg">
+<figcaption> <strong> Students participating in an MTL Fortnight activity, where they learn to appreciate Tamil Poems and Song Appreciation</strong> </figcaption>
+
 
 **_Conversational Chinese & Malay (CCM)_**
 
@@ -49,9 +55,11 @@ Conversational Chinese/Malay is MOE initiated programme since 2005. This program
 
 Every year, we will select a group of students to watch a drama performance. This is funded by the MOE committee to promote the learning of MTL. The purpose is to expose students to local theatre play and enhance students’ interest in the language and culture.
 
-![](/images/Academic%20Subjects/Mother%20Tongue%20Languages/Students%20watching%20a%20Chinese%20Drama%20under%20the%20Cultural%20Performance%20Enrichment%20Scheme.jpg)
-Students watching a Chinese Drama under the Cultural Performance Enrichment Scheme
 
+<figure>
+<img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Students%20watching%20a%20Chinese%20Drama%20under%20the%20Cultural%20Performance%20Enrichment%20Scheme.jpg">
+<figcaption> <strong> Students watching a Chinese Drama under the Cultural Performance Enrichment Scheme</strong> </figcaption>	
+	
 
 **_Overseas Learning Journey (OLJ)_**
 
@@ -59,8 +67,10 @@ Students watching a Chinese Drama under the Cultural Performance Enrichment Sche
 
 We have been organising Overseas Learning Journeys to Asia countries such as China, India and Malaysia for Secondary One to Three students. The overseas learning experience aims to allow our students to experience a different education system through meaningful immersion with students from local schools and to cultivate a deeper understanding and appreciation for the language and culture.
 
-![](/images/Academic%20Subjects/Mother%20Tongue%20Languages/Students%20participating%20in%20an%20OLJ%20to%20China%20(2019).jpg)
-Participants of 2019 OLJ to Cheng Du, China
+	
+<figure>
+<img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Students%20participating%20in%20an%20OLJ%20to%20China%20(2019).jpg">
+<figcaption> <strong> Participants of 2019 OLJ to Cheng Du, China</strong> </figcaption>		
 
 **_External Competitions_**
 
@@ -69,5 +79,7 @@ Participants of 2019 OLJ to Cheng Du, China
 To hone our students’ language competencies, we encourage them to participate in external competitions for greater exposure. For instance, our students have participated in script writing, story-telling, translation, oratorical, essay writing and text recital competitions. Under the guidance of our teachers, our students have consistently demonstrated excellence.
 
 
-![](/images/Academic%20Subjects/Mother%20Tongue%20Languages/Winners%20of%202020%20Recital%20Text%20Competition.jpeg)
-Winners of 2020 Recital Text Competition
+	
+<figure>
+<img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Winners%20of%202020%20Recital%20Text%20Competition.jpeg">
+<figcaption> <strong> Winners of 2020 Recital Text Competition</strong> </figcaption>		
