@@ -3,7 +3,6 @@ title: Electives
 permalink: /the-pss-learning-experience/academic-subjects/electives/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Electives
@@ -31,14 +30,29 @@ Students attend EMs in various fields like Hospitality, Aeronautics, Culinary, F
 
 The programme ends with a showcase of students’ newly acquired skills and a sharing of their learning experiences with their teachers and school leaders.
 
-![](/images/Academic%20Subjects/Electives/A%20student%20participating%20in%20an%20elective%20module%20activity.jpg)
-A student participating in a supervised cooking activity at a cafe
 
-![](/images/Academic%20Subjects/Electives/Students%20serving%20mocktails%20and%20explaining%20the%20different%20types%20of%20cultery%20to%20their%20peers.jpg)
-Students serving mocktails and explaining the different types of cutlery to their peers
+<figure>
+<img src="/images/Academic%20Subjects/Electives/A%20student%20participating%20in%20an%20elective%20module%20activity.jpg">
+<figcaption> <strong>A student participating in a supervised cooking activity at a cafe</strong> </figcaption>
+</figure>
 
-![](/images/Academic%20Subjects/Electives/Students%20engage%20preschool%20children.jpg)
-Students engaging preschool children in a fun lesson
+
+
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Electives/Students%20serving%20mocktails%20and%20explaining%20the%20different%20types%20of%20cultery%20to%20their%20peers.jpg">
+<figcaption> <strong> Students serving mocktails and explaining the different types of cutlery to their peers</strong> </figcaption>
+</figure>
+
+
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Electives/Students%20engage%20preschool%20children.jpg">
+<figcaption> <strong> Students engaging preschool children in a fun lesson </strong> </figcaption>
+</figure>
+
 
 **_Secondary 2 Normal Technical Learning Journey to Institute of Technical Education (ITE)_**
 
