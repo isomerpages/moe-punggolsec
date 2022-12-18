@@ -27,7 +27,10 @@ The Applied Learning Programme (ALP) in Environment Education is Punggol Seconda
 
 ### Our Objectives
 
-![](/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20Objectives%20Website.jpg)
+
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20Objectives%20Website.jpg"  
+     style="width:65%">
+
 
 
 ### Journey of Self-discovery
