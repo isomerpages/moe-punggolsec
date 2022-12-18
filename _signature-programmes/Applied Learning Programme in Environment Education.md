@@ -47,7 +47,7 @@ Our students undergo a journey of self-discovery through these modules in their 
 The Waste Management module is conducted for Secondary 1 Express, Normal Academic and Normal Technical students during their Science lessons. In this module, students learn about the importance of eco-sustainability and develop an awareness about waste management related issues in Singapore and around the world. For a unit on vermicomposting, our students also learn about the design and construction of a vermicomposting system as a method of food waste recycling.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPVermicompost.png">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPVermicompost.png"style="width:65%">
 <figcaption> <strong> Students learning about vermicomposting </strong> </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ In Science and Geography lessons, students explore alternative energy sources, o
 In Design and Technology lessons, students learn the stages of design model and application of portable clean energy sources. The design journal guides students in the context of the design scenario and project’s specifications. Students would then apply a random line trigger technique for idea generation for the solar panel holder and fan stand.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPHydrogenfuelcell.jpg">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPHydrogenfuelcell.jpg"style="width:65%">
 <figcaption> <strong>Students constructing hydrogen fuel cell</strong> </figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Students reach out to the community and contribute to efforts in protecting and 
 In 2021, the ALP committee collaborated with the LLP committee once again. Secondary 3 Normal (Academic) and Normal (Technical) students were given an opportunity to make herbal candles, a simple, eco-friendly and popular way to fragrance one’s room, promoting environmental sustainability. The herbal candles made were presented to some Club HEAL (Hope, Empowerment, Acceptance & Love) members to help regain confidence in themselves.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPServiceLearningGoatFarm.png">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPServiceLearningGoatFarm.png"style="width:65%">
 <figcaption> <strong>Service Learning trip to goat farm</strong> </figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ The Secondary 1 to 3 students also engaged in a series of meaningful ALP activit
 As environmental sustainability continues as a top trend in the retail industry, retailers have taken steps to become more sustainable. One way is to use recycled materials to construct LED lamps. In 2021, the Lower Secondary students had the opportunity to experience first-hand upcycling of a disused plastic milk bottle into a bottle lamp. Each student brought home an LED-powered bottle lamp that is energy efficient.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPBottleLamps.png">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPBottleLamps.png"style="width:75%">
 <figcaption> <strong>Teachers and students learning about upcycling of disused plastic milk bottles into bottle lamps</strong> </figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ All Secondary 2 students have the opportunity to use upcycling techniques to cut
 The Secondary One students visit Kok Fah Technology Farm as part of their ALP module in ‘Waste Management’. They learn about the workflow and climate control processes in Kok Fah Farm’s Showcase Greenhouse, and how technological and scientific advancements over the years can help to efficiently increase food productivity. The Farm guides also discuss the pros and cons of different farming systems and how these systems help in increasing food security in a land-scarce Singapore.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20pic%208.jpg">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20pic%208.jpg"style="width:75%">
 <figcaption> <strong>Students learning about different farming systems.</strong> </figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ In 2019, the Secondary 2 cohort visited Gardens by the Bay for a Science, Techno
 
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20pic%2012.jpg">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20pic%2012.jpg"style="width:65%">
 <figcaption> <strong>Students having a discussion and solving questions as part of the STEM trail at Gardens By the Bay.</strong> </figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ The Secondary 3 Express students participated in the Sungei Buloh Wetland Biodiv
 After the biodiversity walk, students engaged in the Intertidal Coastal Cleanup in collaboration with International Coastal Cleanup Singapore (ICCS). Students actively and enthusiastically contributed to the cleaning up of pollution and rubbish along Singapore’s shores.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Students%20learning%20about%20the%20flora%20and%20fauna%20at%20Sungei%20Buloh%20Wetland.png">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Students%20learning%20about%20the%20flora%20and%20fauna%20at%20Sungei%20Buloh%20Wetland.png"style="width:75%">
 <figcaption> <strong>Students learning about the flora and fauna at Sungei Buloh Wetland</strong> </figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ After the biodiversity walk, students engaged in the Intertidal Coastal Cleanup 
 Students from the Environment Club play a key role in promoting environmental sustainability in the school. Despite the constraints posed by COVID-19, they participated in several community youth advocacy projects, spread environment messages to their peers, conducted sharing on Earth Hour and Earth Day and raised awareness on recycling.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPAdvocating.png">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPAdvocating.png"style="width:75%">
 <figcaption> <strong>Sharing on Earth Hour and E-waste Recycling</strong> </figcaption>
 </figure>
 
@@ -223,7 +223,7 @@ One student competed against 2000 students from over 80 secondary schools and wo
 The Environmental Club achieved the Sustained Vanda Miss Joaquim Award for the School Green Awards 2021. This is the highest attainable award and is awarded to schools that have achieved the Vanda Miss Joaquim Award for three consecutive years.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPICBPaulScienceQuiz2021.jpg">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPICBPaulScienceQuiz2021.jpg"style="width:65%">
 <figcaption> <strong>Participants for International C.B Paul Science Quiz 2021</strong> </figcaption>
 </figure>
 
