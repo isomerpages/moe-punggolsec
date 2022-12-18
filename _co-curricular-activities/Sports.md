@@ -32,13 +32,14 @@ For Sports & Games, the CCAs offered are:
 
 \- 2022 Yishun Secondary School (YSS) Cup 'C' Division - Second
 
+<br>
 ·         Football
 
 \- National Inter-School Championship League ‘B’ Division, 2019 (First Runner Up)
 
 \- National Inter-School Championship League ‘C’ Division, 2019 (Quarter Finalist)
 
-  
+<br>  
 
 **·**         Volleyball (Boys)
 
@@ -48,7 +49,7 @@ For Sports & Games, the CCAs offered are:
 
 \- National Inter-School North Zone ‘B’ Division Boys 2021 (Third)
 
-  
+<br>  
 
 **·**         Volleyball (Boys)  
 
