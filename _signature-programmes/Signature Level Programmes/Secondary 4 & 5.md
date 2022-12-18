@@ -77,7 +77,10 @@ Done concurrently, our annual Meet-the-Parents session and Career Fair provides 
 
 In order to maximise curriculum time, the Free Period Academic Support programme is designed to provide our students with a conducive learning environment during their respective free periods. Subject teachers are on hand to offer consultations and students are also able to revise for their upcoming assessments and ultimately, their national examinations.
 
-![](/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%204%20n%205/sec%204%20n%205%20signature%20level%20programmes.jpg)
+
+<img src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%204%20n%205/sec%204%20n%205%20signature%20level%20programmes.jpg"  
+     style="width:80%">
+
 
 **_Mother Tongue Intensive Programme_**
 
