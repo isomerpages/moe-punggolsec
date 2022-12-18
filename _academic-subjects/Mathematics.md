@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /the-pss-learning-experience/academic-subjects/mathematics/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 
@@ -24,8 +23,13 @@ The Mathematics Department is committed to develop in our students a positive at
 
 The Mathematics Games Day inculcates the joy of learning in Mathematics and is organised yearly in May for all Secondary One students. While playing the games at various stations, students learn a variety of mathematical concepts and applications (eg. financial literacy) as well as improve their analytical and problem-solving skills. They also learn how to work collaboratively with their peers as they navigate the various stations as a team.
 
-![](/images/Academic%20Subjects/Mathematics/Students%20working%20collaboratively%20during%20Mathematics%20Games%20Day%20to%20solve%20a%20puzzle.jpg)
-Students working collaboratively during Mathematics Games Day to solve a puzzle
+
+<figure>
+<img src="/images/Academic%20Subjects/Mathematics/Students%20working%20collaboratively%20during%20Mathematics%20Games%20Day%20to%20solve%20a%20puzzle.jpg">
+<figcaption> <strong>Students working collaboratively during Mathematics Games Day to solve a puzzle</strong> </figcaption>
+</figure>
+
+
 
 **_Secondary Two STEM Trail_**
 
@@ -33,8 +37,13 @@ Students working collaboratively during Mathematics Games Day to solve a puzzle
 
 This trail has been organised in collaboration with the Science department as a post-end-of-year exam activity since 2017. The objective of this trail is to provide students with opportunities to apply mathematical concepts and hone their problem-solving skills in a real-world context.
 
-![](/images/Academic%20Subjects/Mathematics/Outdoor%20learning%20through%20STEM%20trail.jpg)
-Outdoor learning through STEM trail
+
+<figure>
+<img src="/images/Academic%20Subjects/Mathematics/Outdoor%20learning%20through%20STEM%20trail.jpg">
+<figcaption> <strong>Outdoor learning through STEM trail
+</strong> </figcaption>
+</figure>
+
 
 **_Secondary Two Peer Tutoring Programme_**
 
@@ -53,8 +62,14 @@ As part of this programme, we also collaborated with neighbouring primary school
 *   Edgefield Primary School (2014)
 *   Greendale Primary School (2015 to 2018)
 
-![](/images/Academic%20Subjects/Mathematics/Students%20participating%20in%20Secondary%20Two%20Peer%20Tutoring%20Programme.jpg)
-Students participating in Secondary Two Peer Tutoring Programme
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Mathematics/Students%20participating%20in%20Secondary%20Two%20Peer%20Tutoring%20Programme.jpg">
+<figcaption> <strong>Students participating in Secondary Two Peer Tutoring Programme
+</strong> </figcaption>
+</figure>
+
 
 **_Secondary 1NA Mathematics Bridging Programme_**
 
@@ -100,5 +115,9 @@ Secondary 1NA students who have been identified to undergo this programme are pl
 </table>
 
 
-![](/images/Academic%20Subjects/Mathematics/2019%20All%20Secondary%20School%20Mathematics%20Competition%20Team%20Winners.jpg)
-2019 All Secondary School Mathematics Competition Team Winners
+
+<figure>
+<img src="/images/Academic%20Subjects/Mathematics/2019%20All%20Secondary%20School%20Mathematics%20Competition%20Team%20Winners.jpg">
+<figcaption> <strong>2019 All Secondary School Mathematics Competition Team Winners
+</strong> </figcaption>
+</figure>
