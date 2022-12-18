@@ -3,8 +3,6 @@ title: Parent Support Group
 permalink: /useful-links/for-parents/parent-support-group/
 description: ""
 ---
-
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Parent Support Group
@@ -100,7 +98,7 @@ Members of PSG may help in the following ways:
 
 
 <img src="/images/Useful%20Links/For%20Parents/GOGOV%20Volunteer.png"  
-     style="width:35%">
+     style="width:25%">
 
 ### Parents’ involvement in past events
 
