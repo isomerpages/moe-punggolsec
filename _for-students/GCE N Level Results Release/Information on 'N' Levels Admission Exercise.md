@@ -89,11 +89,11 @@ For more information on the 'N' levels admission exercise, download this documen
     <td><br><br><a href="https://www.ite.edu.sg/apply-for-ITE-courses">https://www.ite.edu.sg/apply-for-ITE-courses</a></td>
   </tr>
   <tr>
-		<td><b>ITE EAE – ITE Early Admissions Exercise</b><br>ITE EAE is an aptitude-based admissions exercise that allows students to apply and receive conditional offers for admission to ITE based on their aptitude and interest, prior to receiving their final GCE N-Level examination results. It allows students to demonstrate their aptitudes and interests apart from academic grades, thus allowing a wider range of talents to be recognised.</td>
+		<td><b>ITE EAE – ITE Early Admissions Exercise</b><br><br>ITE EAE is an aptitude-based admissions exercise that allows students to apply and receive conditional offers for admission to ITE based on their aptitude and interest, prior to receiving their final GCE N-Level examination results. It allows students to demonstrate their aptitudes and interests apart from academic grades, thus allowing a wider range of talents to be recognised.</td>
     <td><br><a href="https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise">https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise</a></td>
   </tr>
   <tr>
-		<td><b>NFP – NAFA Foundation Programme</b><br>NFP is a one-year practice-based programme that prepares N(A)-level holders to pursue a diploma in the creative arts.</td>
+		<td><b>NFP – NAFA Foundation Programme</b><br><br>NFP is a one-year practice-based programme that prepares N(A)-level holders to pursue a diploma in the creative arts.</td>
     <td><br><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/</a></td>
   </tr>
   <tr>
