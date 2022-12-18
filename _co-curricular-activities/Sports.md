@@ -3,7 +3,6 @@ title: Sports
 permalink: /the-pss-learning-experience/co-curricular-activities-ccas/sports/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Sports
@@ -19,7 +18,7 @@ For Sports & Games, the CCAs offered are:
 
 ·         [Shooting](/files/Co%20Curricular%20Activities/Sports/Shooting_%20Air%20Rifle.pdf)
 
-·         [Table Tennis](/files/Co%20Curricular%20Activities/Sports/Shooting_%20Air%20Rifle.pdf)
+·         [Table Tennis](/files/Co%20Curricular%20Activities/Sports/Table%20Tennis.pdf)
 
 ·         [Volleyball (Boys)](/files/Co%20Curricular%20Activities/Sports/Volleyball%20Boys.pdf)
 
