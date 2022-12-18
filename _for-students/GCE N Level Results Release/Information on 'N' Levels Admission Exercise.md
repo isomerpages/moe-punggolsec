@@ -28,7 +28,7 @@ third_nav_title: GCE N Level Results Release
   </tr>
   <tr>
     <td> Application for NFP,<br>NAFA</td>
-    <td>Submit online application via (<a href="go.gov.sg/applynafafp">go.gov.sg/applynafafp</a>)<br>by <b>30 December 2022.</b> </td>
+    <td>Submit online application via (<a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/</a>)<br>by <b>30 December 2022.</b> </td>
   </tr>
   <tr>
     <td>Application for 5 Normal Academic </td>
