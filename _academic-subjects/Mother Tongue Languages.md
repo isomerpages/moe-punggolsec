@@ -36,9 +36,11 @@ This 2-weeks long programme aims to create an immersive environment for the lear
 
 <figure>
 <img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Tamil%20Poems%20and%20Song%20Appereciation_MTL%20Fortnight.jpeg">
-<figcaption> <strong> Students participating in an MTL Fortnight activity, where they learn to appreciate Tamil Poems and Song Appreciation</strong> </figcaption>
+<figcaption> <strong> Students participating in an MTL Fortnight activity, where they learn to appreciate Tamil Poems and Song Appreciation</strong> </figcaption</figure>
 
 
+<br>	
+	
 **_Conversational Chinese & Malay (CCM)_**
 
   
@@ -58,7 +60,7 @@ Every year, we will select a group of students to watch a drama performance. Thi
 
 <figure>
 <img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Students%20watching%20a%20Chinese%20Drama%20under%20the%20Cultural%20Performance%20Enrichment%20Scheme.jpg">
-<figcaption> <strong> Students watching a Chinese Drama under the Cultural Performance Enrichment Scheme</strong> </figcaption>	
+<figcaption> <strong> Students watching a Chinese Drama under the Cultural Performance Enrichment Scheme</strong> </figcaption>	</figure>
 	
 
 **_Overseas Learning Journey (OLJ)_**
@@ -70,7 +72,7 @@ We have been organising Overseas Learning Journeys to Asia countries such as Chi
 	
 <figure>
 <img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Students%20participating%20in%20an%20OLJ%20to%20China%20(2019).jpg">
-<figcaption> <strong> Participants of 2019 OLJ to Cheng Du, China</strong> </figcaption>		
+<figcaption> <strong> Participants of 2019 OLJ to Cheng Du, China</strong> </figcaption>		</figure>
 
 **_External Competitions_**
 
@@ -82,4 +84,4 @@ To hone our students’ language competencies, we encourage them to participate 
 	
 <figure>
 <img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Winners%20of%202020%20Recital%20Text%20Competition.jpeg">
-<figcaption> <strong> Winners of 2020 Recital Text Competition</strong> </figcaption>		
+<figcaption> <strong> Winners of 2020 Recital Text Competition</strong> </figcaption></figure>
