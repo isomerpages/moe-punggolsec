@@ -3,7 +3,6 @@ title: Physical Education Programme
 permalink: /the-pss-learning-experience/academic-subjects/physical-education-programme/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Physical Education Programme
@@ -59,8 +58,11 @@ Here is an overview of our PE curriculum.
 
 Our Annual School Cross Country, traditionally held in Punggol Waterway, is an event that aims to provide an opportunity for students, staff and parents to practise healthy living. Through the leisure fun run and friendly competition, it also fosters friendships and creates memories for all. For participants who are more competitive, there is also a category for them and prizes to be won. Regardless of ability, this is another platform for character building and for students to exhibit resilience.
 
-![](/images/Academic%20Subjects/Physical%20Education%20Programme/A%20good%20start%20is%20as%20important%20as%20being%20consistent.jpg)
-Students enthusiastically started the cross-country
+
+<figure>
+<img src="/images/Academic%20Subjects/Physical%20Education%20Programme/A%20good%20start%20is%20as%20important%20as%20being%20consistent.jpg">
+<figcaption> <strong> Students enthusiastically started the cross-country</strong> </figcaption>
+</figure>
 
 
 **_Term 2_**
@@ -73,8 +75,14 @@ Our Outdoor Adventure Learning Camp (OALC) allows for Secondary Two students to 
 
 Senior Students Councillors also get to develop their leadership competencies by leading and facilitating activities and reflections with their juniors.
 
-![](/images/Academic%20Subjects/Physical%20Education%20Programme/Challenging%20our%20boundaries.jpg)
-Participants of the High Element obstacle as part of their OALC
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Physical%20Education%20Programme/Challenging%20our%20boundaries.jpg">
+<figcaption> <strong> Participants of the High Element obstacle as part of their OALC</strong> </figcaption>
+</figure>
+
+
 
 **_Term 2 and 3_**
 
@@ -95,8 +103,12 @@ While we encourage students to be competitive, we also focus on the Olympic Valu
 This event is also a platform where we encourage our students to live out our school values while achieving the Olympic Motto of Higher, Faster, Stronger.
 
 
-![](/images/Academic%20Subjects/Physical%20Education%20Programme/Remove_Starting%20Strong.jpg)
-Participants gearing to start the 400 metre event
+
+<figure>
+<img src="/images/Academic%20Subjects/Physical%20Education%20Programme/Remove_Starting%20Strong.jpg">
+<figcaption> <strong> Participants gearing to start the 400 metre event</strong> </figcaption>
+</figure>
+
 
 **_Term 4_**
 
@@ -112,9 +124,11 @@ This recreational competition creates a safe learning environment where students
 
 Sports Leaders also co-organise the activities with support from the PE department. This allows them to pick up event management skills, while honing their personal leadership skills.
 
-![](/images/Academic%20Subjects/Physical%20Education%20Programme/Reaching%20high%20and%20up.jpg)
-Students participating in an inter-class frisbee competition
 
+<figure>
+<img src="/images/Academic%20Subjects/Physical%20Education%20Programme/Reaching%20high%20and%20up.jpg">
+<figcaption> <strong> Students participating in an inter-class frisbee competition</strong> </figcaption>
+</figure>
 
 **_Overseas Adventure Learning Journey_**
 
@@ -122,5 +136,9 @@ Students participating in an inter-class frisbee competition
 
 This fun and exciting programme aims to develop students’ leadership competencies and character development through Outdoor Adventure Learning experiences in Gopeng, Perak, Malaysia. This programme is targeted at Secondary Two students from the Student Council, CCAs and Sports Leaders. They will be exposed to organisational and leadership training and experienced outdoor activities such as white water rafting, caving, abseiling and hiking. Thereafter, students are also given authentic opportunities to serve and to practise their leadership skills in their respective areas.
 
-![](/images/Academic%20Subjects/Physical%20Education%20Programme/Participants%20climb%20top%20of%20Batu%20Putih.jpg)
-Participants climb to the top of Batu Putih
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Physical%20Education%20Programme/Participants%20climb%20top%20of%20Batu%20Putih.jpg">
+<figcaption> <strong> Participants climb to the top of Batu Putih</strong> </figcaption>
+</figure>
