@@ -4,8 +4,6 @@ permalink: /the-pss-learning-experience/co-curricular-activities-ccas/leaps/
 description: ""
 third_nav_title: LEAPS
 ---
-
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## LEAPS
@@ -50,4 +48,4 @@ _Example: Is your child able to cope? How can you help to support him/her in the
 
 * * *
 
-[\[1\]](file:///C:/Users/S8713634E/Downloads/LEAPS%202%200%20(PSS%20Public%20Version).docx#_ftnref1) LEAPS stands for Leadership, Enrichment, Achievement, Participation and Service. LEAPS 2.0 builds on the LEAPS system to better reflect MOE’s current emphasis on Student-Centric, Values-Driven education.
+[1\] LEAPS stands for Leadership, Enrichment, Achievement, Participation and Service. LEAPS 2.0 builds on the LEAPS system to better reflect MOE’s current emphasis on Student-Centric, Values-Driven education.
