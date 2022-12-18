@@ -11,7 +11,10 @@ Punggol Secondary School (PSS) seeks to develop students to become confident cit
 
 The LLP is crafted with equal emphasis on both community and youth leadership. Every student who journeys through PSS can expect themselves to be a part of this distinctive niche in LLP. With a strong focus on community and youth leadership, students’ voices are imperative in helping students develop ideas, opinions and empowering them to work towards achieving their aspirations steadily. LLP in PSS hence adopts a progressive and developmental model where the roles of the students and design of the programmes become increasingly complex as students learn to engage different stakeholders and beneficiaries. This progression is captured in the chart below.
 
-![](/images/Signature%20Programmes/Learning%20for%20Life%20Programme/Student%20Leadership%20Programmes.png)
+
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/Student%20Leadership%20Programmes.png"  
+     style="width:75%">
+
 
 In PSS, we hold strong to the belief that every student can be a leader, beginning with basic leadership of self. Leadership is a quintessential part of the development of students as we prepare them to face future challenges even as they progress to post-secondary institutions. Purposeful activities and programmes are crafted to create opportunities for the development of leadership in our students. 
 
@@ -28,12 +31,12 @@ Given enough opportunities to acquire leadership skills and serve the needs of o
 In the final year of education in PSS where they face the challenges of national examinations, the graduating students will then extend the projects they worked on in the previous year to further advocate for social issues faced by the beneficiaries. Students conduct research into topics of interest before sharing their findings with their juniors.
 
 <figure>
-<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP2.jpg">
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP2.jpg" style="width:55%">
 <figcaption> <strong> Sewing face masks for care pack </strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP1.jpg">
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP1.jpg"style="width:55%">
 <figcaption> <strong> Hand sewn face masks by Punggolites</strong> </figcaption>
 </figure>
 
@@ -43,6 +46,6 @@ In the final year of education in PSS where they face the challenges of national
 </figure>
 
 <figure>
-<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP4.jpg">
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP4.jpg"style="width:55%">
 <figcaption> <strong>Students bring cheer to the elderly during Chinese New Year celebration</strong> </figcaption>
 </figure>
