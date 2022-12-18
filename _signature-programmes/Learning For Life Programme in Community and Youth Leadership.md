@@ -36,7 +36,7 @@ In the final year of education in PSS where they face the challenges of national
 </figure>
 
 <figure>
-<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP1.jpg"style="width:45%">
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP1.jpg" style="width:45%">
 <figcaption> <strong> Hand sewn face masks by Punggolites</strong> </figcaption>
 </figure>
 
@@ -46,6 +46,6 @@ In the final year of education in PSS where they face the challenges of national
 </figure>
 
 <figure>
-<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP4.jpg"style="width:45%">
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP4.jpg" style="width:45%">
 <figcaption> <strong>Students bring cheer to the elderly during Chinese New Year celebration</strong> </figcaption>
 </figure>
