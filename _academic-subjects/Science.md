@@ -3,7 +3,6 @@ title: Science
 permalink: /the-pss-learning-experience/academic-subjects/science/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Science
@@ -85,8 +84,12 @@ Through the entire competition, our students established excellent research and 
 </tbody>
 </table>
 
-![](/images/Academic%20Subjects/Science/Young%20scientists%20ready%20to%20impress%20judges.png)
-Young scientists ready to impress the judges
+
+<figure>
+<img src="/images/Academic%20Subjects/Science/Young%20scientists%20ready%20to%20impress%20judges.png">
+<figcaption> <strong> Young scientists ready to impress the judges</strong> </figcaption>
+</figure>
+
 
 **_Ignite Skills Challenge organised by ITE Central_**
 
@@ -98,8 +101,13 @@ Secondary 3T1 students took part in the annual IgnITE Skills Challenge at ITE Ce
 
 Two teams made it to the finals and one team clinched the third place in the Flying Saucers competition.
 
-![](/images/Academic%20Subjects/Science/Students%20engrossed%20circuit%20tinketing%20challenge.png)
-Students engrossed in their circuit tinkering challenge
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Science/Students%20engrossed%20circuit%20tinketing%20challenge.png">
+<figcaption> <strong> Students engrossed in their circuit tinkering challenge
+</strong> </figcaption>
+</figure>
 
 <table>
 <thead>
@@ -139,11 +147,24 @@ Students were given opportunities to apply scientific knowledge based on real wo
 
 The Olympiad comprises four levels – two levels of paper-based tests and two Science, Technology, Engineering and Mathematics (STEM) challenges. The paper-based tests focus on scientific knowledge and problem solving, while STEM challenges require students to apply STEM principles. Through this competition, students also forged many new friendships while strengthening current ones, as they are given various opportunities to interact with participants from other countries.Our students gave this competition their very best and had a meaningful learning experience.
 
-![](/images/Academic%20Subjects/Science/SEAMEO%20Competition.jpg)
-Group shot with Mr Yuji Otsuka, one of the creators of the challengers, encouraged and guided Punggolites throughout the olympiad
 
-![](/images/Academic%20Subjects/Science/Student%20participants%20at%20the%20SEAMEO%20olympiad.jpg)
-Students working keenly on their scientific investigations
+
+<figure>
+<img src="/images/Academic%20Subjects/Science/SEAMEO%20Competition.jpg">
+<figcaption> <strong> Group shot with Mr Yuji Otsuka, one of the creators of the challengers, encouraged and guided Punggolites throughout the olympiad
+</strong> </figcaption>
+</figure>
+
+
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Science/Student%20participants%20at%20the%20SEAMEO%20olympiad.jpg">
+<figcaption> <strong> Students working keenly on their scientific investigations
+</strong> </figcaption>
+</figure>
+
+
 
 **_Singapore Junior Physics Olympiad_**
 
@@ -192,5 +213,10 @@ This year, the competition was an online Theory Test as a home-based, open book 
 
 10 students from 4A and 4B participated in SJBO 2020 and all received the Certificate of Merit award.
 
-![](/images/Academic%20Subjects/Science/Participants%20received%20Certificates%20of%20Merit.png)
-Participants received their Certificates of Merit with teacher-in-charge, Mr Teo Chin Ann
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Science/Participants%20received%20Certificates%20of%20Merit.png">
+<figcaption> <strong>Participants received their Certificates of Merit with teacher-in-charge, Mr Teo Chin Ann
+</strong> </figcaption>
+</figure>
