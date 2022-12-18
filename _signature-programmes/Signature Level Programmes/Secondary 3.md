@@ -88,7 +88,7 @@ In order to maximise curriculum time, the Free Period Academic Support programme
 Many of our Secondary 3 students take up higher leadership positions in the Student Council Executive Committee and Student Leadership Board in June. This is on top of those who were also appointed as CCA Leaders, Class leaders and Peer Support Leaders throughout the year. These leadership opportunities provided aim to develop and hone the leadership qualities in our students and provide the avenue for them to leave a positive impact in others, as they serve the school and the community.
 
 <figure>
-<img src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%203/DSC_1141.jpg"style="width:85%">
+<img src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%203/DSC_1141.jpg" style="width:85%">
 <figcaption> <strong> Mr Zul posing with the students leaders involved in the Secondary One Orientation Camp (SOOC)</strong> </figcaption>
 </figure>
 
