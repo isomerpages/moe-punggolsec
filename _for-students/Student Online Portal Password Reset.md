@@ -10,7 +10,7 @@ description: ""
 Please [click here](https://form.gov.sg/5e659fdb6bbaaf0011251cc9) or scan the QR code below if you would like to reset your password for the following:
 
 <img src="/images/Useful%20Links/For%20Students/download.png"  
-     style="width:25%">
+     style="width:15%">
 
 \-IAMS/ School Wi-Fi password
 
