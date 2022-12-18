@@ -3,7 +3,6 @@ title: Craft & Technology
 permalink: /the-pss-learning-experience/academic-subjects/craft-n-technology/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Craft & Technology
@@ -73,8 +72,12 @@ Design and Technology Unit imparts various skills such as investigative and appl
 *   ITE Toy Design Competition (2017)
 
 
-![](/images/Academic%20Subjects/Craft%20&%20Technology/Teacher%20instructing%20students%20during%20electronic%20project.jpg)
-A teacher instructing students during a lesson on soldering
+
+<figure>
+<img src="/images/Academic%20Subjects/Craft%20&%20Technology/Teacher%20instructing%20students%20during%20electronic%20project.jpg">
+<figcaption> <strong>A teacher instructing students during a lesson on soldering
+</strong> </figcaption>
+</figure>
 
 
 ### Nutrition and Food Science (NFS) Unit
@@ -104,9 +107,12 @@ The NFS unit advocates a hands-on approach in the weekly lessons that are incorp
 *   F&N Coursework
 *   Craft & Technology Week
 
-![](/images/Academic%20Subjects/Craft%20&%20Technology/Teacher%20supervising%20students%20cooking.jpg)
-A teacher supervising students cooking during lessons
 
+<figure>
+<img src="/images/Academic%20Subjects/Craft%20&%20Technology/Teacher%20supervising%20students%20cooking.jpg">
+<figcaption> <strong>A teacher supervising students cooking during lessons
+</strong> </figcaption>
+</figure>
 
 ### Art Unit
 
@@ -147,5 +153,10 @@ The Art Department believes in stretching pupils' imagination and creativity by 
 
 *   Preparation for ‘N’ and ‘O’ Level Coursework
 
-![](/images/Academic%20Subjects/Craft%20&%20Technology/A%20student%20designing%20a%20poster%20during%20lesson.jpg)
-A student designing a poster during lessons
+
+
+<figure>
+<img src="/images/Academic%20Subjects/Craft%20&%20Technology/A%20student%20designing%20a%20poster%20during%20lesson.jpg">
+<figcaption> <strong>A student designing a poster during lessons
+</strong> </figcaption>
+</figure>
