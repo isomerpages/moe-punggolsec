@@ -36,7 +36,8 @@ This 2-weeks long programme aims to create an immersive environment for the lear
 
 <figure>
 <img src="/images/Academic%20Subjects/Mother%20Tongue%20Languages/Tamil%20Poems%20and%20Song%20Appereciation_MTL%20Fortnight.jpeg">
-<figcaption> <strong> Students participating in an MTL Fortnight activity, where they learn to appreciate Tamil Poems and Song Appreciation</strong> </figcaption</figure>
+<figcaption> <strong> Students participating in an MTL Fortnight activity, where they learn to appreciate Tamil Poems and Song Appreciation</strong> </figcaption>
+</figure>
 
 
 <br>	
