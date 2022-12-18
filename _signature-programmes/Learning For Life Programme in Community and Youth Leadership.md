@@ -31,12 +31,12 @@ Given enough opportunities to acquire leadership skills and serve the needs of o
 In the final year of education in PSS where they face the challenges of national examinations, the graduating students will then extend the projects they worked on in the previous year to further advocate for social issues faced by the beneficiaries. Students conduct research into topics of interest before sharing their findings with their juniors.
 
 <figure>
-<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP2.jpg" style="width:55%">
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP2.jpg" style="width:45%">
 <figcaption> <strong> Sewing face masks for care pack </strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP1.jpg"style="width:55%">
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP1.jpg"style="width:45%">
 <figcaption> <strong> Hand sewn face masks by Punggolites</strong> </figcaption>
 </figure>
 
@@ -46,6 +46,6 @@ In the final year of education in PSS where they face the challenges of national
 </figure>
 
 <figure>
-<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP4.jpg"style="width:55%">
+<img src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/LLP4.jpg"style="width:45%">
 <figcaption> <strong>Students bring cheer to the elderly during Chinese New Year celebration</strong> </figcaption>
 </figure>
