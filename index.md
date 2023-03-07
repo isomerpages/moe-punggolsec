@@ -13,10 +13,4 @@ sections:
           description: ""
           url: /announcements/
       url: /announcements/
-  - infopic:
-      title: 2022 E-Open House
-      button: Click Here
-      url: /2022-e-open-house
-      image: /images/MOTD.jpg
-      alt: Image alt text
 ---
