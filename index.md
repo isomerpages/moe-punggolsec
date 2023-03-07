@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Punggol Sec Homepage.gif
+      background: /images/PSS website dividers.gif
       key_highlights:
         - title: Announcements
           description: ""
