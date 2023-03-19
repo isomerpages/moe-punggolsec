@@ -22,7 +22,3 @@ Please click the above link for more information.
 
 --------------------------
 
-
-**[2022 e-Open House](https://staging.d3louf41pupxe5.amplifyapp.com/2022-e-open-house/)**
-
-Click the above link to know more about the PSS Experience!
