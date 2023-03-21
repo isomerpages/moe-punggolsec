@@ -12,5 +12,5 @@ sections:
           description: ""
           url: /announcements/
       url: /announcements/
-      background: /images/PSS website dividers (1).gif
+      background: /images/PSS website dividers.png
 ---
