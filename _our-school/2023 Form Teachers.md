@@ -111,15 +111,15 @@ description: ""
 **Secondary 2**
 
 <table>
-  <thead>
-    <tr>
-      <th>Class</th>
-      <th>Form Teacher</th>
-      <th>Email address</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teacher</th>
+    <th>Email address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
       <td rowspan="2">2A</td>
       <td>Mdm Yogeswari Balasubramanian</td>
       <td><a href="mailto:yogeswari_ponnambalam@schools.gov.sg">yogeswari_ponnambalam@schools.gov.sg</a></td>
@@ -214,9 +214,9 @@ description: ""
   </tr>
 </tbody>
 </table>
-   
 
 **Secondary 3**
+
 <table>
 <thead>
   <tr>
@@ -323,6 +323,7 @@ description: ""
 </table>
 
 **Secondary 4/5**
+
 <table>
 <thead>
   <tr>
