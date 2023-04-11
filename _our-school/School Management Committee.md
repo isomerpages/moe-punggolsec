@@ -203,6 +203,11 @@ description: ""
     <td><a href="http://lee_kim_whye_kelvin@schools.gov.sg%20/">lee_kim_whye_kelvin@schools.gov.sg</a></td>
   </tr>
   <tr>
+    <td>ST Character &amp; Citizenship Education</td>
+    <td>Mr Quek Jee Wei</td>
+    <td><a href="mailto:quek_jee_wei@schools.gov.sg">quek_jee_wei@schools.gov.sg</a></td>
+  </tr>
+  <tr>
     <td>ST Chemistry </td>
     <td>Mr Low Tuck Chuen Stephen</td>
     <td><a href="mailto:low_tuck_chuen_stephen@schools.gov.sg">low_tuck_chuen_stephen@schools.gov.sg</a></td>
@@ -218,9 +223,9 @@ description: ""
     <td><a href="mailto:anju_babu@schools.gov.sg">anju_babu@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>ST Geography</td>
-    <td>Mr Quek Jee Wei</td>
-    <td><a href="mailto:quek_jee_wei@schools.gov.sg">quek_jee_wei@schools.gov.sg</a></td>
+    <td>ST History</td>
+    <td>Mr Foo Yong Shiong</td>
+    <td><a href="mailto:foo_yong_shiong@schools.gov.sg">foo_yong_shiong@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>ST Mathematics </td>
