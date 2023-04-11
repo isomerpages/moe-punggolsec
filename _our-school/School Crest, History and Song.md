@@ -10,9 +10,9 @@ description: ""
 
 ### School Crest
 
-<img src="/images/Our%20School/School%20Crest.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/Our%20School/School%20Crest.png" style="width:20%;margin-right:15px;" align="left">
 
-The torch symbolises a beacon of truth and wisdom as students constantly seek to increase their knowledge and capacity for learning.  
+The torch symbolises a beacon of truth and wisdom as students constantly seek to increase their knowledge and capacity for learning.
 
   
 
@@ -38,18 +38,21 @@ The colour turquoise indicates the proximity of the sea at Punggol and the limit
 
 The turquoise ring represents the well-balanced, value-added education provided at Punggol Secondary School.
 
+
 ### School History
 
 
-In 1956, a group of prominent female educationalists in Singapore, which included the late Mdm Wang Yu Chong, discovered a lack of vocational training courses in Singapore, especially for young girls of schooling age. Together with Mdm Ang Pek Hoon and a group of Chinese education enthusiasts, they established the Singapore Girls' Vocational High School to educate and prepare girls for the workforce. 
+**
+
+In 1956, a group of prominent female educationalists in Singapore, which included the late Mdm Wang Yu Chong, discovered a lack of vocational training courses in Singapore, especially for young girls of schooling age. Together with Mdm Ang Pek Hoon and a group of Chinese education enthusiasts, they established the Singapore Girls' Vocational High School to educate and prepare girls for the workforce.&nbsp;
 
   
 
-The school was named Singapore Girls' Vocational High School because back then, there was no Chinese medium vocational school. The aim of the of the school was to provide opportunities for female teenagers to study mainstream subjects and attend  vocational training courses such as Book keeping, Home Economics and English and Chinese Typewriting. It was one of the first few schools which provided vocational training courses. 
+The school was named Singapore Girls' Vocational High School because back then, there was no Chinese medium vocational school. The aim of the of the school was to provide opportunities for female teenagers to study mainstream subjects and attend&nbsp; vocational training courses such as Book keeping, Home Economics and English and Chinese Typewriting. It was one of the first few schools which provided vocational training courses.&nbsp;
 
   
 
-The school was established on 8 May 1957 using houses at 45 - 47 Oxley Road as our campus. The school was led by Mdm Wang Yu Chong as the principal, together with four other teachers and a staff member. 
+The school was established on 8 May 1957 using houses at 45 - 47 Oxley Road as our campus. The school was led by Mdm Wang Yu Chong as the principal, together with four other teachers and a staff member.&nbsp;
 
   
 
@@ -88,15 +91,27 @@ Since the inception of the school, Punggol Secondary School continues its missio
 In chronological order, these are the Principals who have headed the school:
 
 *   Mdm Wang Yu Chong - 1957 – 1969
+    
 *   Mr Ling Ling - 1970 – 1978
+    
 *   Mr Lim Chin Chee - 1979 – 1983
+    
 *   Mr Wong Tong Hoi - 1984 – 1990
+    
 *   Miss Chee Mei Chun - 1991 – 1996
+    
 *   Mr Ow Chiong Hoo - 1997 – 2000
+    
 *   Mr Goh Soon Guan - 2001 – 2004
+    
 *   Mdm Lee Eet Fong - 2005 – 2011
+    
 *   Mr Benedict Keh - 2012 – 2018
-*   Mrs Angeline Huang - 2019 – present
+    
+*   Mrs Angeline Huang - 2019 – 2022
+    
+*   Ms Valerie Tng - 2023 - present
+    
 
   
 
