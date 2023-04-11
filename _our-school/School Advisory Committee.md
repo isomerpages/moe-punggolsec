@@ -18,22 +18,22 @@ description: ""
 <tbody>
   <tr>
     <td>1<br></td>
-    <td>Mr Loo Kin Ben<br></td>
+    <td>Mr Chia Ngiang Hong<br></td>
     <td>Chairman<br></td>
   </tr>
   <tr>
     <td>2<br></td>
-    <td>Mr Chia Ngiang Hong<br></td>
+    <td>Mr Chong Sin Kiong (PBM) <br></td>
     <td>Member<br></td>
   </tr>
   <tr>
     <td>3<br></td>
-    <td>Mr Chew Lye Heng Stephen<br></td>
+    <td>Mr Heng Jian Wei<br></td>
     <td>Member <br></td>
   </tr>
   <tr>
     <td>4<br></td>
-    <td>Mr Tham Chew Thor<br></td>
+    <td>Mr Seow Yu Chang <br></td>
     <td>Member<br></td>
   </tr>
   <tr>
