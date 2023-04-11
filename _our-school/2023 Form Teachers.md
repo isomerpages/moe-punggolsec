@@ -388,7 +388,7 @@ description: ""
     <td><a href="mailto:tan_shu_yi@schools.gov.sg">tan_shu_yi@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Mr Lee Keang Pheng (Sebastian)</td>
+    <td>Mr Sebastian Lee Keang Pheng </td>
     <td><a href="mailto:lee_keang_pheng@schools.gov.sg">lee_keang_pheng@schools.gov.sg</a></td>
   </tr>
   <tr>
@@ -396,13 +396,10 @@ description: ""
     <td><a href="mailto:su_fook_kwee_stephen@schools.gov.sg">su_fook_kwee_stephen@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2">5N1</td>
-    <td>Mr Low Tuck Chuen Stephen</td>
-    <td><a href="mailto:low_tuck_chuen_stephen@schools.gov.sg">low_tuck_chuen_stephen@schools.gov.sg</a></td>
+    <td rowspan="1">5N1</td>
+    <td>Ms Leow Min Yu</td>
+    <td><a href="mailto:leow_min_yu@schools.gov.sg">leow_min_yu@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>Ms Junaidah Rahman</td>
-    <td><a href="mailto:junaidah_rahman@schools.gov.sg">junaidah_rahman@schools.gov.sg</a></td>
-  </tr>
+  
 </tbody>
 </table>
