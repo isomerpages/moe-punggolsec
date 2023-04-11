@@ -7,9 +7,7 @@ description: ""
 
 ## Principal's Message
 
-<img src="/images/Our%20School/MRS%20ANGELINE%20HUANG.jpg" style="width:30%;margin-right:15px;" align="left">
-
-
+<img src="/images/ms%20tngs%20pic-%20school%20website.jpg" style="width:50%;margin-right:15px;" align="left">
 Dear Parents and Punggolites,
 
 Punggol Secondary School has come a long way since its humble beginnings in 1956 where it started off as Singapore Girls' Vocational High School. Throughout the years as the school underwent name changes first to Pei Dao Secondary School and subsequently Punggol Secondary School, the school has never wavered in its quest to empower students and develop their character.
