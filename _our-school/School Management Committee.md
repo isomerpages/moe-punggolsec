@@ -21,7 +21,7 @@ description: ""
 <tbody>
   <tr>
     <td> Principal</td>
-    <td>Mrs Angeline Huang </td>
+    <td>Ms Tng Ya Wen Valerie </td>
     <td><a href="mailto:punggol_ss@moe.edu.sg">punggol_ss@moe.edu.sg</a> </td>
   </tr>
   <tr>
@@ -85,52 +85,59 @@ description: ""
     <td><a href="mailto:tay_seow_heong@schools.gov.sg">tay_seow_heong@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>HOD Student Management<br>Year Head 1</td>
+    <td>HOD Student Management<br>Year Head 2</td>
     <td>Mr Zulkefli Abdol Shukor </td>
     <td><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg">zulkefli_b_abd_shukor@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Year Head 2</td>
-    <td>Mr Mohd Shahrom Mohd Taha </td>
-    <td><a href="mailto:mohamed_shahrom_mohd_taha@schools.gov.sg">mohamed_shahrom_mohd_taha@schools.gov.sg</a></td>
+    <td>Year Head 1</td>
+    <td>Mr Ong Kai Wei </td>
+    <td><a href="mailto:ong_kai_wei@schools.gov.sg">ong_kai_wei@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Year Head 3<br>SH Student Leadership<br><br></td>
-    <td>Ms Srividya Vijayakumar </td>
-    <td><a href="mailto:srividya_vijayakumar@schools.gov.sg">srividya_vijayakumar@schools.gov.sg</a> </td>
+    <td>Year Head 3<br><br></td>
+    <td>Mr Mohd Shahrom Mohd Taha</td>
+    <td><a href="mailto:mohamed_shahrom_mohd_taha@schools.gov.sg">mohamed_shahrom_mohd_taha@schools.gov.sg</a> </td>
   </tr>
   <tr>
     <td>Year Head 4</td>
-    <td>Mr Ong Kai Wei</td>
-    <td><a href="mailto:ong_kai_wei@schools.gov.sg">ong_kai_wei@schools.gov.sg</a>  </td>
+    <td>Ms Srividya Vijayakumar</td>
+    <td><a href="mailto:srividya_vijayakumar@schools.gov.sg">srividya_vijayakumar@schools.gov.sg</a>  </td>
   </tr>
   <tr>
-    <td>SH English Language<br>Assistant Year Head 1</td>
+    <td>Assistant Year Head 1<br>SH Humanities</td>
+    <td>Ms Lui Yi Lin Elaine</td>
+    <td><a href="mailto:lui_yi_lin_elaine@schools.gov.sg">lui_yi_lin_elaine@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Assistant Year Head 2 <br>SH English Language</td>
     <td>Mrs Wong Sijin</td>
     <td><a href="mailto:lin_sijin@schools.gov.sg">lin_sijin@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>SH Student Well-being <br>Assistant Year Head 2</td>
+    <td>Assistant Year Head 3<br>SH Student Well-being</td>
     <td>Mr Tan Jun Ho (Dexter)</td>
     <td><a href="mailto:tan_jun_ho@schools.gov.sg">tan_jun_ho@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>SH Mother Tongue Language<br>Assistant Year Head 3</td>
+    <td>Assistant Year Head 4<br>SH Mother Tongue Language</td>
     <td>Mr Wardi Endra</td>
     <td><a href="mailto:wardi_endra@schools.gov.sg">wardi_endra@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>SH Humanities<br>Assistant Year Head 4</td>
-    <td>Ms Lui Yi Lin Elaine</td>
-    <td><a href="mailto:lui_yi_lin_elaine@schools.gov.sg">lui_yi_lin_elaine@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>SH Aesthetics</td>
     <td>Mr Royce Teo Jian Xing</td>
     <td><a href="mailto:royce_teo_jian_xing@schools.gov.sg">royce_teo_jian_xing@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>SH Craft &amp; Technology (C&amp;T) </td>
+	  <tr><td> SH Character &amp; Citizenship Education </td>
+    <td> Ms Sindhya  D/O Kunasegaran</td>
+    <td><a href="mailto:sindhya_varthini_kunasegaran@schools.gov.sg">sindhya_varthini_kunasegaran@schools.gov.sg</a></td>
+  </tr><tr>
+ <td>SH Community &amp; Youth Leadership</td>
+    <td>Ms Eunice Low   </td>
+    <td><a href="mailto:eunice_low@schools.gov.sg">eunice_low@schools.gov.sg</a></td>
+  </tr>	
+    <tr><td>SH Craft &amp; Technology (C&amp;T) </td>
     <td>Mr Ong Pang Soon  </td>
     <td><a href="mailto:ong_pang_soon@schools.gov.sg">ong_pang_soon@schools.gov.sg</a> </td>
   </tr>
@@ -149,15 +156,22 @@ description: ""
     <td>Mr Tay Teck Seng   </td>
     <td><a href="mailto:tay_teck_seng@schools.gov.sg">tay_teck_seng@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td> SH Mother Tongue Language </td>
+  <tr><td>SH Mathematics</td>
+    <td>Ms Eunice Ong  </td>
+    <td><a href="mailto:eunice_ong@schools.gov.sg">eunice_ong@schools.gov.sg</a></td>
+  </tr>
+    <tr><td> SH Mother Tongue Language </td>
     <td> Mr Eng Siang Yong</td>
     <td><a href="mailto:siang_yong_eng@schools.gov.sg">siang_yong_eng@schools.gov.sg</a> </td>
+  </tr>
+    <tr><td> SH Science </td>
+    <td> Mr Lim Zhenghong</td>
+    <td><a href="mailto:lim_zhenghong@schools.gov.sg">lim_zhenghong@schools.gov.sg</a> </td>
   </tr>
 </tbody>
 </table>
 
-### Master, Lead & Senior Teachers
+### Master, Lead &amp; Senior Teachers
 
 <table>
 <thead>
