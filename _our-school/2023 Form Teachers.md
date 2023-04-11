@@ -217,18 +217,122 @@ description: ""
    
 
 **Secondary 3**
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teacher</th>
+    <th>Email address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+<td rowspan="2">3A</td>
+    <td>Mr Teo Chin Ann</td>
+    <td><a href="mailto:teo_chin_ann@schools.gov.sg">teo_chin_ann@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mdm Anju Babu</td>
+    <td><a href="mailto:anju_babu@schools.gov.sg">anju_babu@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">3B</td>
+    <td>Ms Ng Fulia</td>
+    <td><a href="mailto:ng_fulia@schools.gov.sg">ng_fulia@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td> Mr Foo Yeow Chong Gerald</td>
+    <td><a href="mailto:foo_yeow_chong_gerald@schools.gov.sg">foo_yeow_chong_gerald@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">3C</td>
+    <td>Mr Low Tuck Chuen Stephen</td>
+    <td><a href="mailto:low_tuck_chuen_stephen@schools.gov.sg">low_tuck_chuen_stephen@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms Jovena Sim</td>
+    <td><a href="mailto:jovena_sim@schools.gov.sg">jovena_sim@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>3D</td>
+    <td>Mdm Ho Wei Ling</td>
+    <td><a href="mailto:ho_wei_ling@schools.gov.sg">ho_wei_ling@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Khairul Ikhwan Ridzwan</td>
+    <td><a href="mailto:khairul_ikhwan_ridzwan@schools.gov.sg">khairul_ikhwan_ridzwan@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>3E</td>
+    <td>Mr Lim Zhenghong</td>
+    <td><a href="mailto:lim_zhenghong@schools.gov.sg">lim_zhenghong@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Ms Tan Xiao Ying</td>
+    <td><a href="mailto:tan_xiao_ying@schools.gov.sg">tan_xiao_ying@schools.gov.sg</a></td>
+  </tr>
+    <tr><td rowspan="3">3N1</td>
+    <td>Mr Daneesh Akbar Mohd Azman</td>
+    <td><a href="mailto:daneesh_akbar_mohd_azman@schools.gov.sg">daneesh_akbar_mohd_azman@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms Natasha Siow Xian Pei </td>
+    <td><a href="mailto=natasha_siow_xian_pei@schools.gov.sg">natasha_siow_xian_pei@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+		 <td>Mr Suhaimi Daud </td>
+    <td><a href="mailto=suhaimi_daud@schools.gov.sg">suhaimi_daud@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="3">3N2</td>
+    <td>Mr Ding Ming Dih </td>
+    <td><a href="mailto: ding_ming_dih@schools.gov.sg">ding_ming_dih@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+		<td>Mr Ong Pang Soon</td>
+    <td><a href="mailto:ong_pang_soon@schools.gov.sg">ong_pang_soon@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms Debbie Teo Jia Ling</td>
+    <td><a href="mailto:debbie_teo_jia_ling@schools.gov.sg">debbie_teo_jia_ling@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">3T1</td>
+    <td>Mdm Siti Zulaiha</td>
+    <td><a href="mailto:siti_zulaiha_mohamed_mohse@schools.gov.sg">siti_zulaiha_mohamed_mohse.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mdm Tng Say Ping</td>
+    <td><a href="mailto:tng_say_ping@schools.gov.sg">tng_say_ping@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+   <td rowspan="3">3T2</td>
+    <td>Mr Goh Poh Keng</td>
+    <td><a href="mailtogoh_poh_keng_james:@schools.gov.sg">goh_poh_keng_james.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms Sabrina Binte Rakib</td>
+    <td><a href="mailto:binte_rakib_sabrina@schools.gov.sg">binte_rakib_sabrina@schools.gov.sg </a></td></tr>
+  <tr>
+    <td>Mdm Masrurah Marzuki</td>
+    <td><a href="mailto:masrurah_marzuki@schools.gov.sg">masrurah_marzuki@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
 
-
-    <table>
-  <thead>
-    <tr>
-      <th>Class</th>
-      <th>Form Teacher</th>
-      <th>Email address</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+**Secondary 4/5**
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teacher</th>
+    <th>Email address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
 <td rowspan="2">3A</td>
     <td>Mr Teo Chin Ann</td>
     <td><a href="mailto:teo_chin_ann@schools.gov.sg">teo_chin_ann@schools.gov.sg</a></td>
@@ -293,96 +397,6 @@ description: ""
     <td><a href="mailto:thin_jie_hao_adriel@schools.gov.sg">thin_jie_hao_adriel@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="3">3T1</td>
-    <td>Ms Tan Shu Yi</td>
-    <td><a href="mailto:tan_shu_yi@schools.gov.sg">tan_shu_yi@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Lee Keang Pheng (Sebastian)</td>
-    <td><a href="mailto:lee_keang_pheng@schools.gov.sg">lee_keang_pheng@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Stephen Su</td>
-    <td><a href="mailto:su_fook_kwee_stephen@schools.gov.sg">su_fook_kwee_stephen@schools.gov.sg</a> </td>
-  </tr>
-</tbody>
-</table>
-
-**Secondary 4/5**
-<table>
-<thead>
-  <tr>
-    <th>Class</th>
-    <th>Form Teacher</th>
-    <th>Email address</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-<td rowspan="2">4A</td>
-    <td>Mr Teo Chin Ann</td>
-    <td><a href="mailto:teo_chin_ann@schools.gov.sg">teo_chin_ann@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mdm Anju Babu</td>
-    <td><a href="mailto:anju_babu@schools.gov.sg">anju_babu@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td rowspan="2">4B</td>
-    <td>Ms Ng Fulia</td>
-    <td><a href="mailto:ng_fulia@schools.gov.sg">ng_fulia@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td> Mr Foo Yeow Chong Gerald</td>
-    <td><a href="mailto:foo_yeow_chong_gerald@schools.gov.sg">foo_yeow_chong_gerald@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td rowspan="2">4C</td>
-    <td>Mr Low Tuck Chuen Stephen</td>
-    <td><a href="mailto:low_tuck_chuen_stephen@schools.gov.sg">low_tuck_chuen_stephen@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Ms Jovena Sim</td>
-    <td><a href="mailto:jovena_sim@schools.gov.sg">jovena_sim@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>4D</td>
-    <td>Mdm Ho Wei Ling</td>
-    <td><a href="mailto:ho_wei_ling@schools.gov.sg">ho_wei_ling@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Mr Khairul Ikhwan Ridzwan</td>
-    <td><a href="mailto:khairul_ikhwan_ridzwan@schools.gov.sg">khairul_ikhwan_ridzwan@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>4E</td>
-    <td>Mr Lim Zhenghong</td>
-    <td><a href="mailto:lim_zhenghong@schools.gov.sg">lim_zhenghong@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Ms Tan Xiao Ying</td>
-    <td><a href="mailto:tan_xiao_ying@schools.gov.sg">tan_xiao_ying@schools.gov.sg</a></td>
-  </tr>
-    <tr><td rowspan="2">4N1</td>
-    <td>Mr Tan Boon Kah, Alex</td>
-    <td><a href="mailto:alex_tan_boon_kah@schools.gov.sg">alex_tan_boon_kah@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Chen Xinghui</td>
-    <td><a href="mailto:chen_xinghui@schools.gov.sg">chen_xinghui@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td rowspan="2">4N2</td>
-    <td>Mdm Sithravelu Sathiyakala</td>
-    <td><a href="mailto:sithravelu_sathiyakala@schools.gov.sg">sithravelu_sathiyakala@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Adriel Thin Jie Hao</td>
-    <td><a href="mailto:thin_jie_hao_adriel@schools.gov.sg">thin_jie_hao_adriel@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td rowspan="3">4T1</td>
     <td>Ms Tan Shu Yi</td>
     <td><a href="mailto:tan_shu_yi@schools.gov.sg">tan_shu_yi@schools.gov.sg</a></td>
@@ -400,6 +414,5 @@ description: ""
     <td>Ms Leow Min Yu</td>
     <td><a href="mailto:leow_min_yu@schools.gov.sg">leow_min_yu@schools.gov.sg</a></td>
   </tr>
-  
 </tbody>
 </table>
