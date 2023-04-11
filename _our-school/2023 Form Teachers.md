@@ -104,8 +104,7 @@ description: ""
   </tr>
   <tr>
     <td>Ms Moo Sheau Yuan </td><td><a href="mailto:moo_sheau_yuan@schools.gov.sg">moo_sheau_yuan@schools.gov.sg</a></td>
-  </tr>
-</tbody>
+</tr></tbody>
 </table>
 
 **Secondary 2**
@@ -211,23 +210,19 @@ description: ""
       <td></td>
       <td>Mr Foo Yong Shiong</td>
       <td><a href="mailto:foo_yong_shiong@schools.gov.sg">foo_yong_shiong@schools.gov.sg</a></td>
-  </tr>
-</tbody>
+</tr></tbody>
 </table>
 
 **Secondary 3**
 
 <table>
 <thead>
-  <tr>
-    <th>Class</th>
+    <tr><th>Class</th>
     <th>Form Teacher</th>
     <th>Email address</th>
-  </tr>
-</thead>
+</tr></thead>
 <tbody>
-  <tr>
-<td rowspan="2">3A</td>
+<tr><td rowspan="2">3A</td>
     <td>Mr Teo Chin Ann</td>
     <td><a href="mailto:teo_chin_ann@schools.gov.sg">teo_chin_ann@schools.gov.sg</a></td>
   </tr>
@@ -318,8 +313,7 @@ description: ""
   <tr>
     <td>Mdm Masrurah Marzuki</td>
     <td><a href="mailto:masrurah_marzuki@schools.gov.sg">masrurah_marzuki@schools.gov.sg</a></td>
-  </tr>
-</tbody>
+</tr></tbody>
 </table>
 
 **Secondary 4/5**
