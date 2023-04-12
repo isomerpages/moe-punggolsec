@@ -44,6 +44,3 @@ At Punggol Secondary School, students are given the opportunity to take part in 
 </figure>
 
 Our students also participate in the National Schools Literature Festival (NSLF) debates and discussions to showcase their literary analytical skills and persuasive techniques to convince the audience of their stand. This opportunity also allows them to deepen their understanding of literary texts by exchanging ideas with students from other schools.
-
-
-
