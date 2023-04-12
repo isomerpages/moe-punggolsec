@@ -7,7 +7,7 @@ description: ""
 
 ## Physical Education Programme
 
-The Physical Education (PE) Department believes in providing opportunities to develop every Punggolite to acquire the skills and knowledge to build their confidence, character and values, allowing them to be a lifelong active and healthy individual with sound moral and social character, motivated to personal excellence.
+The Physical Education (PE) Department believes in providing opportunities to develop every Punggolite to acquire the skills and knowledge to build their confidence, character and values, allowing them to be a lifelong active and healthy individuals with sound moral and social character, motivated to personal excellence.
 
   
 
