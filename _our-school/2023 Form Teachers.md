@@ -197,17 +197,15 @@ description: ""
       <td>Mr Ng Choon Cheng</td>
       <td><a href="mailto:ng_choon_cheng@schools.gov.sg">ng_choon_cheng@schools.gov.sg</a></td>
   </tr><tr>
-<td>2T1</td>
+<td rowspan="3">2T1</td>
       <td>Ms Julaiha Haron</td>
       <td><a href="mailto:julaiha_haron@schools.gov.sg">julaiha_haron@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td></td>
       <td>Ms Shian Pui Kuen</td>
       <td><a href="mailto:shian_pui_kuen@schools.gov.sg">shian_pui_kuen@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td></td>
       <td>Mr Foo Yong Shiong</td>
       <td><a href="mailto:foo_yong_shiong@schools.gov.sg">foo_yong_shiong@schools.gov.sg</a></td>
 </tr></tbody>
@@ -308,7 +306,7 @@ description: ""
     <td>Mr Goh Poh Keng</td>
     <td><a href="mailtogoh_poh_keng_james:@schools.gov.sg">goh_poh_keng_james.gov.sg</a></td>
   </tr>
-  <tr>
+	<tr>
     <td>Ms Sabrina Binte Rakib</td>
     <td><a href="mailto:binte_rakib_sabrina@schools.gov.sg">binte_rakib_sabrina@schools.gov.sg </a></td></tr>
   <tr>
