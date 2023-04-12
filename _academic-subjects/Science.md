@@ -19,7 +19,7 @@ We have an in-house Science Enrichment Programme to ignite in our students the p
 
   
 
-We also prepare students for relevant competitions so that they are able to develop their 21st century world skills such as presentation and public speaking. In the midst of preparing for the competitions, students are also engaged in scientific research and report writing.
+We also prepare students for relevant competitions so that they are able to develop their 21st&nbsp;century world skills such as presentation and public speaking. In the midst of preparing for the competitions, students are also engaged in scientific research and report writing.
 
 ### <center>Achievements</center>
 
@@ -95,7 +95,7 @@ Through the entire competition, our students established excellent research and 
 
   
 
-Secondary 3T1 students took part in the annual IgnITE Skills Challenge at ITE Central in 2019. The IgnITE Skills Challenge is a national-level skills competition organised by the ITE, Singapore with the aim to excite secondary school students about the value of vocational and skills education.
+Secondary 3T1 students took part in the annual IgnITE Skills Challenge at ITE Central in 2019. The IgnITE Skills Challenge is a national-level skills competition organised by the ITE,&nbsp;Singapore with the aim to excite secondary school students about the value of vocational and skills education.
 
   
 
@@ -137,7 +137,7 @@ Two teams made it to the finals and one team clinched the third place in the Fly
 **_2019 1st SEAMEO RECSAM Science Olympiad_**
 
 
-Punggol Secondary School participated in the 1st Southeast Asian Ministers of Education Organisation’s Regional Centre for Education in Science and Mathematics (SEAMEO RECSAM) Science Olympiad in Penang from 4 to 8 March 2019.
+Punggol Secondary School participated in the 1st&nbsp;Southeast Asian Ministers of Education Organisation’s Regional Centre for Education in Science and Mathematics (SEAMEO RECSAM) Science Olympiad in Penang from 4 to 8 March 2019.
 
   
 
@@ -174,7 +174,7 @@ The Singapore Junior Physics Olympiad (SJPO) is a Physics competition organised 
 
   
 
-This year, nine students from Sec 4A & 4E, and five students from Sec 3D, participated and nine of them received honourable mention.
+This year, nine students from Sec 4A &amp; 4E, and five students from Sec 3D, participated and nine of them received honourable mention.
 
 <table>
 <thead>
