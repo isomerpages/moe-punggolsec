@@ -12,9 +12,9 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th>Class</th>
-    <th>Form Teacher</th>
-    <th>Email address</th>
+    <th style="width: 8%">Class</th>
+    <th style="width: 50%">Form Teacher</th>
+    <th style="width: 42%">Email address</th>
   </tr>
 </thead>
 <tbody>
@@ -112,9 +112,9 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th>Class</th>
-    <th>Form Teacher</th>
-    <th>Email address</th>
+    <th style="width: 8%">Class</th>
+    <th style="width: 50%">Form Teacher</th>
+    <th style="width: 42%">Email address</th>
   </tr>
 </thead>
 <tbody>
@@ -217,9 +217,10 @@ description: ""
 
 <table>
 <thead>
-    <tr><th>Class</th>
-    <th>Form Teacher</th>
-    <th>Email address</th>
+    <tr>
+    <th style="width: 8%">Class</th>
+    <th style="width: 50%">Form Teacher</th>
+    <th style="width: 42%">Email address</th>
 </tr></thead>
 <tbody>
 <tr><td rowspan="2">3A</td>
@@ -321,9 +322,9 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th>Class</th>
-    <th>Form Teacher</th>
-    <th>Email address</th>
+    <th style="width: 8%">Class</th>
+    <th style="width: 50%">Form Teacher</th>
+    <th style="width: 42%">Email address</th>
   </tr>
 </thead>
 <tbody>
