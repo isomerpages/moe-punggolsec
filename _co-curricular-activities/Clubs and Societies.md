@@ -68,4 +68,5 @@ For Clubs & Societies, the CCAs offered are:
 \- District Awards 2020/2021 Interact Club Project Merit Award (TGIF Interact Morning Radio Show)
 
 **Art Club**:
+
 \- Singapore Youth Festival 2022 (Certificate of Recognition)
