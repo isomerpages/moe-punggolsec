@@ -7,9 +7,6 @@ description: ""
 
 ## Mother Tongue Languages
 
-
-
-
 The Mother Tongue Languages (MTL) Department aims to inspire and empower each student to attain adequate language proficiency in their MTL and become passionate MTL lifelong learners. In order to achieve the vision that MTL has to be a living language for students, to be applied and valued in everyday life, our teachers believe in making lessons more engaging and interactive so that students can see the purpose and relevance of their learning experiences.
   
 
@@ -82,11 +79,9 @@ To hone our students’ language competencies, we encourage them to participate 
 
 
 ![](https://lh4.googleusercontent.com/6X7VVNZQES-aNbjiFi54_qOHnpOIdX8jbU2uF6PxeZQyPKe3q1P_P_4cH6e-EOF9EZ2VoAo6rvWICLkdU-lM904gWBCYQ6NZrzCVIEzDmJTdOzqzpPVDrIgsl9G4A64TDuZOenGCNkyhwu-3hqEiODAa9o6ihvxkLM0_DZtZXDlMPT16xhNyqKiBPzJgTg)
-
 ***Winners of 2021 National Chinese Text Recital Competition***
 
   
 
 ![](https://lh4.googleusercontent.com/wApQk_gcqeSnNpsGi_ADj9MzCkFXs903HrHqDSjUi6bM6Yjbe7WfClikkQxJFY7pdxT7FUPxbkWSFQbmUz-de8TqJEyHUfSFVvYtDGvYjGboMsTG9aBbhhkx4ZU2RNlnKxbUd7FLwUbInB1-r5wR8C2KQO6f4Pt9DCsF4y_JvRZWoZlE1l-1f7eCz5F3Vw)
-
 ***Winners of 2022 National Chinese Text Recital Competition***
