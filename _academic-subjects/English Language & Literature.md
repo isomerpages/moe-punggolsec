@@ -26,6 +26,8 @@ In conjunction with Valentine’s Day, the Media Resource Library Committee orga
 
 The Media Resource Library Committee collaborates with other departments to encourage students to pursue their hobbies through reading. The Craft and Technology Department collaborated on the ‘Bake-A-Cupcake-Day’ activity. Student participants had to look through recipes from the library and bake cupcakes of their choice. This activity encouraged students to read more books and develop a new love for baking!
 
+
+
 <figure>
 <img src="/images/Academic%20Subjects/English%20Language%20&amp;%20Literature/Student%20queueing%20up%20to%20borrow%20books%20in%20Blind%20Date%20With%20A%20Book%20activity.jpg">
 <figcaption> <strong> Students borrowing books during 'Blind Date With A Book' activity </strong> </figcaption>
