@@ -11,15 +11,13 @@ description: ""
 _“The Humanities are the stories, the ideas, and the words that help us make sense of our lives and our world. The Humanities help us address the challenges we face together in our families, in our communities and as a nation” – Lyn Maxwell White_
 
   
-
 The Humanities Department provides various opportunities for students to make meaningful connections between what they learn in the classrooms and the world around them. In our technologically advanced world today, the Humanities education has become even more important to prepare our students for more complex and broader challenges of the future.
 
-  
+
+ 
 
 ### Real-Life Application of History and Geography Skills
 
-
-  
 
 Often, the study of History and Geography is a passive experience. This is not the case when students embark on field trips to put their History and Geography skills in action to connect with what they are learning in the classroom. For example, in History lessons Secondary One students get a better understanding of our local history through their Learning Journeys to various ethnic Heritage Centres and the National Museum to study the primary source materials. Upper Secondary students, on the other hand, learn part of modern world history through an interesting board game while putting their history knowledge and critical thinking to the test.
 
@@ -62,3 +60,15 @@ The Internal Security Department (ISD) exhibition showed the turbulent security 
 </figure>
 
 The Humanities department also builds the confidence of our students by exposing them to competitions. For example, a team of Geography students fabricated a model of an earthquake-resistant building that won the Merit Prize. This helped students to assess the effectiveness of strategies in mitigating and responding to the effects of earthquakes.
+
+
+
+***External Competitions &amp; Events***
+
+The department encourages students to participate in external competitions/events to further develop a wide range of skills such as critical thinking, teamwork, time management and communication. Some of these competitions/ events include:
+
+
+* Geography Challenge by NUS
+* Historical Scene Investigations Challenge by NLB
+* Model United Nations Conference
+* National Budget Quiz
