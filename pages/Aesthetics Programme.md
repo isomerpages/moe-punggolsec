@@ -57,6 +57,7 @@ As part of Punggol Secondary School’s emphasis on holistic development and nur
 Music education in Punggol Secondary School is guided by the belief that music, as part of aesthetics appreciation, is an important element of students’ lives. We believe that every student can be creative and is able to exercise their musical ideas in a safe and inspiring environment during their time in the school. The students learn about various music genres and take up skills like playing the guitar and percussion where they will work with classmates to form bands, to create and perform cover songs and originals.
 
 
+
 <figure>
 <img src="/images/Aesthetic%20Programme/Students%20learn%20play%20guitar%20and%20compose%20music.jpg">
 <figcaption> <strong>Students learn to play the guitar and compose music during music lessons.</strong> </figcaption>
