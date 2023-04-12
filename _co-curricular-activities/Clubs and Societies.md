@@ -3,7 +3,6 @@ title: Clubs and Societies
 permalink: /the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Clubs and Societies
@@ -24,25 +23,35 @@ For Clubs & Societies, the CCAs offered are:
 
   
 
-**CCA Achievement**
+**CCA Achievements**
 
-·         English Literacy Drama Debate Society
+ **English Literacy Drama Debate Society**
 
 \- Singapore Youth Festival 2019 and 2021 (Accomplishment)
 
 \- Singapore Secondary School Debating Championship 2021 (Third in  Division 3)
 
-  
-
-·         Environmental Club: Sustained Vanda Miss Joaquim Award for the School Green Awards 2021
+\- Singapore Secondary School Debating Championship 2022 (Quarter Finalist  - Division III)
 
   
 
-·         Indian Literacy Drama Debate Society: Singapore Youth Festival 2019 and 2021 (Distinction)
+**Environmental Club**: 
+
+\- Sustained Vanda Miss Joaquim Award for the School Green Awards 2022 and 2021
 
   
 
-·         Interact Club:
+**Indian Literacy Drama Debate Society**: 
+
+\-Singapore Youth Festival 2019 and 2021 (Distinction)
+
+\- Navarasam Competition in 2021 (First Postion)
+
+\- Performance for the Istana Open House (2022)
+
+  
+
+**Interact Club**:
 
 \- Rotary Citation 2022
 
@@ -57,3 +66,6 @@ For Clubs & Societies, the CCAs offered are:
 \- District Awards 2020/2021 Interact Club Project Distinction Award (Fundraising Project for the community)
 
 \- District Awards 2020/2021 Interact Club Project Merit Award (TGIF Interact Morning Radio Show)
+
+**Art Club**:
+\- Singapore Youth Festival 2022 (Certificate of Recognition)
