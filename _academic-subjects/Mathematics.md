@@ -19,9 +19,7 @@ The Mathematics Department is committed to develop in our students a positive at
 
 **_Secondary One Mathematics Games Day_**
 
-  
-
-The Mathematics Games Day inculcates the joy of learning in Mathematics and is organised yearly in May for all Secondary One students. While playing the games at various stations, students learn a variety of mathematical concepts and applications (eg. financial literacy) as well as improve their analytical and problem-solving skills. They also learn how to work collaboratively with their peers as they navigate the various stations as a team.
+The Mathematics Games Day inculcates the joy of learning in Mathematics and is organised yearly for all Secondary One students. While playing the games at various stations, students learn a variety of mathematical concepts and applications (eg. financial literacy) as well as improve their analytical and problem-solving skills. They also learn how to work collaboratively with their peers as they navigate the various stations as a team.
 
 
 <figure>
@@ -31,11 +29,9 @@ The Mathematics Games Day inculcates the joy of learning in Mathematics and is o
 
 
 
-**_Secondary Two STEM Trail_**
+**_Secondary Three Math Trail_**
 
-  
-
-This trail has been organised in collaboration with the Science department as a post-end-of-year exam activity since 2017. The objective of this trail is to provide students with opportunities to apply mathematical concepts and hone their problem-solving skills in a real-world context.
+Math Trail is organised yearly for the Secondary Three students. As students explore math concepts and solve problems in a real-world context, they are able to see the relevance of what they are learning and how it applies to their lives. By successfully completing tasks and achieving goals, students can build confidence in their math skills and feel motivated to continue learning. Through this active and collaborative learning experience, students develop a love for math that extends beyond the classroom.
 
 
 <figure>
@@ -51,19 +47,9 @@ This trail has been organised in collaboration with the Science department as a 
 
 The Mathematics Peer Tutoring Programme provides a platform for our Secondary Two Express students who demonstrate higher abilities in Mathematics, to tutor Secondary One Express students.
 
-  
+During these sessions, the identified peer tutors will guide their juniors in completing Mathematics worksheets. This programme provides opportunities for collaborative learning. In addition, peer tutors will be more confident and be instilled in our school values of propriety, righteousness and self-respect.
 
-In the after-school weekly sessions, the identified peer tutors will guide their juniors in completing Mathematics worksheets. Through this programme, our Secondary Two Express students strengthen their communication and reasoning skills, while becoming more confident speakers and learners.
-
-  
-
-As part of this programme, we also collaborated with neighbouring primary schools:
-
-*   Edgefield Primary School (2014)
-*   Greendale Primary School (2015 to 2018)
-
-
-
+ 
 <figure>
 <img src="/images/Academic%20Subjects/Mathematics/Students%20participating%20in%20Secondary%20Two%20Peer%20Tutoring%20Programme.jpg">
 <figcaption> <strong>Students participating in Secondary Two Peer Tutoring Programme
@@ -75,7 +61,7 @@ As part of this programme, we also collaborated with neighbouring primary school
 
   
 
-Secondary 1NA students who have been identified to undergo this programme are placed under the guidance of Mathematics teachers and are provided with suitable learning materials to help strengthen their foundation in Mathematics. This provision of learning support for Mathematics will in turn help students to cope with the demands of secondary school Mathematics.
+Secondary 1NA students who have been identified to undergo this programme are placed under the guidance of Mathematics teachers and are provided with suitable learning materials to help strengthen their foundation in Mathematics. This provision of learning support for Mathematics  help students to cope with the demands of secondary school Mathematics.
 
   
 
@@ -83,7 +69,14 @@ Secondary 1NA students who have been identified to undergo this programme are pl
 
 **_Achievements:_**
 
-  
+***Singapore  Mathematical Olympiad***
+ 
+**Honourable Mention**
+
+\- Ang Ye Han (3E)
+
+\- Lorenzo Mikhail Kurt Thomas Barrameda (4C)
+
 
 **_All Secondary School Mathematics Competition for Normal Course Students (organised by Clementi Town Secondary School)_**
 
@@ -97,18 +90,17 @@ Secondary 1NA students who have been identified to undergo this programme are pl
 </thead>
 <tbody>
   <tr>
-    <td>2020<br></td>
-    <td><u>Upper Sec NA Category</u><br>Yashini Rebecca d/o Ganesan – (5th position)<br> <br><u>Upper Sec NT Category</u><br>Goh Xuan Kai Harold (2nd position)<br>Ho Zi Wei Andrea – (15th position)<br></td>
-    <td><u>Upper Sec NT Category</u><br>(1st position)<br>Goh Xuan Kai Harold<br>Ho Zi Wei Andrea<br>Lee Jiefu Rafael<br></td>
+    <td>2022<br></td>
+    <td><u>Lower Sec NA Category</u><br>Tan Kairos – (3rd position)<br> <br><u>Upper Sec NT Category</u><br>Lam Le Yao (3T1) (1st position)<br>Kang Tian Yi (3T1) (18th position)<br></td>
+    <td><u>Upper Sec NT Category</u><br>(1st position)<br>Lam Le Yao (3T1)<br>Kang Tian Yi (3T1)<br>Zhou Jun An (3T1)<br></td>
   </tr>
   <tr>
-    <td>2019<br></td>
-    <td><u>Upper Secondary NT Category</u><br>Lee Yao Wei  - (2nd position)<br></td>
-    <td><u>Upper Secondary NT Category</u><br>(4th position)<br>Edmalin Shawn<br>Mauven Nabong<br>Kenneth Koh Kai Guan<br>Lee Yao Wei<br></td>
+    <td>2021<br></td>
+    <td><u>Upper Secondary NT Category</u><br>Jerald Kong Jia Wei (3T1) (8th position)<br></td>
+    <td><u>Upper Secondary NT Category</u><br>(3rd position)<br> Jerald Kong Jia Wei (3T1)<br>Jovern Poh Jia Jun (3T1)<br>Kevan Ang Rui Sheng (3T1)</td>
   </tr>
   <tr>
-    <td>2018<br></td>
-    <td><u>Lower Secondary NA Category</u><br>Chin Jun Ken - (13th position)<br>Chong Mackenzy - (18th position)<br></td>
+  
     <td>-</td>
   </tr>
 </tbody>
