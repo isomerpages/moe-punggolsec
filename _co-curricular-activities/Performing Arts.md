@@ -3,7 +3,6 @@ title: Performing Arts
 permalink: /the-pss-learning-experience/co-curricular-activities-ccas/performing-arts/
 description: ""
 ---
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Performing Arts
@@ -22,7 +21,7 @@ For Performing Arts, the CCAs offered are:
 
 **CCA Achievements**
 
-·         Choir: 
+**Choir**: 
 
 \- Voices of Singapore Festival 2022 (Participation)
 
@@ -34,7 +33,7 @@ For Performing Arts, the CCAs offered are:
 
   
 
-·         Guzheng: 
+**Guzheng**: 
 
 \- Nanyang International Music Competition, Certificate of Silver (2021)
 
@@ -42,7 +41,7 @@ For Performing Arts, the CCAs offered are:
 
   
 
-·         Concert Band: 
+**Concert Band**: 
 
 \- Percussion Ensemble: Singapore Youth Festival 2021 (Distinction)
 
@@ -54,7 +53,7 @@ For Performing Arts, the CCAs offered are:
 
   
 
-·       Modern Dance: 
+**Modern Dance**: 
 
 \- Singapore Youth Festival 2019 and 2021 (Accomplishment)
 
