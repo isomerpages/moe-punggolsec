@@ -9,8 +9,6 @@ description: ""
 
 **THE TEAM &amp; WHAT WE DO**
 
-  
-
 *   **School Counsellors**
     *   Ms Alison Tan, Extn: 260
     *   Ms Ang Chye Gek, Extn: 261
