@@ -2,6 +2,7 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Request to Transfer into Punggol Secondary School.md
       - Secondary One Orientation Week (3 Jan to 6 Jan 2023).md
       - Purchase of Books and Uniform.md
       - Academic Matters (HMTL and SBB).md
