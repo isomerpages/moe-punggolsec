@@ -72,3 +72,5 @@ The department encourages students to participate in external competitions/event
 * Historical Scene Investigations Challenge by NLB
 * Model United Nations Conference
 * National Budget Quiz
+
+
