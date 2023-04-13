@@ -29,7 +29,7 @@ For Clubs & Societies, the CCAs offered are:
 
 \- Singapore Youth Festival 2019 and 2021 (Accomplishment)
 
-\- Singapore Secondary School Debating Championship 2021 (Third in  Division 3)
+\- Singapore Secondary School Debating Championship 2021 (Third in  Division III)
 
 \- Singapore Secondary School Debating Championship 2022 (Quarter Finalist  - Division III)
 
