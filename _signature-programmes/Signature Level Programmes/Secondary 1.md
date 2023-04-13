@@ -51,10 +51,8 @@ Students will build new friendships, develop a sense of belonging to PSS and dis
 
   
 
-The Secondary 1 Orientation Camp (SOOC) is a memorable event annually, as it marks the transition of students from primary to secondary school. Students participate in a range of activities, as they build new friendships and familiarise themselves with our school environment and learning culture.
-
-  
-
+The Secondary 1 Orientation Camp (SOOC) is a memorable event annually, as it marks the transition of students from primary to secondary school. Students participate in a range of activities, as they build new friendships and familiarise themselves with our school environment and learning culture. 
+	
 The CCA Fair is a platform for our Secondary One students to get a first hand experience of what the various CCAs entail. They are also able to discover their interests and talents that they may want to further enhance.
 
   
@@ -63,9 +61,7 @@ The CCA Fair is a platform for our Secondary One students to get a first hand ex
 
 _**Values-In-Action (VIA) Programme**_
 
-  
-
-To enable students to develop social consciousness and develop self-leadership, the Secondary One students embark on self-initiated projects, aimed at improving the school environment. Through the activities, students were able to forge closer bonds and contribute creatively towards beautifying the school.
+ To enable students to develop social consciousness and develop self-leadership, the Secondary One students embark on self-initiated projects, aimed at improving the school environment. Through the activities, students were able to forge closer bonds and contribute creatively towards beautifying the school.
 
   
 
@@ -74,8 +70,7 @@ To enable students to develop social consciousness and develop self-leadership, 
 **_Post-Exam Activities_**
 
   
-
-As part of the holistic development of students, students get the opportunity to participate in various hands-on activities to deepen their understanding of their own strengths and talents. They engage in fun aesthetics activities of their choice, such as music and art, as well as deepen their learning of science through hands-on ice-cream making sessions. Students are also encouraged to develop their communication and leadership skills through an activity-based life-long learning programme. With joy of learning, our students are able to grow their strengths in a varied and fun manner.
+ As part of the holistic development of students, students get the opportunity to participate in various hands-on activities to deepen their understanding of their own strengths and talents. They engage in fun aesthetics activities of their choice, such as music and art, as well as deepen their learning of science through hands-on ice-cream making sessions. Students are also encouraged to develop their communication and leadership skills through an activity-based life-long learning programme. With joy of learning, our students are able to grow their strengths in a varied and fun manner.
 
 <figure>
 <img src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%201/Orientation4.jpeg">
