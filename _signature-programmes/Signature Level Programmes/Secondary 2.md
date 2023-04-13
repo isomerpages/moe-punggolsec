@@ -7,12 +7,8 @@ third_nav_title: Signature Level Programmes
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Secondary 2
-
-
-
-
-<font size="5"><b>Secondary 2&nbsp;<br>
-	Taking Responsibility for Self, Peers and the Community</b></font>
+<font size="5"><br>
+	Taking Responsibility for Self, Peers and the Community</font>
 
 
 **Year Head 2: 
