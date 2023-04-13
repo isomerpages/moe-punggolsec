@@ -8,26 +8,13 @@ third_nav_title: Signature Level Programmes
 
 ## Secondary 1
 
-![](/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%201/AngelineYH2.jpg)
+Discovering &amp; Leading Myself
+----------------------------
 
-### Year Head 1
+**2023 Year Head: Mr Ong Kai Wei**
 
-
-Ms Angeline Chew
-
-  
-
-### Assistant Year Head 1
-
-
-Mr Wardi Endra
-
-<center>
-<font size=5>Secondary 1 <br>
-	Discovering & Leading Myself</font>
-</center>	
-
-
+**2023 Assistant Year Head: 
+Ms Elaine Lui**
 
 <figure>
 <img src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%201/New%20Sec%201s-2.jpg">
