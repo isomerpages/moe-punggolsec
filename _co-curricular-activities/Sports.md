@@ -53,11 +53,12 @@ For Sports &amp; Games, the CCAs offered are:
 
 **Volleyball (Girls)**:  
 
+\- National Inter-School North Zone ‘B’ Division Girls 2023 (First Runners-up)
+
 \-&nbsp;National Inter-School North Zone&nbsp;‘B’ Division Girls 2022 (Third)
 
 \- National Inter-School North Zone&nbsp;‘B’ Division Girls 2021 (Third)
 
-\- National Inter-School North Zone ‘B’ Division Girls 2023 (First Runners-up)
 
 **Netball**:
 
