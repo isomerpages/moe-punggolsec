@@ -2,4 +2,5 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Principal's Message to Secondary 1 Students of Year 2023.md
       - Welcome Message.md
