@@ -2,5 +2,6 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Academic Matters (HMTL and SBB).md
       - Principal's Message to Secondary 1 Students of Year 2023.md
       - Welcome Message.md
