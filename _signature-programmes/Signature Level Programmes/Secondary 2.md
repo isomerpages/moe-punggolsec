@@ -15,14 +15,12 @@ third_nav_title: Signature Level Programmes
 	Taking Responsibility for Self, Peers and the Community</b></font>
 
 
-## Year Head 2
-
-**Mr Zulkefli Abd Shukor** 
+**Year Head 2: 
+Mr Zulkefli Abd Shukor** 
 
   
 
-### Assistant Year Head 2
-**Mrs Wong Sijin**
+**Assistant Year Head 2: Mrs Wong Sijin**
 
 
 **For self**
