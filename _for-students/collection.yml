@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - First Week of School matters (2023).md
       - GCE N Level Results Release/.keep
       - GCE N Level Results Release/2022 GCE N Level Results Release.md
       - GCE N Level Results Release/Information on 'N' Levels Admission
