@@ -7,10 +7,9 @@ third_nav_title: Signature Level Programmes
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Secondary 1
-
-Discovering &amp; Leading Myself
-
-
+<font size="5"><br>
+	Discovering &amp; Leading Myself</font>
+	
 **2023 Year Head: Mr Ong Kai Wei**
 
 **2023 Assistant Year Head: 
