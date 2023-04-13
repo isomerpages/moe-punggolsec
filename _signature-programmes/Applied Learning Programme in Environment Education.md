@@ -9,11 +9,9 @@ description: ""
 
 ### Applied Learning Programme (ALP)
 
-
 The Applied Learning Programme (ALP) in Environment Education is Punggol Secondary School’s distinctive niche programme. The ALP allows students to connect knowledge across subject disciplines, stretch their imagination and apply knowledge to real-world problems.
 
 
-  
 
 ### Our Vision: Harmony between Science and Nature
 
@@ -28,8 +26,7 @@ The Applied Learning Programme (ALP) in Environment Education is Punggol Seconda
 ### Our Objectives
 
 
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20Objectives%20Website.jpg"  
-     style="width:65%">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20Objectives%20Website.jpg" style="width:100%">
 
 
 
@@ -55,9 +52,9 @@ The Waste Management module is conducted for Secondary 1 Express, Normal Academi
 
   
 
-In the ‘Clean Energy’ module, all Secondary Two students learn about clean energy technologies and practices for sustainable living through a hands-on approach. This module is an effective collaboration amongst the Science, Geography and Design & Technology Departments.
+In the ‘Clean Energy’ module, all Secondary Two students learn about clean energy technologies and practices for sustainable living through a&nbsp;hands-on approach. This module is an effective collaboration amongst the Science, Geography and Design &amp; Technology Departments.
 
-In Science and Geography lessons, students explore alternative energy sources, other than fossil fuels, such as hydrogen fuel cells and biofuels. Students also learn the value of renewable sources of energy. Across the world, access to modern electricity or other forms of energy sources are not readily available. This allows students to have the opportunity to discuss how to drive change and strive for clean and affordable energy. 
+In Science and Geography lessons, students explore alternative energy sources, other than fossil fuels, such as hydrogen fuel cells and biofuels. Students also learn the value of renewable sources of energy. Across the world, access to modern electricity or other forms of energy sources are not readily available. This allows students to have the opportunity to discuss how to drive change and strive for clean and affordable energy.&nbsp;
 
 In Design and Technology lessons, students learn the stages of design model and application of portable clean energy sources. The design journal guides students in the context of the design scenario and project’s specifications. Students would then apply a random line trigger technique for idea generation for the solar panel holder and fan stand.
 
@@ -68,18 +65,19 @@ In Design and Technology lessons, students learn the stages of design model and 
 
 **_<u>ALP infused into LLP</u>_**
 
-The ALP committee collaborates with the Learning for Life Programme (LLP) committee to provide an opportunity for students to put what they have learnt in ALP (Environment Education) into action.  
+The ALP committee collaborates with the Learning for Life Programme (LLP) committee to provide an opportunity for students to put what they have learnt in ALP (Environment Education) into action.&nbsp;&nbsp;
 
-Students reach out to the community and contribute to efforts in protecting and advocating for the conservation of our environment through their service learning projects. 
+Students reach out to the community and contribute to efforts in protecting and advocating for the conservation of our environment through their service learning projects.&nbsp;
 
-In 2021, the ALP committee collaborated with the LLP committee once again. Secondary 3 Normal (Academic) and Normal (Technical) students were given an opportunity to make herbal candles, a simple, eco-friendly and popular way to fragrance one’s room, promoting environmental sustainability. The herbal candles made were presented to some Club HEAL (Hope, Empowerment, Acceptance & Love) members to help regain confidence in themselves.
+In 2021, the ALP committee collaborated with the LLP committee once again. Secondary 3 Normal (Academic) and Normal (Technical) students were given an opportunity to make herbal candles, a simple, eco-friendly and popular way to fragrance one’s room, promoting environmental sustainability. The herbal candles made were presented to some Club HEAL (Hope, Empowerment, Acceptance &amp; Love) members to help regain confidence in themselves.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPServiceLearningGoatFarm.png" style="width:65%">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPServiceLearningGoatFarm.png" style="width:100%">
 <figcaption> <strong>Service Learning trip to goat farm</strong> </figcaption>
 </figure>
 
-**_<u>Post Examination Activities</u>_**
+**_<u>Student Development Week Activities
+</u>_**
 
 The Secondary 1 to 3 students also engaged in a series of meaningful ALP activities after their examinations.
 
@@ -88,25 +86,24 @@ The Secondary 1 to 3 students also engaged in a series of meaningful ALP activit
 As environmental sustainability continues as a top trend in the retail industry, retailers have taken steps to become more sustainable. One way is to use recycled materials to construct LED lamps. In 2021, the Lower Secondary students had the opportunity to experience first-hand upcycling of a disused plastic milk bottle into a bottle lamp. Each student brought home an LED-powered bottle lamp that is energy efficient.
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPBottleLamps.png" style="width:75%">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPBottleLamps.png" style="width:100%">
 <figcaption> <strong>Teachers and students learning about upcycling of disused plastic milk bottles into bottle lamps</strong> </figcaption>
 </figure>
 
 **_Coding for Fun_**
 
-All Secondary 1 students have the opportunity to solve real-life problems with tangible solutions by developing their 3D prototyping and coding skills. The students learned to build prototypes with Strawbees (a reusable building kit that consists of colourful building straws and versatile connectors) and program their microbit using Makecode’s block-based programming platform. Students solved problems related to city building from designing environmentally friendly buildings to tackling rubbish disposal systems. This provided the students with the opportunity to design solutions aimed at solving real-world problems to promoting environmental sustainability.
+Secondary One students have the opportunity to solve real-life problems with tangible solutions by developing their 3D prototyping and coding skills. The students learned to build prototypes with Strawbees (a reusable building kit that consists of colourful building straws and versatile connectors) and program their microbit using Makecode’s block-based programming platform. Students solved problems related to city building, from designing environmentally friendly buildings to tackling rubbish disposal systems. This activity allowed students to create solutions to solve real-world problems to promote environmental sustainability.
 
 **_Plastic Bottle Self-Watering Planter and Environmental Sustainability Farming_**
 
-All Secondary 2 students have the opportunity to use upcycling techniques to cut and transform the bottles into a new product – a self-watering planter. Through the activity, the students learned the importance of food security and urban farming in Singapore, which are part of the government’s efforts to promote the sustainability of food supplies.
+Students have the opportunity to use upcycling techniques to cut and transform the bottles into a new product – a self-watering planter. Through the activity, the students learned the importance of food security and urban farming in Singapore, which are part of the government’s efforts to promote the sustainability of food supplies.
 
   
 
 **_Learning Journey to Kok Fah Technology Farm_**
 
-  
-
-The Secondary One students visit Kok Fah Technology Farm as part of their ALP module in ‘Waste Management’. They learn about the workflow and climate control processes in Kok Fah Farm’s Showcase Greenhouse, and how technological and scientific advancements over the years can help to efficiently increase food productivity. The Farm guides also discuss the pros and cons of different farming systems and how these systems help in increasing food security in a land-scarce Singapore.
+Students visited Kok Fah Technology Farm as part of their ALP module in ‘Waste Management’. They learn about the workflow and climate control processes in Kok Fah Farm’s Showcase Greenhouse and how technological and scientific advancements over the years can help to increase food productivity efficiently. The Farm guides also discuss the pros and cons of different farming systems and how these systems assist in increasing food security in a land-scarce Singapore.
+ 
 
 <figure>
 <img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20pic%208.jpg" style="width:75%">
@@ -115,13 +112,12 @@ The Secondary One students visit Kok Fah Technology Farm as part of their ALP mo
 
 **_STEM Trail at Gardens by Gardens by the Bay_**
 
-  
+The Secondary Two cohort visited Gardens by the Bay for a Science, Technology, Engineering and Mathematics (STEM) Trail, which allowed them to apply their mathematical and scientific knowledge in a real-world setting. They collaborated in activities that tapped on their skills in topics such as Mensuration, Proportion, Chemical Changes and Energy. In addition, they gained a greater appreciation for the beauty and diversity of the flora found at the Gardens and the technology behind the scenes that help maintain this iconic Singapore landmark.
 
-In 2019, the Secondary 2 cohort visited Gardens by the Bay for a Science, Technology, Engineering and Mathematics (STEM) Trail which allowed them to apply their mathematical and scientific knowledge in a real-world setting. They collaborated in activities that tap on their skills in topics such as Mensuration, Proportion, Chemical Changes and Energy. In addition, they gained a greater appreciation for the beauty and diversity of the flora found at the Gardens and the technology at work behind the scenes that help to maintain this iconic Singapore landmark.
 
 
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20pic%2012.jpg" style="width:65%">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20pic%2012.jpg" style="width:85%">
 <figcaption> <strong>Students having a discussion and solving questions as part of the STEM trail at Gardens By the Bay.</strong> </figcaption>
 </figure>
 
@@ -129,12 +125,13 @@ In 2019, the Secondary 2 cohort visited Gardens by the Bay for a Science, Techno
 
   
 
-The Secondary 3 Express students participated in the Sungei Buloh Wetland Biodiversity Walk in 2019. They walked through the mangrove forest of Sungei Buloh Wetland Reserves where they could closely observe the biodiversity of the mangrove ecosystem. They also learned about how well the mangrove trees have adapted to the saltwater conditions and their importance in the ecosystem. In addition, students also got to see unique mangrove inhabitants such as mudskippers, monitor lizards, tree climbing crabs, kingfishers, and even crocodiles.
+Secondary Three Express students participated in the Sungei Buloh Wetland Biodiversity Walk in 2019. They walked through the mangrove forest of Sungei Buloh Wetland Reserves, where they could closely observe the biodiversity of the mangrove ecosystem. They also learned about how well the mangrove trees have adapted to the saltwater conditions and their importance in the ecosystem. In addition, students also got to see unique mangrove inhabitants such as mudskippers, monitor lizards, tree-climbing crabs, kingfishers, and even crocodiles.
 
 After the biodiversity walk, students engaged in the Intertidal Coastal Cleanup in collaboration with International Coastal Cleanup Singapore (ICCS). Students actively and enthusiastically contributed to the cleaning up of pollution and rubbish along Singapore’s shores.
 
+
 <figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Students%20learning%20about%20the%20flora%20and%20fauna%20at%20Sungei%20Buloh%20Wetland.png" style="width:75%">
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Students%20learning%20about%20the%20flora%20and%20fauna%20at%20Sungei%20Buloh%20Wetland.png" style="width:85%">
 <figcaption> <strong>Students learning about the flora and fauna at Sungei Buloh Wetland</strong> </figcaption>
 </figure>
 
@@ -144,7 +141,7 @@ Students from the Environment Club play a key role in promoting environmental su
 
 <figure>
 <img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPAdvocating.png" style="width:75%">
-<figcaption> <strong>Sharing on Earth Hour and E-waste Recycling</strong> </figcaption>
+<figcaption> <strong>Sharing on Earth Hour&nbsp;and E-waste Recycling</strong> </figcaption>
 </figure>
 
 ### Achievements
@@ -160,7 +157,7 @@ Students from the Environment Club play a key role in promoting environmental su
     
 *   IgnITE Science Challenge: Mad Mocktail Challenge Finalist (1 team)
     
-*   Elementz Science Project Competition (Lower Secondary): Top Viewer's Choice, Gold Award & Certificate of Commendation
+*   Elementz Science Project Competition (Lower Secondary): Top Viewer's Choice, Gold Award &amp; Certificate of Commendation
     
 *   Singapore Junior Physics Olympiad: 1 Bronze
     
@@ -181,7 +178,7 @@ One student competed against over 1000 students from different secondary schools
     
 *   Science Buskers Festival: Finalist (1 team)
     
-*   IgnITE Science Challenge: Flying Saucer Challenge, 3rd position 
+*   IgnITE Science Challenge: Flying Saucer Challenge, 3rd position&nbsp;
     
 *   Vanda Miss Joaquim Award
     
@@ -231,10 +228,10 @@ The Environmental Club achieved the Sustained Vanda Miss Joaquim Award for the S
 
 **Science Competitions**
 
-·        International C.B Paul Science Quiz: 5 Gold, 2 Silver, 1 Bronze and 2 Merit. Overall 4th runner up in Finals.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International C.B Paul Science Quiz: 5 Gold, 2 Silver, 1 Bronze and 2 Merit. Overall 4th&nbsp;runner up in Finals.
 
-·        Singapore Junior Biology Olympiad: 2 Bronze and 3 Honourable Mention
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Biology Olympiad: 2 Bronze and 3 Honourable Mention
 
-·        Singapore Junior Chemistry Olympiad: 3 Merit
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Chemistry Olympiad: 3 Merit
 
-·        Singapore Junior Physics Olympiad: 1 Bronze and 7 Honourable Mention
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Physics Olympiad: 1 Bronze and 7 Honourable Mention
