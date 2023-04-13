@@ -2,9 +2,9 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Talent Development Programme.md
       - Applied Learning Programme in Environment Education.md
       - Learning For Life Programme in Community and Youth Leadership.md
+      - Talent Development Programme.md
       - Internationalisation Programme.md
       - Signature Level Programmes/.keep
       - Signature Level Programmes/Secondary 1.md
