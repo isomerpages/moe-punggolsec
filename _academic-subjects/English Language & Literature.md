@@ -20,7 +20,7 @@ Our Literature curriculum aims to nurture a deep appreciation of literary craft 
 <figcaption> <strong> Students participating in a Scrabble competition as part of ELL Week</strong> </figcaption>
 </figure>
 
-***Developing the love for reading***
+***Developing a love for reading***
 
 In conjunction with Valentine’s Day, the Media Resource Library Committee organises a ‘Blind Date with a Book’ event during recess. Students can only read short descriptions of the books, which are wrapped creatively and attractively, and this arouses their curiosity as they are kept in suspense about the books they borrow. The students also have a chance to take part in a lucky dip when they borrow a book. This event allows students to explore different genres of books and expand their reading interests.
 
