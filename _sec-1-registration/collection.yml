@@ -2,10 +2,10 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Secondary One CCA Allocation Exercise.md
-      - Request to Transfer into Punggol Secondary School.md
-      - Secondary One Orientation Week (3 Jan to 6 Jan 2023).md
-      - Purchase of Books and Uniform.md
-      - Academic Matters (HMTL and SBB).md
-      - Principal's Message to Secondary 1 Students of Year 2023.md
       - Welcome Message.md
+      - Principal's Message to Secondary 1 Students of Year 2023.md
+      - Academic Matters (HMTL and SBB).md
+      - Purchase of Books and Uniform.md
+      - Secondary One CCA Allocation Exercise.md
+      - Secondary One Orientation Week (3 Jan to 6 Jan 2023).md
+      - Request to Transfer into Punggol Secondary School.md
