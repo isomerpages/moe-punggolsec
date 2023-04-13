@@ -8,23 +8,22 @@ third_nav_title: Signature Level Programmes
 
 ## Secondary 2
 
-![](/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%202/KaiWeiYH1.jpg)
 
-### Year Head 2
 
-Mr Ong Kai Wei
+
+<font size="5"><b>Secondary 2&nbsp;<br>
+	Taking Responsibility for Self, Peers and the Community</b></font>
+
+
+## Year Head 2
+
+**Mr Zulkefli Abd Shukor** 
 
   
 
 ### Assistant Year Head 2
+**Mrs Wong Sijin**
 
-
-Ms Janani Balakrishnan
-
-<center>
-<font size=5><b>Secondary 2 <br>
-	Taking Responsibility for Self, Peers and the Community</b></font>
-</center>
 
 **For self**
 
@@ -52,8 +51,7 @@ Ms Janani Balakrishnan
 
 **PROGRAMMES**
 
-  
-
+ 
 **_Subject Streaming Talk for Secondary Two students_**
 
   
