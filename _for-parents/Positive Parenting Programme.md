@@ -3,14 +3,12 @@ title: Positive Parenting Programme
 permalink: /useful-links/for-parents/positive-parenting-programme/
 description: ""
 ---
-
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Positive Parenting Programme
 
-In order to support parents in building a healthy relationship with their child, our school has embarked on the Positive Parenting Programme (Triple P) since 2015. It is one of the most effective evidence-based parenting programmes in the world, with more than 30 years of research. Supported by the Ministry of Social and Family Development (MSF), Triple P is a preventive programme that provides parents with simple and practical strategies to manage teenage behaviour and foster strong parent-teenager relationships.
 
+To support parents in building a healthy relationship with their child, our school has embarked on the Positive Parenting Programme (Triple P) since 2015. It is one of the world's most effective evidence-based parenting programmes, with more than 30 years of research. Supported by the Ministry of Social and Family Development (MSF), Triple P is a preventive programme that provides parents with simple and practical strategies to manage teenage behaviour and foster strong parent-teenager relationships.
   
 
 The Triple P is based on five basic principles. They are:
