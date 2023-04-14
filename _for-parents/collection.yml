@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - School based Materials for Parents.md
       - Parents Gateway.md
+      - School based Materials for Parents.md
       - Parent Support Group.md
       - Positive Parenting Programme.md
       - Parenting Resources by MOE.md
