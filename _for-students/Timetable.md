@@ -11,7 +11,8 @@ As students will be having Home-Based Learning (HBL) day once a fortnight, stude
 
 Students are reminded to refer to their timetables and pack their bags accordingly.
 
-**Class Timetable 2023** 
+***Class Timetable 2023*** 
+
 Please refer to your class timetable:
 [here](/files/timetable%20for%20each%20class%202023%20sem%201%2011%20jan.pdf)
 
