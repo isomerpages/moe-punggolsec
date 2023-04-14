@@ -21,7 +21,7 @@ To engage parents to actively partner the school to nurture students with a valu
 
   
 
-### 2021 Parent Support Group (PSG) EXCO
+### 2023 Parent Support Group (PSG) EXCO
 
 <table>
 <thead>
@@ -33,15 +33,11 @@ To engage parents to actively partner the school to nurture students with a valu
 <tbody>
   <tr>
     <td>Chairperson:<br></td>
-    <td>Mdm Judy Goh Hong Choo<br></td>
+    <td>Mdm Eunice Sng Su Huang<br></td>
   </tr>
   <tr>
     <td>Vice-Chairperson:<br></td>
-    <td>Mr Vaidhyanathan Hariharan<br></td>
-  </tr>
-  <tr>
-    <td>Secretary:<br></td>
-    <td>Mdm Ally Tiang Yoke Lin<br></td>
+    <td>Mdm Susan Lee<br></td>
   </tr>
   <tr>
     <td>Project Coordinator:<br></td>
@@ -89,7 +85,7 @@ Members of PSG may help in the following ways:
 
 *   Support school activities: CCA, school events and programmes.
 *   Participate in school activities: CCA, school events and programmes.
-*   Act as a resource person: talks & networking.
+*   Act as a resource person: talks &amp; networking.
 
   
 
@@ -97,8 +93,7 @@ Members of PSG may help in the following ways:
 
 
 
-<img src="/images/Useful%20Links/For%20Parents/GOGOV%20Volunteer.png"  
-     style="width:25%">
+<img src="/images/Useful%20Links/For%20Parents/GOGOV%20Volunteer.png" style="width:25%">
 
 ### Parents’ involvement in past events
 
