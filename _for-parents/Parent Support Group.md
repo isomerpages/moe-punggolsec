@@ -93,14 +93,11 @@ Members of PSG may help in the following ways:
 
 
 
-<img src="/images/Useful%20Links/For%20Parents/GOGOV%20Volunteer.png" style="width:25%">
+<img src="/images/Useful%20Links/For%20Parents/GOGOV%20Volunteer.png" style="width:50%">
 
 ### Parents’ involvement in past events
 
-
-The PSG has been active in encouraging parents to participate in the various parenting talks and school programmes such as the Annual Cross Country and Breakfast with Parents. In 2019, the PSG not only supported school programmes through the members’ participation in the various activities, but was also involved in planning and conducting several of such programmes.
-
-  
+The PSG has been active in encouraging parents to participate in various parenting talks and school programmes such as the Annual Cross Country 2023 and Parents Career Sharing Session.
 
 When the elderly from Bright Hill Evergreen Home joined us for our Chinese New Year Celebrations, PSG members taught students how to interact with the elderly and how best to manoeuvre their wheelchairs. During Project Resilience, they not only participated in the walk from Changi Coast Road to school. They also greeted the students with a nice refreshing energy drink at the end of their journey.
 
