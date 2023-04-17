@@ -13,11 +13,12 @@ The Science Department aspires to ignite in our students the passion for learnin
 We provide opportunities for all students to learn science to the best of their ability in their years at Punggol Secondary School.
 
 
-We have an in-house Science Enrichment Programme to ignite in our students the passion for learning Science and to expose them to scientific applications so that they could link real life application of Science to what they learn in school.
+We also prepare students for relevant competitions so that they are able to develop their 21st century world skills such as presentation and public speaking.  As they prepare for such competitions, students are also engaged in scientific research and report writing.
+
+###   
 
 
-We also prepare students for relevant competitions so that they are able to develop their 21st century world skills such as presentation and public speaking. In the midst of preparing for the competitions, students are also engaged in scientific research and report writing.
-
+**
 
 ### <center>Achievements</center>
 
