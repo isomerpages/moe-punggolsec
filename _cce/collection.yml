@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - MOE Sexuality in Schools.md
-      - Test/Secondary 5.md
-      - Test/Secondary 4.md
-      - Test/Secondary 3.md
-      - Test/Secondary 2.md
-      - Test/Secondary 1.md
       - Test/.keep
+      - Test/Secondary 1.md
+      - Test/Secondary 2.md
+      - Test/Secondary 3.md
+      - Test/Secondary 4.md
+      - Test/Secondary 5.md
       - Character and Citizenship Education.md
       - PSS Student Support Team.md
