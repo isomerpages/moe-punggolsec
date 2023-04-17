@@ -2,12 +2,12 @@ collections:
   cce:
     output: true
     order:
-      - Test/MOE Sexuality in Schools.md
-      - Test/.keep
-      - Test/Secondary 1.md
-      - Test/Secondary 2.md
-      - Test/Secondary 3.md
-      - Test/Secondary 4.md
-      - Test/Secondary 5.md
+      - MOE Sexuality Ed in Schools/MOE Sexuality in Schools.md
+      - MOE Sexuality Ed in Schools/.keep
+      - MOE Sexuality Ed in Schools/Secondary 1.md
+      - MOE Sexuality Ed in Schools/Secondary 2.md
+      - MOE Sexuality Ed in Schools/Secondary 3.md
+      - MOE Sexuality Ed in Schools/Secondary 4.md
+      - MOE Sexuality Ed in Schools/Secondary 5.md
       - Character and Citizenship Education.md
       - PSS Student Support Team.md
