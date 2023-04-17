@@ -185,7 +185,7 @@ description: ""
   <tr>
     <td>MTT Physical Education</td>
     <td>Mr Tan Su-Jim Benjamin</td>
-    <td><a href="mailto:tan_su-jim_benjamin@moe.edu.sg">tan_su-jim_benjamin@moe.edu.sg</a></td>
+    <td><a href="mailto:tan_su-jim_benjamin@schools.gov.sg">tan_su-jim_benjamin@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>LT Physics</td>
