@@ -2,7 +2,7 @@ collections:
   cce:
     output: true
     order:
-      - MOE Sexuality Ed in Schools/MOE Sexuality in Schools.md
+      - MOE Sexuality Ed in Schools/Overview.md
       - MOE Sexuality Ed in Schools/.keep
       - MOE Sexuality Ed in Schools/Secondary 1.md
       - MOE Sexuality Ed in Schools/Secondary 2.md
