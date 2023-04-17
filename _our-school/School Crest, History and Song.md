@@ -120,38 +120,33 @@ In chronological order, these are the Principals who have headed the school:
 
 **Chorus**
 
+```
 Forward, Forward, Punggolites!
-
 Foremost in every endeavour.
-
 Celebrate our school with honour and pride,
-
 Marching onward ever.
+```
 
   
 
 **Verse 1**
 
+```
 Seas of love, Oceans of joy,
-
 Boundless waves of opportunities.
-
 Surge and lift us higher still to where streams of wisdom fill
-
 Our lives and our school and community.
+```
 
   
 
 **Verse 2**
 
+```
 Aims are high, Goals are clear
-
 Champion skills and education.
-
 Ardent diligence in truth is inspiring our youth
-
 To cherish the success of our nation.
-
-  
+```
 
 (Lyrics suggested by Principal and Staff of Punggol Sec School. Revised and adapted by Mr Derek Cable)
