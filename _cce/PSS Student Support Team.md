@@ -24,13 +24,6 @@ description: ""
 
     *   Ms Nazratul Nadiah, Extn:288
     
-**AED (LBS)**&nbsp;provides structured and systematic support to students with mild special educational needs (SEN) in order to enable them to integrate better in mainstream schools.
-
-
-*   **School Welfare Officer (SWO)**
-
-    *   Ms Nazratul Nadiah, Extn:288
-
 
 **SWO**&nbsp;provides student-centric casework support for students-at-risk and their families.
 
