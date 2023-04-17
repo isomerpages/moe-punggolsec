@@ -20,7 +20,7 @@ We also prepare students for relevant competitions so that they are able to deve
 
 **
 
-### <center>Achievements</center>
+### Achievements
 
 **_International C.B. Paul Science Quiz_**
 
