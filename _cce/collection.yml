@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Test/.keep
-      - MOE Sexuality in Schools.md
       - Character and Citizenship Education.md
       - PSS Student Support Team.md
