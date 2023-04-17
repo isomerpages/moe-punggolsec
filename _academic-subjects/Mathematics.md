@@ -31,7 +31,7 @@ The Mathematics Games Day inculcates the joy of learning in Mathematics and is o
 
 **_Secondary Three Math Trail_**
 
-Math Trail is organised yearly for the Secondary Three students. As students explore math concepts and solve problems in a real-world context, they are able to see the relevance of what they are learning and how it applies to their lives. By successfully completing tasks and achieving goals, students can build confidence in their math skills and feel motivated to continue learning. Through this active and collaborative learning experience, students develop a love for math that extends beyond the classroom.
+Math Trail is organised yearly for  Secondary Three students. As students explore math concepts and solve problems in a real-world context, they are able to see the relevance of what they are learning and how it applies to their lives. By successfully completing tasks and achieving goals, students can build confidence in their math skills and feel motivated to continue learning. Through this active and collaborative learning experience, students develop a love for math that extends beyond the classroom.
 
 
 <figure>
@@ -45,7 +45,7 @@ Math Trail is organised yearly for the Secondary Three students. As students exp
 
   
 
-The Mathematics Peer Tutoring Programme provides a platform for our Secondary Two Express students who demonstrate higher abilities in Mathematics, to tutor Secondary One Express students.
+The Mathematics Peer Tutoring Programme provides a platform for  Secondary Two Express students who demonstrate higher abilities in Mathematics, to tutor Secondary One Express students.
 
 During these sessions, the identified peer tutors will guide their juniors in completing Mathematics worksheets. This programme provides opportunities for collaborative learning. In addition, peer tutors will be more confident and be instilled in our school values of propriety, righteousness and self-respect.
 
