@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Test/MOE Sexuality in Schools.md
       - Test/.keep
       - Character and Citizenship Education.md
       - PSS Student Support Team.md
