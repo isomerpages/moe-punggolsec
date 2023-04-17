@@ -14,7 +14,7 @@ Punggol Secondary School has come a long way since its humble beginnings in 1956
 
 Secondary school is a pivotal time for the students to discover more about themselves, including their strengths, interests, talents, passions, and areas for growth. Hopefully, through this exploratory and reflective process, the students will be able to define their moral compass, undergirded by our school values of Propriety, Righteousness, Integrity and Self-Respect&nbsp;
 
-(礼义廉耻), and have greater clarity of their purpose in life.
+( 礼 义 廉 耻 ), and have greater clarity of their purpose in life.
 
 Here at Punggol Secondary School, we pride ourselves on building a vibrant school environment, starting from the classroom, where we expose students to diverse and rich experiences in the cognitive, moral, physical, social and aesthetics domains. At the same time, we provide the platforms and opportunities for the students to take the lead and have their voices heard. The students have never failed to show us that they can rise to the occasion if we set high expectations of them and provide the necessary support. The Students Learning Festival for example provided a platform for the students to showcase their takeaways from their self-initiated learning, enthuse one another, and spark the joy of learning while enabling them to grow in confidence as they present their learning to their peers and teachers. &nbsp;&nbsp;
 
