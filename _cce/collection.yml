@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Levels/.keep
       - Character and Citizenship Education.md
       - PSS Student Support Team.md
       - MOE Sexuality in Schools.md
