@@ -22,6 +22,5 @@ As the world gets more complex and unpredictable, we seek to continue to future-
 
 We would not be able to achieve all these without the strong partnership with and support from our stakeholders like the parents and community. Together, we will continue to build on the good work and legacy by the previous leaders while upholding the school’s heritage and leading it to new heights!
 
-Ms Valerie Tng
-
+Ms Valerie Tng,
 Principal
