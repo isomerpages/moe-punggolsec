@@ -42,8 +42,6 @@ The turquoise ring represents the well-balanced, value-added education provided 
 ### School History
 
 
-**
-
 In 1956, a group of prominent female educationalists in Singapore, which included the late Mdm Wang Yu Chong, discovered a lack of vocational training courses in Singapore, especially for young girls of schooling age. Together with Mdm Ang Pek Hoon and a group of Chinese education enthusiasts, they established the Singapore Girls' Vocational High School to educate and prepare girls for the workforce.&nbsp;
 
   
