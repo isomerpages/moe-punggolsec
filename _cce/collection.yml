@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - MOE Sexuality in Schools.md
+      - Test/Secondary 3.md
       - Test/Secondary 2.md
       - Test/Secondary 1.md
       - Test/.keep
