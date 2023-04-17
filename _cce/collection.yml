@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Example Title.md
       - MOE Sexuality in Schools.md
       - Character and Citizenship Education.md
       - PSS Student Support Team.md
