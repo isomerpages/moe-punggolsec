@@ -144,7 +144,7 @@ Students were given opportunities to apply scientific knowledge based on real wo
 
   
 
-The Olympiad comprises four levels – two levels of paper-based tests and two Science, Technology, Engineering and Mathematics (STEM) challenges. The paper-based tests focus on scientific knowledge and problem solving, while STEM challenges require students to apply STEM principles. Through this competition, students also forged many new friendships while strengthening current ones, as they are given various opportunities to interact with participants from other countries.Our students gave this competition their very best and had a meaningful learning experience.
+The Olympiad comprises four levels – two levels of paper-based tests and two Science, Technology, Engineering and Mathematics (STEM) challenges. The paper-based tests focus on scientific knowledge and problem solving, while STEM challenges require students to apply STEM principles. Through this competition, students also forged many new friendships while strengthening current ones, as they are given various opportunities to interact with participants from other countries. Students gave this competition their very best and had a meaningful learning experience.
 
 
 
