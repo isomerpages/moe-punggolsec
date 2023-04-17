@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - MOE Sexuality in Schools.md
       - Test/.keep
       - Test/Secondary 1.md
       - Test/Secondary 2.md
