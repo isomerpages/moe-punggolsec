@@ -11,7 +11,7 @@ description: ""
 _“The Humanities are the stories, the ideas, and the words that help us make sense of our lives and our world. The Humanities help us address the challenges we face together in our families, in our communities and as a nation” – Lyn Maxwell White_
 
   
-The Humanities Department provides various opportunities for students to make meaningful connections between what they learn in the classrooms and the world around them. In our technologically advanced world today, the Humanities education has become even more important to prepare our students for more complex and broader challenges of the future.
+The Humanities Department provides various opportunities for students to make meaningful connections between what they learn in the classrooms and the world around them. In our technologically advanced world today, Humanities education has become even more important to prepare our students for more complex and broader challenges of the future.
 
 
  
@@ -72,5 +72,3 @@ The department encourages students to participate in external competitions/event
 * Historical Scene Investigations Challenge by NLB
 * Model United Nations Conference
 * National Budget Quiz
-
-
