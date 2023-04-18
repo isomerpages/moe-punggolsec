@@ -32,7 +32,7 @@ The Triple P is based on five basic principles. They are:
   
 
 *   To have realistic expectations   
-    Parents explore their expectations about the causes for their children's behaviour and choose goals that are realistic for both themselves and their children. Parents who are at risk of abusing their children are more likely to have unrealistic expectations of their children's capabilities.
+    Parents explore their expectations about the causes of their children's behaviour and choose goals that are realistic for both themselves and their children. Parents at risk of abusing their children are more likely to have unrealistic expectations of their children's capabilities.
     
 
   
@@ -58,7 +58,7 @@ The MWS Family Support Programme (FSP) is an upstream programme designed to guid
 
   
 
-The MWS FSP aims to achieve greater awareness and access to community support networks and resources. Holistic support services will be accessible to targeted families with multiple needs. To aid in this, Punggol Secondary School will provide meeting spaces for parents interested in the Triple P programme. Through these sessions, we hope to equip parents with evidence-based parenting knowledge and skills so as to strengthen parent-child relationships.
+The MWS FSP aims to achieve greater awareness and access to community support networks and resources. Holistic support services will be accessible to targeted families with multiple needs. To aid in this, Punggol Secondary School will provide meeting spaces for parents interested in the Triple P programme. Through these sessions, we aim to equip parents with evidence-based parenting knowledge and skills to strengthen parent-child relationships.
 
   
 
