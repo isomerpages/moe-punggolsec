@@ -19,7 +19,7 @@ The Humanities Department provides various opportunities for students to make me
 ### Real-Life Application of History and Geography Skills
 
 
-Often, the study of History and Geography is a passive experience. This is not the case when students embark on field trips to put their History and Geography skills in action to connect with what they are learning in the classroom. For example, in History lessons Secondary One students get a better understanding of our local history through their Learning Journeys to various ethnic Heritage Centres and the National Museum to study the primary source materials. Upper Secondary students, on the other hand, learn part of modern world history through an interesting board game while putting their history knowledge and critical thinking to the test.
+Often, the study of History and Geography is a passive experience. This is not the case when students embark on field trips to put their History and Geography skills in action to connect with what they are learning in the classroom. For example, in History lessons Secondary One students get a better understanding of our local history through their Learning Journeys to various ethnic Heritage Centres and the National Museum to study the primary source materials. Upper Secondary students, on the other hand, learn part of modern world history through an exciting board game while putting their history knowledge and critical thinking to the test.
 
 
 <figure>
