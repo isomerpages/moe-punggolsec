@@ -59,7 +59,7 @@ The Internal Security Department (ISD) exhibition showed the turbulent security 
 </strong> </figcaption>
 </figure>
 
-The Humanities department also builds the confidence of our students by exposing them to competitions. For example, a team of Geography students fabricated a model of an earthquake-resistant building that won the Merit Prize. This helped students to assess the effectiveness of strategies in mitigating and responding to the effects of earthquakes.
+The Humanities department also builds our students' confidence by exposing them to competitions. For example, a team of Geography students fabricated a model of an earthquake-resistant building that won the Merit Prize. This helped students to assess the effectiveness of strategies in mitigating and responding to the effects of earthquakes.
 
 
 
