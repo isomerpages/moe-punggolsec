@@ -60,7 +60,7 @@ Conversational Chinese/Malay is MOE initiated programme since 2005. This program
 
   
 
-Every year, we will select a group of students to watch a drama performance. This is funded by the MOE committee to promote the learning of MTL. The purpose is to expose students to local theatre play and enhance students’ interest in the language and culture.
+Every year, we will select a group of students to watch a drama performance. This is funded by the MOE committee to promote the learning of MTL. The purpose is to expose students to local theatre plays and enhance students’ interest in the language and culture.
 	
 
 **_Overseas Learning Journey (OLJ)_**
