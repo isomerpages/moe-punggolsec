@@ -7,7 +7,7 @@ description: ""
 
 ## Physical Education Programme
 
-The Physical Education (PE) Department believes in providing opportunities to develop every Punggolite to acquire the skills and knowledge to build their confidence, character and values, allowing them to be a lifelong active and healthy individuals with sound moral and social character, motivated to personal excellence.
+The Physical Education (PE) Department believes in providing opportunities to develop every Punggolite to acquire the skills and knowledge to build their confidence, character and values, allowing them to be a lifelong, active and healthy individual with sound moral and social character, motivated to personal excellence.
 
   
 
@@ -56,7 +56,7 @@ Here is an overview of our PE curriculum.
 
   
 
-Our Annual School Cross Country, traditionally held in Punggol Waterway, is an event that aims to provide an opportunity for students, staff and parents to practise healthy living. Through the leisure fun run and friendly competition, it also fosters friendships and creates memories for all. For participants who are more competitive, there is also a category for them and prizes to be won. Regardless of ability, this is another platform for character building and for students to exhibit resilience.
+Our Annual School Cross Country, traditionally held in Punggol Waterway, is an event that aims to provide an opportunity for students, staff and parents to practise healthy living. Through the leisure fun run and friendly competition, it also fosters friendships and creates memories for all. For more competitive participants, there is also a category for them and prizes to be won. Regardless of ability, this is another platform for character building and for students to exhibit resilience.
 
 
 <figure>
