@@ -17,7 +17,7 @@ An active partnership based on a strong relationship between students, parents a
 ### Mission
 
 
-To engage parents to actively partner the school to nurture students with a values-based and value-added education.
+To engage parents to actively partner with the school to nurture students with a values-based and value-added education.
 
   
 
@@ -53,7 +53,7 @@ To engage parents to actively partner the school to nurture students with a valu
 ### Why join PSG?
 
 
-*   Gain better understanding of school policy, school activities and programmes
+*   Gain a better understanding of school policy, school activities and programmes
 *   Help your child cope better with school life
 *   Share parenting experience
 *   Build a closer relationship with your family
@@ -72,7 +72,7 @@ To engage parents to actively partner the school to nurture students with a valu
 ### PSG Meeting
 
 
-*   PSG meetings are held on a Friday evening, once every two months. Each meeting is usually accompanied with a parenting talk.
+*   PSG meetings are held on a Friday evening, once per term. 
 *   Parents will receive updates on school activities and PSG activities.
 *   It is also a platform for discussion and feedback on school programmes.
 
