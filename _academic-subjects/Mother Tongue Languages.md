@@ -15,7 +15,7 @@ The Mother Tongue Languages (MTL) Department aims to inspire and empower each st
 
 **_MTL Fortnight &amp; Learning Journey_**
 
-This 2-weeks long programme aims to create an immersive environment for learning MTL. A wide range of hands-on activities such as tea appreciation, making traditional food and handicrafts have been organised to provide authentic opportunities for students to speak their MTL as well as gain a better understanding of their own heritage and culture.
+This 2-weeks long programme aims to create an immersive environment for learning MTL. A wide range of hands-on activities such as tea appreciation, and making traditional food and handicrafts have been organised to provide authentic opportunities for students to speak their MTL as well as gain a better understanding of their own heritage and culture.
 
 ![](https://lh6.googleusercontent.com/L6DjfSmb-WegVbmMR4fEKS6evdPz-RMrLxWDap7ouUXXrXf63KWWc3tPLfL7vtb8rAi3WmbvA_4T44_kCZZzssoX_V33hOCE7HOd0wqSoPcOt8XCko4wsICDNMn3uLbqDiQWJBla1gss8im7IgyREKhFbQ0RlB4r4TqeG-HTmV5X_inhJfApYKMPbBrxlQ)
 ***Students learning to draw Batik design.***
@@ -51,7 +51,7 @@ Conversational Chinese/Malay is MOE initiated programme since 2005. This program
 
 
 ![](https://lh6.googleusercontent.com/7wl3E3VSoZgXkNMKN6H6xFXsysVVgjiIT1GMToyesl3GhD0BCPqSnLzxyAugcp9i29rgN3yuIMp1Ft3ruAYf4S0ig1LpBbz9zxJ6-zMl2LXetmHgvtCzUyBBQyhriP7ztvJlYpZmpucBLlco7gO59Uma50LZhEZqvfUAOonD5yyBE3aheVfrndHPG_Kyhg)
-***Chinese students learning basic Malay vocabulary or short phrases.***
+***Chinese students are learning basic Malay vocabulary or short phrases.***
   
 
   
