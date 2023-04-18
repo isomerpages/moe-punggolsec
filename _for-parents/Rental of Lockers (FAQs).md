@@ -3,61 +3,59 @@ title: Rental of Lockers (FAQs)
 permalink: /useful-links/for-parents/rental-of-lockers-faqs/
 description: ""
 ---
-
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Rental of Lockers (FAQs)
 
-Q:        **I would like to book school locker. How do I go about doing so and how to make payment**?  
+Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I would like to book school locker. How do I go about doing so and how to make payment**?  
 
-A:         Kaichi Spacemaster Pte Ltd is the vendor appointed to supply and manage school locker rental. Booking is through vendor’s link at [www.rent-a-locker.com](http://www.rent-a-locker.com/).
+A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kaichi Spacemaster Pte Ltd is the vendor appointed to supply and manage school locker rental. Booking is through the vendor’s link at&nbsp;[www.rent-a-locker.com](http://www.rent-a-locker.com/).
 
-**Q:        What is the rental cost per year and the cost for FAS student?**
+**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the rental cost per year and the cost for FAS student?**
 
-A:         The locker rental is $26/year and for financial assistance student is $20/year. FAS students to pay in full during booking of the locker. Refund of $6 will be credited back into the parent’s account by the vendor, upon vendor’s verification of their FAS status with school after booking is confirmed.
+A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The locker rental is $26/year and for financial assistance student is $20/year. FAS students to pay in full during booking of the locker. Refund of $6 will be credited back into the parent’s account by the vendor, upon vendor’s verification of their FAS status with school after booking is confirmed.
 
-**Q:        Where do I find my child’s classroom location?**
+**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where do I find my child’s classroom location?**
 
-A:         Please see the table below on classroom location.
+A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please see the table below on classroom location.
 
-**Q:        How does the locker work?**
+**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How does the locker work?**
 
-A:         School locker rental uses passcode to open the lock provided by vendor and the passcode will be sent to registered account in the booking link after payment is received.
+A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School locker rental uses passcode to open the lock provided by vendor and the passcode will be sent to registered account in the booking link after payment is received.
 
-**Q:        Can I withdraw halfway?**
+**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I withdraw halfway?**
 
-A:         There is no refund for withdrawal halfway into the year.
+A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is no refund for withdrawal halfway into the year.
 
-**Q:        Will I get a receipt for it?**
+**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will I get a receipt for it?**
 
-A:         Please contact the vendor Kaichi Spacemaster Pte Ltd at 62820868 to enquire.
+A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please contact the vendor Kaichi Spacemaster Pte Ltd at 62820868 to enquire.
 
-**Q:        I have 2 children in Punggol Secondary School, do I need to book separately?**
+**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have 2 children in Punggol Secondary School, do I need to book separately?**
 
-A:         Yes, please book separately using 2 different accounts for each child.
+A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, please book separately using 2 different accounts for each child.
 
-**Q:        Can I use my child’s shortened name or nickname to book?**
+**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I use my child’s shortened name or nickname to book?**
 
-A:         Please use the **_full name_** as in your child’s BC/NRIC/FIN to book.
+A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please use the&nbsp;**_full name_**&nbsp;as in your child’s BC/NRIC/FIN to book.
 
 **<u>Please take note of important information below:</u>**
 
-a.     The lockers are the sole property of Kaichi Spacemaster Pte Ltd.
+a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The lockers are the sole property of Kaichi Spacemaster Pte Ltd.
 
-b.     During the rental period, students are responsible for the hygiene and general upkeep of the lockers
+b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the rental period, students are responsible for the hygiene and general upkeep of the lockers
 
-c.      Students must clear the lockers before year-end school holiday.
+c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students must clear the lockers before year-end school holiday.
 
-d.     Upon verification of payment, lockers will be assigned to each user along with their unique combination code for the combination padlocks. Users will have to log in with the created username and password in order to find out the combination code and assigned locker. Instructions and animations to guide students on how to operate the locker and padlocks can be found online.
+d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon verification of payment, lockers will be assigned to each user along with their unique combination code for the combination padlocks. Users will have to log in with the created username and password in order to find out the combination code and assigned locker. Instructions and animations to guide students on how to operate the locker and padlocks can be found online.
 
-e.     During the course of the locker rental service, only Master Combination padlocks are to be used at all times. Users are to refrain from using other padlocks. The company reserves the right to remove padlocks other than the one issued by the company.
+e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the course of the locker rental service, only Master Combination padlocks are to be used at all times. Users are to refrain from using other padlocks. The company reserves the right to remove padlocks other than the one issued by the company.
 
-f.       If the user loses/misplaces, damages or otherwise causes the lock to be unusable, the registered user will have to be fully responsible for any costs incurred to replace any parts or the entire part of the locking device/locker. A transport and labour charge of $30 per trip will be levied and payable to KSM for emergency locker and recovery on top of the cost for damaged parts.
+f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the user loses/misplaces, damages or otherwise causes the lock to be unusable, the registered user will have to be fully responsible for any costs incurred to replace any parts or the entire part of the locking device/locker. A transport and labour charge of $30 per trip will be levied and payable to KSM for emergency locker and recovery on top of the cost for damaged parts.
 
-g.     If the user damages the locker, the user needs to report the damage directly to Kaichi Spacemaster Pte Ltd, and fully bear the cost of the repair of the locker.
+g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the user damages the locker, the user needs to report the damage directly to Kaichi Spacemaster Pte Ltd, and fully bear the cost of the repair of the locker.
 
-h.     Should users have any difficulties or require repairs/maintenance during the course of the rental, they can email to [admin@rent-a-locker.com](mailto:admin@rent-a-locker.com) or call 62820868.
+h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Should users have any difficulties or require repairs/maintenance during the course of the rental, they can email to&nbsp;[admin@rent-a-locker.com](mailto:admin@rent-a-locker.com)&nbsp;or call 62820868.
 
 **<u>Classroom Location in 2022</u>**
 
