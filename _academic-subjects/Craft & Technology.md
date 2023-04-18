@@ -83,7 +83,7 @@ Design and Technology Unit imparts various skills such as investigative and appl
 ### Nutrition and Food Science (NFS) Unit
 
 
-The NFS unit advocates a hands-on approach in the weekly lessons that are incorporated with theory, practical and coursework skills by using the visible thinking protocol,&nbsp;_I See, I Think, I Wonder_. The coursework integrates varied skills such as investigative, resource management, technological, time management, problem solving, decision-making, evaluation and thinking skills in a food-related problem-solving project. The various modes of assessment such as oral presentation, practical work, problem-solving tasks, ICT based assessments; report writing and experiments are based on a list of success criteria and used to assess the student’s work.  
+The NFS unit advocates a hands-on approach in the weekly lessons that are incorporated with theory, practical and coursework skills by using the visible thinking protocol,&nbsp;_I See, I Think, I Wonder_. The coursework integrates varied skills such as investigative, resource management, technological, time management, problem solving, decision-making, evaluation and thinking skills in a food-related problem-solving project. The various modes of assessment such as oral presentation, practical work, problem-solving tasks, ICT based assessments, report writing and experiments are based on a list of success criteria and used to assess the student’s work.  
 
   
 
