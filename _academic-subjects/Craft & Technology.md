@@ -96,7 +96,7 @@ The NFS unit advocates a hands-on approach in the weekly lessons that are incorp
 **_Lower Secondary:_**
 
 *   Designing of Informational Poster on Diet-related Diseases
-*   Designing of Healthy Snack for Specific Target Group
+*   Designing Healthy Snacks for Specific Target Group
 *   Lower Sec Elective Module (EM)
 *   Craft &amp; Technology Week
 
@@ -117,7 +117,7 @@ The NFS unit advocates a hands-on approach in the weekly lessons that are incorp
 ### Art Unit
 
 
-The Art Department believes in stretching pupils' imagination and creativity by provoking their thinking and ability to respond aesthetically. Students are nurtured to have an informed awareness and appreciation for the Visual Arts which enhances their ability to identify and solve problems creatively. Students also develop competency in the art and design principles, materials and processes. These allow students to foster self-confidence and a sense of achievement through the practice of the art making, by cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts. The various mediums experienced, individual efforts through the processes and final art forms are used to assess the students’ learning.  
+The Art Department believes in stretching pupils' imagination and creativity by provoking their thinking and ability to respond aesthetically. Students are nurtured to have an informed awareness and appreciation for the Visual Arts, which enhances their ability to identify and solve problems creatively. Students also develop competency in the art and design principles, materials and processes. These allow students to foster self-confidence and a sense of achievement through the practice of the art making, by cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts. The various mediums experienced, individual efforts through the processes and final art forms are used to assess the students’ learning.  
 
   
 
@@ -143,7 +143,7 @@ The Art Department believes in stretching pupils' imagination and creativity by 
 
 *   Cross Contour Drawing
 *   Techniques –Drawing/Rendering/Colouring/Shading (Dry Medium)
-*   Introduction to Principle Of Design
+*   Introduction to the Principle Of Design
 *   Introduction to Art Movements
 *   Art Discussion / Critique
 
