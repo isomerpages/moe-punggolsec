@@ -49,7 +49,7 @@ The Central Provident Fund (CPF) exhibition complements our Social Studies curri
 
   
 
-The Internal Security Department (ISD) exhibition showed the turbulent security history, from the communist subversion and the Laju Hijack to the recent threats from Jemaah Islamiyah, ISIS and self-radicalisation. The exhibition sends a strong message that security is not just the government’s responsibility but students can also play a significant part through the SG Secure national movement by staying vigilant to safeguard our way of life, peace and harmony.
+The Internal Security Department (ISD) exhibition showed the turbulent security history, from the communist subversion and the Laju Hijack to the recent threats from Jemaah Islamiyah, ISIS and self-radicalisation. The exhibition sends a strong message that security is not just the government’s responsibility; students can also play a significant part through the SG Secure national movement by staying vigilant to safeguard our way of life, peace and harmony.
 
 
 
