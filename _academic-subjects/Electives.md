@@ -20,7 +20,7 @@ Computer Applications (CPA), Elements of Business (EBS), Mobile Robotics (MR) an
 
   
 
-Our Secondary 3 Normal course students attend Elective Modules (EM) programme in both Semesters 1 and 2 every year. The programme aims to broaden their learning experiences and provide for their varied learning needs and styles. EMs provide students with opportunities in skills-training and expose them to possible post-secondary education options.  
+Secondary 3 Normal course students attend Elective Modules (EM) programme in Semesters 1 and 2 every year. The programme aims to broaden their learning experiences and provide for their varied learning needs and styles. EMs provide students with opportunities for skills training and expose them to possible post-secondary education options.  
 
   
 
@@ -28,7 +28,7 @@ Students attend EMs in various fields like Hospitality, Aeronautics, Culinary, F
 
   
 
-The programme ends with a showcase of students’ newly acquired skills and a sharing of their learning experiences with their teachers and school leaders.
+The programme ends with showcasing students’ newly acquired skills and sharing their learning experiences with their teachers and school leaders.
 
 
 <figure>
@@ -58,7 +58,7 @@ The programme ends with a showcase of students’ newly acquired skills and a sh
 
   
 
-Experiential learning for Secondary 2NT students is an early introduction to different courses and industries that they may be interested in after secondary school. This learning journey allows students to experience different types of industries such as Engineering, Electronics and Info-Communications and Business. The learning journey to the various ITEs exposes students to a wide range of courses while experiencing the ITE’s training facilities and classes.
+Experiential learning for Secondary 2NT students is an early introduction to different courses and industries that they may be interested in after secondary school. This learning journey allows students to experience different industries, such as Engineering, Electronics and Info-Communications and Business. The learning journey to the various ITEs exposes students to a wide range of courses while experiencing the ITE’s training facilities and classes.
 
   
 
@@ -68,4 +68,4 @@ Experiential learning for Secondary 2NT students is an early introduction to dif
 
   
 
-EBS learning journeys are designed to bring students out of school to broaden their learning experiences in their learning of EBS. These learning journeys open their minds beyond textbooks, and empower them with various life skills with the intention to inspire them to the nation.
+EBS learning journeys are designed to bring students out of school to broaden their learning experiences in their learning of EBS. These learning journeys open their minds beyond textbooks and empower them with various life skills to inspire them to contribute to the nation.
