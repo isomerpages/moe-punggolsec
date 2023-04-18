@@ -69,7 +69,7 @@ Our Annual School Cross Country, traditionally held in Punggol Waterway, is an e
 
   
 
-Our Outdoor Adventure Learning Camp (OALC) allows for Secondary Two students to play, learn and experience the refreshing outdoors and the exciting adrenaline pumping challenge courses on offer at the MOE Outdoor Adventure Learning Center. This is also a time for class bonding and creating memories with their peers, seniors and teachers.
+Our Outdoor Adventure Learning Camp (OALC) allows Secondary Two students to play, learn and experience the refreshing outdoors and the exciting adrenaline-pumping challenge courses at the MOE Outdoor Adventure Learning Center. This is also a time for class bonding and creating memories with their peers, seniors and teachers.
 
   
 
@@ -92,7 +92,7 @@ Our Annual Sports Day is held at Hougang Stadium in July. Just like the Olympic 
 
   
 
-During this time, students will be taught the basics of high jump, javelin, shot put, relay running. There are also a range of individual running events to choose from. All students, regardless of their ability, are encouraged to sign up to represent their class, where they will earn points contributing to the Class Championships.
+During this time, students will be taught the basics of high jump, javelin, shot put and relay running. There is also a range of individual running events to choose from. Regardless of their ability, all students are encouraged to sign up to represent their class, where they will earn points contributing to the Class Championships.
 
   
 
@@ -118,7 +118,7 @@ Our Annual Games Carnival is the highlight and culmination of our different game
 
   
 
-This recreational competition creates a safe learning environment where students can apply authentically what they have learnt in class. Although the competitive spirit is strong, students practise self-respect, respect for others, respect for rules and laws of the game. This is also exemplified by the student umpires and referees.
+This recreational competition creates a safe learning environment where students can apply authentically what they have learnt in class. Although the competitive spirit is strong, students practise self-respect, respect for others and respect for rules and laws of the game. This is also exemplified by the student umpires and referees.
 
   
 
