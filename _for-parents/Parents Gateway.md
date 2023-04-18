@@ -3,13 +3,11 @@ title: Parents Gateway
 permalink: /useful-links/for-parents/parents-gateway/
 description: ""
 ---
-
-
 ![](/images/Our%20School/subbanner.jpg)
 
 ## Parents Gateway
 
-Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, this app allows parents to engage closely with schools, receive information and perform a range of administrative functions including giving consent for school trips.  
+Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, this app allows parents to engage closely with schools, receive information and perform a range of administrative functions, including giving consent for school trips.  
 
   
 
@@ -19,19 +17,19 @@ Parents can download the free Parents Gateway mobile app on their handphones (av
 
 The free app will bring several benefits, including:
 
-\-&nbsp;&nbsp; &nbsp;Providing parents with timely information about school events (eg. enrichment and CCA activities)
+\-&nbsp;&nbsp; &nbsp;Providing parents with timely information about school events (e.g. enrichment and CCA activities)
 
-\-&nbsp;&nbsp; &nbsp;Enabling parents to perform a range of function including given consent for school tips
+\-&nbsp;&nbsp; &nbsp;Enabling parents to perform a range of functions including giving consent for school trips
 
-\-&nbsp; &nbsp; Reducing usage of paper and decreasing environmental impact (Hard copies will no longer be provided.)
-
-  
-
-All parents are encouraged to download and the PG app as it will bring significant benefits for parents, teachers and the school.
+\-&nbsp; &nbsp; Reducing the usage of paper and decreasing environmental impact (Hard copies will no longer be provided.)
 
   
 
-Please refer to the following guides for:
+All parents are encouraged to download the PG app as it will bring significant benefits for parents, teachers and the school.
+
+  
+
+Please refer to the following guides:
 
 1)&nbsp;&nbsp; &nbsp;Getting onboard PG
 
