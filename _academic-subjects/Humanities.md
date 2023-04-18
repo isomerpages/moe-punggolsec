@@ -45,7 +45,7 @@ Our Geography education provides students with hands-on experience during Geogra
 
 The department also regularly brings in exhibitions to enrich our curriculum.  
 
-The Central Provident Fund (CPF) exhibition complements our Social Studies curriculum in explaining how the government and citizens can work together to meet citizen’s housing, medical and retirement needs. The key message is that although the government has the CPF system as compulsory savings for employees, saving enough for rainy days is also an individual responsibility.
+The Central Provident Fund (CPF) exhibition complements our Social Studies curriculum in explaining how the government and citizens can work together to meet citizens' housing, medical and retirement needs. The key message is that although the government has the CPF system as compulsory savings for employees, saving enough for rainy days is also an individual responsibility.
 
   
 
