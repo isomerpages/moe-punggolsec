@@ -3,9 +3,7 @@ title: Timetable
 permalink: /useful-links/for-students/timetable/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
 
-## Timetable
 
 As students will be having Home-Based Learning (HBL) day once a fortnight, students will have an odd and even week timetable from Semester 1.
 
