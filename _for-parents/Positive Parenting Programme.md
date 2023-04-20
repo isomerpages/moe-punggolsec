@@ -3,7 +3,6 @@ title: Positive Parenting Programme
 permalink: /useful-links/for-parents/positive-parenting-programme/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
 
 ## Positive Parenting Programme
 
