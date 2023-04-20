@@ -3,7 +3,7 @@ title: Science
 permalink: /the-pss-learning-experience/academic-subjects/science/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
+
 
 ## Science
 
