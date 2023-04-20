@@ -4,7 +4,6 @@ permalink: /the-pss-learning-experience/character-and-citizenship-education/
 description: ""
 ---
 
-![](/images/Our%20School/subbanner.jpg)
 
 ## Character and Citizenship Education
 
@@ -13,7 +12,7 @@ The CCE committee supports the school's vision of providing a total curriculum t
 
   
 
-The design of our CCE curriculum with clear and intentional outcomes is student-centric and customised to the developmental needs of Punggolites. The multi-faceted CCE curriculum that includes Values Education, Values-in-Action (VIA), Education & Career Guidance, Cyberwellness, Sexuality Education, National Education and student-leadership, coupled with the myriad of learning experiences offered by PSS, seeks to develop these in our students:
+The design of our CCE curriculum with clear and intentional outcomes is student-centric and customised to the developmental needs of Punggolites. The multi-faceted CCE curriculum that includes Values Education, Values-in-Action (VIA), Education &amp; Career Guidance, Cyberwellness, Sexuality Education, National Education and student-leadership, coupled with the myriad of learning experiences offered by PSS, seeks to develop these in our students:
 
   
 
@@ -35,8 +34,7 @@ The design of our CCE curriculum with clear and intentional outcomes is student-
 **<center>CCE 2021 Curriculum Frame</center>**
 
 
-<img src="/images/CCE/CCE/CCE%202021%20Curriculum%20Frame.png"  
-     style="width:55%">
+<img src="/images/CCE/CCE/CCE%202021%20Curriculum%20Frame.png" style="width:55%">
 
 ![](/images/CCE/CCE/Students%20give%20feedback%20online%20platform.jpg)
 
