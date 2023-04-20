@@ -3,13 +3,11 @@ title: Electives
 permalink: /the-pss-learning-experience/academic-subjects/electives/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
-
 ## Electives
 
 Computer Applications (CPA), Elements of Business (EBS), Mobile Robotics (MR) and Principles of Accounts (POA) advocate critical thinking and a hands-on approach, incorporating theory and practical skills for applied learning.
 
-  
+
 
 ### Department Programmes and Events
 
