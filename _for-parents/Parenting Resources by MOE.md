@@ -3,7 +3,6 @@ title: Parenting Resources by MOE
 permalink: /useful-links/for-parents/parenting-resources-by-moe/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
 
 ## Parenting Resources by MOE
 
