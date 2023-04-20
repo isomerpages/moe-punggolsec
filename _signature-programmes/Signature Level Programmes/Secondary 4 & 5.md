@@ -4,13 +4,7 @@ permalink: /signature-programmes/signature-level-programmes/secondary-4-n-5/
 description: ""
 third_nav_title: Signature Level Programmes
 ---
-![](/images/Our%20School/subbanner.jpg)
-
-## Secondary 4 &amp; 5
-
-
-<font size="5"><br> 
-	Achieving Excellence, Influencing Positively</font>
+## Achieving Excellence, Influencing Positively
 
 
 **Year Head 4 &amp; 5:Ms Srividya**
