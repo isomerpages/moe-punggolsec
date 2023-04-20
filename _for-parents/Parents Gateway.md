@@ -5,8 +5,6 @@ description: ""
 ---
 
 
-## Parents Gateway
-
 Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, this app allows parents to engage closely with schools, receive information and perform a range of administrative functions, including giving consent for school trips.  
 
   
