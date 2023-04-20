@@ -4,7 +4,7 @@ permalink: /dsa2023/permalink/
 description: ""
 ---
 ## Direct School Admission 2023
-**(For 2024 Secondary One Intake)**
+### (For 2024 Secondary One Intake)
 
 At Punggol Secondary School, our focus is on providing a holistic education which emphasises character development, grounded in the School Values of Propriety  礼 , Righteousness  义 , Integrity  廉  and Self-Respect  耻 .
 
