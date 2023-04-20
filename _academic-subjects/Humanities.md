@@ -3,8 +3,6 @@ title: Humanities
 permalink: /the-pss-learning-experience/academic-subjects/humanities/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
-
 
 ## Humanities
 
