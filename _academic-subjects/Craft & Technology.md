@@ -3,9 +3,8 @@ title: Craft &amp; Technology
 permalink: /the-pss-learning-experience/academic-subjects/craft-n-technology/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
 
-## Craft &amp; Technology
+## Craft and Technology
 
 The Craft &amp; Technology Department comprises of Art, Design and Technology (D&amp;T) and Nutrition and Food Science (NFS) units. All three subjects advocate a hands-on approach incorporating theory and practical skills for applied learning.
 
