@@ -4,11 +4,6 @@ permalink: /the-pss-learning-experience/character-and-citizenship-education/moe-
 description: ""
 third_nav_title: MOE Sexuality Ed in Schools
 ---
-![](/images/Our%20School/subbanner.jpg)
-
-
-
-
 
 ## MOE Sexuality Education in Schools
 
