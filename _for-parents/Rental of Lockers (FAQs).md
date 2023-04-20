@@ -5,8 +5,6 @@ description: ""
 ---
 
 
-## Rental of Lockers (FAQs)
-
 Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I would like to book school locker. How do I go about doing so and how to make payment**?  
 
 A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kaichi Spacemaster Pte Ltd is the vendor appointed to supply and manage school locker rental. Booking is through the vendor’s link at&nbsp;[www.rent-a-locker.com](http://www.rent-a-locker.com/).
@@ -56,4 +54,3 @@ f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the user loses/misplaces, damages
 g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the user damages the locker, the user needs to report the damage directly to Kaichi Spacemaster Pte Ltd, and fully bear the cost of the repair of the locker.
 
 h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Should users have any difficulties or require repairs/maintenance during the course of the rental, they can email to&nbsp;[admin@rent-a-locker.com](mailto:admin@rent-a-locker.com)&nbsp;or call 62820868.
-
