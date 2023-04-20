@@ -4,7 +4,6 @@ permalink: /useful-links/for-parents/parenting-resources-by-moe/
 description: ""
 ---
 
-## Parenting Resources by MOE
 
 Dear Parents,  
 Here are some resources which might be helpful for you, as you guide your child through FHBL.   
