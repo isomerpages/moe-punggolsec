@@ -4,7 +4,6 @@ permalink: /useful-links/for-parents/purchase-of-uniform/
 description: ""
 ---
 
-## Purchase of Uniform
 
 In view of the current safe management measures,&nbsp;parents and students are reminded to purchase the school uniform online.  
   
