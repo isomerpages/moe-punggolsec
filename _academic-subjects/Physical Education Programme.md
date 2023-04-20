@@ -3,8 +3,6 @@ title: Physical Education Programme
 permalink: /the-pss-learning-experience/academic-subjects/physical-education-programme/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
-
 ## Physical Education Programme
 
 The Physical Education (PE) Department believes in providing opportunities to develop every Punggolite to acquire the skills and knowledge to build their confidence, character and values, allowing them to be a lifelong, active and healthy individual with sound moral and social character, motivated to personal excellence.
