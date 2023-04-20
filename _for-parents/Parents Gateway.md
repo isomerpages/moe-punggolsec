@@ -3,7 +3,7 @@ title: Parents Gateway
 permalink: /useful-links/for-parents/parents-gateway/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
+
 
 ## Parents Gateway
 
