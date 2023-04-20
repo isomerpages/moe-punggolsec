@@ -5,8 +5,6 @@ description: ""
 ---
 
 
-## Book Lists (2023)
-
 In view of the current safe management measures,&nbsp;parents and students are reminded to purchase the textbooks online.  
   
 
