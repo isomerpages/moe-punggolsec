@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /the-pss-learning-experience/academic-subjects/mathematics/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
+
 
 # Mathematics
 
