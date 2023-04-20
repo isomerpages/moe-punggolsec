@@ -3,7 +3,7 @@ title: Talent Development Programme
 permalink: /signature-programmes/permalink/
 description: ""
 ---
-## Talent Development Programme
+
 
 Talent Development Programme (TDP) aims to promote and spur students to strive for excellence. Through this programme, we identify, develop, and provide students with opportunities to work in a heterogeneous team while honing their communication, interpersonal and research skills.
 
@@ -41,10 +41,3 @@ The 43rd International C. B. Paul Science Quiz was re-conceptualized and launche
 **TDP Mathematics**
 
 The objective of the Singapore Mathematical Olympiad 2022, organised by the Singapore Mathematical Society, is to test the ingenuity and mathematical problem-solving ability of&nbsp; participants and to discover and encourage mathematical talents in secondary schools in Singapore. Two of our students received Honorable Mentions in this competition – Ang Ye Han (Class 3E) and Lorenzo Mikhail Kurt Thomas (Class 4C).
-
-
-
-  
-
-
-
