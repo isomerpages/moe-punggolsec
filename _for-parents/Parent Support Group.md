@@ -3,7 +3,7 @@ title: Parent Support Group
 permalink: /useful-links/for-parents/parent-support-group/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
+
 
 ## Parent Support Group
 
