@@ -149,7 +149,7 @@ mso-bidi-font-family:Arial"></span></b></p></div>
 <b class=""><span class="" lang="EN-GB"><br class="" clear="all"></span></b>
 			
 <div class=""><p class=""><b class="">
-	<span class="" lang="EN-GB">Information for Parents</span></b></p></div>
+	<span class="" lang="EN-GB">Information for Parents</span></b></p></div></div></div>
 			
 10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons,&nbsp;<i class="">eTeens</i>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
@@ -158,4 +158,4 @@ mso-bidi-font-family:Arial"></span></b></p></div>
 							
 12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the eTeens
 need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable 
-[here](/files/sexed%20opt%20out_annex%20a%202023%20vt.pdf)The completed form is to be submitted by 28 April 2023.</div></div>
+[here](/files/sexed%20opt%20out_annex%20a%202023%20vt.pdf). The completed form is to be submitted by 28 April 2023. Test
