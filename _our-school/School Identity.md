@@ -60,4 +60,3 @@ Achievers with Character
 </tbody>
 </table>
 
-[test](/files/2023%20pss%20principals%20welcome%20back%20to%20school%20letter.pdf)
