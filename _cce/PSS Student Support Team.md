@@ -3,8 +3,6 @@ title: PSS Student Support Team
 permalink: /the-pss-learning-experience/character-and-citizenship-education/pss-student-support-team/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
-
 ## PSS Student Support Team
 
 **THE TEAM &amp; WHAT WE DO**

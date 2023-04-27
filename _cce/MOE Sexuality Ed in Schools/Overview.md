@@ -4,12 +4,6 @@ permalink: /the-pss-learning-experience/character-and-citizenship-education/moe-
 description: ""
 third_nav_title: MOE Sexuality Ed in Schools
 ---
-![](/images/Our%20School/subbanner.jpg)
-
-
-
-
-
 ## MOE Sexuality Education in Schools
 
 <div class="description ive_editable ive_ptod ive_content" id="_ptod_89246"><p style="margin:0in;margin-bottom:.0001pt;text-align:justify;text-justify:
@@ -152,19 +146,16 @@ mso-bidi-font-family:Arial"></span></b></p></div>
 <div class="pageblock_box" id="_ptoo_97103">
     <h2 class="ive_editable ive_ptoh" id="_ptoh_97103">e-Teens Programme</h2>
     <div class="ive_editable ive_ptod ive_content" id="_ptod_97103"><div class=""><p class=""><i class=""><span class="" lang="EN-GB">eTeens</span></i><span class="" lang="EN-GB">&nbsp;</span><span class="" lang="EN-GB">is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<i class="">eTeens</i>&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.</span></p><p class=""><span class="" lang="EN-GB">Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;</span><span class="" lang="EN-GB">The desired outcome of the&nbsp;<i class="">eTeens</i>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</span><span class="" lang="EN-GB"></span></p><p class=""><b class=""><span class="" lang="EN-GB">At Punggol Secondary School, the&nbsp;<i class="">eTeens</i>&nbsp;programme will be implemented as follows in 2023:</span></b></p><p class=""><b class=""><span class="" lang="EN-GB"></span></b></p><div class="" align="center"><table width="819" class="iveo_table ives_tab_simple3"><thead class=""><tr class=""><td class="" width="177"><p align="center" class=""><b class=""><span class="" lang="EN-GB">Topics/Lessons</span></b></p></td><td class="" width="482"><p align="center" class=""><b class=""><span class="" lang="EN-GB">Programme Learning Objectives</span></b></p></td><td class="" width="160"><p align="center" class=""><b class=""><span class="" lang="EN-GB">Time Period</span></b></p></td></tr></thead><tbody class=""><tr class=""><td class="" width="177"><p class=""><span class="" lang="EN-GB">Mass Talk by HPB appointed vendor</span></p></td><td class="" width="482"><p class=""><span class="" lang="EN-GB">·<span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span class="" lang="EN-GB">Awareness of the different STIs and HIV/AIDS</span></p><p class=""><span class="" lang="EN-GB">·<span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span class="" lang="EN-GB">Modes of transmission</span></p><p class=""><span class="" lang="EN-GB">·<span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span class="" lang="EN-GB">Modes of protection, specifically on how the condom is used</span></p><p class=""><span class="" lang="EN-GB">·<span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span class="" lang="EN-GB">Consequences and impact of STIs/HIV</span></p><p class=""><span class="" lang="EN-GB">&nbsp;</span></p></td><td class="" rowspan="2" width="160"><p align="center" class=""><span class="" lang="EN-GB">&nbsp;</span></p><p align="center" class=""><span class="" lang="EN-GB">&nbsp;</span></p><p align="center" class=""><span class="" lang="EN-GB">&nbsp;</span></p><p align="center" class=""><span class="" lang="EN-GB">Term 3<span class=""></span></span></p></td></tr><tr class=""><td class="" width="177"><p class=""><span class="" lang="EN-GB">Classroom-based Lesson</span></p></td><td class="" width="482"><p class=""><span class="" lang="EN-GB">·<span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span class="" lang="EN-GB">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></p><p class=""><span class="" lang="EN-GB">&nbsp;</span></p></td></tr></tbody></table></div></div>
-<b class=""><span class="" lang="EN-GB"><br class="" clear="all"></span></b><div class=""><p class=""><b class="">
-<span class="" lang="EN-GB">Information for Parents</span></b></p><p class=""><span class="" lang="EN-GB">
+<b class=""><span class="" lang="EN-GB"><br class="" clear="all"></span></b>
 			
-
+<div class=""><p class=""><b class="">
+	<span class="" lang="EN-GB">Information for Parents</span></b></p></div></div></div>
 			
-10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons,&nbsp;<i class="">eTeens</i>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</span></p>
+10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons,&nbsp;<i class="">eTeens</i>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable 
 [here](/files/sexed%20opt%20out_annex%20a%202023%20vt.pdf).			The completed form is to be submitted by 28 April 2023.
 							
 12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the eTeens
 need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable 
-[here](/files/sexed%20opt%20out_annex%20a%202023%20vt.pdf).			The completed form is to be submitted by 28 April 2023.			
-			
-<p class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</div></div></div>
+[here](/files/sexed%20opt%20out_annex%20a%202023%20vt.pdf). The completed form is to be submitted by 28 April 2023.

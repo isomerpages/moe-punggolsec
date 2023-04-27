@@ -1,9 +1,9 @@
 ---
-title: English Language &amp; Literature
+title: English Language and Literature
 permalink: /the-pss-learning-experience/academic-subjects/english-language-n-literature/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
+
 
 ## English Language &amp; Literature
 

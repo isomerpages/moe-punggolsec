@@ -4,9 +4,7 @@ permalink: /useful-links/for-students/2022-gce-n-level-results-release/info-on-n
 description: ""
 third_nav_title: GCE N Level Results Release
 ---
-![](/images/Our%20School/subbanner.jpg)
 
-## Information on 'N' Levels Admission Exercise
 
 **<u>4 Normal Academic students</u>**
 

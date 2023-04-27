@@ -3,10 +3,6 @@ title: Internationalisation Programme
 permalink: /signature-programmes/internationalisation-programme/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
-
-## Internationalisation Programme
-
 
 The school envisions that students will become confident citizens and leaders, guided by values and motivated to excel. Globalisation has created sociocultural and socio-economic conditions that are volatile, uncertain, complex and ambiguous. Beyond the acquisition of knowledge and cultural understanding, it is in our philosophy that education is a journey of self-discovery. Away from the comfort of home, students are given opportunities to experience and appreciate the diversity and opportunities available in the different ASEAN countries the students visit. The experiences gained from these trips would witness a paradigm shift in students’ thinking, where they reframe how societal issues are viewed, understand many life lessons and better appreciate the things they have. 
 

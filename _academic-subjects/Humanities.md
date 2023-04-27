@@ -3,12 +3,10 @@ title: Humanities
 permalink: /the-pss-learning-experience/academic-subjects/humanities/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
-
 
 ## Humanities
 
-_“The Humanities are the stories, the ideas, and the words that help us make sense of our lives and our world. The Humanities help us address the challenges we face together in our families, in our communities and as a nation” – Lyn Maxwell White_
+&gt; "The Humanities are the stories, the ideas, and the words that help us make sense of our lives and our world. The Humanities help us address the challenges we face together in our families, in our communities and as a nation" – Lyn Maxwell White
 
   
 The Humanities Department provides various opportunities for students to make meaningful connections between what they learn in the classrooms and the world around them. In our technologically advanced world today, Humanities education has become even more important to prepare our students for more complex and broader challenges of the future.

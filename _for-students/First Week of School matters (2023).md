@@ -3,8 +3,7 @@ title: First Week of School matters (2023)
 permalink: /for-students/permalink/
 description: ""
 ---
-First Week of School matters (2023)
-=
+
 
 **Welcome back to school, Punggolites!**
 ------------------------------------
@@ -33,6 +32,4 @@ Please bring the following items for the first week of school:
     3. Small notebook  
     4. Stationeries  
     5. Money for breaks  
-    6. Small bag  
-  
-  
+    6. Small bag

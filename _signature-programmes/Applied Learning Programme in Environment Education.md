@@ -3,11 +3,7 @@ title: Applied Learning Programme in Environment Education
 permalink: /signature-programmes/applied-learning-programme-in-environment-education/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
 
-## Applied Learning Programme in Environment Education
-
-### Applied Learning Programme (ALP)
 
 The Applied Learning Programme (ALP) in Environment Education is Punggol Secondary School’s distinctive niche programme. The ALP allows students to connect knowledge across subject disciplines, stretch their imagination and apply knowledge to real-world problems.
 

@@ -4,11 +4,8 @@ permalink: /signature-programmes/signature-level-programmes/secondary-2/
 description: ""
 third_nav_title: Signature Level Programmes
 ---
-![](/images/Our%20School/subbanner.jpg)
 
-## Secondary 2
-<font size="5"><br>
-	Taking Responsibility for Self, Peers and the Community</font>
+## Taking Responsibility for Self, Peers and the Community
 
 
 **Year Head 2: 

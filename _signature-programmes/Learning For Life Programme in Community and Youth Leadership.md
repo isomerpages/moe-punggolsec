@@ -3,9 +3,7 @@ title: Learning For Life Programme in Community and Youth Leadership
 permalink: /signature-programmes/learning-for-life-programme-in-community-and-youth-leadership/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
 
-## Learning For Life Programme in Community and Youth Leadership
 
 Punggol Secondary School (PSS) seeks to develop students to become confident citizens of the future who are learners and leaders guided by values and motivated to excel. This conviction underscores the impetus behind PSS’s Learning for Life Programme (LLP). Our LLP is an enriching, values-based and value-added educational experience to enable students to become future-ready citizens with a heart for people. The school thus embarked on the LLP journey in the domain of Community and Youth Leadership.
  

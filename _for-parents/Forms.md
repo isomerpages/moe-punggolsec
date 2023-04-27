@@ -5,10 +5,6 @@ description: ""
 ---
 
 
-![](/images/Our%20School/subbanner.jpg)
-
-## Forms
-
 Here is a list of forms for parents to access and submit to the school where applicable.  
   
 Students can also get a hard copy of the following forms from the general office.

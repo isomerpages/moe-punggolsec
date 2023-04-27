@@ -3,7 +3,7 @@ title: Science
 permalink: /the-pss-learning-experience/academic-subjects/science/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
+
 
 ## Science
 
@@ -15,10 +15,6 @@ We provide opportunities for all students to learn science to the best of their 
 
 We also prepare students for relevant competitions so that they are able to develop their 21st century world skills such as presentation and public speaking.  As they prepare for such competitions, students are also engaged in scientific research and report writing.
 
-###   
-
-
-**
 
 ### Achievements
 

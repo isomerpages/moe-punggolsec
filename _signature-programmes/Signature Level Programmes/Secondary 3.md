@@ -4,12 +4,7 @@ permalink: /signature-programmes/signature-level-programmes/secondary-3/
 description: ""
 third_nav_title: Signature Level Programmes
 ---
-![](/images/Our%20School/subbanner.jpg)
-
-## Secondary 3
-
-<font size="5"><b>Secondary 3&nbsp;<br>  
-	Serving Others, Striving Forward</b></font>
+## Serving Others, Striving Forward
 
 
 

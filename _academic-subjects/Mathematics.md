@@ -3,10 +3,9 @@ title: Mathematics
 permalink: /the-pss-learning-experience/academic-subjects/mathematics/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
 
 
-## Mathematics
+# Mathematics
 
 The Mathematics Department is committed to develop in our students a positive attitude towards Mathematics. We believe that all students can succeed and we aim to bring out the best in them.  
 

@@ -3,7 +3,7 @@ title: Mother Tongue Languages
 permalink: /the-pss-learning-experience/academic-subjects/mother-tongue-languages/
 description: ""
 ---
-![](/images/Our%20School/subbanner.jpg)
+
 
 ## Mother Tongue Languages
 

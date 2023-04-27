@@ -2,7 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
-      - English Language & Literature.md
+      - English Language and Literature.md
       - Mathematics.md
       - Science.md
       - Mother Tongue Languages.md
