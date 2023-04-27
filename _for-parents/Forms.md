@@ -3,8 +3,6 @@ title: Forms
 permalink: /useful-links/for-parents/forms/
 description: ""
 ---
-
-
 Here is a list of forms for parents to access and submit to the school where applicable.  
   
 Students can also get a hard copy of the following forms from the general office.
@@ -47,7 +45,7 @@ Students can also get a hard copy of the following forms from the general office
   </tr>
   <tr>
     <td> 8</td>
-    <td> <a href="https://form.gov.sg/#!/60c5d98fc3dc8b0012d08697">Application Form for Leave of Absence</a><br>LINK DOES NOT WORK</td>
+    <td> <a href="https://form.gov.sg/#!/60c5d98fc3dc8b0012d08697">Application Form for Leave of Absence</a><br></td>
   </tr>
   <tr>
     <td> 9</td>
