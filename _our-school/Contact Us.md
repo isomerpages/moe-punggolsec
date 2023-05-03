@@ -5,14 +5,13 @@ description: ""
 ---
 ![](/images/Our%20School/subbanner.jpg)
 
-### Contact Us
 
 
 Punggol Secondary School<br>
 Address: 51 Edgefield Plains, Singapore 828870<br>
 Tel: 6489 7851<br>
 Fax: 6489 7859<br>
-Email: [punggol\_ss@moe.edu.sg](mailto:punggol_ss@moe.edu.sg)
+Email:&nbsp;[punggol\_ss@moe.edu.sg](mailto:punggol_ss@moe.edu.sg)
 
   
 
