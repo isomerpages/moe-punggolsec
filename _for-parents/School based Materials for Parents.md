@@ -3,7 +3,7 @@ title: School based Materials for Parents
 permalink: /for-parents/permalink/
 description: ""
 ---
-<strong>Dear Parents/ Guardians,
+Dear Parents/ Guardians,
 	
 Please refer to the links below for the materials shared at Parent Engagement Sessions.
 # **All levels**
@@ -25,4 +25,3 @@ Please refer to the links below for the materials shared at Parent Engagement Se
 
 	
 	
-</strong>
