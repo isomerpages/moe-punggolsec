@@ -2,11 +2,11 @@ collections:
   for-students:
     output: true
     order:
-      - GCE O levels Results Release.md
+      - Timetable.md
+      - Student Online Portal Password Reset.md
+      - First Week of School matters (2023).md
       - GCE N Level Results Release/.keep
       - GCE N Level Results Release/2022 GCE N Level Results Release.md
       - GCE N Level Results Release/Information on 'N' Levels Admission
         Exercise.md
-      - Timetable.md
-      - Student Online Portal Password Reset.md
-      - First Week of School matters (2023).md
+      - GCE O levels Results Release.md
