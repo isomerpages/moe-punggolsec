@@ -10,7 +10,7 @@ Students are reminded to refer to their timetables and pack their bags according
 ***Class Timetable 2023*** 
 
 Please refer to your class timetable:
-[here](/files/2023%20semester%202%20timetable%20for%20each%20class%20%2022%20june%201345pm.pdf)
+[here](/files/semester%202%20timetable%202023.pdf)
 
 
 
