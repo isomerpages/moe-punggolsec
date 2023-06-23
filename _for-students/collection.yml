@@ -2,7 +2,7 @@ collections:
   for-students:
     output: true
     order:
-      - Preliminary Examinations Timetable.md
       - Timetable.md
+      - Preliminary Examinations Timetable.md
       - Student Online Portal Password Reset.md
       - First Week of School matters (2023).md
