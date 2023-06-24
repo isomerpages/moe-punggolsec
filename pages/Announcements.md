@@ -20,3 +20,8 @@ Dear Students, please click the above link for 2023 Semester 2 timetable.
 
 --------------------------
 
+**[Secondary 4 NA and NT Preliminary Examinations Timetable](https://punggolsec.moe.edu.sg/useful-links/for-students/preliminary-examinations-timetable/)**
+
+Dear Secondary 4NANT students, please click the above link for your Preliminary examinations timetable.
+
+--------------------------
