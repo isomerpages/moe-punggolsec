@@ -17,6 +17,6 @@ sections:
       url: /announcements/
       background: /images/hero title.png
   - resources:
-      title: News and Updates
+      title: Updates
       button: Resources Button Name
 ---
