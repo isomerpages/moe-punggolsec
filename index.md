@@ -11,6 +11,12 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+        - title: Contact Us
+          description: ""
+          url: ""
       url: /announcements/
       background: /images/hero title.png
+  - resources:
+      title: News and Updates
+      button: Resources Button Name
 ---
