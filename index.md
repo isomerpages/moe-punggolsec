@@ -14,7 +14,6 @@ sections:
         - title: Contact Us
           description: ""
           url: /our-school/contact-us/
-      url: /announcements/
       background: /images/hero title.png
   - resources:
       title: Updates
