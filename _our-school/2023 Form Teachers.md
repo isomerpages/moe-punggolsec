@@ -55,8 +55,8 @@ description: ""
     <td><a href="mailto:eunice_low@schools.gov.sg">eunice_low@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Mr Chan Yong Hong</td>
-    <td><a href="mailto:chan_yong_hong@schools.gov.sg">chan_yong_hong@schools.gov.sg</a></td>
+    <td>Ms See Ko Li Jessica</td>
+    <td><a href="mailto:see_ko_li_jessica@schools.gov.sg">see_ko_li_jessica@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td rowspan="3">1E</td>
@@ -94,13 +94,9 @@ description: ""
     <td><a href="mailto:tan_hui_sze@schools.gov.sg">tan_hui_sze@schools.gov.sg</a> </td>
   </tr>
   <tr>
-    <td rowspan="3">1H</td>
+    <td rowspan="2">1H</td>
     <td>Ms Junaidah Rahman</td>
     <td><a href="mailto:junaidah_rahman@schools.gov.sg">junaidah_rahman@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Ng Tian Loong, Jonathan</td>
-    <td><a href="mailto:ng_tian_loong_jonathan@schools.gov.sg">ng_tian_loong_jonathan@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Ms Moo Sheau Yuan </td><td><a href="mailto:moo_sheau_yuan@schools.gov.sg">moo_sheau_yuan@schools.gov.sg</a></td>
@@ -119,13 +115,17 @@ description: ""
 </thead>
 <tbody>
   <tr>
-      <td rowspan="2">2A</td>
+      <td rowspan="3">2A</td>
       <td>Mdm Yogeswari Balasubramanian</td>
       <td><a href="mailto:yogeswari_ponnambalam@schools.gov.sg">yogeswari_ponnambalam@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td>Ms Raihana Ramli</td>
       <td><a href="mailto:raihana_ramli@schools.gov.sg">raihana_ramli@schools.gov.sg</a></td>
+    </tr>
+	 <tr>
+      <td>Mr Seethor Chee Mang Benjamin</td>
+      <td><a href="mailto:benjamin_seethor@schools.gov.sg">benjamin_seethor@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td rowspan="3">2B</td>
@@ -185,13 +185,9 @@ description: ""
       <td><a href="mailto:lee_jing_yu@moe.edu.sg">lee_jing_yu@moe.edu.sg</a></td>
     </tr>
     <tr>
-      <td rowspan="3">2N2</td>
+      <td rowspan="2">2N2</td>
       <td>Mr Peh Aik Hui</td>
       <td><a href="mailto:peh_aik_hui@schools.gov.sg">peh_aik_hui@schools.gov.sg</a></td>
-    </tr>
-    <tr>
-      <td>Ms Lim Yian Sin</td>
-      <td><a href="mailto:lim_yian_sin@schools.gov.sg">lim_yian_sin@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td>Mr Ng Choon Cheng</td>
