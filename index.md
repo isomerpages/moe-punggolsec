@@ -11,11 +11,5 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Contact Us
-          description: ""
-          url: /our-school/contact-us/
       background: /images/hero title.png
-  - resources:
-      title: Updates
-      button: Resources Button Name
 ---
