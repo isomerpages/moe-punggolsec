@@ -11,6 +11,5 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-      url: /announcements/
       background: /images/hero title.png
 ---
