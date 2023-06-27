@@ -13,7 +13,7 @@ sections:
           url: /announcements/
         - title: Contact Us
           description: ""
-          url: ""
+          url: /our-school/contact-us/
       url: /announcements/
       background: /images/hero title.png
   - resources:
