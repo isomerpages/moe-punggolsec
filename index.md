@@ -11,5 +11,10 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-      background: /images/PSS website dividers (1).gif
+        - title: Contact us
+          description: ""
+          url: ""
+      background: /images/hero section.jpg
+  - resources:
+      title: Announcements
 ---
