@@ -11,10 +11,5 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Contact us
-          description: ""
-          url: /contact-us/
       background: /images/hero section.jpg
-  - resources:
-      title: Announcements
 ---
