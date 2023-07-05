@@ -13,7 +13,7 @@ Please refer to the links below for the materials shared at Parent Engagement Se
 	
 [Term 2 Principal's Letter](/files/term%202%20principal%20letter%20to%20parents.pdf)
 	
-
+[Term 3 Principal's Letter]()
 
 
 | Sec 1 | Sec 2 | Sec 3 | Sec 4 &amp; 5|  
