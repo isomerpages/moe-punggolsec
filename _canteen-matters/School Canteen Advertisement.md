@@ -12,7 +12,8 @@ Punggol Secondary School has one canteen stall vacancy for:
 **School Information**  
 Our School has student population of 1277 and staff strength of 170.
 
-**Canteen Operating Hours**   Friday, 7:30am to 3:30pm during School Term. The canteen operator may be required to operate on other days as required by the school.
+**Canteen Operating Hours**  
+Monday to Friday, 7:30am to 3:30pm during School Term. The canteen operator may be required to operate on other days as required by the school.
 
 **Contract Period**  
 1 Oct to 31 December 2023  
