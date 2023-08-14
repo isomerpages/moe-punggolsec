@@ -4,20 +4,18 @@ permalink: /canteen-matters/school-canteen-advert/
 description: ""
 ---
 # **School Canteen Advertisement**
-
-        
+     
 
 Punggol Secondary School has one canteen stall vacancy for:  
 (1) Fruits, Fresh Juices, Healthy Beverages & Desserts (no selling of titbits)
 
 **School Information**  
-Our School has student population of 1277 and staff strength of 170.
+Our School has student populatio
+Monday ton of 1277 and staff strength of 170.
 
-**Canteen Operating Hours**  
-Monday to Friday, 7:30am to 3:30pm during School Term. The canteen operator may be required to operate on other days as required by the school.
+**Canteen Operating Hours**   Friday, 7:30am to 3:30pm during School Term. The canteen operator may be required to operate on other days as required by the school.
 
-**Contract Period**
-
+**Contract Period**  
 1 Oct to 31 December 2023  
 (Contract is renewable from January to December, on a yearly basis).
 
@@ -33,7 +31,7 @@ Monday to Friday, 7:30am to 3:30pm during School Term. The canteen operator may 
 
 **Application Procedure**
 
-[Application Form](https://www.westwoodpri.moe.edu.sg/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf) must be completed and submitted to our school’s General Office by **25 August 2023** with the following documents:
+ must be completed and submitted to our school’s General Office by **25 August 2023** with the following documents:
 
 *   Photocopy of the applicant’s NRIC (front and back)
 *   Proposed menu and pricing
