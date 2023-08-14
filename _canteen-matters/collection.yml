@@ -2,4 +2,4 @@ collections:
   canteen-matters:
     output: true
     order:
-      - School Canteen Advertisement.md
+      - School Matters.md
