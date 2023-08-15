@@ -32,8 +32,8 @@ Dear Secondary 4 Exp & 5 NA students, please refer to the above link for your Pr
 
 --------------------------
 
-**[Canteen vendor ](https://punggolsec.moe.edu.sg/useful-links/canteen-matters/)**
+**[Canteen matters ](https://punggolsec.moe.edu.sg/useful-links/canteen-matters/)**
 
-Punggol Secondary is looking for  canteen vendor, please refer to the above link for more information
+Punggol Secondary is looking for canteen vendor, please refer to the above link for more information.
 
 --------------------------
