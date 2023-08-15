@@ -31,3 +31,9 @@ Dear Secondary 4 NA & NT students, please refer to the above link for your Preli
 Dear Secondary 4 Exp & 5 NA students, please refer to the above link for your Preliminary examinations timetable.
 
 --------------------------
+
+**[Secondary 4 Exp and 5 NA Preliminary Examinations Timetable](https://punggolsec.moe.edu.sg/useful-links/for-students/assessment-matters/)**
+
+Punggol Secondary is looking for  please refer to the above link for your Preliminary examinations timetable.
+
+--------------------------
