@@ -2,5 +2,5 @@ collections:
   canteen-matters:
     output: true
     order:
-      - Halal Rice & Western Food.md
       - Drink Stall.md
+      - Halal Rice & Western Food.md
