@@ -31,7 +31,7 @@ Monday to Friday, 7:30am to 3:30pm during School Term. The canteen operator may 
 
 **Application Procedure**
 
-[Application form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf) must be completed and submitted to our school’s General Office by **13 September 2023** with the following documents:
+[Application form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf) must be completed and submitted to our school’s General Office by **14 September 2023** with the following documents:
 
 *   Photocopy of the applicant’s NRIC (front and back)
 *   Proposed menu and pricing
