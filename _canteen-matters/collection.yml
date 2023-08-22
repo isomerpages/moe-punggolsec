@@ -2,4 +2,4 @@ collections:
   canteen-matters:
     output: true
     order:
-      - Canteen Matters.md
+      - Drink Stall.md
