@@ -6,7 +6,7 @@ description: ""
 # School Canteen Advertisement
 
 Punggol Secondary School has one canteen stall vacancy for:  
-(1) Fruits, Fresh Juices, Healthy Beverages & Desserts (no selling of titbits)
+(1) Halal Rice & Western Food
 
 **School Information**  
 Our School has student population of 1277 and staff strength of 170.
@@ -31,12 +31,12 @@ Monday to Friday, 7:30am to 3:30pm during School Term. The canteen operator may 
 
 **Application Procedure**
 
-[Application form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf) must be completed and submitted to our school’s General Office by **25 August 2023** with the following documents:
+[Application form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf) must be completed and submitted to our school’s General Office by **13 September 2023** with the following documents:
 
 *   Photocopy of the applicant’s NRIC (front and back)
 *   Proposed menu and pricing
 *   Photocopy of relevant certificates such as Basic Food Hygiene etc
 
-**Application Closing Date: 25 August 2023**
+**Application Closing Date: 14 September 2023**
 
 Only shortlisted applicants will be notified for an interview and beverage/dessert sampling at the school. For further queries, please contact Mdm Oh Chew Ling (Administration Manager) at 64897851.
