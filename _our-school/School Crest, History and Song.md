@@ -66,7 +66,7 @@ In 1978, in keeping with MOE’s policy of the integration of students from diff
 
   
 
-In 1986, the school relinquished its added school status and became a government school.
+In 1986, the school relinquished its aided school status and became a government school.
 
   
 
