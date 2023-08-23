@@ -1,6 +1,6 @@
 ---
-title: Canteen Matters
-permalink: /useful-links/canteen-matters/
+title: Drink Stall
+permalink: /useful-links/canteen-matters/drink-stall/
 description: ""
 ---
 # School Canteen Advertisement
