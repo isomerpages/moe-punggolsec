@@ -9,7 +9,7 @@ description: ""
 			<th style="width: 30%; text-align: center; border: 1px solid;">Dates</th>
 		  <th style="width: 70%; text-align: center; border: 1px solid;">Schedule</th></tr>
 	</thead>
-	<tbody style="text-align: center;">
+	<tbody>
 		<tr>
 			<td style="font-weight: bold; border: 1px solid;">26 Oct 5pm (Thur) to 31 Oct 1230pm (Tues) </td>
 			<td style="font-weight: bold; border: 1px solid;">Submission of Subject Combination Option Form (Online)</td>			</tr>
