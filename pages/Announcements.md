@@ -20,14 +20,12 @@ Dear Students, please refer to the above link for 2023 Semester 2 timetable.
 
 --------------------------
 
-**[Secondary 4 Exp and 5 NA Preliminary Examinations Timetable](https://punggolsec.moe.edu.sg/useful-links/for-students/assessment-matters/)**
-
-Dear Secondary 4 Exp & 5 NA students, please refer to the above link for your Preliminary examinations timetable.
-
---------------------------
-
 **[Canteen matters ](https://punggolsec.moe.edu.sg/useful-links/canteen-matters/)**
 
 Punggol Secondary is looking for canteen vendor, please refer to the above link for more information.
 
 --------------------------
+
+**[Secondary 2 Subject Combination Schedule](https://punggolsec.moe.edu.sg/useful-links/for-students/subject-combination-schedule-2023/)**
+
+Dear Secondary 2 students, please refer to the above link for subject combination schedule.
