@@ -8,21 +8,22 @@ description: ""
 ## Announcements
 
 
+**[Secondary 2 Subject Combination Schedule](https://punggolsec.moe.edu.sg/useful-links/for-students/subject-combination-schedule-2023/)**
+
+Dear Secondary 2 students, please refer to the above link for subject combination schedule.
+
+--------------------------
+
 **[PSS Experience video](https://staging.d3louf41pupxe5.amplifyapp.com/our-school/school-identity/)**
 
 Dear Students, please refer to the above link to watch a video on the PSS Experience.
 
 --------------------------
 
-**[2023 Semester 2 Class Timetable](https://punggolsec.moe.edu.sg/useful-links/for-students/timetable/)**
+
+**[2023 Semester 2 Class Timetable](https://www.punggolsec.moe.edu.sg/useful-links/for-students/timetable/)**
 
 Dear Students, please refer to the above link for 2023 Semester 2 timetable.
-
---------------------------
-
-**[Secondary 4 Exp and 5 NA Preliminary Examinations Timetable](https://punggolsec.moe.edu.sg/useful-links/for-students/assessment-matters/)**
-
-Dear Secondary 4 Exp & 5 NA students, please refer to the above link for your Preliminary examinations timetable.
 
 --------------------------
 
