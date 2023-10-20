@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Rent a locker/Rental of Lockers (FAQs).md
       - Rent a locker/.keep
       - Parents Gateway.md
       - School based Materials for Parents.md
