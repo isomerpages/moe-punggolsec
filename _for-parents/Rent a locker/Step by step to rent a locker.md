@@ -14,12 +14,15 @@ third_nav_title: Rent a locker
 
 * Once verification is successful, you may proceed to book and pay for a locker by:-
  
- 
   1)  Logging into your registered account
 
+ 
   2)  At the page of “My Booking” click on “ADD A NEW BOOKING”
-  3)  Step 1: Select a Booking Period then click on “Next” 
-  4)  Step 2: Select the Location and Locker Size (Select based on your class)
+  
+	
+	3)  Step 1: Select a Booking Period then click on “Next” 
+  
+	4)  Step 2: Select the Location and Locker Size (Select based on your class)
   5)  Step 3: Confirm and Proceed to Payment
       *   Client:Punggol Secondary School
       *   Location:Block D Level 1 (Sec 2E)
