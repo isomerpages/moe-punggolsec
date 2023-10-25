@@ -28,17 +28,17 @@ third_nav_title: Rent a locker
 	
 	5)  Step 3: Confirm and Proceed to Payment
      
-		 *   Client:Punggol Secondary School
+	 *   Client:Punggol Secondary School
       
-		*   Location:Block D Level 1 (Sec 2E)
+	*   Location:Block D Level 1 (Sec 2E)
      
-		*   Cluster:Outside Room D1-02 (Sec 2E)
+	*   Cluster:Outside Room D1-02 (Sec 2E)
      
-		*   Locker Size: Small
+	*   Locker Size: Small
       
-		*   Period:Academic Year 2024: 01/01/2024 to 31/10/2024
+	*   Period:Academic Year 2024: 01/01/2024 to 31/10/2024
      
-		*   Booking Amount ($):26.00
+	*   Booking Amount ($):26.00
   
 	
 	6)  Confirm that your selections are correct before clicking on to “Proceed to payment”
