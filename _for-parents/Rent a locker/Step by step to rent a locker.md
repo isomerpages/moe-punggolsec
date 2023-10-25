@@ -22,15 +22,20 @@ third_nav_title: Rent a locker
 	
 	3)  Step 1: Select a Booking Period then click on “Next” 
   
+	
 	4)  Step 2: Select the Location and Locker Size (Select based on your class)
-  5)  Step 3: Confirm and Proceed to Payment
+  
+	
+	5)  Step 3: Confirm and Proceed to Payment
       *   Client:Punggol Secondary School
       *   Location:Block D Level 1 (Sec 2E)
       *   Cluster:Outside Room D1-02 (Sec 2E)
       *   Locker Size: Small
       *   Period:Academic Year 2024: 01/01/2024 to 31/10/2024
       *   Booking Amount ($):26.00
-  6)  Confirm that your selections are correct before clicking on to “Proceed to payment”
+  
+	
+	6)  Confirm that your selections are correct before clicking on to “Proceed to payment”
   (Please take note that once confirmed, the system is unable to accept changes)
 
 * You are then connected to the eNets website and no longer with the rent-a-locker website.  Please take note that the information which you key in is required by eNets and not by rent-a-locker.
