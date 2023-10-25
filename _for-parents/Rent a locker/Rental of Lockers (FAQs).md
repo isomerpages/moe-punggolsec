@@ -4,52 +4,89 @@ permalink: /useful-links/for-parents/rental-of-lockers-faqs/
 description: ""
 third_nav_title: Rent a locker
 ---
-Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I would like to book school locker. How do I go about doing so and how to make payment**?  
+**Q: On the frontpage, after selecting the schools from the list and I get an error.**
 
-A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kaichi Spacemaster Pte Ltd is the vendor appointed to supply and manage school locker rental. Booking is through the vendor’s link at&nbsp;[www.rent-a-locker.com](http://www.rent-a-locker.com/).
+A: This problem might arise when you accessing the website from a school portal. You should directly access this website from this URL: https://www.rent-a-locker.com
 
-**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the rental cost per year and the cost for FAS student?**
+**Q: When accessing the 'http://www.rent-a-locker.com' directly, I am not able to proceed.**
 
-A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The locker rental is $26/year and for financial assistance student is $20/year. FAS students to pay in full during booking of the locker. Refund of $6 will be credited back into the parent’s account by the vendor, upon vendor’s verification of their FAS status with school after booking is confirmed.
+A: Your browser may have cached the old Rent-a-Locker website. On the frontpage, please click on your browser's Refresh button or clear your browser cache. (see below for instructions).
 
-**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where do I find my child’s classroom location?**
+**Q: After clicking on 'Add a New Booking' the page does not finish loading.**
 
-A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please see the table below on classroom location.
+A: Try clicking on the refresh button on your browser. If the page still doesn't finish loading, you need to clear your cache.
 
-**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How does the locker work?**
+On IE7:
+1. From the Tools menu, select Internet Options.
+2. Choose the General tab.
+3. Under Browsing history, click Delete.
+4. Next to "Temporary Internet Files", click Delete files.
+5. Click Close, and then click OK to exit.
 
-A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School locker rental uses passcode to open the lock provided by vendor and the passcode will be sent to registered account in the booking link after payment is received.
+Click on your browser Refresh button.
 
-**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I withdraw halfway?**
+**Q: At the 'Add a New Booking' Page, nothing happens when I click on the 'Submit Booking' button.**
 
-A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is no refund for withdrawal halfway into the year.
+A: You need to select a locker size and location first.
 
-**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will I get a receipt for it?**
+1\. Click on the 'Click here to select available clusters' hyperlink. A new browser should popup.
 
-A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please contact the vendor Kaichi Spacemaster Pte Ltd at 62820868 to enquire.
+2\. Select the location from the dropdown list on top.
 
-**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have 2 children in Punggol Secondary School, do I need to book separately?**
+3\. Click on the available numbers from the list below.
 
-A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes, please book separately using 2 different accounts for each child.
+4\. Click 'Update Changes' to submit the changes. This should update the changes on the main window. The previous window will be closed.
 
-**Q:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I use my child’s shortened name or nickname to book?**
+5\. Click 'Submit Booking' button.
 
-A:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please use the&nbsp;**_full name_**&nbsp;as in your child’s BC/NRIC/FIN to book.
+6\. Review the charges involve and click on the 'Proceed to payment' button.
 
-**<u>Please take note of important information below:</u>**
+**Q: At the 'Add a New Booking' Page, nothing happens when I click on the 'Submit Booking' button.**
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The lockers are the sole property of Kaichi Spacemaster Pte Ltd.
+A: You need to select a locker size and location first.
+1. Click on the 'Click here to select available clusters' hyperlink. 
+A new browser should popup.
+2. Select the location from the dropdown list on top.
+3. Click on the available numbers from the list below.
+4. Click 'Update Changes' to submit the changes. This should update the changes on the main window. The previous window will be closed.
+5. Click 'Submit Booking' button.
+6. Review the charges involve and click on the 'Proceed to payment' button.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the rental period, students are responsible for the hygiene and general upkeep of the lockers
+**Q: When will my locker be allocated?**
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students must clear the lockers before year-end school holiday.
+A: It usually takes about 10 working days. However, every year, there is a large number students who continues to use the lockers after it expires. Hence, we need to check that the expired lockers are empty before allocating it. Please be patient.
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon verification of payment, lockers will be assigned to each user along with their unique combination code for the combination padlocks. Users will have to log in with the created username and password in order to find out the combination code and assigned locker. Instructions and animations to guide students on how to operate the locker and padlocks can be found online.
+**Q: My locker has expired but I would like to renew.**
 
-e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the course of the locker rental service, only Master Combination padlocks are to be used at all times. Users are to refrain from using other padlocks. The company reserves the right to remove padlocks other than the one issued by the company.
+A: There will be no locker rental renewal for Punggol Secondary School.  Please re-apply for a locker for the next academic year when the online new booking opens.
 
-f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the user loses/misplaces, damages or otherwise causes the lock to be unusable, the registered user will have to be fully responsible for any costs incurred to replace any parts or the entire part of the locking device/locker. A transport and labour charge of $30 per trip will be levied and payable to KSM for emergency locker and recovery on top of the cost for damaged parts.
+**Q: What is the school key?**
 
-g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the user damages the locker, the user needs to report the damage directly to Kaichi Spacemaster Pte Ltd, and fully bear the cost of the repair of the locker.
+A: The school key is a password that is issued to your school administrator. This password will be disseminated to students of your school to prevent unauthorised people from booking. However, we have decided to temporarily disable this feature.
 
-h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Should users have any difficulties or require repairs/maintenance during the course of the rental, they can email to&nbsp;[admin@rent-a-locker.com](mailto:admin@rent-a-locker.com)&nbsp;or call 62820868.
+**Q: Is my browser supported?**
+
+A: You need Javascript to be enabled on your browser. This is the default settings on most browsers. The website has been tested on IE6, IE7 and Firefox.
+
+**Q: A problem occured while I was redirected to the ENETS website. How do I make payment?**
+
+A: Please log into your account at https://www.rent-a-locker.com. From the left menu, click on 'Booking History'. On the required booking, click on 'View Details'. If the booking has not been paid up, click on the 'Pay by eNETS' button.
+
+If you are paying by cheque, please send a cross cheque payable to:
+
+Kaichi Spacemaster Pte Ltd
+
+Address:
+132 Joo Seng Road
+#07-01 Uniplas Building Singapore 368358
+
+On the back of the cheque, please indicate:
+
+1. Booking ID 
+2. Student Name 
+3. Name of Institution 
+4. Contact Number
+
+**Q: I don't have a credit/ debit card. Can I pay by Internet banking?**
+
+A: At the moment, no. eNETS is in the process of upgrading their servers. Hopefully, the migration will be completed by the end of the year.
