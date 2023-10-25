@@ -2,9 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Rent a locker/Step by step to rent a locker.md
-      - Rent a locker/Rental of Lockers (FAQs).md
-      - Rent a locker/.keep
       - Parents Gateway.md
       - School based Materials for Parents.md
       - Parent Support Group.md
@@ -13,3 +10,6 @@ collections:
       - Forms.md
       - Book Lists (2023).md
       - Purchase of Uniform.md
+      - Rent a locker/.keep
+      - Rent a locker/Step by step to rent a locker.md
+      - Rent a locker/Rental of Lockers (FAQs).md
