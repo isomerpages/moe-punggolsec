@@ -13,6 +13,7 @@ third_nav_title: Rent a locker
 * Upon completion of filling up the form, Click on “Register” and you will receive an email for activation of your account.
 
 * Once verification is successful, you may proceed to book and pay for a locker by:-
+ 
   1)  Logging into your registered account
 
   2)  At the page of “My Booking” click on “ADD A NEW BOOKING”
