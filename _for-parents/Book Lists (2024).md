@@ -32,9 +32,9 @@ To order, please log on to&nbsp;[www.oapl.sg](http://www.oapl.sg/)
     <td></td>
   </tr>
   <tr>
-    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_2NT.pdf">Normal Technical</a> </td>
-    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_3NT.pdf">Normal Technical </a></td>
-    <td> <a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_4NT.pdf">Normal Technical</a></td>
+    <td></td>
+    <td><a href="/files/booklist%202024_pgs_3nt.pdf">Normal Technical </a></td>
+    <td> <a href="/files/booklist%202024_pgs_4nt.pdf">Normal Technical</a></td>
     <td> </td>
   </tr>
 </tbody>
