@@ -3,7 +3,6 @@ title: Book Lists (2024)
 permalink: /useful-links/for-parents/book-lists-2024/
 description: ""
 ---
-
 To order, please log on to&nbsp;[www.oapl.sg](http://www.oapl.sg/)
 
 You can choose for the textbooks to be delivered to your home (charges apply). Alternatively, you may pick them up at the school bookshop.
@@ -37,8 +36,6 @@ You can choose for the textbooks to be delivered to your home (charges apply). A
     <td> </td>
   </tr>
 </tbody>
-</table>
-
-
-
-unfortunately be unable to enter the school.
+</table><br>
+<br>
+<br>
