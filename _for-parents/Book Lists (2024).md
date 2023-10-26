@@ -3,11 +3,10 @@ title: Book Lists (2024)
 permalink: /useful-links/for-parents/book-lists-2024/
 description: ""
 ---
-In view of the current safe management measures,&nbsp;parents and students are reminded to purchase the textbooks online.  
-  
 
 To order, please log on to&nbsp;[www.oapl.sg](http://www.oapl.sg/)
 
+You can choose for the textbooks to be delivered to your home (charges apply). Alternatively, you may pick them up at the school bookshop.
 
 <table>
 <thead>
@@ -41,6 +40,5 @@ To order, please log on to&nbsp;[www.oapl.sg](http://www.oapl.sg/)
 </table>
 
 
-You can choose for the textbooks to be delivered to your home (charges apply). Alternatively, you may pick them up at the school bookshop by booking a time slot at the above link.&nbsp;
 
-Only one parent and/or student may be allowed into the school for the pick-up of textbooks and purchase of uniform. You will be required to show the email confirmation of the timeslot to enter the school. Individuals who did not make prior appointments for textbook or uniform will unfortunately be unable to enter the school.
+unfortunately be unable to enter the school.
