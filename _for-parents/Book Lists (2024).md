@@ -28,7 +28,7 @@ To order, please log on to&nbsp;[www.oapl.sg](http://www.oapl.sg/)
   <tr>
     <td></td>
     <td><a href="/files/booklist%202024_pgs_3na.pdf">Normal Academic</a></td>
-    <td><a href="/files/Useful%20Links/For%20Parents/Booklist%202023_PSS_4NA.pdf">Normal Academic</a></td>
+    <td><a href="/files/booklist%202024_pgs_4na.pdf">Normal Academic</a></td>
     <td></td>
   </tr>
   <tr>
