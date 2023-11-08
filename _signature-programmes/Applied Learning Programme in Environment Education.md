@@ -2,9 +2,8 @@
 title: Applied Learning Programme in Environment Education
 permalink: /signature-programmes/applied-learning-programme-in-environment-education/
 description: ""
+variant: markdown
 ---
-
-
 The Applied Learning Programme (ALP) in Environment Education is Punggol Secondary School’s distinctive niche programme. The ALP allows students to connect knowledge across subject disciplines, stretch their imagination and apply knowledge to real-world problems.
 
 
@@ -106,7 +105,7 @@ Students visited Kok Fah Technology Farm as part of their ALP module in ‘Waste
 <figcaption> <strong>Students learning about different farming systems.</strong> </figcaption>
 </figure>
 
-**_STEM Trail at Gardens by Gardens by the Bay_**
+**_STEM Trail at Gardens By the Bay_**
 
 The Secondary Two cohort visited Gardens by the Bay for a Science, Technology, Engineering and Mathematics (STEM) Trail, which allowed them to apply their mathematical and scientific knowledge in a real-world setting. They collaborated in activities that tapped on their skills in topics such as Mensuration, Proportion, Chemical Changes and Energy. In addition, they gained a greater appreciation for the beauty and diversity of the flora found at the Gardens and the technology behind the scenes that help maintain this iconic Singapore landmark.
 
@@ -143,59 +142,6 @@ Students from the Environment Club play a key role in promoting environmental su
 ### Achievements
 
 
-**Year 2018**
-
-**Science Competitions**
-
-*   International C.B Paul Science Quiz: 1 Silver, 2 Bronze, 2 Honourable Mention, 2 Merit Awards
-    
-*   IgnITE Science Challenge: Circuit Tinkering Challenge Finalist (1 team)
-    
-*   IgnITE Science Challenge: Mad Mocktail Challenge Finalist (1 team)
-    
-*   Elementz Science Project Competition (Lower Secondary): Top Viewer's Choice, Gold Award &amp; Certificate of Commendation
-    
-*   Singapore Junior Physics Olympiad: 1 Bronze
-    
-*   Vanda Miss Joaquim Award
-    
-
-  
-
-We sent two teams to participate in the Elementz Science Project Competition. After working tirelessly, the teams managed to clinch a Gold Award and a Certificate of Commendation for their projects. They were also presented with the top Viewers’ Choice award for the former.
-
-One student competed against over 1000 students from different secondary schools and won a Bronze Medal in the Singapore Junior Physics Olympiad.
-
-**Year 2019**
-
-**Science Competitions**
-
-*   International C.B Paul Science Quiz: 1 Bronze
-    
-*   Science Buskers Festival: Finalist (1 team)
-    
-*   IgnITE Science Challenge: Flying Saucer Challenge, 3rd position&nbsp;
-    
-*   Vanda Miss Joaquim Award
-    
-
-  
-
-6 teams participated in IgnITE Science Challenge. One team managed to proceed to the final round and eventually won 3rd position in the Flying Saucer Challenge.
-
-  
-
-**Year 2020**
-
-**Science Competitions**
-
-*   Singapore Junior Biology Olympiad: 10 Certificates of Merit
-    
-*   Singapore Junior Physics Olympiad: 1 Honourable Mention
-    
-*   Vanda Miss Joaquim Award
-    
-
   
 
 **Year 2021**
@@ -206,28 +152,35 @@ One student competed against over 1000 students from different secondary schools
     
 *   Singapore Junior Chemistry Olympiad: 1 Silver
     
-*   Sustained Vanda Miss Joaquim Award for the School Green Awards 2021
+*   Vanda Miss Joaquim Award Sustained Achievement Award
     
 
   
-
-One student competed against 2000 students from over 80 secondary schools and won a Silver Medal in the Singapore Junior Chemistry Olympiad.
-
-The Environmental Club achieved the Sustained Vanda Miss Joaquim Award for the School Green Awards 2021. This is the highest attainable award and is awarded to schools that have achieved the Vanda Miss Joaquim Award for three consecutive years.
-
-<figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPICBPaulScienceQuiz2021.jpg" style="width:65%">
-<figcaption> <strong>Participants for International C.B Paul Science Quiz 2021</strong> </figcaption>
-</figure>
 
 **Year 2022**
 
 **Science Competitions**
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International C.B Paul Science Quiz: 5 Gold, 2 Silver, 1 Bronze and 2 Merit. Overall 4th&nbsp;runner up in Finals.
+*   International C.B Paul Science Quiz: 5 Gold, 2 Silver, 1 Bronze and 2 Merit. Overall 4th and runner up in Finals.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Biology Olympiad: 2 Bronze and 3 Honourable Mention
+*   Singapore Junior Biology Olympiad: 2 Bronze and 3 Honourable Mention
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Chemistry Olympiad: 3 Merit
+*   Singapore Junior Chemistry Olympiad: 3 Merit
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Physics Olympiad: 1 Bronze and 7 Honourable Mention
+*   Singapore Junior Physics Olympiad: 1 Bronze and 7 Honourable Mention
+
+*   Vanda Miss Joaquim Award Sustained Achievement Award
+
+
+
+**Year 2023**
+
+**Science Competitions**
+
+*   International C.B Paul Science Quiz: 2 Silver, 3 Bronze and 1 Merit
+
+*   Singapore Junior Biology Olympiad: 4 Bronze and 1 Honourable Mention
+
+*   Singapore Junior Chemistry Olympiad: 3 Merit
+
+*   Singapore Junior Physics Olympiad: 5 Bronze
