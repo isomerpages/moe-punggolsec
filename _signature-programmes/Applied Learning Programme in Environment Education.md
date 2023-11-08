@@ -34,8 +34,6 @@ Our students undergo a journey of self-discovery through these modules in their 
 
 **_Secondary 1 Module: Waste Management_**
 
-  
-
 The Waste Management module is conducted for Secondary 1 Express, Normal Academic and Normal Technical students during their Science lessons. In this module, students learn about the importance of eco-sustainability and develop an awareness about waste management related issues in Singapore and around the world. For a unit on vermicomposting, our students also learn about the design and construction of a vermicomposting system as a method of food waste recycling.
 
 <figure>
@@ -43,9 +41,8 @@ The Waste Management module is conducted for Secondary 1 Express, Normal Academi
 <figcaption> <strong> Students learning about vermicomposting </strong> </figcaption>
 </figure>
 
-**_Secondary 2 Module: Clean Energy_**  
 
-  
+**_Secondary 2 Module: Clean Energy_**  
 
 In the ‘Clean Energy’ module, all Secondary Two students learn about clean energy technologies and practices for sustainable living through a&nbsp;hands-on approach. This module is an effective collaboration amongst the Science, Geography and Design &amp; Technology Departments.
 
@@ -74,11 +71,11 @@ In 2021, the ALP committee collaborated with the LLP committee once again. Secon
 **_<u>Student Development Week Activities
 </u>_**
 
-The Secondary 1 to 3 students also engaged in a series of meaningful ALP activities after their examinations.
+The Secondary One to Three students also engaged in a series of meaningful ALP activities after their examinations.
 
 **_Upcycling disused plastic milk bottles into bottle lamps_**
 
-As environmental sustainability continues as a top trend in the retail industry, retailers have taken steps to become more sustainable. One way is to use recycled materials to construct LED lamps. In 2021, the Lower Secondary students had the opportunity to experience first-hand upcycling of a disused plastic milk bottle into a bottle lamp. Each student brought home an LED-powered bottle lamp that is energy efficient.
+As environmental sustainability continues as a top trend in the retail industry, retailers have taken steps to become more sustainable. One way is to use recycled materials to construct LED lamps. The Lower Secondary students had the opportunity to experience first-hand upcycling of a disused plastic milk bottle into a bottle lamp. Each student brought home an LED-powered bottle lamp that is energy efficient.
 
 <figure>
 <img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPBottleLamps.png" style="width:100%">
@@ -97,7 +94,7 @@ Students have the opportunity to use upcycling techniques to cut and transform t
 
 **_Learning Journey to Kok Fah Technology Farm_**
 
-Students visited Kok Fah Technology Farm as part of their ALP module in ‘Waste Management’. They learn about the workflow and climate control processes in Kok Fah Farm’s Showcase Greenhouse and how technological and scientific advancements over the years can help to increase food productivity efficiently. The Farm guides also discuss the pros and cons of different farming systems and how these systems assist in increasing food security in a land-scarce Singapore.
+Students visited Kok Fah Technology Farm as part of their ALP module in ‘Waste Management’. They learned about the workflow and climate control processes in Kok Fah Farm’s Showcase Greenhouse and how technological and scientific advancements over the years can help to increase food productivity efficiently. The farm guides also shared about the pros and cons of different farming systems and how these systems assist in increasing food security in a land-scarce Singapore.
  
 
 <figure>
@@ -118,8 +115,7 @@ The Secondary Two cohort visited Gardens by the Bay for a Science, Technology, E
 
 **_Sungei Buloh Wetland Biodiversity Walk and Intertidal Coastal Cleanup_**
 
-  
-
+ 
 Secondary Three Express students participated in the Sungei Buloh Wetland Biodiversity Walk in 2019. They walked through the mangrove forest of Sungei Buloh Wetland Reserves, where they could closely observe the biodiversity of the mangrove ecosystem. They also learned about how well the mangrove trees have adapted to the saltwater conditions and their importance in the ecosystem. In addition, students also got to see unique mangrove inhabitants such as mudskippers, monitor lizards, tree-climbing crabs, kingfishers, and even crocodiles.
 
 After the biodiversity walk, students engaged in the Intertidal Coastal Cleanup in collaboration with International Coastal Cleanup Singapore (ICCS). Students actively and enthusiastically contributed to the cleaning up of pollution and rubbish along Singapore’s shores.
@@ -141,8 +137,6 @@ Students from the Environment Club play a key role in promoting environmental su
 
 ### Achievements
 
-
-  
 
 **Year 2021**
 
