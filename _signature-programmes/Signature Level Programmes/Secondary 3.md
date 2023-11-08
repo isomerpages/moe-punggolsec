@@ -3,6 +3,7 @@ title: Secondary 3
 permalink: /signature-programmes/signature-level-programmes/secondary-3/
 description: ""
 third_nav_title: Signature Level Programmes
+variant: markdown
 ---
 ## Serving Others, Striving Forward
 
@@ -70,7 +71,7 @@ In order to maximise curriculum time, the Free Period Academic Support programme
 
   
 
-Many of our Secondary 3 students take up higher leadership positions in the Student Council Executive Committee and Student Leadership Board in June. This is on top of those who were also appointed as CCA Leaders, Class leaders and Peer Support Leaders throughout the year. These leadership opportunities provided aim to develop and hone the leadership qualities in our students and provide the avenue for them to leave a positive impact in others, as they serve the school and the community.
+Many of our Secondary Three students take up higher leadership positions in the Student Council Executive Committee and Student Leadership Board in June. This is on top of those who were also appointed as CCA Leaders, Class leaders and Peer Support Leaders throughout the year. These leadership opportunities provided aim to develop and hone the leadership qualities in our students and provide the avenue for them to leave a positive impact in others, as they serve the school and the community.
 
 <figure>
 <img style="width:85%" src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%203/DSC_1141.jpg">
