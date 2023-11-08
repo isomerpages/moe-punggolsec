@@ -18,7 +18,7 @@ sections:
       id: infopic
       description: Saturday, 25 November 2023, 9am - 1pm
       button: Register your interest
-      url: https://go.gov.sg/pss-open-house-2023
+      url: https://sites.google.com/moe.edu.sg/pssopenhouse/home
       image: /images/2023 open house banner (full).jpeg
       alt: Image alt text
 ---
