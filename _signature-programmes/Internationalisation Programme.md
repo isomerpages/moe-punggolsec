@@ -2,8 +2,8 @@
 title: Internationalisation Programme
 permalink: /signature-programmes/internationalisation-programme/
 description: ""
+variant: markdown
 ---
-
 The school envisions that students will become confident citizens and leaders, guided by values and motivated to excel. Globalisation has created sociocultural and socio-economic conditions that are volatile, uncertain, complex and ambiguous. Beyond the acquisition of knowledge and cultural understanding, it is in our philosophy that education is a journey of self-discovery. Away from the comfort of home, students are given opportunities to experience and appreciate the diversity and opportunities available in the different ASEAN countries the students visit. The experiences gained from these trips would witness a paradigm shift in students’ thinking, where they reframe how societal issues are viewed, understand many life lessons and better appreciate the things they have. 
 
 The Overseas Learning Journey (OLJ) equips students with the necessary 21st century competencies and develop their cross-cultural skills and sensitivities. This Internationalisation Programme prepares students to be future-ready as they graduate from the position of strength.
@@ -11,7 +11,7 @@ The Overseas Learning Journey (OLJ) equips students with the necessary 21st cent
 While the programmes of the various OLJs are different, they are designed to cultivate the learning of values and development of the students in 21st century competencies. This is done through OLJs focusing on Values-in-Action (VIA), cultural exchanges, immersion programmes, and leadership developments. 
   
 
-List of past OLJs
+List of past OLJs:
 
   
 

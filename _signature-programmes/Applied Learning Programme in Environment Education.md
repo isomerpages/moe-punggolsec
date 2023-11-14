@@ -2,9 +2,8 @@
 title: Applied Learning Programme in Environment Education
 permalink: /signature-programmes/applied-learning-programme-in-environment-education/
 description: ""
+variant: markdown
 ---
-
-
 The Applied Learning Programme (ALP) in Environment Education is Punggol Secondary School’s distinctive niche programme. The ALP allows students to connect knowledge across subject disciplines, stretch their imagination and apply knowledge to real-world problems.
 
 
@@ -35,8 +34,6 @@ Our students undergo a journey of self-discovery through these modules in their 
 
 **_Secondary 1 Module: Waste Management_**
 
-  
-
 The Waste Management module is conducted for Secondary 1 Express, Normal Academic and Normal Technical students during their Science lessons. In this module, students learn about the importance of eco-sustainability and develop an awareness about waste management related issues in Singapore and around the world. For a unit on vermicomposting, our students also learn about the design and construction of a vermicomposting system as a method of food waste recycling.
 
 <figure>
@@ -44,9 +41,8 @@ The Waste Management module is conducted for Secondary 1 Express, Normal Academi
 <figcaption> <strong> Students learning about vermicomposting </strong> </figcaption>
 </figure>
 
-**_Secondary 2 Module: Clean Energy_**  
 
-  
+**_Secondary 2 Module: Clean Energy_**  
 
 In the ‘Clean Energy’ module, all Secondary Two students learn about clean energy technologies and practices for sustainable living through a&nbsp;hands-on approach. This module is an effective collaboration amongst the Science, Geography and Design &amp; Technology Departments.
 
@@ -75,11 +71,11 @@ In 2021, the ALP committee collaborated with the LLP committee once again. Secon
 **_<u>Student Development Week Activities
 </u>_**
 
-The Secondary 1 to 3 students also engaged in a series of meaningful ALP activities after their examinations.
+The Secondary One to Three students also engaged in a series of meaningful ALP activities after their examinations.
 
 **_Upcycling disused plastic milk bottles into bottle lamps_**
 
-As environmental sustainability continues as a top trend in the retail industry, retailers have taken steps to become more sustainable. One way is to use recycled materials to construct LED lamps. In 2021, the Lower Secondary students had the opportunity to experience first-hand upcycling of a disused plastic milk bottle into a bottle lamp. Each student brought home an LED-powered bottle lamp that is energy efficient.
+As environmental sustainability continues as a top trend in the retail industry, retailers have taken steps to become more sustainable. One way is to use recycled materials to construct LED lamps. The Lower Secondary students had the opportunity to experience first-hand upcycling of a disused plastic milk bottle into a bottle lamp. Each student brought home an LED-powered bottle lamp that is energy efficient.
 
 <figure>
 <img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPBottleLamps.png" style="width:100%">
@@ -98,7 +94,7 @@ Students have the opportunity to use upcycling techniques to cut and transform t
 
 **_Learning Journey to Kok Fah Technology Farm_**
 
-Students visited Kok Fah Technology Farm as part of their ALP module in ‘Waste Management’. They learn about the workflow and climate control processes in Kok Fah Farm’s Showcase Greenhouse and how technological and scientific advancements over the years can help to increase food productivity efficiently. The Farm guides also discuss the pros and cons of different farming systems and how these systems assist in increasing food security in a land-scarce Singapore.
+Students visited Kok Fah Technology Farm as part of their ALP module in ‘Waste Management’. They learned about the workflow and climate control processes in Kok Fah Farm’s Showcase Greenhouse and how technological and scientific advancements over the years can help to increase food productivity efficiently. The farm guides also shared about the pros and cons of different farming systems and how these systems assist in increasing food security in a land-scarce Singapore.
  
 
 <figure>
@@ -106,7 +102,7 @@ Students visited Kok Fah Technology Farm as part of their ALP module in ‘Waste
 <figcaption> <strong>Students learning about different farming systems.</strong> </figcaption>
 </figure>
 
-**_STEM Trail at Gardens by Gardens by the Bay_**
+**_STEM Trail at Gardens By the Bay_**
 
 The Secondary Two cohort visited Gardens by the Bay for a Science, Technology, Engineering and Mathematics (STEM) Trail, which allowed them to apply their mathematical and scientific knowledge in a real-world setting. They collaborated in activities that tapped on their skills in topics such as Mensuration, Proportion, Chemical Changes and Energy. In addition, they gained a greater appreciation for the beauty and diversity of the flora found at the Gardens and the technology behind the scenes that help maintain this iconic Singapore landmark.
 
@@ -119,8 +115,7 @@ The Secondary Two cohort visited Gardens by the Bay for a Science, Technology, E
 
 **_Sungei Buloh Wetland Biodiversity Walk and Intertidal Coastal Cleanup_**
 
-  
-
+ 
 Secondary Three Express students participated in the Sungei Buloh Wetland Biodiversity Walk in 2019. They walked through the mangrove forest of Sungei Buloh Wetland Reserves, where they could closely observe the biodiversity of the mangrove ecosystem. They also learned about how well the mangrove trees have adapted to the saltwater conditions and their importance in the ecosystem. In addition, students also got to see unique mangrove inhabitants such as mudskippers, monitor lizards, tree-climbing crabs, kingfishers, and even crocodiles.
 
 After the biodiversity walk, students engaged in the Intertidal Coastal Cleanup in collaboration with International Coastal Cleanup Singapore (ICCS). Students actively and enthusiastically contributed to the cleaning up of pollution and rubbish along Singapore’s shores.
@@ -143,61 +138,6 @@ Students from the Environment Club play a key role in promoting environmental su
 ### Achievements
 
 
-**Year 2018**
-
-**Science Competitions**
-
-*   International C.B Paul Science Quiz: 1 Silver, 2 Bronze, 2 Honourable Mention, 2 Merit Awards
-    
-*   IgnITE Science Challenge: Circuit Tinkering Challenge Finalist (1 team)
-    
-*   IgnITE Science Challenge: Mad Mocktail Challenge Finalist (1 team)
-    
-*   Elementz Science Project Competition (Lower Secondary): Top Viewer's Choice, Gold Award &amp; Certificate of Commendation
-    
-*   Singapore Junior Physics Olympiad: 1 Bronze
-    
-*   Vanda Miss Joaquim Award
-    
-
-  
-
-We sent two teams to participate in the Elementz Science Project Competition. After working tirelessly, the teams managed to clinch a Gold Award and a Certificate of Commendation for their projects. They were also presented with the top Viewers’ Choice award for the former.
-
-One student competed against over 1000 students from different secondary schools and won a Bronze Medal in the Singapore Junior Physics Olympiad.
-
-**Year 2019**
-
-**Science Competitions**
-
-*   International C.B Paul Science Quiz: 1 Bronze
-    
-*   Science Buskers Festival: Finalist (1 team)
-    
-*   IgnITE Science Challenge: Flying Saucer Challenge, 3rd position&nbsp;
-    
-*   Vanda Miss Joaquim Award
-    
-
-  
-
-6 teams participated in IgnITE Science Challenge. One team managed to proceed to the final round and eventually won 3rd position in the Flying Saucer Challenge.
-
-  
-
-**Year 2020**
-
-**Science Competitions**
-
-*   Singapore Junior Biology Olympiad: 10 Certificates of Merit
-    
-*   Singapore Junior Physics Olympiad: 1 Honourable Mention
-    
-*   Vanda Miss Joaquim Award
-    
-
-  
-
 **Year 2021**
 
 **Science Competitions**
@@ -206,28 +146,35 @@ One student competed against over 1000 students from different secondary schools
     
 *   Singapore Junior Chemistry Olympiad: 1 Silver
     
-*   Sustained Vanda Miss Joaquim Award for the School Green Awards 2021
+*   Vanda Miss Joaquim Award Sustained Achievement Award
     
 
   
-
-One student competed against 2000 students from over 80 secondary schools and won a Silver Medal in the Singapore Junior Chemistry Olympiad.
-
-The Environmental Club achieved the Sustained Vanda Miss Joaquim Award for the School Green Awards 2021. This is the highest attainable award and is awarded to schools that have achieved the Vanda Miss Joaquim Award for three consecutive years.
-
-<figure>
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPICBPaulScienceQuiz2021.jpg" style="width:65%">
-<figcaption> <strong>Participants for International C.B Paul Science Quiz 2021</strong> </figcaption>
-</figure>
 
 **Year 2022**
 
 **Science Competitions**
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International C.B Paul Science Quiz: 5 Gold, 2 Silver, 1 Bronze and 2 Merit. Overall 4th&nbsp;runner up in Finals.
+*   International C.B Paul Science Quiz: 5 Gold, 2 Silver, 1 Bronze and 2 Merit. Overall 4th and runner up in Finals.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Biology Olympiad: 2 Bronze and 3 Honourable Mention
+*   Singapore Junior Biology Olympiad: 2 Bronze and 3 Honourable Mention
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Chemistry Olympiad: 3 Merit
+*   Singapore Junior Chemistry Olympiad: 3 Merit
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Junior Physics Olympiad: 1 Bronze and 7 Honourable Mention
+*   Singapore Junior Physics Olympiad: 1 Bronze and 7 Honourable Mention
+
+*   Vanda Miss Joaquim Award Sustained Achievement Award
+
+
+
+**Year 2023**
+
+**Science Competitions**
+
+*   International C.B Paul Science Quiz: 2 Silver, 3 Bronze and 1 Merit
+
+*   Singapore Junior Biology Olympiad: 4 Bronze and 1 Honourable Mention
+
+*   Singapore Junior Chemistry Olympiad: 3 Merit
+
+*   Singapore Junior Physics Olympiad: 5 Bronze

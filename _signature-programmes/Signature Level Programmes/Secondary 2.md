@@ -3,8 +3,8 @@ title: Secondary 2
 permalink: /signature-programmes/signature-level-programmes/secondary-2/
 description: ""
 third_nav_title: Signature Level Programmes
+variant: markdown
 ---
-
 ## Taking Responsibility for Self, Peers and the Community
 
 
@@ -53,12 +53,11 @@ This annual talk serves as an avenue to provide information on the different sub
 
   
 
-**_National Youth Achievement Award (NYAA) Camp_**
+**_Secondary Two Outdoor Adventure Camp_**
 
   
 
-Every year, Secondary 2 students participate in the NYAA camp, which serves as an opportunity for students to develop self-confidence, resilience and perseverance. During this cohort camp, students participate in a range of activities which promote team spirit, improve communication skills and help to enhance social interaction through various team-building activities. As it is also the first time that most students are staying at a campsite, it encourages students to show care and concern for others. This camp also contributes to the students’ achievements of the NYAA Bronze Award.
-
+Every year, Secondary Two students participate in the outdoor adventure camp, which serves as an opportunity for students to develop self-confidence, resilience and perseverance. During this cohort camp, students participate in a range of activities which promote team spirit, improve communication skills and help to enhance social interaction through various team-building activities. As it is also the first time that most students are staying at a campsite, it encourages students to show care and concern for others. 
   
 
   

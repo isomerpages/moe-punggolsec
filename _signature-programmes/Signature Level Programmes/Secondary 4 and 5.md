@@ -3,11 +3,12 @@ title: Secondary 4 and 5
 permalink: /signature-programmes/signature-level-programmes/secondary-4-n-5/
 description: ""
 third_nav_title: Signature Level Programmes
+variant: markdown
 ---
 ## Achieving Excellence, Influencing Positively
 
 
-**Year Head 4 &amp; 5:Ms Srividya**
+**Year Head 4 &amp; 5: Ms Vidya**
 
 
 **Assistant Year Head 4&amp;5: Mr Wardi Endra**
@@ -36,7 +37,7 @@ third_nav_title: Signature Level Programmes
 
   **First 4-days Programme to begin the Year**
 
-To welcome our Secondary 4 &amp; 5 students back to school for a very crucial year ahead,
+To welcome our Secondary Four and Five students back to school for a very crucial year ahead,
   
 
 **_Meet-the-Parents Session and Career Fair_**
