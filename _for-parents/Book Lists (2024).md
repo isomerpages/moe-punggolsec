@@ -2,6 +2,7 @@
 title: Book Lists (2024)
 permalink: /useful-links/for-parents/book-lists-2024/
 description: ""
+variant: markdown
 ---
 To order, please log on to&nbsp;[www.oapl.sg](http://www.oapl.sg/)
 
@@ -18,21 +19,21 @@ You can choose for the textbooks to be delivered to your home (charges apply). A
 </thead>
 <tbody>
   <tr>
-		<td><a href="/files/booklist%202024_pgs_2(all).pdf">All Levels </a></td>
-    <td><a href="/files/booklist%202024_pgs_3e.pdf">Express</a></td>
-    <td><a href="/files/booklist%202024_pgs_4e.pdf">Express</a></td>
-    <td><a href="[](/files/booklist%202024_pgs_5na.pdf)">Normal Academic</a></td>
+		<td><a href="/files/Booklist_2024_PGS_2_All_.pdf">All Levels </a></td>
+    <td><a href="/files/Booklist_2024_PGS_3E.pdf">Express</a></td>
+    <td><a href="/files/Booklist_2024_PGS_4E.pdf">Express</a></td>
+    <td><a href="/files/Booklist_2024_PGS_5NA.pdf">Normal Academic</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="/files/booklist%202024_pgs_3na.pdf">Normal Academic</a></td>
-    <td><a href="/files/booklist%202024_pgs_4na.pdf">Normal Academic</a></td>
+    <td><a href="/files/Booklist_2024_PGS_3NA.pdf">Normal Academic</a></td>
+    <td><a href="/files/Booklist_2024_PGS_4NA.pdf">Normal Academic</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="/files/booklist%202024_pgs_3nt.pdf">Normal Technical </a></td>
-    <td> <a href="/files/booklist%202024_pgs_4nt.pdf">Normal Technical</a></td>
+    <td><a href="/files/Booklist_2024_PGS_3NT.pdf">Normal Technical </a></td>
+    <td> <a href="/files/Booklist_2024_PGS_4NT.pdf">Normal Technical</a></td>
     <td> </td>
   </tr>
 </tbody>
