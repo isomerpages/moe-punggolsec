@@ -19,21 +19,21 @@ You can choose for the textbooks to be delivered to your home (charges apply). A
 </thead>
 <tbody>
   <tr>
-		<td><a href="/files/Booklist_2024_PGS_2_All_.pdf">All Levels </a></td>
-    <td><a href="/files/Booklist_2024_PGS_3E.pdf">Express</a></td>
-    <td><a href="/files/Booklist_2024_PGS_4E.pdf">Express</a></td>
-    <td><a href="/files/Booklist_2024_PGS_5NA.pdf">Normal Academic</a></td>
+		<td><a href="/files/Useful%20Links/For%20Parents/Booklist_2024_PGS_2_All_.pdf">All Levels </a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist_2024_PGS_3E.pdf">Express</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist_2024_PGS_4E.pdf">Express</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist_2024_PGS_5NA.pdf">Normal Academic</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="/files/Booklist_2024_PGS_3NA.pdf">Normal Academic</a></td>
-    <td><a href="/files/Booklist_2024_PGS_4NA.pdf">Normal Academic</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist_2024_PGS_3NA.pdf">Normal Academic</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist_2024_PGS_4NA.pdf">Normal Academic</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="/files/Booklist_2024_PGS_3NT.pdf">Normal Technical </a></td>
-    <td> <a href="/files/Booklist_2024_PGS_4NT.pdf">Normal Technical</a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Booklist_2024_PGS_3NT.pdf">Normal Technical </a></td>
+    <td> <a href="/files/Useful%20Links/For%20Parents/Booklist_2024_PGS_4NT.pdf">Normal Technical</a></td>
     <td> </td>
   </tr>
 </tbody>
