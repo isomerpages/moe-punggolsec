@@ -46,7 +46,7 @@ Students can also get a hard copy of the following forms from the general office
   </tr>
   <tr>
     <td> 8</td>
-    <td><a href="/files/Useful%20Links/For%20Parents/Student%20Insurance%20Policy%20Sep%202022.pdf">Student Insurance Policy </a></td>
+    <td><a href="/files/Useful%20Links/For%20Parents/Product_Fact_Sheet_Year_2023.pdf">Student Insurance Policy </a></td>
   </tr>
 </tbody>
 </table>
