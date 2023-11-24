@@ -2,6 +2,7 @@
 title: Uniformed Groups
 permalink: /the-pss-learning-experience/co-curricular-activities-ccas/uniformed-groups/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20School/subbanner.jpg)
 
@@ -21,15 +22,15 @@ For Uniformed Groups, the CCAs offered are:
 
 **NCC**: 
 
-\- Best Unit Competition Award 2019 (Distinction)
+\- Unit Recognition Award 2022 and 2023 (Distinction)
 
 **NPCC**: 
 
-\- Unit Overall Proficiency Award: 2022 (Distinction), 2021 (Gold)
+\- Unit Overall Proficiency Award: 2022 and 2023 (Distinction), 2021 (Gold)
 
 **Red Cross**: 
 
-\- Excellent Unit Award 2021 & 2022(Gold),  Excellent Unit Award 2020 & 2019 (Silver)
+\- Excellent Unit Award 2021 - 2023(Gold),  Excellent Unit Award 2020 & 2019 (Silver)
 
 **Scouts**: 
 
