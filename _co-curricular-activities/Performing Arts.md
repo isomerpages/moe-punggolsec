@@ -2,6 +2,7 @@
 title: Performing Arts
 permalink: /the-pss-learning-experience/co-curricular-activities-ccas/performing-arts/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20School/subbanner.jpg)
 
@@ -22,6 +23,7 @@ For Performing Arts, the CCAs offered are:
 **CCA Achievements**
 
 **Choir**: 
+\- Singapore Youth Festival Arts Showcase 2023 
 
 \- Voices of Singapore Festival 2022 (Participation)
 
