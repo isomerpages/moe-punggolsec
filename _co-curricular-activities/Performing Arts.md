@@ -23,7 +23,7 @@ For Performing Arts, the CCAs offered are:
 **CCA Achievements**
 
 **Choir**: 
-\- Singapore Youth Festival Arts Showcase 2023 
+\- Singapore Youth Festival Arts Showcase 2023 (Accomplishment)
 
 \- Voices of Singapore Festival 2022 (Participation)
 
@@ -31,19 +31,18 @@ For Performing Arts, the CCAs offered are:
 
 \- World Youth Choral Festival & Competition 2021 (Gold)
 
-\- Singapore Youth Festival 2019 (Distinction)
-
   
 
 **Guzheng**: 
 
 \- Nanyang International Music Competition, Certificate of Silver (2021)
 
-\- Singapore Youth Festival 2019 and 2021 (Distinction)
+\- Singapore Youth Festival 2023 and 2021 (Distinction)
 
   
 
 **Concert Band**: 
+\- Singapore Youth Festival 2023 (Accomplishment)
 
 \- Percussion Ensemble: Singapore Youth Festival 2021 (Distinction)
 
@@ -51,12 +50,9 @@ For Performing Arts, the CCAs offered are:
 
 \- Flexible Band: Singapore Youth Festival 2021 (Team B) (Accomplishment)
 
-\- Singapore Youth Festival 2019 (Accomplishment) 
-
   
 
 **Modern Dance**: 
 
-\- Singapore Youth Festival 2019 and 2021 (Accomplishment)
-
-\- Chinese Dance Singapore Youth Festival 2019 (Accomplishment)
+\- Singapore Youth Festival 2023 and 2021 
+(Accomplishment)
