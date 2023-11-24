@@ -25,13 +25,13 @@ Education is a journey of self-discovery where students discover their strengths
 
 **Mission**
 
-To nurture a vibrant community of self-directed and adaptable Punggolites, grounded in values.
+To nurture a vibrant community of self-directed and adaptable Punggolites, grounded in values
 
   
 
 **Vision**
 
-Future-ready Punggolites who are active contributors.
+Future-ready Punggolites who are active contributors
 
   
 
