@@ -2,13 +2,47 @@
 title: Talent Development Programme
 permalink: /signature-programmes/permalink/
 description: ""
+variant: markdown
 ---
+**Talent Development Programme (TDP) aims to promote and spur students to strive for excellence. Through this programme, we identify, develop, and provide students with opportunities to work in a heterogeneous team while honing their communication, interpersonal and research skills.**
 
+Below are the programmes the TDP groups have participated in:
 
-Talent Development Programme (TDP) aims to promote and spur students to strive for excellence. Through this programme, we identify, develop, and provide students with opportunities to work in a heterogeneous team while honing their communication, interpersonal and research skills.
+**English:** 
 
-**TDP English: Harnessing and Fostering Students’ Passion in the English Language**
+* International Conference of Short Stories in English 
 
+Thirty-one students took part in the event organized by the NIE, NTU with the theme, “Diversity of Voices: A Global Storytelling History”.
+
+* Live On Festival! 2023
+
+The Live On Festival is organised by the National Organ Transplant Unit (NOTU), which oversees both living and deceased donor organ transplants and is also responsible for the promotion of organ donation. The themes and questions set for the essay writing competition were aligned with the values of Values-in-Action (VIA) and serve to expand students’ learning as they research and work on their individual essays. 
+
+**Mathematics:**
+
+* Problem Solving Workshop (Poyla’s Four Stage Process)
+
+Students acquire the knowledge in using the four-step method to solve problems; 
+
+(1) Understand the problem; 
+
+(2) Make a plan;
+
+(3) Execute the plan; and 
+
+(4) Look back &amp; Reflect.
+
+* Singapore and Asian Schools Math Olympiad (SASMO)
+
+Students took part in the SASMO competition with the aim in stretching their thinking potential and improving their higher order thinking skills in mathematics. 
+
+**Science:**
+
+* CB Paul Science Quiz
+
+The International C. B. Paul Science Quiz was co-organized by The Science and Mathematics Council (SMC) and ACJC teachers saw participants from local and overseas secondary schools taking part in the event. 
+
+<table><tbody><tr><td>jkknkjn</td><td>sdadads</td></tr></tbody></table>
 ***Live On Festival - Essay Writing Competition***
 
 The Live on Festival is annually organised by the National Organ Transplant Unit (NOTU), which is responsible for the promotion of organ donation. To raise awareness among our youths, the organisation holds both essay writing and design-making competitions on the same theme. All 23 TDP English students, 13 from Secondary Two and 10 from Secondary Three, participated in this writing competition. Two of our students received recognition:
