@@ -2,6 +2,7 @@
 title: Clubs and Societies
 permalink: /the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20School/subbanner.jpg)
 
@@ -27,7 +28,7 @@ For Clubs & Societies, the CCAs offered are:
 
  **English Literacy Drama Debate Society**
 
-\- Singapore Youth Festival 2019 and 2021 (Accomplishment)
+\- Singapore Youth Festival 2021 and 2023 (Accomplishment)
 
 \- Singapore Secondary School Debating Championship 2021 (Third in  Division III)
 
@@ -37,13 +38,13 @@ For Clubs & Societies, the CCAs offered are:
 
 **Environmental Club**: 
 
-\- Sustained Vanda Miss Joaquim Award for the School Green Awards 2022 and 2021
+\- Sustained Vanda Miss Joaquim Award for the School Green Awards 2023 and 2022
 
   
 
-**Indian Literacy Drama Debate Society**: 
+**Indian Language Drama and Debating Society**: 
 
-\-Singapore Youth Festival 2019 and 2021 (Distinction)
+\-Singapore Youth Festival 2021 and 2023 (Distinction)
 
 \- Navarasam Competition in 2021 (First Postion)
 
@@ -53,20 +54,20 @@ For Clubs & Societies, the CCAs offered are:
 
 **Interact Club**:
 
-\- Rotary Citation 2022
+\- Rotary Citation 2022 and 2023
 
-\- Rotary District Distinction Award 2022 -Project E-Book
+\- Rotary District Distinction Award 2023 - Small Hacks for Big Change
 
-\- Rotary Distinction Award with Special Mention 2022 - Community Outreach
+\- Rotary District Merit Award 2023 - International Support for Indigenous Tribe
 
-\- Rotary Citation Award Year 2019 - 2020
+\- Rotary Citation Award Year 2023
 
-\- Meritorious Interact Award for the Rotary Year 2019 - 2020, Year 2020 - 2021
-
-\- District Awards 2020/2021 Interact Club Project Distinction Award (Fundraising Project for the community)
-
-\- District Awards 2020/2021 Interact Club Project Merit Award (TGIF Interact Morning Radio Show)
 
 **Art Club**:
 
+\- 2023 National Organ Transplant Unit, Live On Festival Design Competition - Merit 
+
 \- Singapore Youth Festival 2022 (Certificate of Recognition)
+
+
+
