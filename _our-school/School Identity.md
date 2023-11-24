@@ -2,6 +2,7 @@
 title: School Identity
 permalink: /our-school/school-identity/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20School/subbanner.jpg)
 
@@ -24,13 +25,13 @@ Education is a journey of self-discovery where students discover their strengths
 
 **Mission**
 
-To nurture students with a values-based and value-added education so that they are confident&nbsp;citizens of the future.
+To nurture a vibrant community of self-directed and adaptable Punggolites, grounded in values.
 
   
 
 **Vision**
 
-A community of confident learners and leaders guided by values, motivated to excel.
+Future-ready Punggolites who are active contributors.
 
   
 
@@ -59,5 +60,3 @@ Achievers with Character
   </tr>
 </tbody>
 </table>
-
-
