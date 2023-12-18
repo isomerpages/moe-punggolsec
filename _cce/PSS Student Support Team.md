@@ -2,6 +2,7 @@
 title: PSS Student Support Team
 permalink: /the-pss-learning-experience/character-and-citizenship-education/pss-student-support-team/
 description: ""
+variant: markdown
 ---
 ## PSS Student Support Team
 
@@ -36,3 +37,13 @@ Students and parents can speak to the form teachers or Year Heads about any prob
 **CONFIDENTIALLY**
 
 Part of the counselling process involves a therapeutic relationship between the student and counsellor. Confidentiality is maintained and information is shared by the school counsellor on a need-to-know basis, with the exceptions where safety becomes a concern to the student, or law has been breached.
+
+
+
+**School Education and Career Guidance Counsellor**
+
+ECG counsellor provides education and career guidance support to all students.
+
+Students may request for an appointment at https://go.gov.sg/pssecg 
+
+Students can also email Ms Grace Champion at grace_champion@schools.gov.sg
