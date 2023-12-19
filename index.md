@@ -27,5 +27,5 @@ sections:
       id: infobar
       description: More information for 2024 PSS Secondary 1 students
       button: 2024 Secondary 1 Registration
-      url: h
+      url: /2024-secondary-1-registration/principal-message
 ---
