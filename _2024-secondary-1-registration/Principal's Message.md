@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /2024-secondary-1-registration/permalink/
+permalink: /2024-secondary-1-registration/principal-message/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Booklist, Uniform and Locker Matters
-permalink: /2024-secondary-1-registration/permalink/
+permalink: /2024-secondary-1-registration/admin-matters/
 variant: tiptap
 description: ""
 ---

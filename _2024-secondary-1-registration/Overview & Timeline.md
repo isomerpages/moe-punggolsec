@@ -1,6 +1,6 @@
 ---
 title: Overview & Timeline
-permalink: /2024-secondary-1-registration/permalink/
+permalink: /2024-secondary-1-registration/overview-timeline/
 variant: tiptap
 description: ""
 ---
