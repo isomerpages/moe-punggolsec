@@ -2,5 +2,5 @@ collections:
   2024-secondary-1-registration:
     output: true
     order:
-      - Overview & Timeline.md
       - Principal's Message.md
+      - Overview & Timeline.md
