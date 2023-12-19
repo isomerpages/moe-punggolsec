@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Forms.md
       - Book Lists (2024).md
       - Purchase of Uniform.md
       - Rent a locker/.keep
@@ -12,4 +13,3 @@ collections:
       - Parent Support Group.md
       - Positive Parenting Programme.md
       - Parenting Resources by MOE.md
-      - Forms.md
