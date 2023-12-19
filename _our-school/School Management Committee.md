@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /our-school/school-management-committee/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20School/subbanner.jpg)
 
@@ -31,7 +32,7 @@ description: ""
   </tr>
   <tr>
     <td>Vice-Principal </td>
-    <td>Mr Vincent Lee </td>
+    <td>Mrs Elenda Loh </td>
     <td><a href="mailto:punggol_ss@moe.edu.sg">punggol_ss@moe.edu.sg</a>  </td>
   </tr>
   <tr>
