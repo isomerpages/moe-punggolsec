@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Example.md
       - N Level Release 2023.md
       - Timetable.md
       - Assessment Matters.md
