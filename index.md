@@ -21,4 +21,11 @@ sections:
       url: https://sites.google.com/moe.edu.sg/pssopenhouse/home
       image: /images/2023 open house banner (full).jpeg
       alt: Image alt text
+  - infobar:
+      title: Information for Secondary 1 Registration
+      subtitle: Secondary 1 Registration
+      id: infobar
+      description: More information for 2024 PSS Secondary 1 students
+      button: 2024 Secondary 1 Registration
+      url: h
 ---
