@@ -16,10 +16,10 @@ links:
   - title: Signature Programmes
     collection: signature-programmes
   - title: Useful Links
-    url: /useful-links/for-parents/forms/
+    url: /useful-links/for-parents/parents-gateway
     sublinks:
       - title: For Parents
-        url: /useful-links/for-parents/parents-gateway
+        url: /useful-links/for-parents/forms/
       - title: For Students
         url: /useful-links/for-students/n-level-release-2023/
   - title: 2024 Secondary 1 Registration
