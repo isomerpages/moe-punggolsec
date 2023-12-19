@@ -1,0 +1,7 @@
+---
+title: Principal's Message
+permalink: /2024-secondary-1-registration/permalink/
+variant: tiptap
+description: ""
+---
+<h1><strong>Principal's Message to Secondary 1 Students of Year 2024</strong></h1><p>Dear Secondary One students,</p><p>Welcome to Punggol Secondary School (培道). You are about to embark on a very important journey in your life as a student. These four or five years in secondary school will be very significant as you seek to discover your strengths, talents and areas of growth, and pursue your passions and areas of interest. You will nurture good values, so that you can be an active contributor.</p><p>Such an endeavour requires much effort and perseverance on your part. Invest your time and energy meaningfully to reap positive rewards. Participate actively in school activities, from academic to sports, aesthetics and community involvement programmes, and you will see yourself grow from strength to strength.</p><p>The teachers and staff in school will be your mentors and guides. Give them the due respect and work closely with them. We are just around the corner if you need someone to listen to your ideas or concerns. We aim to do our best to provide you with a nurturing environment that is conducive to your learning and development.</p><p>The future is yet to be written and you will be the one to decide how it should be. I wish you all the best and we will also expect the best from you.</p><p></p><p>Yours sincerely,</p><p>Ms Valerie Tng</p><p></p>
