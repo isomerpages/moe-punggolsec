@@ -2,6 +2,7 @@
 title: Sports
 permalink: /the-pss-learning-experience/co-curricular-activities-ccas/sports/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20School/subbanner.jpg)
 
@@ -28,38 +29,44 @@ For Sports &amp; Games, the CCAs offered are:
 
 **Basketball**:
 
-\- 2022 National School Games&nbsp;'B' Division - Top 8
+\- 2022 National School Games&nbsp; 'B' Division - Top 8
 
 \- 2022 Yishun Secondary School (YSS) Cup 'C' Division - Second
 
-<br>
+ <br>
 **Football**:
 
-\- National Inter-School Championship League ‘B’ Division, 2019 (First Runner Up)
+\- 2023 League ‘B’ Division League 3 - Quarter finalist 
 
-\- National Inter-School Championship League ‘C’ Division, 2019 (Quarter Finalist)
+\- 2023 League ‘C’ Division League 2 - Quarter finalist 
 
 <br>  
 
 **Volleyball (Boys)**:
 
-\-&nbsp;National Inter-School North Zone&nbsp;‘B’ Division Boys 2022 (Third)
+\- 2023 North Zone 'B' Division Championship (Boys)  - 1st runner up
 
-\-&nbsp;National Inter-School North Zone&nbsp;‘C’ Division Boys 2022 (Fourth)
+\- 2023 North Zone 'C' Division Championship (Boys) - 4th
 
-\- National Inter-School North Zone&nbsp;‘B’ Division Boys 2021 (Third)
+\- 2022 National Inter-School North Zone ‘B’ Division Boys - 3rd
+
+\- 2022 National Inter-School North Zone ‘C’ Division Boys - 4th
+
+\- 2021 National Inter-School North Zone&amp; ‘B’ Division Boys - 3rd 
 
 <br>  
 
 **Volleyball (Girls)**:  
 
-\- National Inter-School North Zone ‘B’ Division Girls 2023 (First Runners-up)
+\-2023 National Inter-School North Zone ‘B’ Division Girls (First Runners-up)
 
-\-&nbsp;National Inter-School North Zone&nbsp;‘B’ Division Girls 2022 (Third)
+\- 2023 North Zone 'C' Division Championship (Girls) -  3rd
 
-\- National Inter-School North Zone&nbsp;‘B’ Division Girls 2021 (Third)
+\-2022 National Inter-School North Zone ‘B’ Division Girls -3rd
+
+\- 2021 National Inter-School North Zone ‘B’ Division Girls - 3rd
 
 
 **Netball**:
 
-\- C Div Inter-school Carnival 2022 (Second)
+\- C Div Inter-school Carnival 2022 - 2nd
