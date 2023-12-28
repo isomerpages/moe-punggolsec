@@ -4,31 +4,4 @@ permalink: /for-students/first-week/
 description: ""
 variant: tiptap
 ---
-**Welcome back to school, Punggolites!**
-------------------------------------
-
-**Please refer to the information below on the first week of school matters.**  
-  
-**1) Classroom Allocation**  
-Please report directly to the hall on the first day of school.  
-You may refer to the table below on your allocated classroom for the year.   
-  
-![2023 Classroom layout.png](https://punggolsec.moe.edu.sg/qql/slot/u365/2023/For%20Students/2023%20Classroom%20layout.png)  
- 
-**2) First week of school Timetable**  
-Refer to the attachment for the first week of school schedule (from 3 Jan - 6 Jan).  
-  
-![2023 First 4 days of school Programme.JPG](https://punggolsec.moe.edu.sg/qql/slot/u365/2023/For%20Students/2023%20First%204%20days%20of%20school%20Programme.JPG)  
-  
-**3) Attire and Grooming matters**  
-Students may report in PE shirt and green school pants / skirt for the first week of school. PE attire is not allowed.  
-Please rectify all grooming issues before school begins.  
-  
-**4) Items to bring for the first week of school**  
-Please bring the following items for the first week of school:  
-    1. A working thermometer  
-    2. Additional face masks  
-    3. Small notebook  
-    4. Stationeries  
-    5. Money for breaks  
-    6. Small bag
+<h2><strong>Welcome back to school, Punggolites!</strong></h2><p><strong>Please refer to the information below on the first week of school matters.</strong></p><p><strong>1) Reporting venue</strong><br>Please report directly to the <strong>quadrangle</strong> on the first day of school by <strong>7.30 am.</strong></p><p>In the case of wet weather, please report to the hall.</p><p><strong>2) First week of school Timetable</strong><br>Please refer to the first week of school schedule below (2 Jan - 5 Jan).</p><p></p><p><strong>3) Attire and Grooming matters</strong><br>Students may report in PE shirt and green school pants / skirt for the first week of school. PE attire is not allowed.<br>Please rectify all grooming issues before school begins.</p><p><strong>4) Items to bring for the first week of school</strong><br>Please bring the following items for the first week of school:<br>&nbsp; &nbsp; 1.&nbsp;A working thermometer<br>&nbsp; &nbsp; 2. Additional face masks<br>&nbsp; &nbsp; 3. Small notebook<br>&nbsp; &nbsp; 4. Stationeries<br>&nbsp; &nbsp; 5. Money for breaks<br>&nbsp; &nbsp; 6. Small bag</p>
