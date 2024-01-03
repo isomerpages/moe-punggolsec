@@ -2,7 +2,6 @@ collections:
   2024-secondary-1-registration:
     output: true
     order:
-      - CCA Matters.md
       - Principal's Message.md
       - Overview & Timeline.md
       - Booklist, Uniform and Locker Matters.md
@@ -11,3 +10,4 @@ collections:
       - Subjects.md
       - Subject Based Banding (SBB).md
       - Financial Matters.md
+      - CCA Matters.md
