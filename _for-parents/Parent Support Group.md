@@ -2,9 +2,8 @@
 title: Parent Support Group
 permalink: /useful-links/for-parents/parent-support-group/
 description: ""
+variant: markdown
 ---
-
-
 ### Vision
 
 
@@ -38,12 +37,12 @@ To engage parents to actively partner with the school to nurture students with a
     <td>Mdm Susan Lee<br></td>
   </tr>
   <tr>
-    <td>Project Coordinator:<br></td>
-    <td>Mdm Eunice Sng Su Huang<br></td>
+    <td>Project Coordinators:<br></td>
+    <td>Mdm Dhanasekaran Anbumalar<br></td>
   </tr>
   <tr>
     <td> </td>
-    <td>Mdm Susan Lee</td>
+    <td>Mdm Angela Tan Huey Min</td>
   </tr>
 </tbody>
 </table>
