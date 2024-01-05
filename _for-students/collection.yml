@@ -2,8 +2,7 @@ collections:
   for-students:
     output: true
     order:
-      - First Week of School matters (2024).md
       - Timetable.md
-      - N Level Release 2023.md
+      - First Week of School matters (2024).md
       - Student Online Portal Password Reset.md
       - Assessment Matters.md
