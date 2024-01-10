@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - School based Materials for Parents.md
       - Timetable.md
       - First Week of School matters (2024).md
       - Student Online Portal Password Reset.md
