@@ -46,4 +46,4 @@ ECG counsellor provides education and career guidance support to all students.
 
 Students may request for an appointment at https://go.gov.sg/pssecg 
 
-Students can also email Ms Grace Champion at grace_champion@schools.gov.sg
+Students can also email Ms Grace Champion at champion_grace@schools.gov.sg 
