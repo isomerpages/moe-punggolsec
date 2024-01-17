@@ -2,8 +2,8 @@ collections:
   for-students:
     output: true
     order:
+      - Assessment Matters.md
       - Release of 2023 Singapore Cambridge GCE O Level Examination Results.md
       - Timetable.md
       - First Week of School matters (2024).md
       - Student Online Portal Password Reset.md
-      - Assessment Matters.md
