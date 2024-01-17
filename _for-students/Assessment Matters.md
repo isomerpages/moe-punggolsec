@@ -2,14 +2,6 @@
 title: Assessment Matters
 permalink: /useful-links/for-students/assessment-matters/
 description: ""
+variant: tiptap
 ---
-**Dear Students**, 
-
-Please refer to your respective assessment timetable:
-
-| Secondary 1 | Secondary 2 | Secondary 3 |  Secondary 4 & 5 |
-| --------------| -------------- | -------------- | -------------- |
-| [WA3 Letter](/files/2023%20sec%201%20wa3%20letter.pdf)     | [WA3 Letter ](/files/2023%20sec%202%20wa3%20letter.pdf)    | [WA3 Letter ](/files/2023%20sec%203%20wa3%20letter.pdf)     | [4NA Prelim Timetable](/files/2023%20prelims%204n-examination%20schedule%20v2.pdf) |
-|[Sec 1 EOY Timetable](/files/2023%20eoy%20s1.pdf) |[Sec 2 EOY Timetable](/files/2023%20eoy%20s2.pdf) |[Sec 3 EOY Timetable](/files/2023%20-s3%20exam%20tt.pdf) |[4NT Prelim Timetable](/files/2023%20prelims%204nt%20examination%20schedule%20-18%20july.pdf) |
-| | | | [4Exp/ 5NA Prelim Timetable](/files/2023-prelims-4e5n-examination%20schedule%20-v2.pdf) |
-|
+<p><strong>Dear Students</strong>,</p><p>Please refer to your respective assessment timetable:</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Secondary 1</p></th><th rowspan="1" colspan="1"><p>Secondary 2</p></th><th rowspan="1" colspan="1"><p>Secondary 3</p></th><th rowspan="1" colspan="1"><p>Secondary 4 &amp; 5</p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/Useful Links/For Students/2024_Sec_1_WA1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1 Letter</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/Useful Links/For Students/2024_Sec_2_WA1_Letter_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1 Letter</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/Useful Links/For Students/2024_Sec_3_WA1_Letter__003_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1 Letter</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/Useful Links/For Students/2024_Sec_4_WA1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 WA1 Letter</a></p></td></tr></tbody></table><p></p>
