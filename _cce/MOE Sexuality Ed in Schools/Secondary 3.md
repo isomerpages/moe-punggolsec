@@ -1,6 +1,6 @@
 ---
 title: Secondary 3
-permalink: /cce/test/permalink/
+permalink: /the-pss-learning-experience/character-and-citizenship-education/sec-3/
 description: ""
 third_nav_title: MOE Sexuality Ed in Schools
 variant: tiptap
