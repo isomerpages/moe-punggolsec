@@ -1,0 +1,26 @@
+logo: /images/School Logo (tab).png
+links:
+  - title: Our School
+    collection: our-school
+  - title: The PSS Learning Experience
+    url: /the-pss-learning-experience/character-and-citizenship-education
+    sublinks:
+      - title: CCE
+        url: /the-pss-learning-experience/character-and-citizenship-education
+      - title: Academic Subjects
+        url: /the-pss-learning-experience/academic-subjects/english-language-n-literature
+      - title: Co-Curricular Activities
+        url: /the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies
+      - title: Aesthetics Programme
+        url: /the-pss-learning-experience/aesthetics-programme
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Useful Links
+    url: /useful-links/for-parents/forms/
+    sublinks:
+      - title: For Parents
+        url: /useful-links/for-parents/forms/
+      - title: For Students
+        url: /useful-links/for-students/assessment-matters/
+  - title: 2024 Secondary 1 Registration
+    collection: 2024-secondary-1-registration

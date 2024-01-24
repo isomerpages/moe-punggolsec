@@ -1,0 +1,11 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - School Crest, History and Song.md
+      - School Identity.md
+      - Principal's Message.md
+      - School Advisory Committee.md
+      - School Management Committee.md
+      - 2024 Form Teachers.md
+      - Contact Us.md
