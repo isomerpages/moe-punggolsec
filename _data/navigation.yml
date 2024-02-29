@@ -21,3 +21,10 @@ links:
     collection: for-students
   - title: Staff and Administration
     collection: staff-and-adminstration
+  - title: Staff and Students
+    url: /permalink
+    sublinks:
+      - title: For Staff
+        url: /permalink
+      - title: For students
+        url: /permalink
