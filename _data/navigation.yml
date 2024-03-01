@@ -15,16 +15,9 @@ links:
         url: /the-pss-learning-experience/aesthetics-programme
   - title: Signature Programmes
     collection: signature-programmes
-  - title: Parents & Partnership
-    collection: for-parents
   - title: Student Matters
     collection: for-students
-  - title: Staff and Administration
+  - title: Staff Matters
     collection: staff-and-adminstration
-  - title: Staff and Students
-    url: /permalink
-    sublinks:
-      - title: For Staff
-        url: /permalink
-      - title: For students
-        url: /permalink
+  - title: Parents
+    collection: for-parents
