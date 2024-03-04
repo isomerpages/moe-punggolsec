@@ -60,11 +60,5 @@ description: ""
 <p><strong><a href="https://www.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a></strong>
 </p>
 </li>
-<li>
-<p>MIMS Password Reset</p>
-</li>
-<li>
-<p></p>
-</li>
 </ul>
 <p></p>
