@@ -4,7 +4,6 @@ permalink: /staff-and-adminstration/
 variant: tiptap
 description: ""
 ---
-<p>Intranet Links (VPN required if login from home)</p>
 <p><strong><u>Student Admin</u></strong>
 </p>
 <ul data-tight="true" class="tight">
