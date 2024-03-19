@@ -115,6 +115,7 @@ with a values-based and value-added education.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3>Why join PSG?</h3>
 <ul data-tight="true" class="tight">
 <li>
