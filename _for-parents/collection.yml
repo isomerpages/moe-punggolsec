@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Forms.md
-      - Rent a locker/.keep
       - Parents Gateway.md
       - Parent Support Group.md
       - Positive Parenting Programme.md
