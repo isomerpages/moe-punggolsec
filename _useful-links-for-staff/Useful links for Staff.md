@@ -4,29 +4,29 @@ permalink: /staff-and-adminstration/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Student Admin</u></strong>
+<p><strong><u>Student Matters</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://punggolsec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">Punggol Sec Admin Breeze</a></strong>
+<p><strong><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a></strong>
+<p><strong><a href="https://punggolsec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">Punggol Sec Admin Breeze</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a></strong>
 </p>
 </li>
-</ul>
-<p><strong><u>Staff Admin</u></strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a></strong>
 </p>
 </li>
+</ul>
+<p><strong><u>Staff Admin</u></strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a></strong>
 </p>
