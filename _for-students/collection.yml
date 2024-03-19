@@ -2,8 +2,11 @@ collections:
   for-students:
     output: true
     order:
-      - Assessment Matters.md
+      - Useful Links for Students.md
       - Timetable.md
-      - Release of 2023 Singapore Cambridge GCE O Level Examination Results.md
-      - First Week of School matters (2024).md
-      - Student Online Portal Password Reset.md
+      - Assessment Matters.md
+      - Rent a Locker/.keep
+      - Rent a Locker/Step by step to rent a locker.md
+      - Rent a Locker/Rental of Lockers (FAQs).md
+      - Purchase of Uniform.md
+      - Book Lists (2024).md

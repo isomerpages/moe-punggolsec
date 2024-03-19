@@ -2,7 +2,7 @@
 title: Rental of Lockers (FAQs)
 permalink: /useful-links/for-parents/rental-of-lockers-faqs/
 description: ""
-third_nav_title: Rent a locker
+third_nav_title: Rent a Locker
 ---
 **Q: On the frontpage, after selecting the schools from the list and I get an error.**
 

@@ -15,12 +15,9 @@ links:
         url: /the-pss-learning-experience/aesthetics-programme
   - title: Signature Programmes
     collection: signature-programmes
-  - title: Useful Links
-    url: /useful-links/for-parents/forms/
-    sublinks:
-      - title: For Parents
-        url: /useful-links/for-parents/forms/
-      - title: For Students
-        url: /useful-links/for-students/assessment-matters/
-  - title: 2024 Secondary 1 Registration
-    collection: 2024-secondary-1-registration
+  - title: Student Matters
+    collection: for-students
+  - title: Parents
+    collection: for-parents
+  - title: Useful Links For Staff
+    collection: useful-links-for-staff

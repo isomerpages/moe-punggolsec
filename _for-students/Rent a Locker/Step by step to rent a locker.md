@@ -2,7 +2,7 @@
 title: Step by step to rent a locker
 permalink: /for-parents/rent-a-locker/steps-to-rent-locker/
 description: ""
-third_nav_title: Rent a locker
+third_nav_title: Rent a Locker
 ---
 # **Step By Step Rent-a-Locker Online Application.**
 

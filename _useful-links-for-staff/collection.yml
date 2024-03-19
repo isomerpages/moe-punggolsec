@@ -1,0 +1,5 @@
+collections:
+  useful-links-for-staff:
+    output: true
+    order:
+      - Useful links for Staff.md
