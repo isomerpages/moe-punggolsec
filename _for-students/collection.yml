@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Rent a Locker/Step by step to rent a locker.md
       - Rent a Locker/.keep
       - Rental of Lockers (FAQs).md
       - Useful Links for Students.md
