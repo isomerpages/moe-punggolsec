@@ -20,7 +20,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">Purchase of Uniforms</a></strong>
+<p><strong><a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Purchase of Uniforms</a></strong>
 </p>
 </li>
 <li>
