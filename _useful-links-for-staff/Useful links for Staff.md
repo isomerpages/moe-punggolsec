@@ -56,10 +56,9 @@ description: ""
 <p><strong><a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a></strong>
 </p>
 <hr>
-<p></p>
 </li>
 </ul>
-<p><u>SSOE helpdesk</u>
+<p><strong><u>SSOE helpdesk</u></strong>
 </p>
 <p>Opening hours:</p>
 <p>Mon – Fri: 7 am – 7 pm</p>
