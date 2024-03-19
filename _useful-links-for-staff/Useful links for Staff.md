@@ -58,12 +58,8 @@ description: ""
 <hr>
 </li>
 </ul>
-<p><strong><u>SSOE helpdesk</u></strong>
-</p>
-<p>Opening hours:</p>
-<p>Mon – Fri: 7 am – 7 pm</p>
-<p>Sat: 7 am – 2pm</p>
-<p>Sun and Public holidays: Closed</p>
+<p><strong><u>SSOE helpdesk</u></strong> (Mon - Fri: 7am - 7pm, Sat: 7am -
+2pm exclude Sun and public holidays)</p>
 <p>Contact: 1800-7663-663</p>
 <p>Overseas contact: 65-6559 4318</p>
 <p>Email: <a href="mailto:help@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">help@moe.edu.sg</a>
