@@ -154,15 +154,15 @@ parent volunteers were also on hand to assist and welcome new parents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Useful%20Links/For%20Parents/Parents%20attending%20a%20talk%20coordinated%20by%20the%20school.jpg">
 </div>
-<p><strong> Parents attending a talk coordinated by the school</strong>
+<p><strong>Parents attending a talk coordinated by the school</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Useful%20Links/For%20Parents/Parents%20attend%20a%20PSG%20talk,%20led%20by%20the%20school%20leaders.jpg">
 </div>
-<p><strong> Parents attend a PSG talk, led by the school leaders</strong>
+<p><strong>Parents attend a PSG talk, led by the school leaders</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Useful%20Links/For%20Parents/Parents%20shared%20about%20their%20respective%20careers%20to%20the%20secondary%204%20and%205%20students.jpg">
 </div>
-<p><strong> Parents shared about their respective careers to the secondary 4 and 5 students</strong>
+<p><strong>Parents shared about their respective careers to the secondary 4 and 5 students</strong>
 </p>
