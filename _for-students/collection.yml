@@ -2,9 +2,9 @@ collections:
   for-students:
     output: true
     order:
+      - Useful Links for Students.md
+      - Timetable.md
+      - Assessment Matters.md
       - Purchase of Uniform.md
       - Book Lists (2024).md
-      - Useful Links for Students.md
-      - Assessment Matters.md
-      - Timetable.md
       - Student Online Portal Password Reset.md
