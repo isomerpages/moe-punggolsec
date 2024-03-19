@@ -24,7 +24,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://form.gov.sg/5e659fdb6bbaaf0011251cc9" rel="noopener noreferrer nofollow" target="_blank">MIMS Password Reset</a></strong>
+<p><strong><a href="https://form.gov.sg/5e659fdb6bbaaf0011251cc9" rel="noopener noreferrer nofollow" target="_blank">Password Reset (MIMS/ Icon/ PLD/ SLS)</a></strong>
 </p>
 </li>
 </ul>
