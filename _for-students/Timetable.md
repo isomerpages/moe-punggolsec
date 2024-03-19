@@ -10,7 +10,7 @@ students will have an odd and even week timetable.</p>
 accordingly.</p>
 <p></p>
 <h3><strong>Class Timetable 2024</strong></h3>
-<p>Please refer to&nbsp;your class timetable (Updated 18 Mar): <a href="/files/2024_Term_2_Timetable_for_each_class_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Timetable</a>
+<p>Please refer to&nbsp;your class timetable (Updated 15 Mar): <a href="/files/2024_Term_2_Timetable_for_each_class_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Timetable</a>
 </p>
 <p>(A&nbsp;<a href="/files/Useful%20Links/For%20Students/Timetable%20Abbreviations%202021%20Sem%202.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;explaining
 the abbreviations used.)</p>
