@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Forms.md
-      - Purchase of Uniform.md
       - Rent a locker/.keep
       - Rent a locker/Step by step to rent a locker.md
       - Rent a locker/Rental of Lockers (FAQs).md
