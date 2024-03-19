@@ -70,7 +70,7 @@ with a values-based and value-added education.</p>
 </tbody>
 </table>
 <p></p>
-<h3>2024 Level Coordinator</h3>
+<h3>2024 Level Coordinators</h3>
 <table>
 <tbody>
 <tr>
