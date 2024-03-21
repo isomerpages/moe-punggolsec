@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-school/school-advisory-committtee/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20School/subbanner.jpg)
 
@@ -41,13 +42,9 @@ description: ""
     <td>Ms Wee Fong Chi<br></td>
     <td>Member<br></td>
   </tr>
+
   <tr>
-    <td>6<br></td>
-    <td>Mr Chong Sin Kiong (PBM)<br></td>
-    <td>Member<br></td>
-  </tr>
-  <tr>
-    <td>7</td>
+    <td>6</td>
     <td>Mr Tan Tee Kiang, Junius  <br></td>
     <td>Member </td>
   </tr>
