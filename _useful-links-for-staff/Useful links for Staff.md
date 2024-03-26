@@ -33,6 +33,10 @@ description: ""
 </p>
 </li>
 <li>
+<p><strong><a href="https://for.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Shorten your links (for.edu.sg)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">Human Resource Portal (HRP)</a></strong>
 </p>
 </li>
