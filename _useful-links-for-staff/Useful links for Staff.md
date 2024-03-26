@@ -33,7 +33,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://for.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Shorten your links</a></strong>
+<p><strong><a href="https://for.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Shorten your links (for.edu.sg)</a></strong>
 </p>
 </li>
 <li>
