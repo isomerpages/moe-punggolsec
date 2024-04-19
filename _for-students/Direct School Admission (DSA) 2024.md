@@ -27,7 +27,6 @@ in Punggol Secondary School to apply for our DSA programme.</p>
 <p></p>
 <p><strong>PROGRAMME AND OPPORTUNITIES</strong>
 </p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -110,13 +109,11 @@ the Environment Club CCA.</p>
 <p></p>
 <p><strong>SELECTION CRITERIA</strong>
 </p>
-<p></p>
 <p>We are looking for students who are&nbsp;self-motivated and demonstrate
 potential in the above DSA areas. &nbsp;</p>
 <p></p>
 <p>Students who are interested in the Direct School Admission into Punggol
 Secondary School must<strong>&nbsp;</strong>fulfil the following criteria:</p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -165,7 +162,6 @@ and/or</p>
 </li>
 <li>
 <p>Interview</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -204,7 +200,6 @@ or recorded accompaniment)</p>
 <p>Interview</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -272,7 +267,7 @@ Environment Club Chairman/Vice Chairman, etc); or</p>
 <li>
 <p>Have done well in Science / Design-related / Environmental-related competitions
 or projects at school or national level</p>
-<p>&nbsp;</p>
+<p></p>
 </li>
 </ul>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; All DSA applicants will be required to provide
@@ -287,7 +282,6 @@ for all shortlisted candidates.</p>
 the students’ aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p></p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
