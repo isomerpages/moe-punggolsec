@@ -2,10 +2,10 @@ collections:
   for-students:
     output: true
     order:
-      - Direct School Admission (DSA) 2024.md
       - Useful Links for Students.md
       - Timetable.md
       - Assessment Matters.md
+      - Direct School Admission (DSA) 2024.md
       - Rent a Locker/.keep
       - Rent a Locker/Step by step to rent a locker.md
       - Rent a Locker/Rental of Lockers (FAQs).md
