@@ -282,11 +282,7 @@ for all shortlisted candidates.</p>
 the students’ aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school and participate in the activities
-related to the talent they are selected for from year 1-4.</p>
-<p>
-<br>The selection criteria and process for the talent areas will be updated
+<p>The selection criteria and process for the talent areas will be updated
 from early-May. For more information on DSA-Sec, please refer to the MOE
 website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
