@@ -300,3 +300,7 @@ will be shortlisted / given an offer.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <p></p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11am
+to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
