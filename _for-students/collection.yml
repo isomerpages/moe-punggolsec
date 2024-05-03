@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Timetable/.keep
       - Useful Links for Students.md
       - Timetable.md
       - Assessment Matters.md
