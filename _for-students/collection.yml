@@ -2,9 +2,9 @@ collections:
   for-students:
     output: true
     order:
+      - Timetable/.keep
       - Timetable/Sec 2 Subject Combination.md
       - Timetable/Timetable.md
-      - Timetable/.keep
       - Useful Links for Students.md
       - Assessment Matters.md
       - Direct School Admission (DSA) 2024.md
