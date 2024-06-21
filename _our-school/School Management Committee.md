@@ -427,6 +427,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LT Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lawrence Tang Kok Onn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lawrence_tang_kok_onn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lawrence_tang_kok_onn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST Biology</p>
 </td>
 <td rowspan="1" colspan="1">
