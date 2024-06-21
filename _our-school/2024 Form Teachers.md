@@ -180,18 +180,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kuan Hai Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kuan_hai_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuan_hai_cheng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,10 +195,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Deniisha Chand</p>
+<p>Dahlia Abdul Samad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:deniisha_chand@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">deniisha_chand@schools.gov.sg</a>
+<p><a href="mailto:Dahlia_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dahlia_abdul_samad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -556,7 +544,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -573,15 +561,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_yu@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lovely Taidy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lovely_taidy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lovely_taidy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
