@@ -463,6 +463,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Shu Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Shu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_yi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
