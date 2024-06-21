@@ -427,6 +427,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LT Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lawrence Tang Kok Onn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lawrence_tang_kok_onn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lawrence_tang_kok_onn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST Biology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -446,6 +458,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_jee_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_jee_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Shu Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Shu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
