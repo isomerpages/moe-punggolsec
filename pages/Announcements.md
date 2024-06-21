@@ -13,7 +13,7 @@ variant: tiptap
 <p>Dear students, please refer to the above link to watch a video on the
 PSS Experience.</p>
 <hr>
-<p><a href="/files/2024_Sem_2_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Timetable</a>
+<p><strong><a href="/files/2024_Sem_2_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Timetable</a></strong>
 </p>
 <p>Dear students, please refer to the above link for <a href="/files/2024_Sem_2_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Timetable</a>
 </p>
