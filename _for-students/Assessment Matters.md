@@ -6,7 +6,13 @@ variant: tiptap
 ---
 <p><strong>Dear Students</strong>,</p>
 <p>Please refer to your respective assessment timetable:</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,6 +58,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024_Sec_3_WA2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA2 Letter</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
