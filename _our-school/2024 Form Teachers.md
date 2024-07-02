@@ -131,7 +131,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,9 +144,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Ng Choon Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +152,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,9 +165,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Chen Xinghui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,7 +173,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,9 +186,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dahlia Abdul Samad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,7 +194,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,9 +207,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tang Chong Woei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,6 +216,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Jill Yong Li Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="jill_yong_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jill_yong_li_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>1I</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,9 +236,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Glenn Daniel Yeong Zheng Pang</p>
 </td>
@@ -277,7 +271,7 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong Wei Wei</p>
+<p>Mrs Lee Wei Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_wei_wei_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_wei_a@schools.gov.sg</a>
