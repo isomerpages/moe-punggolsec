@@ -69,7 +69,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Sec_2_WA3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA3 Letter</a>
+<p><a href="/files/2024_Sec_2_WA3_Letter_Updated_9th_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA3 Letter</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
