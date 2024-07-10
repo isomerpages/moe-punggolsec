@@ -65,13 +65,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024_Sec_1_WA3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA3 Letter</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024_Sec_2_WA3_Letter_Updated_9th_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA3 Letter</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024_Sec_3_WA3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA3 Letter</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024_Prelims_4E5N_Examination_Schedule__30_May.pdf" rel="noopener noreferrer nofollow" target="_blank">4E/5N Prelim</a>
