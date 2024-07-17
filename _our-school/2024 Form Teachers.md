@@ -180,7 +180,7 @@ variant: tiptap
 <p>Mr Wang En Zhao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_enzhao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_enzhao@moe.edu.sg</a>
+<p><a href="mailto:wang_enzhao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_enzhao@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -237,7 +237,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Glenn Daniel Yeong Zheng Pang</p>
+<p>Mr Glenn Daniel Yeong Zhen Pang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:glenn_yeong_zhen_pang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">glenn_yeong_zhen_pang@schools.gov.sg</a>
@@ -533,7 +533,7 @@ variant: tiptap
 <p>Ms Rina Kawamoto</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rina_kawamoto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rina_kawamoto@moe.edu.sg</a>
+<p><a href="mailto:rina_kawamoto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rina_kawamoto@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -554,7 +554,7 @@ variant: tiptap
 <p>Mr Lee Jing Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_yu@moe.edu.sg</a>
+<p><a href="mailto:lee_jing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_yu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -575,7 +575,7 @@ variant: tiptap
 <p>Ms Natalie Goh Chang Xiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natalie_goh_chang_xiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natalie_goh_chang_xiu@moe.edu.sg</a>
+<p><a href="mailto:natalie_goh_chang_xiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natalie_goh_chang_xiu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
