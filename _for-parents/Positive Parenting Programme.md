@@ -84,6 +84,8 @@ variant: markdown
   minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">Phone: 6978 4090</span></strong></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
   font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
   minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">&nbsp;</span></strong></p></td></tr></tbody></table>
-	
-	
+
 **Triple P Seminars (On-site sessions)**
+![](/images/Triple_P1.jpg)
+![](/images/Triple_P2.jpg)	
+			
