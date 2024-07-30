@@ -87,5 +87,4 @@ variant: markdown
 
 **Triple P Seminars (On-site sessions)**
 ![](/images/Triple_P1.jpg)
-![](/images/Triple_P2.jpg)	
-			
+![](/images/Triple_P2.jpg)
