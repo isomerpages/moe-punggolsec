@@ -85,5 +85,5 @@ variant: markdown
   font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
   minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">&nbsp;</span></strong></p></td></tr></tbody></table>
 	
+	
 **Triple P Seminars (On-site sessions)**
-
