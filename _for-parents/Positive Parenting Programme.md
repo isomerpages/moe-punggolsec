@@ -2,83 +2,89 @@
 title: Positive Parenting Programme
 permalink: /useful-links/for-parents/positive-parenting-programme/
 description: ""
+variant: markdown
 ---
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.55pt"><td style="width:495.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:30.55pt" valign="top" width="661"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b>Parenting Support (Families For Life Programmes)</b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:495.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="661"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal">Punggol Secondary School has partnered the Care Corner Families For Life (FFL) to conduct parenting programmes for parents of the school.</p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b>&nbsp;</b></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal">FFL is the appointed parenting support provider of Punggol Secondary School. The FFL supports parents through their anchor programme - Positive Parenting Programme (Triple P). FFL programmes are funded by the Ministry of Social and Family Development (MSF).</p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b>&nbsp;</b></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal">To learn more about Care Corner FFL, visit their website: <a href="https://www.carecorner.org.sg/parenting-support">https://www.carecorner.org.sg/parenting-support</a><span class="MsoHyperlink"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b>&nbsp;</b></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:495.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="661"><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">What is Triple P?</span></u></strong><span style="font-size:11.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222"></span></p><p style="margin:0in;background:white"><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">The Positive Parenting Programme is a parenting and family support strategy designed to prevent behavioural and emotional problems in children.</span></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">What does it offer?</span></u></strong><span style="font-size:11.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222"></span></p><p style="margin:0in;background:white"><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">Simple and practical strategies to help parents confidently manage their children’s behaviour, prevent problems developing and build strong, healthy relationships.</span></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">Why is it effective?</span></u></strong><span style="font-size:11.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
+  text-indent:-.25in;mso-list:l0 level1 lfo1;background:white"><span style="font-size:11.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
+  mso-bidi-font-family:Wingdings;color:#222222"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+  color:#222222">One of the most effective evidence-based parenting programmes in the world, backed up by more than 30 years of ongoing research.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
+  text-indent:-.25in;mso-list:l0 level1 lfo1;background:white"><span style="font-size:11.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
+  mso-bidi-font-family:Wingdings;color:#222222"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+  color:#222222">It offers parents preventive programmes of different intensity to meet their needs.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
+  text-indent:-.25in;mso-list:l0 level1 lfo1;background:white"><span style="font-size:11.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
+  mso-bidi-font-family:Wingdings;color:#222222"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+  color:#222222">Effective in reducing child behavioural problems and improving parental self-efficacy and satisfaction.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;
+  text-indent:-.25in;mso-list:l0 level1 lfo1;background:white"><span style="font-size:11.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
+  mso-bidi-font-family:Wingdings;color:#222222"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+  color:#222222">Implemented in 25 countries such as Australia, Japan and Hong Kong.</span></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">Modalities</span></u></strong></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">1-to-1 consultation or group sessions</span></strong></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">&nbsp;</span></strong></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">Video on Triple P</span></u></strong></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><a href="https://youtu.be/-R9ZXm4hKCg"><span style="mso-field-code:&quot;HYPERLINK \0022https\:\/\/youtu\.be\/-R9ZXm4hKCg\0022&quot;">https://youtu.be/-R9ZXm4hKCg</span></a></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">&nbsp;</span></strong></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">Video Testimony from parents</span></u></strong></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">1-to-1 Consultation:</span></strong></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><a href="https://youtu.be/1d4EruZ4f6M"><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">https://youtu.be/1d4EruZ4f6M</span></a><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">&nbsp;</span></strong></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">Seminars:</span></strong></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><a href="https://www.youtube.com/watch?v=s4UjC5GjcFM&amp;t=3s"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">https://www.youtube.com/watch?v=s4UjC5GjcFM&amp;t=3s</span></a><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">&nbsp;</span></strong></p><p style="margin:0in;background:white"><strong><u><span style="font-size:
+  11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+  mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;color:#222222">Contact</span></u></strong></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">Email: </span></strong><span style="color:black;mso-color-alt:windowtext"><a href="mailto:ffl@carecorner.org.sg"><span style="font-size:11.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin">ffl@carecorner.org.sg</span></a></span><strong><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+  color:#222222;font-weight:normal"></span></strong></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">Phone: 6978 4090</span></strong></p><p style="margin:0in;background:white"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+  minor-latin;mso-bidi-theme-font:minor-latin;color:#222222;font-weight:normal">&nbsp;</span></strong></p></td></tr></tbody></table>
 
-
-
-To support parents in building healthy relationships with their children, Punggol Secondary School has embarked on the Positive Parenting Programme (Triple P) since 2015. It is one of the world's most effective evidence-based parenting programmes, with more than 30 years of research. Supported by the Ministry of Social and Family Development (MSF), Triple P is a preventive programme that provides parents with simple and practical strategies to manage teenage behaviour and foster strong parent-teenager relationships.
-  
-
-The Triple P is based on five basic principles. They are:
-
-*   To ensure a safe and engaging environment at home    
-    This helps promote the healthy development of the child.
-    
-
-  
-
-*   To create a positive learning environment<br>
-    Parents learn how to respond constructively to their children's requests for help and attention and through this, help their children solve problems for themselves.
-    
-
-  
-
-*   To use assertive discipline<br>
-    Parents learn how to use effective strategies such as giving clear and calm instructions, using time-outs and planned ignoring, instead of resorting to ineffective practices such as shouting, threatening or using physical punishment.
-    
-
-  
-
-*   To have realistic expectations   
-    Parents explore their expectations about the causes of their children's behaviour and choose goals that are realistic for both themselves and their children. Parents at risk of abusing their children are more likely to have unrealistic expectations of their children's capabilities.
-    
-
-  
-
-*   To take care of themselves as parents<br>
-    Parents are encouraged to view parenting as part of a larger context of personal well-being and self-care.
-    
-
-  
-
-You may refer to the Powerpoint slides on the effectiveness of the Triple P Programme.
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRNld1F4vvJIo1JGQNUeGajlcNTXnwV0J-VirUBynjwb1Et-HqjaJycVIMQanDRrHBsAxc18qvhJ0iO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-
-
-From 2020, MSF has appointed Methodist Welfare Services (MWS) to support parents in Punggol Secondary School.  
-
-  
-
-The MWS Family Support Programme (FSP) is an upstream programme designed to guide parents and teens. The MWS FSP will adopt a regional and multidisciplinary approach to deliver evidence-based parenting support services. It serves as a regional anchor to deliver family services from a client-centered perspective. This region-based programme enables MWS to better assist and coordinate the delivery of client-centered family services.
-
-  
-
-The MWS FSP aims to achieve greater awareness and access to community support networks and resources. Holistic support services will be accessible to targeted families with multiple needs. To aid in this, Punggol Secondary School will provide meeting spaces for parents interested in the Triple P programme. Through these sessions, we aim to equip parents with evidence-based parenting knowledge and skills to strengthen parent-child relationships.
-
-  
-
-MWS Newsletters:
-
-
-<table>
-<thead>
-  <tr>
-    <td><a href="/files/Useful%20Links/For%20Parents/ParentingNewsletter-Issue%2001_8Mar%201%203.pdf">Issue 1</a></td>
-    <td><a href="/files/Useful%20Links/For%20Parents/ParentingNewsletter-Issue%2002.pdf">Issue 2</a></td>
-    <td><a href="/files/Useful%20Links/For%20Parents/Parenting%20Newsletter%20Issue%2003.pdf">Issue 3</a></td>
-  </tr>
-</thead>
-</table>
-
-MWS Parenting tips:
-
-<table>
-<thead>
-  <tr>
-    <td><a href="/files/Useful%20Links/For%20Parents/EDM%20Developing%20Healthy%20Routines%20Secondary%20School%2022%20Feb%202022.pdf">Issue 1</a></td>
-  </tr>
-</thead>
-</table>
+**Triple P Seminars (On-site sessions)**
+![](/images/Triple_P1.jpg)
+![](/images/Triple_P2.jpg)
