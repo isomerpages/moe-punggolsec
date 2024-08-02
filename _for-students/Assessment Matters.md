@@ -83,7 +83,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/spreadsheets/d/12ruEurP669d3M29SYJeTnqZ5pVgP6fyVp24MFtGYmEs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1 EOY</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
