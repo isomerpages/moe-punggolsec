@@ -106,6 +106,6 @@ Kong.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Triple_P2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Triple_P2.jpg">
 </div>
 <p></p>
