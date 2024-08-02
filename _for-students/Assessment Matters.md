@@ -87,7 +87,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1zTTYr6COG5X98qZl8T3GapR4k6M49M_Epz3FE1T2VAs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 2 EOY </a>
+<p><a href="https://docs.google.com/spreadsheets/d/1zTTYr6COG5X98qZl8T3GapR4k6M49M_Epz3FE1T2VAs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 2 EOY</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
