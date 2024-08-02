@@ -19,19 +19,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Punggol Secondary School has partnered the Care Corner Families For Life
 (FFL) to conduct parenting programmes for parents of the school.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>FFL is the appointed parenting support provider of Punggol Secondary School.
 The FFL supports parents through their anchor programme - Positive Parenting
 Programme (Triple P). FFL programmes are funded by the Ministry of Social
 and Family Development (MSF).</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>To learn more about Care Corner FFL, visit their website: <a href="https://www.carecorner.org.sg/parenting-support" rel="noopener noreferrer nofollow" target="_blank">https://www.carecorner.org.sg/parenting-support</a>
 </p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -40,60 +36,62 @@ and Family Development (MSF).</p>
 </p>
 <p>The Positive Parenting Programme is a parenting and family support strategy
 designed to prevent behavioural and emotional problems in children.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>What does it offer?</u></strong>
 </p>
 <p>Simple and practical strategies to help parents confidently manage their
 children’s behaviour, prevent problems developing and build strong, healthy
 relationships.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>Why is it effective?</u></strong>
 </p>
-<p>§&nbsp; One of the most effective evidence-based parenting programmes
-in the world, backed up by more than 30 years of ongoing research.</p>
-<p>§&nbsp; It offers parents preventive programmes of different intensity
-to meet their needs.</p>
-<p>§&nbsp; Effective in reducing child behavioural problems and improving
-parental self-efficacy and satisfaction.</p>
-<p>§&nbsp; Implemented in 25 countries such as Australia, Japan and Hong
-Kong.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One of the most effective evidence-based parenting programmes in the world,
+backed up by more than 30 years of ongoing research.</p>
+</li>
+<li>
+<p>It offers parents preventive programmes of different intensity to meet
+their needs.</p>
+</li>
+<li>
+<p>Effective in reducing child behavioural problems and improving parental
+self-efficacy and satisfaction.</p>
+</li>
+<li>
+<p>Implemented in 25 countries such as Australia, Japan and Hong Kong.</p>
+</li>
+</ul>
+<p></p>
 <p><strong><u>Modalities</u></strong>
 </p>
 <p><strong>1-to-1 consultation or group sessions</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong><u>Video on Triple P</u></strong>
 </p>
-<p><a href="https://youtu.be/-R9ZXm4hKCg" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/-R9ZXm4hKCg</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-R9ZXm4hKCg?si=Oaq322tdaAaH20bU"></iframe>
+</div>
+<p></p>
 <p><strong><u>Video Testimony from parents</u></strong>
 </p>
 <p><strong>1-to-1 Consultation:</strong>
 </p>
-<p><a href="https://youtu.be/1d4EruZ4f6M" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/1d4EruZ4f6M</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1d4EruZ4f6M?si=zS5ffSiYHv8S8q3A"></iframe>
+</div>
+<p></p>
 <p><strong>Seminars:</strong>
 </p>
-<p><a href="https://www.youtube.com/watch?v=s4UjC5GjcFM&amp;t=3s" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=s4UjC5GjcFM&amp;t=3s</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s4UjC5GjcFM?si=hZVB5En6-Q3jE85O"></iframe>
+</div>
 <p><strong><u>Contact</u></strong>
 </p>
 <p><strong>Email: </strong><a href="mailto:ffl@carecorner.org.sg" rel="noopener noreferrer nofollow" target="_blank">ffl@carecorner.org.sg</a>
 </p>
 <p><strong>Phone: 6978 4090</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
