@@ -20,4 +20,5 @@ sections:
       button: Register here
       url: https://go.gov.sg/pss-open-house-2024
       image: /images/Punggol_Secondary_Open_House_2024_Final_website.png
+      alt: PSS Open House 2024
 ---
