@@ -13,12 +13,12 @@ sections:
           url: /announcements/
       background: /images/hero section.jpg
   - infopic:
-      title: 2024 Teachers' Day Celebration
-      subtitle: Teachers' Day Announcement
+      title: Punggol Secondary Open House 2024
+      subtitle: Open House announcement
       id: infopic
-      description: Attention to all Ex Punggolites
+      description: Join us on Saturday, 23 November 2024 9am to 1.30pm
       button: Register here
-      url: https://form.gov.sg/65c064091796ee8341851cd0
-      image: /images/2024_Teacher_s_Day_Announcement_for_Alumni.jpg
-      alt: Image alt text
+      url: https://go.gov.sg/pss-open-house-2024
+      image: /images/Punggol_Secondary_Open_House_2024_Final_website.png
+      alt: PSS Open House 2024
 ---
