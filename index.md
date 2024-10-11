@@ -20,11 +20,4 @@ sections:
       button: Register here
       url: https://go.gov.sg/pss-open-house-2024
       image: /images/Punggol_Secondary_Open_House_2024_Final_website.png
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
