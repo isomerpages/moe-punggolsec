@@ -20,6 +20,3 @@ The English Language and Literature Department aims to equip Punggolites with st
 
 ![Author Gavin Seah sharing his inspirational life journey with Punggolites.](/images/Academic%20Subjects/English%20Language%20&%20Literature/08_Author_Gavin_Seah_sharing_his_inspirational_life_journey_with_Punggolites.jpg)
 _Author Gavin Seah sharing his inspirational life journey with Punggolites_
-
-
-
