@@ -13,3 +13,7 @@ The English Language and Literature Department aims to equip Punggolites with st
 ![Students collaborating online on a group project.](/images/Academic%20Subjects/English%20Language%20&%20Literature/01_Students_collaborating_online_on_a_group_project.jpg)
 
 ![Students harnessing technology for a performance task.](/images/Academic%20Subjects/English%20Language%20&%20Literature/03_Students_harnessing_technology_for_a_performance_task.jpg)
+
+![Author Gavin Seah sharing his inspirational life journey with Punggolites.](/images/Academic%20Subjects/English%20Language%20&%20Literature/08_Author_Gavin_Seah_sharing_his_inspirational_life_journey_with_Punggolites.jpg)
+
+
