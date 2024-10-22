@@ -2,12 +2,11 @@
 title: English Language and Literature
 permalink: /the-pss-learning-experience/academic-subjects/english-language-n-literature/
 description: ""
+variant: markdown
 ---
-
-
 ## English Language &amp; Literature
 
-The English Language and Literature Department is a team of caring and dedicated teachers who strongly believes in every student being a confident communicator. Our curriculum is aligned to the English Language Syllabus 2020 (ELS2020), which aims to develop each student to be an Empathetic Communicator, a Discerning Reader, and a Creative Inquirer. Our lessons and activities are purposefully designed to provide students with opportunities to be reflective and collaborative learners who consider multiple perspectives. In line with the National Digital Literacy Programme, students also engage in language learning through technology. Our teachers use e-pedagogy meaningfully to create a classroom which encourages student collaboration, teacher and peer feedback, and self-directed learning. ![](/images/el%2021st%20cc%20learner.png)
+          The English Language and Literature Department aims to equip Punggolites with strong language competencies through various strategies and engaging programmes both within and outside the classroom. Teacher feedback and peer assessment develop students’ critical thinking and encourage Punggolites to be reflective learners. Online group projects develop students’ communication, organisation, and teamwork skills, which are essential in future workplaces. In addition, our library programmes foster a love for reading and promote lifelong learning. By integrating technology with the department’s approaches to learning, Punggolites become self-directed learners with the necessary life skills and dispositions to navigate future challenges. ![](/images/el%2021st%20cc%20learner.png)
 
 ### Department Programmes and Events
 
