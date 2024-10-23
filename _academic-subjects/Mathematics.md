@@ -2,17 +2,14 @@
 title: Mathematics
 permalink: /the-pss-learning-experience/academic-subjects/mathematics/
 description: ""
+variant: markdown
 ---
-
-
 # Mathematics
 
-The Mathematics Department is committed to develop in our students a positive attitude towards Mathematics. We believe that all students can succeed and we aim to bring out the best in them.  
-
-  
+ The Mathematics Department aims to develop Punggolites into resilient problem solvers with a positive attitude towards Mathematics. The department leverages on a baseline curriculum with suitable pedagogies and assessment strategies to strengthen the teaching and learning of mathematical problem-solving skills. Programmes like Peer Tutoring Programme, Foundation to N(A) Bridging, Secondary One Games Day and Secondary Three Math Trail provide a motivating environment to learn Mathematics and solve problems in real world contexts. Students learn how to be an active contributor as they work collaboratively to support one another in problem-solving.
+ 
 
 ### Department Programmes and Events
-
 
   
 
