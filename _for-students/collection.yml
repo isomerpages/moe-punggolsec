@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Book Lists (2025)/.keep
       - Useful Links for Students.md
       - Assessment Matters.md
       - Timetable.md
