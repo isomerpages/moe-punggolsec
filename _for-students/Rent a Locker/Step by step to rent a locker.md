@@ -38,8 +38,11 @@ Once activation is successful, you may proceed to book and pay for a locker as f
 •	Locker Size: ‘Small’ 
 •	Period: ‘Academic Year 2025: 01/01/2025 to 31/10/2025’ 
 •	Booking Amount ($): 26.00 
-      (Please take note that once booking is confirmed, the system is unable to accept changes) You are then connected to the eNets website for payment.  eNets will send you an email notification of your transaction status after you click on “Submit” 
-Check student’s email for confirmation of payment. If payment fails, please log in your account and go to “My Booking” to make payment for this booking. Unpaid booking will automatically be cancelled after 3 days. Do not click “ADD A NEW BOOKING” as you already have a booking pending for payment. 
-Once a locker has been paid and allocated, you will be notified via student’s email. 
+
+      (Please take note that once booking is confirmed, the system is unable to accept changes.) You are then connected to the eNets website for payment.  eNets will send you an email notification of your transaction status after you click on “Submit” 
+Check student’s email for confirmation of payment. 
+If payment fails, please log in your account and go to “My Booking” to make payment for this booking. Unpaid booking will automatically be cancelled after 3 days. 
+Do not click “ADD A NEW BOOKING” as you already have a booking pending for payment. 
+Once a locker has been paid and allocated, you will be notified via your student’s email. 
  
 For any enquiries on online locker booking, please click “Support” in the rent-a-locker website, call Kaichi Spacemaster Pte Ltd at 62820868 or email to admin@rent-a-locker.com
