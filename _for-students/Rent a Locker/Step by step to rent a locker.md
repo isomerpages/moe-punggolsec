@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Rent a Locker
 variant: markdown
 ---
-# **Instructions to Book a Locker for 2025 **
+# Instructions to Book a Locker for 2025 
 
  
 To book a locker in 2025, please note the following: 
