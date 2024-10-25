@@ -33,12 +33,18 @@ Step 1: Select a Booking Period then click on “Next”
 
 Step 2: Click on student’s Class in 2025 under “Location”  
 
-Step 3: Confirm the information below and proceed to “Payment”.
+Step 3: Confirm the information below and proceed to “Payment”
+
 •	Client: ‘Punggol Secondary School’
+
 •	Location: ‘Class’
+
 •	Cluster: ‘Classroom Location’
+
 •	Locker Size: ‘Small’ 
+
 •	Period: ‘Academic Year 2025: 01/01/2025 to 31/10/2025’
+
 •	Booking Amount ($): 26.00 
 (Please take note that once booking is confirmed, the system is unable to accept changes.) 
 
