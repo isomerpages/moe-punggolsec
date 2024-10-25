@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Rent a Locker
 variant: markdown
 ---
-# **Step By Step Rent-a-Locker Online Application**
+# **Instructions to Book a Locker for 2025 **
 
  
 To book a locker in 2025, please note the following: 
@@ -42,6 +42,4 @@ Once activation is successful, you may proceed to book and pay for a locker as f
 Check student’s email for confirmation of payment. If payment fails, please log in your account and go to “My Booking” to make payment for this booking. Unpaid booking will automatically be cancelled after 3 days. Do not click “ADD A NEW BOOKING” as you already have a booking pending for payment. 
 Once a locker has been paid and allocated, you will be notified via student’s email. 
  
-For any enquiries on online locker booking, please click “Support” in the rent-a-locker website, call Kaichi Spacemaster Pte Ltd at 62820868 or email to admin@rent-a-locker.com 
-  
- 
+For any enquiries on online locker booking, please click “Support” in the rent-a-locker website, call Kaichi Spacemaster Pte Ltd at 62820868 or email to admin@rent-a-locker.com
