@@ -19,8 +19,3 @@ Science department leverages the use of technology to engage students in their l
 
 ![](/images/Academic%20Subjects/Science/03_Lower_Secondary_students_on_a_gamification_lesson_for_recalling_science_concepts.jpg)
 *Lower Secondary students on a gamification lesson for recalling science concepts.*
-
-
-
-
-
