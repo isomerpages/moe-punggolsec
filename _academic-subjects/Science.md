@@ -2,18 +2,12 @@
 title: Science
 permalink: /the-pss-learning-experience/academic-subjects/science/
 description: ""
+variant: markdown
 ---
-
-
 ## Science
 
-The Science Department aspires to ignite in our students the passion for learning Science and provide students with opportunities to expose them to scientific applications so that they are able to link real life application of Science to what they learn in school.
+Science department leverages the use of technology to engage students in their learning trajectories and prepare them to be future-ready as technology gains emphasis in the future workplace. Technology is used to promote collaborative learning and co-creation of knowledge so that students can appreciate how scientific knowledge is reliable and repeatable. Students are given opportunity during science lessons to use their personal learning devices to tap on the affordances of technology to enhance their learning. The use of gamification makes lessons more engaging.
 
-
-We provide opportunities for all students to learn science to the best of their ability in their years at Punggol Secondary School.
-
-
-We also prepare students for relevant competitions so that they are able to develop their 21st century world skills such as presentation and public speaking.  As they prepare for such competitions, students are also engaged in scientific research and report writing.
 
 
 ### Achievements
