@@ -18,7 +18,7 @@ For Clubs & Societies, the CCAs offered are:
 
 ·         [Environmental Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Environmental%20Club.pdf)
 
-·         [Indian Literary Drama and Debate Society](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Indian%20LDDS.pdf)
+·         [Indian Language Drama and Debate Society](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Indian%20LDDS.pdf)
 
 ·         [Interact Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Interact%20Club.pdf)
 
