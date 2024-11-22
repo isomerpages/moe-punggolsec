@@ -14,11 +14,11 @@ For Clubs & Societies, the CCAs offered are:
 
 ·         [Audio Visual Aid Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Audio%20Visual%20Club.pdf)
 
-·         [English Literary Drama and Debate Society](/files/Co%20Curricular%20Activities/Club%20and%20Societies/ELDDS.pdf)
+·         [English Language Drama and Debate Society](/files/Co%20Curricular%20Activities/Club%20and%20Societies/ELDDS.pdf)
 
 ·         [Environmental Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Environmental%20Club.pdf)
 
-·         [Indian Literary Drama and Debate Society](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Indian%20LDDS.pdf)
+·         [Indian Language Drama and Debate Society](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Indian%20LDDS.pdf)
 
 ·         [Interact Club](/files/Co%20Curricular%20Activities/Club%20and%20Societies/Interact%20Club.pdf)
 
@@ -26,7 +26,7 @@ For Clubs & Societies, the CCAs offered are:
 
 **CCA Achievements**
 
- **English Literacy Drama Debate Society**
+ **English Language Drama and Debate Society**
 
 \- Singapore Youth Festival 2021 and 2023 (Accomplishment)
 
@@ -68,6 +68,3 @@ For Clubs & Societies, the CCAs offered are:
 \- 2023 National Organ Transplant Unit, Live On Festival Design Competition - Merit 
 
 \- Singapore Youth Festival 2022 (Certificate of Recognition)
-
-
-
