@@ -17,8 +17,8 @@ sections:
       subtitle: Open House announcement
       id: infopic
       description: Join us on Saturday, 23 November 2024 9am to 1.30pm
-      button: Register here
-      url: https://go.gov.sg/pss-open-house-2024
+      button: Student leaders experience
+      url: https://punggolsec.moe.edu.sg/student-leaders/
       image: /images/Punggol_Secondary_Open_House_2024_Final_website.png
       alt: PSS Open House 2024
 ---
