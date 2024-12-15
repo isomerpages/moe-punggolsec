@@ -37,6 +37,6 @@ sections:
           announcement: We are taking applications for Western Halal stall for our School
             Canteen. Interested applicants may click the link below for
             requirements & details.
-          link_text: ""
-          link_url: ""
+          link_text: Learn More
+          link_url: /school-canteen-advertisement/
 ---
