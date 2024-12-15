@@ -25,6 +25,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: School Canteen Stall Opening
+          date: 15 December 2024
+          announcement: We are taking applications for Western Halal stall for our School
+            Canteen. Interested applicants may click the link below for
+            requirements & details.
+          link_text: ""
+          link_url: ""
         - title: N Level Release 2024
           date: 16 December 2024
           announcement: Dear Sec 4 NA & NT students, N level results will be released on
