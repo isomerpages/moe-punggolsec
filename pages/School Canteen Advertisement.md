@@ -33,7 +33,8 @@ may be required to operate on other days as required by the school.</p>
 </li>
 <li>
 <p>Must comply with the Healthy Eating in Schools Programme Guidelines set
-by the Health Promotion Board (Healthy Meals in Schools Programme (<a rel="noopener noreferrer nofollow" target="_blank">hpb.gov.sg</a>).</p>
+by the <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">Health Promotion Board</a> (Healthy
+Meals in Schools Programme).</p>
 </li>
 <li>
 <p>Catering experience (preferred but not compulsory).</p>
