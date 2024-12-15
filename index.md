@@ -21,4 +21,14 @@ sections:
       url: /student-leaders/
       image: /images/Punggol_Secondary_Open_House_2024_Final_website.png
       alt: PSS Open House 2024
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: N Level Release 2024
+          date: 16 December 2024
+          announcement: Dear Sec 4 NA & NT students, N level results will be released on
+            Monday, 16 November 2024, 2pm. Please report at the school hall.
+          link_text: ""
+          link_url: ""
 ---
