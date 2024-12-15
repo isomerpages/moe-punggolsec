@@ -66,5 +66,5 @@ documents:</p>
 </p>
 <p>Only shortlisted applicants will be notified for an interview and food
 items sampling at the school. For further queries, please contact Mdm Oh
-Chew Ling (Administration Manager) at 64897851 or email to <a rel="noopener noreferrer nofollow" target="_blank">oh_chew_ling@schools.gov.sg</a>
+Chew Ling (Administration Manager) at 64897851 or email to <a href="oh_chew_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oh_chew_ling@schools.gov.sg</a>
 </p>
