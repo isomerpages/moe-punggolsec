@@ -48,7 +48,7 @@ Food Agency (SFA).</p>
 </ul>
 <p><strong>Application Procedure</strong>
 </p>
-<p><a href="/files/School_Application_for_canteen_stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>&nbsp;must
+<p><a href="/files/School_Application_for_canteen_stall.pdf" rel="noopener nofollow" target="_blank">Application Form</a>&nbsp;must
 be completed and submitted to our school’s General Office with the following
 documents:</p>
 <ul data-tight="true" class="tight">
