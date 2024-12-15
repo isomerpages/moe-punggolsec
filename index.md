@@ -12,15 +12,6 @@ sections:
           description: ""
           url: /announcements/
       background: /images/hero section.jpg
-  - infopic:
-      title: Punggol Secondary Open House 2024
-      subtitle: Open House announcement
-      id: infopic
-      description: Join us on Saturday, 23 November 2024 9am to 1.30pm
-      button: Student leaders experience
-      url: /student-leaders/
-      image: /images/Punggol_Secondary_Open_House_2024_Final_website.png
-      alt: PSS Open House 2024
   - announcements:
       title: Announcements
       id: announcements
@@ -34,9 +25,18 @@ sections:
           link_url: ""
         - title: School Canteen Stall Opening
           date: 15 December 2024
-          announcement: We are taking applications for Western Halal stall for our School
-            Canteen. Interested applicants may click the link below for
-            requirements & details.
+          announcement: Our School is taking applications for a Western Halal stall for
+            our School Canteen. Interested applicants may click the link below
+            for requirements & details.
           link_text: Learn More
           link_url: /school-canteen-advertisement/
+  - infopic:
+      title: Punggol Secondary Open House 2024
+      subtitle: Open House announcement
+      id: infopic
+      description: Join us on Saturday, 23 November 2024 9am to 1.30pm
+      button: Student leaders experience
+      url: /student-leaders/
+      image: /images/Punggol_Secondary_Open_House_2024_Final_website.png
+      alt: PSS Open House 2024
 ---
