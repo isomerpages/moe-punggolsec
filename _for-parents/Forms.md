@@ -63,7 +63,7 @@ office.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Interbank_GIRO_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for Interbank Giro</a>
+<p><a href="/files/Interbank_GIRO_application_form.pdf" rel="noopener nofollow" target="_blank">Application Form for Interbank Giro</a>
 </p>
 </td>
 </tr>
