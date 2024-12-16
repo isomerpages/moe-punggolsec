@@ -19,9 +19,8 @@ sections:
         - title: N Level Release 2024
           date: 15 December 2024
           announcement: Dear Sec 4 NA & NT students, N level results will be released on
-            Monday, 16 November 2024, 2pm. Please report to the school hall by
-            1.30pm.  Click on the link below for application form for 5NA 2025
-            and repeat 4NA 2025.
+            Monday, 16 November 2024, 2pm.   Click on the link below for
+            application form for 5NA 2025 and repeat 4NA 2025.
           link_text: Application Forms
           link_url: /application-forms-for-sec-4na/
         - title: School Canteen Stall Opening
