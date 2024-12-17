@@ -31,14 +31,14 @@ for school activities.</p>
 <p>Apple iTunes Store</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Apple_store.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Apple_store.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p>Google Play Store</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Google_playstore.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Google_playstore.jpg">
 </div>
 </th>
 </tr>
