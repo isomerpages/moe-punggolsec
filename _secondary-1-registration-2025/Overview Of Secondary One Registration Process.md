@@ -12,18 +12,6 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4</strong>
-</p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
 <p>Step</p>
 </th>
