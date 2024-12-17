@@ -127,10 +127,10 @@ Week</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Attend the Secondary One Parent Info Session (if you have RSVP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10 Jan 2025</p>
 </td>
 </tr>
 <tr>
@@ -138,10 +138,10 @@ Week</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Application for lockers (Refer to page 15)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>From 17 Jan 2025</p>
 </td>
 </tr>
 <tr>
@@ -149,10 +149,10 @@ Week</p>
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Application for Financial Assistance Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Anytime on the school website</p>
 </td>
 </tr>
 </tbody>
