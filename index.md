@@ -16,6 +16,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary 1 Registration 2025
+          date: 18 December 2024
+          announcement: Warmest welcome to Punggol Secondary! Click the link below to find
+            out more about us!
+          link_text: Registration for Sec 1 2025
+          link_url: /secondary-1-registration/
         - title: N Level Release 2024
           date: 15 December 2024
           announcement: Dear Sec 4 NA & NT students, N level results will be released on
