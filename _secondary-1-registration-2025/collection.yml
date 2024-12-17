@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Secondary 1 Registration.md
-      - Welcome Message.md
+      - 1) Welcome Message.md
       - Principal's Message.md
       - Overview Of Secondary One Registration Process.md
       - Attendance and Participation.md
