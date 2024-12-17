@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>Parents and students may purchase uniform in school on the same dates
 listed in the booklist.</p>
-<p>Parents may also purchase the child/ward’s uniform online at <a href="www.myuniformshop.com.sg" rel="noopener nofollow" target="_blank">www.myuniformshop.com.sg</a>&nbsp;and
+<p>Parents may also purchase the child/ward’s uniform online at <a href="https://www.myuniformshop.com.sg/" rel="noopener nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>&nbsp;and
 you can have it delivered to your home.</p>
 <p></p>
 <p>You may also purchase your child's uniform at their retail outlet.
