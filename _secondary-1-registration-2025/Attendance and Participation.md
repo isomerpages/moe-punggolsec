@@ -122,3 +122,8 @@ in learning. Any absence from school must be supported with a medical certificat
 A maximum of two letters from parents are allowed per semester for other
 valid absences from school. However, do note that letters from parents
 will NOT be accepted as valid reasons for absence from school-based assessments.</p>
+<p>Please refer to the link below for the periods of school terms and holidays
+in 2025: <a href="https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025</a>
+</p>
+<p><strong>For details on School Rules, Code of Conduct and other school matters, please download the student e-handbook from PG from 27 December onwards.</strong>
+</p>
