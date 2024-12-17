@@ -2,6 +2,7 @@ collections:
   2024-secondary-1-registration:
     output: true
     order:
+      - 1) Welcome Message.md
       - 1) Principal's Message.md
       - 2) Overview & Timeline.md
       - Booklist, Uniform and Locker Matters.md
