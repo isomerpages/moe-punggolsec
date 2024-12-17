@@ -30,25 +30,26 @@ for school activities.</p>
 <th rowspan="1" colspan="1">
 <p>Apple iTunes Store</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Apple_store.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
+<p>Google Play Store</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Google_playstore.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener nofollow" target="_blank">https://apps.apple.com/sg/app/parents-gateway/id1267198708</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG" rel="noopener nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG</a>
+</p>
 </td>
 </tr>
 </tbody>
