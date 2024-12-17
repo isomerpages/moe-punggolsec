@@ -31,7 +31,7 @@ the sale dates listed in the booklists:</p>
 <p>Sale of uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.punggolsec.moe.edu.sg/useful-links/for-parents/purchase-of-uniform/" rel="noopener nofollow" target="_blank">https://www.punggolsec.moe.edu.sg/useful-links/for-parents/purchase-of-uniform/</a>
+<p><a href="https://punggolsec.moe.edu.sg/purchase-of-uniform/" rel="noopener nofollow" target="_blank">https://punggolsec.moe.edu.sg/purchase-of-uniform/</a>
 </p>
 <p></p>
 <p>With the launch of the new school polo t-shirt, Secondary One students
