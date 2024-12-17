@@ -18,8 +18,8 @@ sections:
       announcement_items:
         - title: Secondary 1 Registration 2025
           date: 18 December 2024
-          announcement: Warmest welcome to Punggol Secondary! Click the link below to find
-            out more about us!
+          announcement: Warmest welcome to Punggol Secondary School! Click the link below
+            to find out more about us!
           link_text: Registration for Sec 1 2025
           link_url: /secondary-1-registration/
         - title: N Level Release 2024
