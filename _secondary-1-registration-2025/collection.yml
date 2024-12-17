@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
+      - Passport Photographs.md
       - Handphone Policy.md
       - Purchase Of School Books and Uniform.md
       - Safety Matters.md
