@@ -61,4 +61,9 @@ meals during recess.</p>
 </tr>
 </tbody>
 </table>
+<p>The Secondary One Orientation Programme is as follows:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOOW_schedule.jpg">
+</div>
 <p></p>
