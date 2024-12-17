@@ -2,7 +2,7 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
-      - Communication With Parents (Parents Gateway).md
       - Welcome Message.md
       - Principal's Message To Secondary 1 Students Of Year 2025.md
       - Overview Of Secondary One Registration Process.md
+      - Communication With Parents (Parents Gateway).md
