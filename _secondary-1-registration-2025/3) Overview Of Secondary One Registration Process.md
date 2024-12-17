@@ -98,8 +98,8 @@ eligibility criteria.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All parents</strong>: Log in to Parents Gateway from Fri, 27 Dec
-2024, 9am, to:</p>
+<p><strong>All parents</strong>: Log in to PG from Fri, 27 Dec 2024, 9am,
+to:</p>
 <p>a) Download 2025 Punggol Sec Sch e-handbook</p>
 <p>b) Find out about your child/ward’s Sec 1 class allocation</p>
 <p>c) Complete your child/ward’s medical declaration for Secondary One Orientation
