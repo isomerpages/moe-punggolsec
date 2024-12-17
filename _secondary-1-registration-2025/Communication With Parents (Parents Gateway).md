@@ -54,4 +54,10 @@ for school activities.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Step 2: Login with your SingPass Reset your password or apply at <a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg/</a> 
+</p>
+<p>Step 3: One time setup Tap on “Retrieve” to download your child’s details
+and <u>class allocated</u>.</p>
+<p>Welcome onboard, you are now able to view announcements and give consent
+for school activities. Please switch on the PG notification on your handphone
+to receive timely updates from MOE and the school.</p>
