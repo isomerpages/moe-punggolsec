@@ -2,5 +2,6 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
+      - OVERVIEW OF SECONDARY ONE REGISTRATION PROCESS.md
       - WELCOME MESSAGE.md
       - PRINCIPAL’S MESSAGE TO SECONDARY 1 STUDENTS OF YEAR 2025.md
