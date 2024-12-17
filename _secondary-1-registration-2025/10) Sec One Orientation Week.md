@@ -74,8 +74,8 @@ recordings in school publications, the school’s website, social media channels
 or other communication channels.</p>
 <p>We look forward to your child/ward’s participation in the Secondary One
 Orientation Programme.</p>
-<p>If you have any questions about the school, you may refer to (<a href="http://ASK.GOV.SG/PSS" rel="noopener noreferrer nofollow" target="_blank">ASK.GOV.SG/PSS</a>)</p>
-<p>You may also contact us at the following modes:</p>
+<p>If you have any questions about the school, you may contact us at the
+following modes:</p>
 <p>Telephone Number: 6489 7851</p>
 <p>Email: <a href="mailto:punggol_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggol_ss@moe.edu.sg</a>
 </p>
