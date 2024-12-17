@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
+      - Secondary 1 Registration.md
       - Welcome Message.md
       - Principal's Message.md
       - Overview Of Secondary One Registration Process.md
