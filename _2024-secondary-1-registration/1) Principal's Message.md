@@ -4,4 +4,29 @@ permalink: /2024-secondary-1-registration/principal-message/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Principal's Message to Secondary 1 Students of Year 2024</strong></h1><p>Dear Secondary One students,</p><p>Welcome to Punggol Secondary School (培道). You are about to embark on a very important journey in your life as a student. These four or five years in secondary school will be very significant as you seek to discover your strengths, talents and areas of growth, and pursue your passions and areas of interest. You will nurture good values, so that you can be an active contributor.</p><p>Such an endeavour requires much effort and perseverance on your part. Invest your time and energy meaningfully to reap positive rewards. Participate actively in school activities, from academic to sports, aesthetics and community involvement programmes, and you will see yourself grow from strength to strength.</p><p>The teachers and staff in school will be your mentors and guides. Give them the due respect and work closely with them. We are just around the corner if you need someone to listen to your ideas or concerns. We aim to do our best to provide you with a nurturing environment that is conducive to your learning and development.</p><p>The future is yet to be written and you will be the one to decide how it should be. I wish you all the best and we will also expect the best from you.</p><p></p><p>Yours sincerely,</p><p>Ms Valerie Tng</p><p></p>
+<h1><strong>Principal's Message to Secondary 1 Students of Year 2025</strong></h1>
+<p>Dear Secondary One students,</p>
+<p>Welcome to Punggol Secondary School (培道). You are about to embark on a
+very important journey in your life as a student. The next four or five
+years in secondary school will be crucial as you discover your strengths,
+talents and areas for growth, while pursuing your passions and interests.
+Along the way, you will cultivate strong values, empowering you to be an
+active contributor to the community. Such an endeavour requires dedication
+and perseverance on your part.</p>
+<p>By investing your time and energy meaningfully, you will reap positive
+rewards. Participate actively in school activities, whether academic, sports,
+aesthetics or community involvement programmes, and you will see yourself
+develop confidence and grow from strength to strength. The teachers and
+staff in school will be your mentors and guides. Treat them with respect
+and work together with them to unlock your fullest potential. We are always
+here to listen to your ideas or concerns. Our goal is to create a vibrant
+and nurturing environment that empowers your growth and development.</p>
+<p>The future is yours to shape and you hold the power to determine the path
+you take. Embrace every opportunity, rise to every challenge, and strive
+for excellence. We believe in you, and we can’t wait to see you become
+the best version of yourself!</p>
+<p>&nbsp;</p>
+<p>With warmest regards,</p>
+<p>Ms Valerie Tng</p>
+<p>Principal</p>
+<p></p>
