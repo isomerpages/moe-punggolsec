@@ -30,32 +30,95 @@ the school hours are:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Monday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>By 3pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Between 2.20 pm to 3.20pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wednesday</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quadrangle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Thursday</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quadrangle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 2.20 pm to 3.20pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Friday</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classroom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.20pm</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>With the introduction of the new school polo t-shirt, Secondary One students
+are expected to wear their polo t-shirt with their skirt or pants on Monday.
+Students can wear either the polo t-shirt or PE t-shirt with their skirt
+or pants from Tuesday to Friday.</p>
+<p>Your child/ward will receive his/her individual timetable in the first
+week of the school year from his/her form teacher.</p>
+<p>CCAs are usually held on Mondays, Wednesdays and Fridays.</p>
+<p>Students can only fully benefit from the school’s curriculum by actively
+participating in all school activities including Co-curricular Activities
+(CCA), Values-in-Action (VIA), Learning Journeys (LJ), enrichment programmes,
+as well as school events and celebrations such as the Speech and Awards
+Day, National Day Celebrations and cross-country.</p>
+<p>The school takes a serious view of students’ attendance and participation
+in learning. Any absence from school must be supported with a medical certificate.
+A maximum of two letters from parents are allowed per semester for other
+valid absences from school. However, do note that letters from parents
+will NOT be accepted as valid reasons for absence from school-based assessments.</p>
