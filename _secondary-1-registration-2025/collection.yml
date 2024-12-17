@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
+      - Transfer into Punggol Secondary.md
       - Sec One Orientation Week.md
       - Passport Photographs.md
       - Handphone Policy.md
