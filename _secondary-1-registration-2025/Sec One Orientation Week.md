@@ -66,4 +66,19 @@ meals during recess.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOOW_schedule.jpg">
 </div>
-<p></p>
+<p>Please complete your child/ward’s medical declaration on Parents Gateway
+for the Secondary One Orientation Programme from Friday, 27 Dec 2024.</p>
+<p>Photographs or video images of your child/ward may be taken during school
+activities and events such as classroom lessons, CCA, school camps, or
+school concerts. The school may use and publish such photographs or video
+recordings in school publications, the school’s website, social media channels,
+or other communication channels.</p>
+<p>We look forward to your child/ward’s participation in the Secondary One
+Orientation Programme.</p>
+<p>If you have any questions about the school, you may refer to (<a href="http://ASK.GOV.SG/PSS" rel="noopener noreferrer nofollow" target="_blank">ASK.GOV.SG/PSS</a>)</p>
+<p>You may also contact us at the following modes:</p>
+<p>Telephone Number: 6489 7851</p>
+<p>Email: <a href="mailto:punggol_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggol_ss@moe.edu.sg</a> 
+</p>
+<p>Website: <a href="www.punggolsec.moe.edu.sg" rel="noopener nofollow" target="_blank">www.punggolsec.moe.edu.sg</a>
+</p>
