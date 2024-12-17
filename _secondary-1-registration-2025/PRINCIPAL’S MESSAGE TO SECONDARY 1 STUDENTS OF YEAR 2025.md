@@ -25,8 +25,5 @@ you take. Embrace every opportunity, rise to every challenge, and strive
 for excellence. We believe in you, and we can’t wait to see you become
 the best version of yourself!</p>
 <p>With warmest regards,</p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Ms_Tng_s_Signature.png">
-</div>
 <p>Ms Valerie Tng</p>
 <p>Principal</p>
