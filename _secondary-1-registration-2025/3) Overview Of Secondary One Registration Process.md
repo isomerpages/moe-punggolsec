@@ -64,7 +64,7 @@ School.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Only for parents of students (in PG1 or PG2) who meet the eligibility criteria to offer subjects at a more demanding level. (For more info, refer to Pg 11 on Subject-Based Banding)</strong>
+<p><strong>Only for parents of students (in PG1 or PG2) who meet the eligibility criteria to offer subjects at a more demanding level. (For more info, refer to Pg 11 of the registration booklet (Parents Gateway) on Subject-Based Banding)</strong>
 </p>
 </td>
 </tr>
@@ -126,7 +126,8 @@ Week</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application for lockers (Refer to page 15)</p>
+<p>Application for lockers (Refer to page 15 of the registration booklet
+(Parents Gateway) )</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>From 17 Jan 2025</p>
