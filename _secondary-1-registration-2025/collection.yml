@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
+      - Safety Matters.md
       - Subject Based Banding and Progression to Sec 2.md
       - Attendance and Participation.md
       - Welcome Message.md
