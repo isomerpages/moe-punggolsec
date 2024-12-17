@@ -9,4 +9,5 @@ School can submite the Appeal Form through <a href="https://form.gov.sg/65823495
 </p>
 <p>Your score should meet our school's cut-off point of the posting year.</p>
 <p>The deadline for applications is on 26 December 2024, 12 noon. Successful
-applicants will be notified by 2 January 2025.</p>
+applicants will be informed by 2 January 2025. Late submission will not
+be allowed.</p>
