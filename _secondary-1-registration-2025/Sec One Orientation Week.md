@@ -62,7 +62,6 @@ meals during recess.</p>
 </tbody>
 </table>
 <p>The Secondary One Orientation Programme is as follows:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOOW_schedule.jpg">
 </div>
@@ -78,7 +77,7 @@ Orientation Programme.</p>
 <p>If you have any questions about the school, you may refer to (<a href="http://ASK.GOV.SG/PSS" rel="noopener noreferrer nofollow" target="_blank">ASK.GOV.SG/PSS</a>)</p>
 <p>You may also contact us at the following modes:</p>
 <p>Telephone Number: 6489 7851</p>
-<p>Email: <a href="mailto:punggol_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggol_ss@moe.edu.sg</a> 
+<p>Email: <a href="mailto:punggol_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggol_ss@moe.edu.sg</a>
 </p>
 <p>Website: <a href="www.punggolsec.moe.edu.sg" rel="noopener nofollow" target="_blank">www.punggolsec.moe.edu.sg</a>
 </p>
