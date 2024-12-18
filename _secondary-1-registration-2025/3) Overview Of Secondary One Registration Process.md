@@ -38,8 +38,7 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click ‘Acknowledge’ on your child’s acceptance into Punggol Secondary
-School.</p>
+<p>Click ‘yes’ on your child’s acceptance into Punggol Secondary School.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20 Dec 2024</p>
