@@ -16,6 +16,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Subject Based Banding (SBB) Briefing
+          date: 20 December 2024
+          announcement: Thank you parents for attending the SBB briefing this morning.
+            Click on the link below for the briefing slides.
+          link_text: SBB briefing slides
+          link_url: //
         - title: Secondary 1 Registration 2025
           date: 18 December 2024
           announcement: Warmest welcome to Punggol Secondary School! Click the link below
