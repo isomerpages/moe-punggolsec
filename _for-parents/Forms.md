@@ -112,6 +112,15 @@ office.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Leave_of_Absence_Application_Form.pdf" rel="noopener nofollow" target="_blank">Leave of Absence</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
