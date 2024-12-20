@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Leave of Absence.md
       - Forms.md
       - Parents Gateway.md
       - Parent Support Group.md
       - Positive Parenting Programme.md
       - Parenting Resources by MOE.md
+      - Leave of Absence.md
