@@ -84,8 +84,8 @@ if they meet the eligibility criteria based on PSLE grades.</p>
 <p>Parents will be notified via Parents Gateway if their child/ward is offered
 any SBB subject(s). Please respond on Parents Gateway by clicking ‘Yes’
 or ‘No’ for SBB Offer via PG by <u>27 December 2024,12pm</u>.</p>
-<p>There will also be a zoom briefing on SBB on 20 December 2024, 9am (Zoom
-details will be shared via PG for eligible students).</p>
+<p>The briefing slides on SBB on 20 December 2024 are available <a href="/files/PSS_Sec_1_SBB_Briefing__For_Parents_.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>Progression To Secondary 2</h3>
 <p>To help ease the transition of students from primary to secondary school
 and provide time for them to adjust to the secondary school curriculum,
