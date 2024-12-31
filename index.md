@@ -16,6 +16,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Semester 1 Class Timetable 2025
+          date: 31 December 2024
+          announcement: Welcome back to school! Click on the link below for your class
+            timetable.
+          link_text: Semester 1 Class Timetable 2025
+          link_url: /for-students/timetable/
         - title: Subject Based Banding (SBB) Briefing
           date: 20 December 2024
           announcement: Thank you parents for attending the SBB briefing this morning.
@@ -42,12 +48,6 @@ sections:
             for requirements & details.
           link_text: Learn More
           link_url: /school-canteen-advertisement/
-        - title: Semester 1 Class Timetable 2025
-          date: 31 December 2024
-          announcement: Welcome back to school! Click on the link below for your class
-            timetable.
-          link_text: Semester 1 Class Timetable 2025
-          link_url: /for-students/timetable/
   - infopic:
       title: Punggol Secondary Open House 2024
       subtitle: Open House announcement
