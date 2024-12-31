@@ -580,15 +580,15 @@ variant: tiptap
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seethor Chee Mang Benjamin</p>
+<p>Mdm Siti Zulaiha Mohamed Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:benjamin_seethor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>benjamin_seethor@schools.gov.sg</u></a>&nbsp;</p>
+<p><a href="mailto:siti_zulaiha_mohamed_mohse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_zulaiha_mohamed_mohse@schools.gov.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hui Sze&nbsp;</p>
+<p>Ms Candy Tan Hui Sze&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hui_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hui_sze@schools.gov.sg</u></a>&nbsp;</p>
@@ -596,10 +596,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zulaiha Mohamed Mohsen</p>
+<p>Mr Seethor Chee Mang Benjamin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_zulaiha_mohamed_mohse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_zulaiha_mohamed_mohse@schools.gov.sg</u></a>&nbsp;</p>
+<p><a href="mailto:benjamin_seethor@schools.gov.sg" rel="noopener nofollow" target="_blank">benjamin_seethor@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
