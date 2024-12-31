@@ -116,16 +116,16 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pek Xu Hao Alvin</p>
+<p>Ms Lim Hui Lin&nbsp; Agnes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pek_xu_hao_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pek_xu_hao_alvin@schools.gov.sg</a>
+<p><a href="lim_hui_lin_agnes@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_hui_lin_agnes@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages (covering)</p>
+<p>HOD Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eng Siang Yong</p>
@@ -156,18 +156,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sultan_shaheed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sultan_shaheed@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Information Communication &amp; Technology (covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tay Teck Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_teck_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_teck_seng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
