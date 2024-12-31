@@ -464,18 +464,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Shu Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Shu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_yi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -531,6 +519,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_wei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Mother Tongue Languages (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Shu Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Shu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_yi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Mother Tongue Languages (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Julaiha Haron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:julaiha_haron@schools.gov.sg" rel="noopener nofollow" target="_blank">julaiha_haron@schools.gov.sg</a>
 </p>
 </td>
 </tr>
