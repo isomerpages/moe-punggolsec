@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Punggol Secondary School has one canteen stall vacancy for:
-<br>(1) <strong>Halal Western</strong>
+<br>(1) <strong>Halal </strong>
 </p>
 <p><strong>School Information</strong>
 <br>Our School has student population of 1277 and staff strength of 170.</p>
