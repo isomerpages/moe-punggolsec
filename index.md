@@ -43,9 +43,9 @@ sections:
           link_url: /application-forms-for-sec-4na/
         - title: School Canteen Stall Opening
           date: 15 December 2024
-          announcement: Our school is taking applications for a Western Halal stall for
-            our School Canteen. Interested applicants may click the link below
-            for requirements & details.
+          announcement: Our school is taking applications for a Halal stall for our School
+            Canteen. Interested applicants may click the link below for
+            requirements & details.
           link_text: Learn More
           link_url: /school-canteen-advertisement/
   - infopic:
