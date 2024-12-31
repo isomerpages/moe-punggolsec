@@ -177,11 +177,10 @@ variant: tiptap
 <p>HOD Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Swee Lin Sharon</p>
+<p>Ms Sharon Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_swee_lin_sharon@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_swee_lin_sharon@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -414,18 +413,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email address</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTT Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Su-Jim Benjamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Benjamin_Sj_Tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Benjamin_Sj_Tan@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
