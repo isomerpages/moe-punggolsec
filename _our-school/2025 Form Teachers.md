@@ -10,8 +10,9 @@ variant: tiptap
 <h2>2025 Form Teachers</h2>
 <p><strong>Secondary 1</strong>
 </p>
-<p>Assistant Year Head : Ms Noor Hafizah Alwi <a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noor_hafizah_alwi@schools.gov.sg</u> </a>&nbsp;</p>
-<p>Assistant Year Head (internal): Mr Royce Teo Jian Xing</p>
+<p>Assistant Year Head : Ms Noor Hafizah Alwi</p>
+<p><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noor_hafizah_alwi@schools.gov.sg</u> </a>&nbsp;</p>
+<p>Assistant Year Head (covering): Mr Royce Teo Jian Xing</p>
 <p><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>royce_teo_jian_xing@schools.gov.sg</u></a>
 </p>
 <table style="minWidth: 75px">
@@ -414,7 +415,7 @@ variant: tiptap
 <p><strong>Secondary 3</strong>
 </p>
 <p>Year Head: Mr Ong Kai Wei &nbsp;</p>
-<p> <a href="mailto:ong_kai_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_kai_wei@schools.gov.sg</u></a> &nbsp;</p>
+<p><a href="mailto:ong_kai_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_kai_wei@schools.gov.sg</u></a> &nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
