@@ -16,6 +16,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Semester 1 Class Timetable 2025
+          date: 31 December 2024
+          announcement: Dear students, welcome back to school! Click on the link below for
+            your class timetable.
+          link_text: Semester 1 Class Timetable 2025
+          link_url: /for-students/timetable/
         - title: Subject Based Banding (SBB) Briefing
           date: 20 December 2024
           announcement: Thank you parents for attending the SBB briefing this morning.
@@ -37,9 +43,9 @@ sections:
           link_url: /application-forms-for-sec-4na/
         - title: School Canteen Stall Opening
           date: 15 December 2024
-          announcement: Our school is taking applications for a Western Halal stall for
-            our School Canteen. Interested applicants may click the link below
-            for requirements & details.
+          announcement: Our school is taking applications for a Halal stall for our School
+            Canteen. Interested applicants may click the link below for
+            requirements & details.
           link_text: Learn More
           link_url: /school-canteen-advertisement/
   - infopic:

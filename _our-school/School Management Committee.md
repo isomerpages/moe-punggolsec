@@ -107,7 +107,7 @@ variant: tiptap
 <p>Mdm Ang Chieh Sin Jaselin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_yeong_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chieh_sin_jaselin@schools.gov.sg</a>
+<p><a href="mailto:ang_chieh_sin_jaselin@schools.gov.sg" rel="noopener nofollow" target="_blank">ang_chieh_sin_jaselin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -116,16 +116,16 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pek Xu Hao Alvin</p>
+<p>Ms Lim Hui Lin&nbsp; Agnes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pek_xu_hao_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pek_xu_hao_alvin@schools.gov.sg</a>
+<p><a href="mailto:lim_hui_lin_agnes@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_hui_lin_agnes@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages (covering)</p>
+<p>HOD Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eng Siang Yong</p>
@@ -161,18 +161,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Information Communication &amp; Technology (covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tay Teck Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_teck_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_teck_seng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Physical Education (PE) &amp;
 <br>Co-Curricular Activity (CCA)</p>
 </td>
@@ -186,69 +174,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head 1</p>
+<p>HOD Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Srividya Vijayakumar</p>
+<p>Ms Sharon Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:srividya_vijayakumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">srividya_vijayakumar@schools.gov.sg</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Info. &amp; Communications Technology (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fulia Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_fulia@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_fulia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head 2</p>
+<p>Assistant Year Head 1</p>
+<p></p>
+<p>SH Engagement &amp; Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kai Wei</p>
+<p>Ms Noor Hafizah Alwi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kai_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kai_wei@schools.gov.sg</a>
+<p><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener nofollow" target="_blank">noor_hafizah_alwi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zulkefli Abdol Shukor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkefli_b_abd_shukor@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Shahrom Mohd Taha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_shahrom_mohd_taha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_shahrom_mohd_taha@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head 1
-<br>SH Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lui Yi Lin Elaine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lui_yi_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lui_yi_lin_elaine@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head 2 (internal)
-<br>SH Aesthetics</p>
+<p>SH Aesthetics</p>
+<p></p>
+<p>Assistant Year Head 1 (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Royce Teo Jian Xing</p>
@@ -261,14 +226,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head 4 (internal)</p>
-<p>SH Engagement &amp; Partnership</p>
+<p>Year Head 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noor Hafizah Alwi</p>
+<p>Ms Srividya Vijayakumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_hafizah_alwi@schools.gov.sg</a>
+<p><a href="mailto:srividya_vijayakumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">srividya_vijayakumar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Kai Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_kai_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kai_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zulkefli Abdol Shukor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkefli_b_abd_shukor@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -298,30 +286,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Craft &amp; Technology (C&amp;T)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Pang Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pang_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pang_soon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Electives</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fulia Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_fulia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_fulia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -329,6 +293,42 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_sijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_sijin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Electives (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Poh Keng James</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_poh_keng_james@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_poh_keng_james@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Info. &amp; Communications Technology (covering)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Zulaiha Mohd Mohsen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_zulaiha_mohamed_mohse@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_zulaiha_mohamed_mohse@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lui Yi Lin Elaine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lui_yi_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lui_yi_lin_elaine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -353,6 +353,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wardi_endra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wardi_endra@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Physical Education (PE) &amp;
+<br>Co-Curricular Activity (CCA) (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joel&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joel_wei_maojie@schools.gov.sg" rel="noopener nofollow" target="_blank">joel_wei_maojie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -403,18 +416,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTT Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Su-Jim Benjamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Benjamin_Sj_Tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Benjamin_Sj_Tan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LT Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -458,18 +459,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_jee_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_jee_wei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Shu Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Shu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -530,6 +519,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_wei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Mother Tongue Languages (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Shu Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Shu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_yi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Mother Tongue Languages (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Julaiha Haron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:julaiha_haron@schools.gov.sg" rel="noopener nofollow" target="_blank">julaiha_haron@schools.gov.sg</a>
 </p>
 </td>
 </tr>
