@@ -588,7 +588,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Candy Tan Hui Sze&nbsp;</p>
+<p>Ms Tan Hui Sze&nbsp;(Candy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hui_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hui_sze@schools.gov.sg</u></a>&nbsp;</p>
