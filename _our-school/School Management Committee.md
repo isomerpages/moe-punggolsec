@@ -186,6 +186,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Info. &amp; Communications Technology (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fulia Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_fulia@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_fulia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head 1</p>
 </td>
 <td rowspan="1" colspan="1">
