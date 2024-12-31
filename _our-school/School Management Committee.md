@@ -174,6 +174,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Special Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Swee Lin Sharon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_swee_lin_sharon@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_swee_lin_sharon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head 1</p>
 </td>
 <td rowspan="1" colspan="1">
