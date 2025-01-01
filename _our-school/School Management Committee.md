@@ -180,7 +180,8 @@ variant: tiptap
 <p>Ms Sharon Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_swee_lin_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_swee_lin_sharon@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
