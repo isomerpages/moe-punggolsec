@@ -52,6 +52,8 @@ results. Those who are unable to collect their results in person can appoint
 a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
 when collecting the results.</p>
+<p>The O-Level info sheet for parents can be found here: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
