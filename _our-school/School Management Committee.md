@@ -199,8 +199,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head 1</p>
-<p></p>
-<p>SH Engagement &amp; Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Noor Hafizah Alwi</p>
