@@ -37,10 +37,11 @@ sections:
         - title: O Level Release 2025
           date: 06 January 2025
           announcement: Dear Sec 4 O-Level students, O level results will be released on
-            Monday, 10 January 2025, 230pm.   Click on the link below for
-            application form for 5NA 2025 and repeat 4NA 2025.
-          link_text: Application Forms
-          link_url: /application-forms-for-sec-4na/
+            Monday, 10 January 2025, 230pm.   Click on the links below for more
+            information on the release of the O-Level results and Info sheet for
+            Parents.
+          link_text: ""
+          link_url: ""
         - title: School Canteen Stall Opening
           date: 15 December 2024
           announcement: Our school is taking applications for a Halal stall for our School
