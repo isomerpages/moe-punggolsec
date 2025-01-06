@@ -40,8 +40,8 @@ sections:
             Monday, 10 January 2025, 230pm.   Click on the links below for more
             information on the release of the O-Level results and Info sheet for
             Parents.
-          link_text: ""
-          link_url: ""
+          link_text: Release of O Levels Results 2025
+          link_url: /release-of-o-levels-results-2025/
         - title: School Canteen Stall Opening
           date: 15 December 2024
           announcement: Our school is taking applications for a Halal stall for our School
