@@ -1,5 +1,5 @@
 collections:
-  2024-secondary-1-registration:
+  2025-secondary-1-registration:
     output: true
     order:
       - 1) Welcome Message.md
