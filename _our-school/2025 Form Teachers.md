@@ -466,7 +466,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amala&nbsp;</p>
+<p>Ms N Amala&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:n_amala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>n_amala@schools.gov.sg</u></a>&nbsp;</p>

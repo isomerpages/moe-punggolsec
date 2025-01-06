@@ -1,22 +1,9 @@
 ---
-title: Announcements
-permalink: /announcements/
-description: ""
+title: Release of O Levels Results 2025
+permalink: /release-of-o-levels-results-2025/
 variant: tiptap
+description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20School/subbanner.jpg">
-</div>
-<h2>Announcements</h2>
-<p><strong><a href="https://staging.d3louf41pupxe5.amplifyapp.com/our-school/school-identity/" rel="noopener noreferrer nofollow" target="_blank">PSS Experience video</a></strong>
-</p>
-<p>Dear students, please refer to the above link to watch a video on the
-PSS Experience.</p>
-<hr>
-<p><strong><a href="/useful-links/for-students/timetable/" rel="noopener noreferrer nofollow" target="_blank">Semester 2 timetable</a></strong>
-</p>
-<p>Dear students, please refer to the above link for Semester 2 timetable.</p>
-<hr>
 <p><strong><a href="/files/Announcement_on_School_Website___O_Level_Results_Release_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">RELEASE OF 2024 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS</a></strong>
 </p>
 <p>The 2024 O-Level results will be released soon. Regardless of the outcome,
@@ -54,6 +41,3 @@ are required to produce the relevant documents for the school’s verification
 when collecting the results.</p>
 <p>For more information for parents, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
 </p>
-<p></p>
-<p></p>
-<p></p>

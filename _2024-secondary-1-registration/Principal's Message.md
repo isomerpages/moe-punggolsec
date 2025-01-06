@@ -1,5 +1,5 @@
 ---
-title: 1) Principal's Message
+title: Principal's Message
 permalink: /2024-secondary-1-registration/principal-message/
 variant: tiptap
 description: ""

@@ -34,13 +34,14 @@ sections:
             to find out more about us!
           link_text: Registration for Sec 1 2025
           link_url: /secondary-1-registration/
-        - title: N Level Release 2024
-          date: 15 December 2024
-          announcement: Dear Sec 4 NA & NT students, N level results will be released on
-            Monday, 16 November 2024, 2pm.   Click on the link below for
-            application form for 5NA 2025 and repeat 4NA 2025.
-          link_text: Application Forms
-          link_url: /application-forms-for-sec-4na/
+        - title: O Level Release 2025
+          date: 06 January 2025
+          announcement: Dear Sec 4 O-Level students, O level results will be released on
+            Monday, 10 January 2025, 230pm.   Click on the link below for more
+            information on the release of the O-Level results and Info sheet for
+            Parents.
+          link_text: Release of O Levels Results 2025
+          link_url: /release-of-o-levels-results-2025/
         - title: School Canteen Stall Opening
           date: 15 December 2024
           announcement: Our school is taking applications for a Halal stall for our School

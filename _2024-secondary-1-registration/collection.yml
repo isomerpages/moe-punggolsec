@@ -2,9 +2,9 @@ collections:
   2024-secondary-1-registration:
     output: true
     order:
-      - 1) Welcome Message.md
-      - 1) Principal's Message.md
-      - 2) Overview & Timeline.md
+      - Welcome Message.md
+      - Principal's Message.md
+      - Overview & Timeline.md
       - Booklist, Uniform and Locker Matters.md
       - Secondary One Orientation Week (SOOW).md
       - School Timing.md
