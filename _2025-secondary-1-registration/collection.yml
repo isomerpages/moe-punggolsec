@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Welcome Message.md
-      - 1) Principal's Message.md
+      - Principal's Message.md
       - Overview & Timeline.md
       - Booklist, Uniform and Locker Matters.md
       - Secondary One Orientation Week (SOOW).md
