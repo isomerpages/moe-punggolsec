@@ -17,7 +17,7 @@ PSS Experience.</p>
 </p>
 <p>Dear students, please refer to the above link for Semester 2 timetable.</p>
 <hr>
-<p><strong>&nbsp;RELEASE OF 2024 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS</strong>
+<p><strong><a href="/files/Announcement_on_School_Website___O_Level_Results_Release_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">RELEASE OF 2024 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS</a></strong>
 </p>
 <p>The 2024 O-Level results will be released soon. Regardless of the outcome,
 it is important for our teens to know that they are loved for the person
@@ -52,7 +52,7 @@ results. Those who are unable to collect their results in person can appoint
 a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
 when collecting the results.</p>
-<p>For more information, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
+<p>For more information for parents, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
 </p>
 <p></p>
 <p></p>
