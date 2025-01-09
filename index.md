@@ -22,12 +22,12 @@ sections:
             your class timetable.
           link_text: Semester 1 Class Timetable 2025
           link_url: /for-students/timetable/
-        - title: Subject Based Banding (SBB) Briefing
-          date: 20 December 2024
-          announcement: Thank you parents for attending the SBB briefing this morning.
-            Click on the link below for the briefing slides.
-          link_text: SBB briefing slides
-          link_url: /subject-based-banding-and-progression-to-sec-2/
+        - title: Sec 1 CCA Allocation Exercise 2025
+          date: 09 January 2025
+          announcement: Dear Parents and Sec One Students, we will be commencing our CCA
+            allocation exercise soon. Please click below for more information.
+          link_text: Sec 1 CCA Allocation Exercise 2025
+          link_url: /cca-allocation-exercise-2025/
         - title: Secondary 1 Registration 2025
           date: 18 December 2024
           announcement: Warmest welcome to Punggol Secondary School! Click the link below
