@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - CCA Allocation Exercise 2025.md
       - Release of O Levels Results 2025.md
       - Useful Links for Students.md
       - Timetable.md
