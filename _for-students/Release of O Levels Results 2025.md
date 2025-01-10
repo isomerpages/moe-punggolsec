@@ -39,17 +39,3 @@ a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
 when collecting the results.</p>
 <p></p>
-<p></p>
-<p><strong>Admission to 4E5N 2025</strong>
-<br>1. Submit your online application by 16 Jan 2025, 5pm.</p>
-<p>2. Online application form can be found here:
-<br><a href="https://form.gov.sg/admin/form/677dcf18572d51504081f1dd/settings" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/admin/form/677dcf18572d51504081f1dd/settings</a>
-</p>
-<p>3. Deadline for online submission:
-<br>First phase: by 16 Jan 2025, 5pm.
-<br>Second phase: by 5 Feb 2025, 5pm</p>
-<p>4. Note that Second Phase is only for students who are unsuccessful in
-their JAE applications.</p>
-<p>5. Results of application will be announced on 10 Feb 2025 through the
-2024 form teachers.</p>
-<p></p>
