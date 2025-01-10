@@ -38,8 +38,8 @@ sections:
           date: 06 January 2025
           announcement: Dear Sec 4 and 5 O-Level students, the O level results will be
             released on Monday, 10 January 2025, 230pm.   Click on the link
-            below for more information on the release of the O-Level results and
-            the Info sheet for Parents.
+            below for more information on the release of the O-Level results,
+            admission to 4E5N 2025, and the O Level Info sheet for Parents.
           link_text: Release of O Levels Results 2025
           link_url: /release-of-o-levels-results-2025/
         - title: School Canteen Stall Opening
