@@ -39,5 +39,21 @@ results. Those who are unable to collect their results in person can appoint
 a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
 when collecting the results.</p>
-<p>For more information for parents, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
+<p><strong>Admission to 4E5N 2025</strong>
+</p>
+<p>1. Submit your online application by 16 Jan 2025, 5pm.</p>
+<p>2. Online application form can be found here:</p>
+<p><a href="https://form.gov.sg/admin/form/677dcf18572d51504081f1dd/settings" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/admin/form/677dcf18572d51504081f1dd/settings</a>
+</p>
+<p>3. Deadline for online submission:</p>
+<p>First phase: by 16 Jan 2025, 5pm.</p>
+<p>Second phase: by 5 Feb 2025, 5pm</p>
+<p>4. Note that Second Phase is only for students who are unsuccessful in
+their JAE applications.</p>
+<p>5. Results of application will be announced on 10 Feb 2025 through the
+2024 form teachers.</p>
+<p><strong>O Levels Info Sheet for Parents</strong>
+</p>
+<p>For more information for parents whose children have just received their
+O Levels results, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
 </p>
