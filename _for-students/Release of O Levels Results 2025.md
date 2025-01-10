@@ -21,7 +21,10 @@ You can also access <em>MySkillsFuture</em> Student Portal (<a rel="noopener nor
 out more about education and career planning for your teen. Students can
 also refer to MOE’s CourseFinder (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)
 to find out more about the range of education and career pathways available
-to them.</p>
+to them.
+<br>For more information for parents whose children have just received their
+O Levels results, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
+</p>
 <p><strong>ECG Counselling Support</strong>
 <br>For <a rel="noopener noreferrer nofollow" target="_blank">ECG counselling services</a>,
 students may book an appointment with our school’s ECG Counsellor,</p>
@@ -35,10 +38,7 @@ results. Those who are unable to collect their results in person can appoint
 a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
 when collecting the results.</p>
-<p><strong>O Levels Info Sheet for Parents</strong>
-<br>For more information for parents whose children have just received their
-O Levels results, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
-</p>
+<p></p>
 <p></p>
 <p><strong>Admission to 4E5N 2025</strong>
 <br>1. Submit your online application by 16 Jan 2025, 5pm.</p>
