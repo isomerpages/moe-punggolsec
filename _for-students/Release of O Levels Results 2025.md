@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><strong><a href="/files/Announcement_on_School_Website___O_Level_Results_Release_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">RELEASE OF 2024 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS</a></strong>
-</p>
-<p>The 2024 O-Level results will be released soon. Regardless of the outcome,
+<br>The 2024 O-Level results will be released soon. Regardless of the outcome,
 it is important for our teens to know that they are loved for the person
 that they have grown up to be, and that their grades do not define who
 they are in our eyes. The support you offer your teen during this milestone
@@ -15,8 +14,7 @@ and be positive when deciding on next steps.</p>
 <p>Do take this opportunity to have open conversations with your teen about
 his/her interests and choices and build his/her pathways together.</p>
 <p><strong>Resources for Parents and Students</strong>
-</p>
-<p>For more resources on providing social and emotional support, affirming
+<br>For more resources on providing social and emotional support, affirming
 your teen, and supporting your teen’s transition through post O-Level education,
 please refer to: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>.
 You can also access <em>MySkillsFuture</em> Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>) to find
@@ -25,35 +23,33 @@ also refer to MOE’s CourseFinder (<a rel="noopener noreferrer nofollow" target
 to find out more about the range of education and career pathways available
 to them.</p>
 <p><strong>ECG Counselling Support</strong>
-</p>
-<p>For <a rel="noopener noreferrer nofollow" target="_blank">ECG counselling services</a>,
+<br>For <a rel="noopener noreferrer nofollow" target="_blank">ECG counselling services</a>,
 students may book an appointment with our school’s ECG Counsellor,</p>
 <p>Ms Grace Champion, at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pssecg</a> or
 make an ECG counselling session with the ECG Centre @ MOE from 6&nbsp;
 to 16&nbsp;January 2025 (Weekdays: 9.00am to 5.00pm; Saturdays: 9.00am
 to 12.00pm) through the appointment booking form <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
 <p><strong>Collection of GCE O-Level Results</strong>
-</p>
-<p>All students are to return to their secondary schools to collect their
+<br>All students are to return to their secondary schools to collect their
 results. Those who are unable to collect their results in person can appoint
 a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
 when collecting the results.</p>
+<p><strong>O Levels Info Sheet for Parents</strong>
+<br>For more information for parents whose children have just received their
+O Levels results, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
+</p>
+<p></p>
 <p><strong>Admission to 4E5N 2025</strong>
+<br>1. Submit your online application by 16 Jan 2025, 5pm.</p>
+<p>2. Online application form can be found here:
+<br><a href="https://form.gov.sg/admin/form/677dcf18572d51504081f1dd/settings" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/admin/form/677dcf18572d51504081f1dd/settings</a>
 </p>
-<p>1. Submit your online application by 16 Jan 2025, 5pm.</p>
-<p>2. Online application form can be found here:</p>
-<p><a href="https://form.gov.sg/admin/form/677dcf18572d51504081f1dd/settings" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/admin/form/677dcf18572d51504081f1dd/settings</a>
-</p>
-<p>3. Deadline for online submission:</p>
-<p>First phase: by 16 Jan 2025, 5pm.</p>
-<p>Second phase: by 5 Feb 2025, 5pm</p>
+<p>3. Deadline for online submission:
+<br>First phase: by 16 Jan 2025, 5pm.
+<br>Second phase: by 5 Feb 2025, 5pm</p>
 <p>4. Note that Second Phase is only for students who are unsuccessful in
 their JAE applications.</p>
 <p>5. Results of application will be announced on 10 Feb 2025 through the
 2024 form teachers.</p>
-<p><strong>O Levels Info Sheet for Parents</strong>
-</p>
-<p>For more information for parents whose children have just received their
-O Levels results, please refer to this document: <a href="/files/2024_O_Level_Infosheet_for_Parents.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
-</p>
+<p></p>
