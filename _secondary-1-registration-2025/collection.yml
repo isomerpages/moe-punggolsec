@@ -2,7 +2,6 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
-      - 11) Parent Info Session.md
       - Secondary 1 Registration.md
       - 1) Welcome Message.md
       - 2) Principal's Message.md
@@ -14,4 +13,5 @@ collections:
       - 8) Handphone Policy.md
       - 9) Passport Photographs.md
       - 10) Sec One Orientation Week.md
+      - 11) Parent Info Session.md
       - Application For Sec One Transfer to Punggol Secondary School.md
