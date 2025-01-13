@@ -1,6 +1,6 @@
 ---
 title: 2025 Form Teachers
-permalink: /our-school/2024-form-teachers/
+permalink: /our-school/2025-form-teachers/
 description: ""
 variant: tiptap
 ---
