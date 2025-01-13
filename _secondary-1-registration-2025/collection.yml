@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
+      - 11) Parent Info Session.md
       - Secondary 1 Registration.md
       - 1) Welcome Message.md
       - 2) Principal's Message.md
