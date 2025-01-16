@@ -155,7 +155,8 @@ variant: tiptap
 <p>Mr Lim Zhenghong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_zhenghong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Lim_zhenghong@moe.edu.sg</u></a>&nbsp;</p>
+<p><a href="mailto:Lim_zhenghong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Lim_zhenghong@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -663,7 +664,8 @@ variant: tiptap
 <p>Ms Esther Lye Jie Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:esther_lye_jie_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>esther_lye_jie_yi@moe.edu.sg</u></a>&nbsp;</p>
+<p><a href="mailto:esther_lye_jie_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>esther_lye_jie_yi@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -682,7 +684,7 @@ variant: tiptap
 <p>Ms Rina Kawamoto</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rina_kawamoto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rina_kawamoto@moe.edu.sg</u></a>&nbsp;</p>
+<p><a href="mailto:rina_kawamoto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rina_kawamoto@schools.gov.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -701,7 +703,8 @@ variant: tiptap
 <p>Mr Lee Jing Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_jing_yu@moe.edu.sg</u></a>&nbsp;</p>
+<p><a href="mailto:lee_jing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_jing_yu@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -720,7 +723,8 @@ variant: tiptap
 <p>Ms Natalie Goh Chang Xiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natalie_goh_chang_xiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natalie_goh_chang_xiu@moe.edu.sg</u></a>&nbsp;</p>
+<p><a href="mailto:natalie_goh_chang_xiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natalie_goh_chang_xiu@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
