@@ -26,8 +26,8 @@ be <strong><u>567A</u></strong>
 <br>Students have been reminded NOT to share their student ID with others.
 <br>It is to be kept private and confidential.
 <br>
-<br>Thank you.</p>
-<p></p>
+<br>Please find the file for the CCA briefing here: <a href="/files/Third_CCA_Briefing_21012025_students.pdf" rel="noopener nofollow" target="_blank">CCA_Briefing_21012025</a>
+</p>
 <p><strong><u>CCA Allocation Exercise</u></strong>
 <br>Please see attached file at the bottom of the page for details and timeline
 regarding CCA Allocation Exercise 2025.
