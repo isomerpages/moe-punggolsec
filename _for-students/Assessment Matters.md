@@ -48,16 +48,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Sec_1_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA2 Letter</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Sec_2_WA_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA2 Letter</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Sec_3_WA2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA2 Letter</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -65,38 +62,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Sec_1_WA3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA3 Letter</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Sec_2_WA3_Letter_Updated_9th_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA3 Letter</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Sec_3_WA3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA3 Letter</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Prelims_4E5N_Examination_Schedule__30_May.pdf" rel="noopener noreferrer nofollow" target="_blank">4E/5N Prelim</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/12ruEurP669d3M29SYJeTnqZ5pVgP6fyVp24MFtGYmEs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1 EOY</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1zTTYr6COG5X98qZl8T3GapR4k6M49M_Epz3FE1T2VAs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 2 EOY</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1UKQmlNnaW0Lmx74TN5xbRiIlBrzGuu8UfPw8mVBqo28/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EOY</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_4N_prelims.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA/NT Prelim</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
