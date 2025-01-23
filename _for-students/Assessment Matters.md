@@ -30,19 +30,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Useful Links/For Students/2024_Sec_1_WA1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1 Letter</a>
+<p><a href="/files/2025_Sec_1_WA1_PG_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1 Letter</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Useful Links/For Students/2024_Sec_2_WA1_Letter_0262024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1 Letter</a>
+<p><a href="/files/2025_Sec_2_WA1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1 Letter</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Useful Links/For Students/2024_Sec_3_WA1_Letter__003_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1 Letter</a>
+<p><a href="/files/2025_Sec_3_WA1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1 Letter</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Useful Links/For Students/2024_Sec_4_WA1_Letter_0252024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec4/5 WA1 Letter</a>
+<p><a href="/files/2025_Sec_4___WA1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec4/5 WA1 Letter</a>
 </p>
 </td>
 </tr>
