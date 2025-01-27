@@ -5,6 +5,8 @@ description: ""
 third_nav_title: MOE Sexuality Ed in Schools
 variant: tiptap
 ---
+<p><strong>At Punggol Secondary School, the following Sexuality Education lessons for Sec 2 will be taught in <u>2025</u>:</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -133,4 +135,5 @@ consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
