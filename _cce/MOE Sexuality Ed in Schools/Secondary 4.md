@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <p><strong>At Punggol Secondary School, the following Sexuality Education lessons for Sec 4 will be taught in <u>2025</u>:</strong>
 </p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
