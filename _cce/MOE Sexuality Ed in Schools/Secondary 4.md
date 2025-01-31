@@ -81,7 +81,7 @@ of oneself and others and should be avoided</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson aims to help studentsrecognise unhealthy relationships and
+<p>This lesson aims to help student recognise unhealthy relationships and
 build their help-seeking skills. Students will learn to identify potential
 signs of an unhealthy relationship and recognise the different forms of
 dating violence. They will get to understand why dating violence occurs,
