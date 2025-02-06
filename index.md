@@ -28,13 +28,4 @@ sections:
             allocation exercise soon. Please click below for more information.
           link_text: Sec 1 CCA Allocation Exercise 2025
           link_url: /cca-allocation-exercise-2025/
-  - infopic:
-      title: Punggol Secondary Open House 2024
-      subtitle: Open House announcement
-      id: infopic
-      description: Join us on Saturday, 23 November 2024 9am to 1.30pm
-      button: Student leaders experience
-      url: /student-leaders/
-      image: /images/Punggol_Secondary_Open_House_2024_Final_website.png
-      alt: PSS Open House 2024
 ---
