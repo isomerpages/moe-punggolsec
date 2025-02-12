@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
+        - title: Have a question?
           description: ""
-          url: /announcements/
+          url: https://ask.gov.sg/punggolsec
       background: /images/hero section.jpg
   - announcements:
       title: Announcements
