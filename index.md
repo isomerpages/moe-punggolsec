@@ -7,10 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Have a question?
-          description: ""
-          url: https://ask.gov.sg/punggolsec
       background: /images/hero section.jpg
   - announcements:
       title: Announcements
