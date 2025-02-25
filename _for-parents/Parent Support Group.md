@@ -46,7 +46,7 @@ with a values-based and value-added education.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Project Coordinators:
 <br>
 </p>
@@ -58,26 +58,6 @@ with a values-based and value-added education.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Julieanna Binte Md Noor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Eileen Chee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wu Meilan (Jean)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Poornima Baramurali</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Samantha Ng Sok Hiang</p>
 </td>
 </tr>
 </tbody>
@@ -103,7 +83,7 @@ with a values-based and value-added education.</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julieanna Binte Md Noor</p>
+<p>Mdm Wu Meilan (Jean)</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +91,7 @@ with a values-based and value-added education.</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Meng Fung</p>
+<p>Mdm Poornima Baramurali</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +99,7 @@ with a values-based and value-added education.</p>
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eileen Chee</p>
+<p>Mdm Samantha Ng Sok Hiang</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +107,7 @@ with a values-based and value-added education.</p>
 <p>Sec 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kokela</p>
+<p>Mdm Eileen Chee</p>
 </td>
 </tr>
 </tbody>
