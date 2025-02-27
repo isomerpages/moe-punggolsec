@@ -10,8 +10,12 @@ parents and the school to support every Punggolite to excel.</p>
 <h3>Mission</h3>
 <p>To engage parents to actively partner with the school to nurture students
 with a values-based and value-added education.</p>
-<h3>2024 Parent Support Group (PSG) EXCO</h3>
-<table>
+<h3>2025 Parent Support Group (PSG) EXCO</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,52 +30,45 @@ with a values-based and value-added education.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kokela Vani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairperson:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Quek Meng Fung</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
-<p>Chairperson:
-<br>
-</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Eunice Sng Su Huang
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Susan Lee
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Project Coordinators:
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dhanasekaran Anbumalar
-<br>
-</p>
+<p>Mdm Angela Tan Huey Min</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Angela Tan Huey Min</p>
+<p>Mdm Julieanna Binte Md Noor</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h3>2024 Level Coordinators</h3>
-<table>
+<h3>2025 Level Coordinators</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,7 +83,7 @@ with a values-based and value-added education.</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julieanna Binte Md Noor</p>
+<p>Mdm Wu Meilan (Jean)</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +91,7 @@ with a values-based and value-added education.</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Meng Fung</p>
+<p>Mdm Poornima Baramurali</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +99,7 @@ with a values-based and value-added education.</p>
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eileen Chee</p>
+<p>Mdm Samantha Ng Sok Hiang</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +107,7 @@ with a values-based and value-added education.</p>
 <p>Sec 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kokela</p>
+<p>Mdm Eileen Chee</p>
 </td>
 </tr>
 </tbody>
