@@ -28,6 +28,6 @@ sections:
           date: 28 February 2025
           announcement: Dear Parents,  here are the slides from the Sec 2 Parent
             Engagement Session held on Friday 21st Feb.
-          link_text: ""
-          link_url: ""
+          link_text: Sec 2 Parent Engagement Session Slides
+          link_url: https://punggolsec.moe.edu.sg/sec-2-parents-engagement-slides/
 ---
