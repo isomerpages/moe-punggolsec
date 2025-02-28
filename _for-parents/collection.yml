@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Sec 2 Parents Engagement Slides.md
       - Forms.md
       - Parents Gateway.md
       - Parent Support Group.md
