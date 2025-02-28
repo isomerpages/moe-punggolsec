@@ -24,4 +24,10 @@ sections:
             allocation exercise soon. Please click below for more information.
           link_text: Sec 1 CCA Allocation Exercise 2025
           link_url: /cca-allocation-exercise-2025/
+        - title: Sec 2 Parent Engagement Slides
+          date: 28 February 2025
+          announcement: Dear Parents,  here are the slides from the Sec 2 Parent
+            Engagement Session held on Friday 21st Feb.
+          link_text: ""
+          link_url: ""
 ---
