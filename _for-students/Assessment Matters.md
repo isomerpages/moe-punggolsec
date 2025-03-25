@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_1_WA2_PG_Letter.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA1 Letter</a>
+<p><a href="/files/2025_Sec_1_WA2_PG_Letter.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA2 Letter</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
