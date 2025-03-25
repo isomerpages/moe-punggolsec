@@ -34,7 +34,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_2_WA1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1 Letter</a>
+<p><a href="/files/2025_Sec_2_WA2_PG_Letter.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA2 Letter</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
