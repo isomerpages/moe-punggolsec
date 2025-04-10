@@ -7,7 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero section.jpg
+      background: /images/School.jpg
+      title: Achievers with Character
   - announcements:
       title: Announcements
       id: announcements
