@@ -8,7 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/School.jpg
-      title: Achievers with Character
+      title: Punggol Secondary School
+      variant: center
+      subtitle: Achievers with Character
   - announcements:
       title: Announcements
       id: announcements
