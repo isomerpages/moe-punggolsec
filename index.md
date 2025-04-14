@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School.jpg
+      background: /images/IMG_5869_edited_optimized.png
       title: Punggol Secondary School
-      variant: center
+      variant: image
       subtitle: Achievers with Character
   - announcements:
       title: Announcements
