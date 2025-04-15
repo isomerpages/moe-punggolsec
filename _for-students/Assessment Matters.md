@@ -65,7 +65,8 @@ variant: tiptap
 <p></p>
 <p><strong>Secondary 4 Normal Academic &amp; Normal Technical Preliminary Examination Timetable</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/spreadsheets/d/1kGmnkGeG4sV0_ncTrAt17OKceLacqHdO6IpAa-EyxFQ/edit?gid=1155504335#gid=1155504335</a>
+<p>Please refer to this link for the 4NA and 4NT Prelims Timetable:</p>
+<p><a href="https://go.gov.sg/pss4nprelims" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pss4nprelims</a>
 </p>
 <p></p>
 <p></p>
