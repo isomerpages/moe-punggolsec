@@ -63,7 +63,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Secondary 4 Normal Academic &amp; Normal Technical Preliminary Examination Timetable </strong>
+<p><strong>Secondary 4 Normal Academic &amp; Normal Technical Preliminary Examination Timetable</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/spreadsheets/d/1kGmnkGeG4sV0_ncTrAt17OKceLacqHdO6IpAa-EyxFQ/edit?gid=1155504335#gid=1155504335</a>
 </p>
