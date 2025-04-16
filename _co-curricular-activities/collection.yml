@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs and Societies.md
-      - Clubs/.keep
       - Performing Arts.md
       - Sports.md
       - Uniformed Groups.md
