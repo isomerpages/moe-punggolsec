@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Punggol_Secondary_School__1366_x_500_px___2_.png
+      background: /images/Punggol_Secondary_School__1366_x_500_px___4_.png
       title: Punggol Secondary School
       variant: image
       subtitle: Achievers with Character
