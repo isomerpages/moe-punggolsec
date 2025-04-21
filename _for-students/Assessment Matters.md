@@ -60,34 +60,12 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>Secondary 4 Normal Academic &amp; Normal Technical Preliminary Examination Timetable</strong>
+</p>
+<p>Please refer to this link for the 4NA and 4NT Prelims Timetable: <a href="https://go.gov.sg/pss4nprelims" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pss4nprelims</a>
+</p>
+<p></p>
 <p></p>
