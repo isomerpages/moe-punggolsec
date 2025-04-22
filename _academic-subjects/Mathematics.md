@@ -6,8 +6,7 @@ variant: markdown
 ---
 # Mathematics
 
- The Mathematics Department aims to develop Punggolites into resilient problem solvers with a positive attitude towards Mathematics. The department leverages on a baseline curriculum with suitable pedagogies and assessment strategies to strengthen the teaching and learning of mathematical problem-solving skills. Programmes like Peer Tutoring Programme, Foundation to N(A) Bridging, Secondary One Games Day and Secondary Three Math Trail provide a motivating environment to learn Mathematics and solve problems in real world contexts. Students learn how to be an active contributor as they work collaboratively to support one another in problem-solving.
- 
+The Mathematics Department aims to develop Punggolites into resilient problem solvers with a positive attitude towards Mathematics. The department leverages on a baseline curriculum with suitable pedagogies and assessment strategies to strengthen the teaching and learning of mathematical problem-solving skills. Programmes like Peer Tutoring Programme, Foundation to N(A) Bridging, Secondary One Games Day and Secondary Three Math Trail provide a motivating environment to learn Mathematics and solve problems in real world contexts. Students learn how to be an active contributor as they work collaboratively to support one another in problem-solving.
 
 ### Department Programmes and Events
 
@@ -38,4 +37,3 @@ During these sessions, the identified peer tutors will guide their juniors in co
 
 ![](/images/Academic%20Subjects/Mathematics/Singapore_International_Mathematical_and_Computational_Challenge_2.jpg)
           *Team B explaining their poster to foreign educators on how they used Orange, an open-source data visualization, machine learning and data mining toolkit, to reduce carbon emission.*
-  
