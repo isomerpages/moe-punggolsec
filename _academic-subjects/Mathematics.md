@@ -7,6 +7,7 @@ variant: markdown
 # Mathematics
 
 ![](/images/NEW_Sec3_Students_measuring_angles_of_elevation_using_clinometer_app.jpg)
+*Secondary 3 Students on a Math Trail*
 
 The Mathematics Department aims to develop Punggolites into resilient problem solvers with a positive attitude towards Mathematics. The department leverages on a baseline curriculum with suitable pedagogies and assessment strategies to strengthen the teaching and learning of mathematical problem-solving skills. Programmes like Peer Tutoring Programme, Foundation to N(A) Bridging, Secondary One Games Day and Secondary Three Math Trail provide a motivating environment to learn Mathematics and solve problems in real world contexts. Students learn how to be an active contributor as they work collaboratively to support one another in problem-solving.
 
@@ -17,6 +18,3 @@ The Mathematics Department aims to develop Punggolites into resilient problem so
 **_Secondary Two Peer Tutoring Programme_**
  ![](/images/Academic%20Subjects/Mathematics/Peer_Tutoring_Program_2.jpg)
           *The Sec 2 tutors patiently explaining Math concepts to their juniors.*
-
-
- 
