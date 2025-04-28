@@ -5,4 +5,38 @@ description: ""
 third_nav_title: Signature Level Programmes
 variant: tiptap
 ---
-<h2>Discovering &amp; Leading Myself</h2><p><strong>2024 Year Head 1: Ms Srividya Vijayakumar</strong></p><p><strong>2024 Assistant Year Head 1: Ms Elaine Lui</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%201/New%20Sec%201s-2.jpg"></div><p><strong>Secondary One students enjoying their PE lesson</strong></p><p><strong>Discovering self</strong></p><ul data-tight="true" class="tight"><li><p>Finding out about strengths and weaknesses</p></li><li><p>Developing self identity</p></li></ul><p><strong>Leading self</strong></p><ul data-tight="true" class="tight"><li><p>Self management and self-leadership</p></li><li><p>Being a good role model</p></li><li><p>Doing what is right at all times</p></li></ul><p><strong>Cohort Outcomes</strong></p><p>Students will build new friendships, develop a sense of belonging to PSS and discover their self-identity.</p><p><strong>PROGRAMMES</strong></p><p><strong><em>Secondary 1 Orientation and CCA Fair</em></strong></p><p>The Secondary 1 Orientation Camp (SOOC) is a memorable event annually, as it marks the transition of students from primary to secondary school. Students participate in a range of activities, as they build new friendships and familiarise themselves with our school environment and learning culture.</p><p>The CCA Fair is a platform for our Secondary One students to get a first hand experience of what the various CCAs entail. They are also able to discover their interests and talents that they may want to further enhance.</p><p><strong><em>Values-In-Action (VIA) Programme</em></strong></p><p>To enable students to develop social consciousness and develop self-leadership, the Secondary One students embark on self-initiated projects, aimed at improving the school environment. Through the activities, students were able to forge closer bonds and contribute creatively towards beautifying the school.</p><p><strong><em>Post-Exam Activities</em></strong></p><p>As part of the holistic development of students, students get the opportunity to participate in various hands-on activities to deepen their understanding of their own strengths and talents. They engage in fun aesthetics activities of their choice, such as music and art, as well as deepen their learning of science through hands-on ice-cream making sessions. Students are also encouraged to develop their communication and leadership skills through an activity-based life-long learning programme. With joy of learning, our students are able to grow their strengths in a varied and fun manner.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%201/Orientation4.jpeg"></div><p><strong>Students participating in a team building game at the SOOC</strong></p>
+<h2>Discovering &amp; Leading Myself</h2>
+<p><strong>2024 Year Head 1: Ms Srividya Vijayakumar</strong>
+</p>
+<p><strong>2024 Assistant Year Head 1: Ms Elaine Lui</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_Students_learning_about_urban_farming_at_Kok_Fah_farm_.jpg">
+</div>
+<p><strong><em>Students learning about urban farming at Kok Fah farm</em></strong>
+</p>
+<p></p>
+<p>2024 kicked off with an exciting three-day orientation. Our Secondary
+One Punggolites dove into the school’s culture, made new friends, and began
+their journey of growth. In Term 2, they faced challenges during a 3-day,
+2-night outdoor camp, building resilience and teamwork. Student Development
+Week was packed with energy, as students proudly presented their Values-in-Action
+(VIA) projects and enjoyed the fun of Math Games. They explored the rich
+heritage of Kampong Glam, Chinatown, and Little India before embarking
+on a learning journey to Kok Fah Farm and Urban Rooftop Farms. These activities
+nurtured self-directed, adaptable learners, ready for future challenges.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/08_Students_embarking_on_cycling_at_East_Coast_Park_during_their_Outdoor_Camp_.jpg">
+</div>
+<p><strong><em>Students embarking on cycling at East Coast Park during their Outdoor Camp</em></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_Students_persevering_through_the_low_elements_obstacle_course_duing_the_Outdoor_Camp_.jpg">
+</div>
+<p><strong><em>Students persevering through the low elements obstacle course during the Outdoor Camp</em></strong>
+</p>
+<p></p>
