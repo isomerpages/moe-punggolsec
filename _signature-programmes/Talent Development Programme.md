@@ -70,6 +70,29 @@ while honing their communication, interpersonal and research skills.</p>
 </li>
 </ul>
 <p></p>
+<p><strong><u>Humanities</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Model United Nations at Anglo Chinese School (Independent)</p>
+</li>
+<li>
+<p>Historical Investigation @ Fort Canning Park</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_Interacting_with_other_School_Delegates.jpg">
+</div>
+<p><strong><em>PSS Delegates at the Model UN</em></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_Group_Photo_with_Nasa_Astronaut_Jeff_Williams.jpg">
+</div>
+<p><strong><em>Group Photo with Nasa Astronaut Jeff Williams</em></strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
