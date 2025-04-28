@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/CCE/CCE/CCE%202021%20Curriculum%20Frame.png">
 </div>
-<p><strong><em>                                CCE Curriculum Framework</em></strong>
+<p><strong><em>CCE Curriculum Framework</em></strong>
 </p>
 <p>The CCE Committee aims to inculcate values and nurture social-emotional
 competencies in Punggolites, developing them to be active contributors,
