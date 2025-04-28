@@ -21,10 +21,11 @@ leadership skills by guiding them in planning and leading in camps and
 key school events.</p>
 <p>The Support Team ensures the well-being of Punggolites with a caring environment
 as the foundation of a positive and vibrant school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE/Students%20give%20feedback%20online%20platform.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integration_programme_for_International_Students__LJ_with_IS_and_NE_ambassadors_.png">
 </div>
-<p><strong><em>Students giving feedback on an online platform during the Punggol Conversation led by Student Councillors</em></strong>
+<p><strong><em>Integration programme for International Students (Learning Journey with IS and NE ambassadors)</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
