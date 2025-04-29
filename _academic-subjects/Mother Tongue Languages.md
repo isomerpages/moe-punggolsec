@@ -2,12 +2,16 @@
 title: Mother Tongue Languages
 permalink: /the-pss-learning-experience/academic-subjects/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
-
-
 ## Mother Tongue Languages
 
-The Mother Tongue Languages (MTL) Department aims to inspire and empower each student to attain adequate language proficiency in their MTL and become passionate MTL lifelong learners. In order to achieve the vision that MTL has to be a living language for students, to be applied and valued in everyday life, our teachers believe in making lessons more engaging and interactive so that students can see the purpose and relevance of their learning experiences.
+The Mother Tongue Languages (MTL) DdDepartment aims to nurture students to be passionate and lifelong learners of MTL. 
+
+To prepare students to be future-ready, our teachers actively incorporate e-pedagogy and design collaborative learning tasks in MTL lessons. We also create authentic opportunities for students to actively learn MTL and appreciate various cultures through programmes such as MTL Fortnight.
+
+We encourage students to participate in competitions to develop their potential in different areas. They have achieved commendable results in competitions such as Chinese Young Reporter News Challenge, Malay Narrative Essay Competition and Tamil Comic Creation Competition. 
+
   
 
 ### Department Programmes and Events
