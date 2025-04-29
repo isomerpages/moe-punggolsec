@@ -30,7 +30,7 @@ Essay Competition and Tamil Comic Creation Competition.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/xzYj0dAHRyd8Mh2QObugr2F85s5vFXXA1p9LKPCn1E4jOmcz5WagvW9AUS0_iqRZ9Xh6aFAxPZQ4ilM1cRfscylOnYxCwDEGv0v3lyOS7N2xwxMU3_XY7ycPp9WfWjZ1PemrvuJaZJ8FswkjqYJ-smEcL9kS8FO3B6Y-6KGJJ4-EeEL5M8xLaMqcLlQDsg">
 </div>
-<p><strong><em> Students participating in an outdoor Escape Room learning activity at Chinatown to learn about the culture and language of Chinese.</em></strong>
+<p><strong><em>Students participating in an outdoor Escape Room learning activity at Chinatown to learn about the culture and language of Chinese.</em></strong>
 </p>
 <p></p>
 <p></p>
