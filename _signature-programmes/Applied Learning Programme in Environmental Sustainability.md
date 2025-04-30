@@ -7,7 +7,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20Objectives%20Website.jpg">
 </div>
-<p></p>
+<p><strong><em>Learning objectives of ALP</em></strong>
+</p>
 <p>Environmental Sustainability is our school’s signature programme to promote
 adaptive thinking.</p>
 <p>Our school partners with Science Centre to design lesson packages to teach
@@ -22,7 +23,7 @@ Award”.</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPVermicompost.png">
 </div>
-<p><strong> <em>Students learning about vermicomposting</em></strong>
+<p><strong><em>Students learning about vermicomposting</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
