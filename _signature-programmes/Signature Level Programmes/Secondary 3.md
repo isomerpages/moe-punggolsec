@@ -36,12 +36,4 @@ ready to take on future challenges with confidence.</p>
 </div>
 <strong><em>Sec 3 ITE Experience</em></strong>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+
