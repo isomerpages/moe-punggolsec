@@ -28,6 +28,7 @@ with determination.</p>
 </p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Humanities/Students%20attend%20talk%20at%20ISD%20Exhibition.jpg">
 </div>
