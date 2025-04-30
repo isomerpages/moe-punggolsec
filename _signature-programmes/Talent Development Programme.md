@@ -2,13 +2,14 @@
 title: Talent Development Programme
 permalink: /signature-programmes/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Sharing_by_NASA_Astronaut_Jeff_Williams.jpg">
 </div>
-<strong><em>Sharing by NASA Astronaut Jeff Williams</em></strong>
+<p><strong><em>Sharing by NASA Astronaut Jeff Williams</em></strong>
+</p>
 <p></p>
 <p></p>
 <p>The PSS Talent Development Programme (TDP) aims to promote and spur students
@@ -16,7 +17,8 @@ to strive for excellence. Through this programme, we identify, develop,
 and provide students with opportunities to work in a heterogeneous team,
 while honing their communication, interpersonal and research skills.</p>
 <p><strong>English</strong>
-</p><ul data-tight="true" class="tight">
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Oracy Skills Programme</p>
 </li>
@@ -34,7 +36,8 @@ while honing their communication, interpersonal and research skills.</p>
 </li>
 </ul>
 <p><strong><u>Mathematics</u></strong>
-</p><ul data-tight="true" class="tight">
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Singapore Math Global Finals</p>
 </li>
@@ -43,7 +46,8 @@ while honing their communication, interpersonal and research skills.</p>
 </li>
 </ul>
 <p><strong><u>Science</u></strong>
-</p><ul data-tight="true" class="tight">
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Singapore Junior Biology Olympiad</p>
 </li>
@@ -68,7 +72,8 @@ while honing their communication, interpersonal and research skills.</p>
 </ul>
 <p></p>
 <p><strong><u>Humanities</u></strong>
-</p><ul data-tight="true" class="tight">
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Model United Nations at Anglo Chinese School (Independent)</p>
 </li>
@@ -80,14 +85,16 @@ while honing their communication, interpersonal and research skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_Interacting_with_other_School_Delegates.jpg">
 </div>
-<strong><em>PSS Delegates at the Model UN</em></strong>
+<p><strong><em>PSS Delegates at the Model UN</em></strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_Group_Photo_with_Nasa_Astronaut_Jeff_Williams.jpg">
 </div>
-<strong><em>Group Photo with Nasa Astronaut Jeff Williams</em></strong>
+<p><strong><em>Group Photo with Nasa Astronaut Jeff Williams</em></strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
