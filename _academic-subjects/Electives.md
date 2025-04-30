@@ -23,10 +23,10 @@ critical thinking of the content and concepts learned.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Electives/Students%20serving%20mocktails%20and%20explaining%20the%20different%20types%20of%20cultery%20to%20their%20peers.jpg">
 </div>
-<p><strong> Students serving mocktails and explaining the different types of cutlery to their peers</strong>
+<p><strong>Students serving mocktails and explaining the different types of cutlery to their peers</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Electives/Students%20engage%20preschool%20children.jpg">
 </div>
-<p><strong> Students engaging preschool children in a fun lesson</strong>
+<p><strong>Students engaging preschool children in a fun lesson</strong>
 </p>
