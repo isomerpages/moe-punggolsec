@@ -21,7 +21,7 @@ of being an active contributor in our community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_VIA___students_engaging_preschoolers_.jpg">
 </div>
-<p><strong><em>Students preparing meals for less advantaged families at Willing Hearts</em></strong>
+<p><strong><em>Students engaging preschoolers</em></strong>
 </p>
 <p></p>
 <p></p>
