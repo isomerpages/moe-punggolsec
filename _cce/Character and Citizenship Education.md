@@ -8,8 +8,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/CCE/CCE/CCE%202021%20Curriculum%20Frame.png">
 </div>
-<p><strong><em>CCE Curriculum Framework</em></strong>
-</p>
+<strong><em>CCE Curriculum Framework</em></strong>
+<p></p>
 <p>The CCE Committee aims to inculcate values and nurture social-emotional
 competencies in Punggolites, developing them to be active contributors,
 grounded in values.</p>
@@ -25,13 +25,13 @@ as the foundation of a positive and vibrant school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integration_programme_for_International_Students__LJ_with_IS_and_NE_ambassadors_.png">
 </div>
-<p><strong><em>Integration programme for International Students (Learning Journey with IS and NE ambassadors)</em></strong>
-</p>
+<strong><em>Integration programme for International Students (Learning Journey with IS and NE ambassadors)</em></strong>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE/Values%20Education%20Lesson%20about%20Racial%20Harmony%20Day.jpg">
 </div>
-<p><strong><em>A values education lesson by form teachers about Racial Harmony Day</em></strong>
-</p>
+<strong><em>A values education lesson by form teachers about Racial Harmony Day</em></strong>
+<p></p>
 <p></p>
 <p></p>
