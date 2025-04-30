@@ -2,12 +2,14 @@
 title: Applied Learning Programme in Environmental Sustainability
 permalink: /signature-programmes/applied-learning-programme-in-environment-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20Objectives%20Website.jpg">
 </div>
-<strong><em>Learning objectives of ALP</em></strong>
+<p><strong><em>Learning objectives of ALP</em></strong>
+</p>
+<p></p>
 <p></p>
 <p>Environmental Sustainability is our school’s signature programme to promote
 adaptive thinking.</p>
@@ -23,13 +25,16 @@ Award”.</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALPVermicompost.png">
 </div>
-<strong><em>Students learning about vermicomposting</em></strong>
+<p><strong><em>Students learning about vermicomposting</em></strong>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Students%20learning%20about%20the%20flora%20and%20fauna%20at%20Sungei%20Buloh%20Wetland.png">
 </div>
-<strong><em>Students learning about the flora and fauna at Sungei Buloh Wetland</em></strong>
+<p><strong><em>Students learning about the flora and fauna at Sungei Buloh Wetland</em></strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
