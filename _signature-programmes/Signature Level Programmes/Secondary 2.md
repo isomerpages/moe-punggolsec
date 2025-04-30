@@ -8,13 +8,13 @@ variant: markdown
 <h2>Taking Responsibility for Self, Peers and the Community</h2>
 <p><strong>2024 Year Head 2: Mr Ong Kai Wei</strong>
 </p>
-<p><strong>2024 Assistant Year Head 2: Mr Royce Teo Jian Xing</strong>
-</p>
+<strong>2024 Assistant Year Head 2: Mr Royce Teo Jian Xing</strong>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Term_2_Photo_1.jpg">
 </div>
-<p><strong><em>Sec 2 students carrying out a presentation on LLP</em></strong>
-</p>
+<strong><em>Sec 2 students carrying out a presentation on LLP</em></strong>
+<p></p>
 <p></p>
 <p>The Secondary Two Punggolites started 2024 with a delightful "Breakfast
 with Form Teachers," to reconnect and strengthen bonds. Throughout the
@@ -30,14 +30,14 @@ setting the stage for a dynamic year ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%202/VIA%20Learning%20Briefing.jpg">
 </div>
-<p><strong>Students are listening attentively to the VIA briefing</strong>
-</p>
+<strong>Students are listening attentively to the VIA briefing</strong>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Term_3_Photo_4.jpg">
 </div>
-<p><strong><em>Sec 2 students taking part in Student Development (SD) week</em></strong>
-</p>
+<strong><em>Sec 2 students taking part in Student Development (SD) week</em></strong>
+<p></p>
 <p></p>
 <p></p>
