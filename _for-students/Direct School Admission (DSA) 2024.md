@@ -4,30 +4,30 @@ permalink: /direct-school-admission-dsa-2024/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Direct School Admission 2024</strong></h4>
-<p><em>(For 2025 Secondary One Intake)</em>
+<h4><strong>Direct School Admission 2025</strong></h4>
+<p><em>(For 2026 Secondary One Intake)</em>
 </p>
 <hr>
 <p>At Punggol Secondary School, our focus is on providing a holistic education
 which emphasises character development, grounded in the School Values of
 Propriety&nbsp;礼, Righteousness&nbsp;义, Integrity&nbsp;廉&nbsp;and Self-Respect&nbsp;耻.</p>
-<p></p>
 <p>The Vision of the school is to develop future-ready Punggolites who are
 active contributors. The Mission of the school is to nurture a vibrant
 community of self-directed and adaptable Punggolites, grounded in values.&nbsp;</p>
-<p></p>
 <p>We aim to nurture students into Achievers with Character&nbsp;who are
 confident and motivated to&nbsp;excel in both the academic and non-academic
 domains.</p>
-<p></p>
 <p>We welcome students with outstanding talents and who value such an education
 in Punggol Secondary School to apply for our DSA programme.</p>
 <p></p>
-<p>* The school has implemented Full Subject-Based Banding from 2023.</p>
 <p></p>
 <p><strong>PROGRAMME AND OPPORTUNITIES</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -111,10 +111,13 @@ the Environment Club CCA.</p>
 </p>
 <p>We are looking for students who are&nbsp;self-motivated and demonstrate
 potential in the above DSA areas. &nbsp;</p>
-<p></p>
 <p>Students who are interested in the Direct School Admission into Punggol
 Secondary School must<strong>&nbsp;</strong>fulfil the following criteria:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -149,13 +152,14 @@ and/or</p>
 <p></p>
 </li>
 </ul>
-<p>2. Students achieved at least a Silver award in Primary 4/6 NAPFA results.</p>
+<p>2. Students must have achieved at least a Silver award in Primary 4/6
+NAPFA results.</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Selection Trial</p>
-<p>Students must pass the following criteria:</p>
+<p>Students will be assessed on the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Physical Assessment</p>
+<p>PhysicalAssessment</p>
 </li>
 <li>
 <p>Games Skills Assessment</p>
@@ -180,7 +184,7 @@ in choral/solo singing; and/or</p>
 </li>
 <li>
 <p>Represented Primary School in Singapore Youth Festival (SYF) Arts Presentation
-in 2023 and/or</p>
+in 2024 and/or</p>
 </li>
 <li>
 <p>Represented national choral/vocal group or equivalent in performance(s)
@@ -189,7 +193,7 @@ and/or any local, regional or international competition(s)</p>
 </ul>
 <p></p>
 <p>2. Selection Trial</p>
-<p>Students must fulfill the following criteria:</p>
+<p>Students will be assessed the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Audition</p>
@@ -208,26 +212,24 @@ or recorded accompaniment)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Students must fulfill the following criteria:</p>
+<p>Students will be assessed based on the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Have a keen interest and passion in leading their peers in service to
-the community;&nbsp;</p>
+<p>Interest and passion in leading their peers in service to the community;&nbsp;</p>
 </li>
 <li>
-<p>Exhibit positive attitude and commitment towards learning and community
-service;</p>
+<p>Attitude and commitment towards learning and community service;</p>
 </li>
 <li>
-<p>Attain a Conduct Grade of at least ‘Very Good’ in Primary 5 (overall)
+<p>Conduct: Attain a Conduct Grade of at least ‘Very Good’ in Primary 5 (overall)
 and Primary 6 (mid-year); and</p>
 </li>
 <li>
-<p>Assumed leadership role in primary school e.g School prefects, Class Chairperson,
-CCA Captains or CCA Presidents.</p>
-<p></p>
+<p>Leadership Experience in primary school (for example, School prefects,
+Class Chairperson, CCA Captains or CCA Presidents, etc).</p>
 </li>
 </ul>
+<p></p>
 <p>2.&nbsp;Experiences in the following areas would be a bonus:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -237,11 +239,6 @@ CCA Captains or CCA Presidents.</p>
 <p>Community outreach and VIA projects</p>
 </li>
 </ul>
-<p></p>
-<p>3.&nbsp;All DSA applicants will be required to provide documentary evidence
-of their conduct and participation in community service. Interviews will
-be conducted for all shortlisted candidates.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -250,29 +247,24 @@ be conducted for all shortlisted candidates.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students must fulfill the following criteria:</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students will be assessed based on the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Have a strong interest in Science</p>
+<p>Interest and aptitude in Science</p>
 </li>
 <li>
-<p>Display a keen interest in environmental issues and actively engage in
-activities&nbsp;that are aimed at preserving the environment and promoting
-environmental awareness</p>
+<p>Interest in environmental issues and actively engage in activities&nbsp;that
+are aimed at preserving the environment and promoting environmental awareness</p>
 </li>
 <li>
-<p>Hold leadership positions in primary school (example, Environmental Ambassador/
+<p>Leadership Experience in primary school (for example, Environmental Ambassador/
 Environment Club Chairman/Vice Chairman, etc); or</p>
 </li>
 <li>
-<p>Have done well in Science / Design-related / Environmental-related competitions
+<p>Achievements in Science / Design-related / Environmental-related competitions
 or projects at school or national level</p>
-<p></p>
 </li>
 </ul>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; All DSA applicants will be required to provide
-documentary evidence of the above criteria. Interviews will be conducted
-for all shortlisted candidates.</p>
 </td>
 </tr>
 </tbody>
@@ -282,25 +274,18 @@ for all shortlisted candidates.</p>
 the students’ aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>The selection criteria and process for the talent areas will be updated
+<p>
+<br>The selection criteria and process for the talent areas will be updated
 from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
-<p></p>
+website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
 <p>Applicants who do not have prior experiences may also apply. The school
 will access applicants based on the selection criteria, which may include
 accessing the potential of the applicants.</p>
-<p></p>
 <p>Due to different profiles of applicants, selection / shortlisting trends
-may differ year on year.</p>
-<p></p>
+may differ year on year.&nbsp;</p>
 <p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted / given an offer.</p>
-<p></p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
-<p></p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
-</p>
