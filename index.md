@@ -20,7 +20,7 @@ sections:
           announcement: Dear P6s, we invite you to join our school through 2025 DSA. Click
             on the link below to join the school.
           link_text: Direct School Admission 2025
-          link_url: /direct-school-admission-dsa-2024/
+          link_url: /direct-school-admission-dsa-2025/
         - title: Semester 1 Class Timetable 2025
           date: 31 December 2024
           announcement: Dear students, welcome back to school! Click on the link below for
