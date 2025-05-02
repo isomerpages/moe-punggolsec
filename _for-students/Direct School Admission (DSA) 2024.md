@@ -159,7 +159,7 @@ NAPFA results.</p>
 <p>Students will be assessed on the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PhysicalAssessment</p>
+<p>Physical Assessment</p>
 </li>
 <li>
 <p>Games Skills Assessment</p>
