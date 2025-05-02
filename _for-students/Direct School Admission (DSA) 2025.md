@@ -1,10 +1,10 @@
 ---
-title: Direct School Admission (DSA) 2024
-permalink: /direct-school-admission-dsa-2024/
+title: Direct School Admission (DSA) 2025
+permalink: /direct-school-admission-dsa-2025/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Direct School Admission 2025</strong></h4>
+<h3><strong>Direct School Admission 2025</strong></h3>
 <p><em>(For 2026 Secondary One Intake)</em>
 </p>
 <hr>
