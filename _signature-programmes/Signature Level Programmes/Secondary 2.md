@@ -5,4 +5,39 @@ description: ""
 third_nav_title: Signature Level Programmes
 variant: tiptap
 ---
-<h2>Taking Responsibility for Self, Peers and the Community</h2><p><strong>2024 Year Head 2: Mr Ong Kai Wei</strong></p><p><strong>2024 Assistant Year Head 2: Mr Royce Teo Jian Xing</strong></p><p><strong>For self</strong></p><ul data-tight="true" class="tight"><li><p>Self management and self discipline</p></li><li><p>Doing what is right at all times</p></li></ul><p><strong>For peer</strong></p><ul data-tight="true" class="tight"><li><p>Building good peer to peer relationship</p></li><li><p>Social awareness</p></li><li><p>Conflict management</p></li></ul><p><strong>For community</strong></p><ul data-tight="true" class="tight"><li><p>Understanding community needs</p></li><li><p>Serving the community</p></li></ul><p><strong>PROGRAMMES</strong></p><p><strong><em>Subject Streaming Talk for Secondary Two students</em></strong></p><p>This annual talk serves as an avenue to provide information on the different subject prerequisites and tentative subject combinations for the following year. As it is their streaming year, this helps parents and students make informed decisions and understand the various post-secondary pathways available.</p><p><strong><em>Secondary Two Outdoor Adventure Camp</em></strong></p><p>Every year, Secondary Two students participate in the outdoor adventure camp, which serves as an opportunity for students to develop self-confidence, resilience and perseverance. During this cohort camp, students participate in a range of activities which promote team spirit, improve communication skills and help to enhance social interaction through various team-building activities. As it is also the first time that most students are staying at a campsite, it encourages students to show care and concern for others.</p><p><strong><em>Values-in-Action (VIA) Programme</em></strong></p><p>Students participate in VIA activities in the community so that they can learn and appreciate their living environment. Students take on the role of being responsible citizens practising good neighbourliness, responsible heartland living and good water and energy conservation lifestyles. These activities give students the opportunity to demonstrate the school values of propriety and righteousness as they educate others in the community about graciousness and eco-living.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%202/VIA%20Learning%20Briefing.jpg"></div><p><strong>Students are listening attentively to the VIA briefing</strong></p>
+<h2>Taking Responsibility for Self, Peers and the Community</h2>
+<p><strong>2024 Year Head 2: Mr Ong Kai Wei</strong>
+<br><strong>2024 Assistant Year Head 2: Mr Royce Teo Jian Xing</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Term_2_Photo_1.jpg">
+</div>
+<p><strong><em>Sec 2 students carrying out a presentation on LLP</em></strong>
+</p>
+<p></p>
+<p></p>
+<p>The Secondary Two Punggolites started 2024 with a delightful "Breakfast
+with Form Teachers," to reconnect and strengthen bonds. Throughout the
+year, students were encouraged to make wise choices in all aspects of their
+school life. Subject combination talks and Education and Career Guidance
+programmes empowered them to make informed decisions for their Secondary
+Three subject combination. In Term 2, Student Development Week brought
+exciting activities like museum visits, the HDB outreach programme, and
+Values-in-Action showcases, along with a vibrant cohort mass dance. These
+experiences helped Punggolites strengthen teamwork, adaptability, and self-directedness,
+setting the stage for a dynamic year ahead.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%202/VIA%20Learning%20Briefing.jpg">
+</div>
+<p><strong><em>Students are listening attentively to the VIA briefing</em></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Term_3_Photo_4.jpg">
+</div>
+<p><strong><em>Sec 2 students taking part in Student Development (SD) week</em></strong>
+</p>
+<p></p>
+<p></p>

@@ -2,21 +2,37 @@
 title: Learning For Life Programme in Community and Youth Leadership
 permalink: /signature-programmes/learning-for-life-programme-in-community-and-youth-leadership/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-In Punggol Secondary School, we seek to nurture students to become confident citizens of the future who are learners and leaders, guide by values and motivated to excel.
-
-The conviction underscores the impetus behind PSS's Learning for Life Programme (LLP) in Community and Youth Leadership. Our LLP encompasses an enriching, values-based and value-added education experience which aims to develop students into future-ready citizens with a heart for people. 
-
-With a strong focus in community and youth leadership, students' voice is imperative in enabling our students to develop ideas, opinions and empowering them to take greater ownership and chart their own paths while they play their part in giving back to the community.
-
-The spirit of giving back to the community builds upon the beginnings of our schools values which was started by two selfless ladies, who wanted to make education more accessible to females back in the 1950s. Hence, in PSS, every Punggolite participates in at least one Values-in-Action project annually. 
-
-
-**Students initiated meaningful projects to serve the needs of our community including:**
-* upcycling projects to rethink their trash. This is in alignment with our school's Applied Learning Programme on Environment Sustainability. Through upcycling projects, students also have a heightened awareness of the upcoming Green Economy, exploring the new movements towards a lower carbon footprint as well as global interventions.
-* with the easing of Covid-19 restrictions, some students were able to visit Voluntary Welfare Organisations to carry out direct service. Some examples include collecting newspapers for the Society for the Prevention of the Cruelty for Animals (SPCA), which needs newspaper in their daily care for animal, packing and distributing food items in collaboration with Food Bank, advocating for environmental conservation and cleaning up the beach, bringing joy to the elderly in collaboration with People's Association and Punggol-Sunrise Resident Network, as well as interacting with clients at Movement for the Intellectually Disabled of Singapore (MINDS).
-* other classes embarked on advocacy projects to champion for a social course they believe in. 
-
-
-Punggolites have done well in caring for the community beyond their own needs, and in doing so, practised self-leadership before leading others. They have truly lived out the school motto 'Achievers with Character'.
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Sec 4 students advocating for a social cause to their juniors" src="/images/Sec_4_students_advocating_for_a_social_cause_to_their_juniors.jpg">
+</div>
+<p><strong><em>Sec 4 students advocating for a social cause to their juniors</em></strong>
+</p>
+<p></p>
+<p></p>
+<p>Our Learning for Life Programme (LLP) focuses on, Community and Youth
+Leadership. Through our LLP, we aim to nurture future-ready Punggolites
+who are adaptable and actively contribute back to their community.</p>
+<p>Our LLP programme also serves as a platform for Punggolites to collaborate
+and work towards common goals. It is one where a sense of community is
+nurtured, where Punggolites learn about being empathetic and the importance
+of being an active contributor in our community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_VIA___students_engaging_preschoolers_.jpg">
+</div>
+<p><strong><em>Students engaging preschoolers</em></strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_VIA___students_preparing_meals_for_less_advantaged_families_at_Willing_Hearts.jpg">
+</div>
+<p><strong><em>Students preparing meals for less advantaged families at Willing Hearts</em></strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
