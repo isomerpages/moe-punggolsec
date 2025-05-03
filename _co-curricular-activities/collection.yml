@@ -2,11 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts/.keep
-      - Performing Arts/Choir.md
-      - Performing Arts/Concert Band.md
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Modern Dance.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Art Club.md
       - Clubs and Societies/Audio Visual Aid Club.md
@@ -14,6 +9,11 @@ collections:
       - Clubs and Societies/Environmental Club.md
       - Clubs and Societies/Indian Language Drama and Debate Society.md
       - Clubs and Societies/Interact Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Modern Dance.md
       - Clubs and Societies.md
       - Performing Arts.md
       - Sports.md
