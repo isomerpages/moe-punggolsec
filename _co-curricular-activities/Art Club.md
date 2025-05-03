@@ -20,7 +20,6 @@ description: ""
 <p>Art Club believes that art is used as a bridge for expression. We hope
 to nurture students’ interest, creativity and self-expression in art through
 exploring and experimenting with different art forms and mediums.</p>
-<p>&nbsp;</p>
 <p>Highlights of 2023 include the club’s active re-creation of the Koi corner
 by painting a mural of ceramic koi fishes at the site where the koi pond
 once existed. In addition, Art Club’s upper secondary members participated
