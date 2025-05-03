@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Guzheng Ensemble.md
       - Concert Band.md
       - Choir.md
       - Clubs and Societies/.keep
