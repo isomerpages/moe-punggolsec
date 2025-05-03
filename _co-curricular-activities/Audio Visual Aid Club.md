@@ -20,7 +20,6 @@ and creatively.</p>
 </div>
 <p><strong><em>AVA members taking photographs for school events</em></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_AVA_members_developing_film.jpg">
 </div>
