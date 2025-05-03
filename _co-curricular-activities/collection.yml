@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Concert Band.md
       - Performing Arts/.keep
       - Modern Dance.md
       - Guzheng Ensemble.md
