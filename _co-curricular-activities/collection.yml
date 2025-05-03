@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Modern Dance.md
       - Guzheng Ensemble.md
       - Concert Band.md
       - Choir.md
