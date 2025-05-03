@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/Interact Club.md
       - Clubs and Societies/Indian Language Drama and Debate Society.md
       - Clubs and Societies/Environmental Club.md
       - Clubs and Societies/English Language Drama and Debate Society.md
