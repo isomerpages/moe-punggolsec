@@ -21,7 +21,7 @@ future.</p>
 <p><strong><em>Drown out the noise and shoot your best</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Nerves_of_steel__no_fear_of_the_competition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Pistol_girls_deep_in_focus.jpg">
 </div>
-<p><strong><em>Nerves of steel, no fear of the competition</em></strong>
+<p><strong><em>Pistol girls deep in focus</em></strong>
 </p>
