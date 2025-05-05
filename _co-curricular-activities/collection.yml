@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Shooting.md
       - Netball.md
       - Football.md
       - Basketball.md
