@@ -16,12 +16,12 @@ themselves, take responsibility for their progress, and embrace hard work
 and self-directedness, which are essential for success in an uncertain
 future.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Nerves_of_steel__no_fear_of_the_competition.jpg">
-</div>
-<p><strong><em>Nerves of steel, no fear of the competition</em></strong>
-</p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Drown_out_the_noise_and_shoot_your_best.jpg">
 </div>
 <p><strong><em>Drown out the noise and shoot your best</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Nerves_of_steel__no_fear_of_the_competition.jpg">
+</div>
+<p><strong><em>Nerves of steel, no fear of the competition</em></strong>
 </p>
