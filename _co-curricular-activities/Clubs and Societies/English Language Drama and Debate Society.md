@@ -27,6 +27,6 @@ their character through such creative programmes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Aesthetics_Showcase_2.jpg">
 </div>
-<p><strong><em>Aesthetic Showcase (Two pictures shown above)</em></strong>
+<p><strong><em>PSS DREAM! Aesthetic Concert Showcase (Two pictures shown above)</em></strong>
 </p>
 <p></p>
