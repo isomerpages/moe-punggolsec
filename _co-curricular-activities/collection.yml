@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports/.keep
       - Volleyball (Girls).md
       - Volleyball (Boys).md
       - Table Tennis.md
