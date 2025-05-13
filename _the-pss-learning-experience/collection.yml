@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - Character and Citizenship Education.md
       - Academic Subjects/Electives.md
       - Academic Subjects/Physical Education Programme.md
       - Academic Subjects/Craft & Technology.md
