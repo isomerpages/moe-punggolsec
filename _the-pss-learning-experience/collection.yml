@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MOE Sexuality Education/.keep
-      - CCE/MOE Sexuality Ed in Schools.md
       - CCE/PSS Student Support Team.md
       - CCE/Character and Citizenship Education.md
       - CCE/.keep
