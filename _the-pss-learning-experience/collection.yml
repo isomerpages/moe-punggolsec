@@ -1,5 +1,5 @@
 collections:
-  academic-subjects:
+  the-pss-learning-experience:
     output: true
     order:
       - Academic Subjects/Electives.md
