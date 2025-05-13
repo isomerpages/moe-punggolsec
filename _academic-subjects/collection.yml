@@ -2,6 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Academic Subjects/Humanities.md
       - Academic Subjects/Mother Tongue Languages.md
       - Academic Subjects/Science.md
       - Academic Subjects/Mathematics.md
