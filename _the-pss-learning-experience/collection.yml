@@ -2,6 +2,7 @@ collections:
   the-pss-learning-experience:
     output: true
     order:
+      - CCE/PSS Student Support Team.md
       - CCE/Character and Citizenship Education.md
       - CCE/.keep
       - Academic Subjects/Electives.md
