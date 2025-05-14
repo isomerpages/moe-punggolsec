@@ -1,5 +1,5 @@
 collections:
-  the-pss-learning-experience:
+  the-pss-experience:
     output: true
     order:
       - CCA/.keep
