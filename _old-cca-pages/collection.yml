@@ -1,0 +1,8 @@
+collections:
+  old-cca-pages:
+    output: true
+    order:
+      - Uniformed Groups.md
+      - Sports.md
+      - Performing Arts.md
+      - Clubs and Societies.md
