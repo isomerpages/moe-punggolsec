@@ -1,0 +1,4 @@
+collections:
+  old-cca-pages:
+    output: true
+    order: []
