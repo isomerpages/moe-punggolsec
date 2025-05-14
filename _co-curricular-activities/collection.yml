@@ -2,11 +2,36 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs and Societies.md
-      - Performing Arts.md
-      - Sports.md
-      - Uniformed Groups.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Art Club.md
+      - Clubs and Societies/Audio Visual Aid Club.md
+      - Clubs and Societies/English Language Drama and Debate Society.md
+      - Clubs and Societies/Environmental Club.md
+      - Clubs and Societies/Indian Language Drama and Debate Society.md
+      - Clubs and Societies/Interact Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Sports/.keep
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Shooting.md
+      - Sports/Table Tennis.md
+      - Sports/Volleyball (Boys).md
+      - Sports/Volleyball (Girls).md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/National Cadet Corps (NCC).md
+      - Uniformed Groups/National Police Cadet Corps (NPCC).md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/Scouts.md
       - LEAPS/.keep
       - LEAPS/LEAPS.md
       - LEAPS/LEAPS 2 domains.md
       - LEAPS/Recognition of Students’ Level of Attainment.md
+      - Clubs and Societies.md
+      - Performing Arts.md
+      - Sports.md
+      - Uniformed Groups.md

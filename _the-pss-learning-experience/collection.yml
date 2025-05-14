@@ -1,0 +1,18 @@
+collections:
+  the-pss-learning-experience:
+    output: true
+    order:
+      - MOE Sexuality Education/Overview MOE Sexuality Education.md
+      - MOE Sexuality Education/.keep
+      - CCE/PSS Student Support Team.md
+      - CCE/Character and Citizenship Education.md
+      - CCE/.keep
+      - Academic Subjects/Electives.md
+      - Academic Subjects/Physical Education Programme.md
+      - Academic Subjects/Craft & Technology.md
+      - Academic Subjects/Humanities.md
+      - Academic Subjects/Mother Tongue Languages.md
+      - Academic Subjects/Science.md
+      - Academic Subjects/Mathematics.md
+      - Academic Subjects/English Language and Literature.md
+      - Academic Subjects/.keep
