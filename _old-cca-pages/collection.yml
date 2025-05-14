@@ -1,4 +1,5 @@
 collections:
   old-cca-pages:
     output: true
-    order: []
+    order:
+      - Clubs and Societies.md
