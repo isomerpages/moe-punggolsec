@@ -2,6 +2,7 @@ collections:
   the-pss-learning-experience:
     output: true
     order:
+      - MOE Sexuality Education/Secondary 1.md
       - MOE Sexuality Education/Overview MOE Sexuality Education.md
       - MOE Sexuality Education/.keep
       - CCE/PSS Student Support Team.md
