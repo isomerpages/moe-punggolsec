@@ -2,11 +2,11 @@ collections:
   punggolites:
     output: true
     order:
-      - Useful Links/Connect with us!.md
-      - Useful Links/Announcements.md
       - Useful Links/.keep
+      - Useful Links/Announcements.md
       - Useful Links/Useful Links for Students.md
       - Useful Links/Direct School Admission (DSA) 2025.md
+      - Useful Links/Connect with us!.md
       - Direct School Admission (DSA) 2025.md
       - Assessment Matters.md
       - Timetable.md
