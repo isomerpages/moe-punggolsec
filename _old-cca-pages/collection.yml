@@ -2,5 +2,6 @@ collections:
   old-cca-pages:
     output: true
     order:
+      - Sports.md
       - Performing Arts.md
       - Clubs and Societies.md
