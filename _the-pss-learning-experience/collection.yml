@@ -2,6 +2,7 @@ collections:
   the-pss-learning-experience:
     output: true
     order:
+      - MOE Sexuality Education/Secondary 4.md
       - MOE Sexuality Education/Secondary 3.md
       - MOE Sexuality Education/Secondary 2.md
       - MOE Sexuality Education/Secondary 1.md
