@@ -69,7 +69,7 @@ variant: tiptap
 </p>
 <p><strong>Secondary 4 Express/5 Normal Academic Preliminary Examination Timetable</strong>
 </p>
-<p>Please refer to this link for the 4E5N Prelims Timetable: <a href="https://go.gov.sg/pss4e5nprelims" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pss4nprelims</a>
+<p>Please refer to this link for the 4E5N Prelims Timetable: <a href="https://go.gov.sg/pss4e5nprelims" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pss4e5nprelims</a>
 </p>
 <p></p>
 <p></p>
