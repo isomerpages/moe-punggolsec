@@ -3,6 +3,7 @@ title: Useful Links for Students
 permalink: /for-students/useful-links/
 variant: tiptap
 description: ""
+third_nav_title: Useful Links
 ---
 <p><strong><u>Academic</u></strong>
 </p>

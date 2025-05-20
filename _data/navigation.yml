@@ -2,22 +2,20 @@ logo: /images/School Logo (tab).png
 links:
   - title: Our School
     collection: our-school
-  - title: The PSS Learning Experience
+  - title: The PSS Experience
     url: /the-pss-learning-experience/character-and-citizenship-education
     sublinks:
-      - title: CCE
-        url: /the-pss-learning-experience/character-and-citizenship-education
       - title: Academic Subjects
         url: /the-pss-learning-experience/academic-subjects/english-language-n-literature
       - title: Co-Curricular Activities
         url: /the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies/art-club/
+      - title: CCE
+        url: /the-pss-learning-experience/character-and-citizenship-education/
+      - title: Signature Programmes
+        url: /signature-programmes/applied-learning-programme-in-environment-education/
       - title: Aesthetics Programme
         url: /the-pss-learning-experience/aesthetics-programme
-  - title: Signature Programmes
-    collection: signature-programmes
-  - title: Student Matters
-    collection: for-students
-  - title: Parents
+  - title: Punggolites
+    collection: punggolites
+  - title: Parents and Partners
     collection: for-parents
-  - title: Useful Links For Staff
-    collection: useful-links-for-staff
