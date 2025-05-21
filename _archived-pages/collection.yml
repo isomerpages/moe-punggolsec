@@ -2,4 +2,5 @@ collections:
   archived-pages:
     output: true
     order:
+      - Student Leaders.md
       - Rental of Lockers (FAQs).md
