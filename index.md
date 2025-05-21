@@ -11,28 +11,6 @@ sections:
       title: Punggol Secondary School
       variant: image
       subtitle: Achievers with Character
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Direct School Admission (DSA) 2025
-          date: 02 May 2025
-          announcement: Dear P6s, we invite you to join our school through 2025 DSA. Click
-            on the link below to join the school.
-          link_text: Direct School Admission 2025
-          link_url: /direct-school-admission-dsa-2025/
-        - title: Semester 1 Class Timetable 2025
-          date: 31 December 2024
-          announcement: Dear students, welcome back to school! Click on the link below for
-            your class timetable.
-          link_text: Semester 1 Class Timetable 2025
-          link_url: /for-students/timetable/
-        - title: Sec 2 Parent Engagement Slides
-          date: 28 February 2025
-          announcement: Dear Parents,  here are the slides from the Sec 2 Parent
-            Engagement Session held on Friday 21st Feb.
-          link_text: Sec 2 Parent Engagement Session Slides
-          link_url: https://punggolsec.moe.edu.sg/sec-2-parents-engagement-slides/
   - infopic:
       title: Self-directed
       id: infopic
@@ -60,4 +38,26 @@ sections:
         communities and make a positive impact.
       image: /images/IMG_0319__3_.jpg
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Direct School Admission (DSA) 2025
+          date: 02 May 2025
+          announcement: Dear P6s, we invite you to join our school through 2025 DSA. Click
+            on the link below to join the school.
+          link_text: Direct School Admission 2025
+          link_url: /direct-school-admission-dsa-2025/
+        - title: Semester 1 Class Timetable 2025
+          date: 31 December 2024
+          announcement: Dear students, welcome back to school! Click on the link below for
+            your class timetable.
+          link_text: Semester 1 Class Timetable 2025
+          link_url: /for-students/timetable/
+        - title: Sec 2 Parent Engagement Slides
+          date: 28 February 2025
+          announcement: Dear Parents,  here are the slides from the Sec 2 Parent
+            Engagement Session held on Friday 21st Feb.
+          link_text: Sec 2 Parent Engagement Session Slides
+          link_url: https://punggolsec.moe.edu.sg/sec-2-parents-engagement-slides/
 ---
