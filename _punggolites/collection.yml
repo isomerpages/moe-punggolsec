@@ -2,6 +2,7 @@ collections:
   punggolites:
     output: true
     order:
+      - Useful Links/Useful Links for Prospective Students.md
       - Useful Links/.keep
       - Useful Links/Announcements.md
       - Useful Links/Useful Links for Students.md
