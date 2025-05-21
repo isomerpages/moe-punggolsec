@@ -17,7 +17,7 @@ third_nav_title: Useful Links
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.punggolsec.moe.edu.sg/sec-2-subject-combination/" rel="noopener nofollow" target="_blank">Subject Combination</a></strong>
+<p><strong><a href="https://www.punggolsec.moe.edu.sg/sec-2-subject-combination/" rel="noopener nofollow" target="_blank">Sec 2 Subject Combination</a></strong>
 </p>
 </li>
 </ul>
