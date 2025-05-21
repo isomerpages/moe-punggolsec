@@ -24,6 +24,7 @@ sections:
       description: We develop adaptable students who confidently navigate change and
         succeed in diverse environments.
       image: /images/IMG_0080__3_.jpg
+      alt: Adaptable Punggolites
   - infopic:
       title: Future-Ready
       id: infopic
