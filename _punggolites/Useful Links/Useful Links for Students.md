@@ -20,6 +20,7 @@ third_nav_title: Useful Links
 </p>
 </li>
 </ul>
+<hr>
 <h4><strong>Administration</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
