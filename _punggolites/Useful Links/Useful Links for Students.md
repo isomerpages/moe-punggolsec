@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Links
 ---
-<p><strong><u>Academic</u></strong>
-</p>
+<h4><strong>Academic</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a></strong>
@@ -21,8 +20,7 @@ third_nav_title: Useful Links
 </p>
 </li>
 </ul>
-<p><strong><u>Administration</u></strong>
-</p>
+<h4><strong>Administration</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.punggolsec.moe.edu.sg/for-students/timetable/" rel="noopener nofollow" target="_blank">Timetable</a></strong>
@@ -45,4 +43,5 @@ third_nav_title: Useful Links
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
