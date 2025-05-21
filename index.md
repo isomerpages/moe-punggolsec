@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/White_and_Blue_Geometric_Modern_School_Admission_Banner.jpg
+      background: /images/White_and_Blue_Geometric_Modern_School_Admission_Banner__2_.jpg
       title: Punggol Secondary School
       variant: image
       subtitle: Achievers with Character
