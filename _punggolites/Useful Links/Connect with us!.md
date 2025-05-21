@@ -14,9 +14,9 @@ third_nav_title: Useful Links
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Connect with us on Instagram!</div>
-<div class="isomer-card-description">Follow us for the latest updates, student highlights, and a behind-the-scenes
-look at life in our school community.</div>
+<div class="isomer-card-title">Follow us on Instagram!</div>
+<div class="isomer-card-description">For the latest updates, upcoming events, student highlights, and a behind-the-scenes
+look at life in our school community, follow us on Instagram today!</div>
 <div class="isomer-card-link">Instagram Page</div>
 </div>
 </a>
