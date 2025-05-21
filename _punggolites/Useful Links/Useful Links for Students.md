@@ -32,10 +32,6 @@ third_nav_title: Useful Links
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Purchase of Uniforms</a></strong>
-</p>
-</li>
-<li>
 <p><strong><a href="https://form.gov.sg/5e659fdb6bbaaf0011251cc9" rel="noopener noreferrer nofollow" target="_blank">Password Reset (MIMS/ Icon/ PLD/ SLS)</a></strong>
 </p>
 </li>
