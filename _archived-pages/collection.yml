@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Application Forms for Sec 4NA.md
       - Purchase of uniform.md
       - School Canteen Advertisement.md
       - terms-of-use.md
