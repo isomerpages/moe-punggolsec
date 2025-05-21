@@ -2,5 +2,6 @@ collections:
   archived-pages:
     output: true
     order:
+      - privacy.md
       - Student Leaders.md
       - Rental of Lockers (FAQs).md
