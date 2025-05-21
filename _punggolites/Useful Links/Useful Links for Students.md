@@ -12,7 +12,7 @@ third_nav_title: Useful Links
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.punggolsec.moe.edu.sg/useful-links/useful-links-for-students/assessment-matters/" rel="noopener nofollow" target="_blank">Assessment Matters</a></strong>
+<p><strong><a href="https://www.punggolsec.moe.edu.sg/punggolites/useful-links/useful-links-for-students/assessment-matters/" rel="noopener nofollow" target="_blank">Assessment Matters</a></strong>
 </p>
 </li>
 <li>
