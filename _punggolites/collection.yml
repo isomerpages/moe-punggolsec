@@ -2,7 +2,7 @@ collections:
   punggolites:
     output: true
     order:
-      - Useful Links for Students.md
       - Direct School Admission (DSA) 2025.md
       - Timetable.md
       - Assessment Matter.md
+      - Useful Links for Students.md
