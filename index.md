@@ -49,16 +49,4 @@ sections:
             on the link below to join the school.
           link_text: Direct School Admission 2025
           link_url: /direct-school-admission-dsa-2025/
-        - title: Semester 1 Class Timetable 2025
-          date: 31 December 2024
-          announcement: Dear students, welcome back to school! Click on the link below for
-            your class timetable.
-          link_text: Semester 1 Class Timetable 2025
-          link_url: /for-students/timetable/
-        - title: Sec 2 Parent Engagement Slides
-          date: 28 February 2025
-          announcement: Dear Parents,  here are the slides from the Sec 2 Parent
-            Engagement Session held on Friday 21st Feb.
-          link_text: Sec 2 Parent Engagement Session Slides
-          link_url: https://punggolsec.moe.edu.sg/sec-2-parents-engagement-slides/
 ---
