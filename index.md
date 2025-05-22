@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PSS_Website_Banner_2025.jpg
+      background: /images/PSS_Website_Banner__1_.jpg
       title: Punggol Secondary School
       variant: image
       subtitle: Achievers with Character
