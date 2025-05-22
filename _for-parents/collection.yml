@@ -2,9 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - Sec 2 Parents Engagement Slides.md
       - Forms.md
       - Parents Gateway.md
+      - Sec 2 Parents Engagement Slides.md
       - Parent Support Group.md
       - Positive Parenting Programme.md
-      - Parenting Resources by MOE.md

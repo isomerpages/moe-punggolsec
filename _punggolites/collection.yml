@@ -2,8 +2,8 @@ collections:
   punggolites:
     output: true
     order:
+      - Direct School Admission (DSA) 2025.md
+      - Timetable.md
+      - Assessment Matter.md
       - Useful Links/.keep
       - Useful Links/For Students.md
-      - Useful Links/Direct School Admission (DSA) 2025.md
-      - Useful Links/Connect with us!.md
-      - Release of O Levels Results 2025.md
