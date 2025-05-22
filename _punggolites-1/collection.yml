@@ -2,5 +2,4 @@ collections:
   punggolites-1:
     output: true
     order:
-      - Assessment Matter.md
       - Useful Links for Students.md
