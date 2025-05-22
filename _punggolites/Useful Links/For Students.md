@@ -28,7 +28,7 @@ third_nav_title: Useful Links
 </p>
 </li>
 <li>
-<p><strong><a href="https://punggolsec.moe.edu.sg/punggolites/rent-a-locker" rel="noopener noreferrer nofollow" target="_blank">Rent a Locker</a></strong>
+<p><strong><a href="https://punggolsec.moe.edu.sg/punggolites/useful-links/useful-links-for-students/rent-a-locker/" rel="noopener noreferrer nofollow" target="_blank">Rent a Locker</a></strong>
 </p>
 </li>
 <li>
