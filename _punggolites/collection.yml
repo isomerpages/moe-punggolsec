@@ -2,4 +2,5 @@ collections:
   punggolites:
     output: true
     order:
+      - Timetable.md
       - Direct School Admission (DSA) 2025.md
