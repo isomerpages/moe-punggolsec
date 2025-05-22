@@ -2,6 +2,5 @@ collections:
   punggolites-1:
     output: true
     order:
-      - Timetable.md
       - Assessment Matter.md
       - Useful Links for Students.md
