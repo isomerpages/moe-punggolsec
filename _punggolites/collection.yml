@@ -1,4 +1,5 @@
 collections:
   punggolites:
     output: true
-    order: []
+    order:
+      - Direct School Admission (DSA) 2025.md
