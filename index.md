@@ -12,7 +12,7 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: Direct School Admission 2025
+        - title: Direct School Admission (DSA) 2025
           description: Click here to find out more!
           url: https://www.punggolsec.moe.edu.sg/direct-school-admission-dsa-2025/
   - infopic:
