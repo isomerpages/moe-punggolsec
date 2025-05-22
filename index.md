@@ -11,6 +11,34 @@ sections:
       title: Punggol Secondary School
       variant: image
       subtitle: Achievers with Character
+  - infopic:
+      title: Self-directed
+      id: infopic
+      description: We nurture self-directed learners who take ownership of their
+        growth with curiosity, initiative, and resilience.
+      image: /images/IMG_0008__3_.jpg
+      alt: Image alt text
+  - infopic:
+      title: Adaptable
+      id: infopic
+      description: We develop adaptable students who confidently navigate change and
+        succeed in diverse environments.
+      image: /images/IMG_0080__3_.jpg
+      alt: Adaptable Punggolites
+  - infopic:
+      title: Future-Ready
+      id: infopic
+      description: We empower future-ready students with the skills, mindset, and
+        values to thrive in a changing world.
+      image: /images/IMG_0334__3_.jpg
+      alt: Image alt text
+  - infopic:
+      title: Active Contributor
+      id: infopic
+      description: We cultivate active contributors who engage meaningfully with their
+        communities and make a positive impact.
+      image: /images/IMG_0319__3_.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
