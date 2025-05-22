@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Secondary 3.md
       - Secondary 2.md
       - Secondary 1.md
       - Overview MOE Sexuality Education.md
