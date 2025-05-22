@@ -2,7 +2,6 @@ collections:
   the-pss-experience:
     output: true
     order:
-      - MOE Sexuality Education/.keep
       - Academic Subjects/.keep
       - Academic Subjects/English Language and Literature.md
       - Academic Subjects/Mathematics.md
