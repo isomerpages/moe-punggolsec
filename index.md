@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Direct School Admission 2025
           description: Click here to find out more!
-          url: ""
+          url: https://www.punggolsec.moe.edu.sg/direct-school-admission-dsa-2025/
   - infopic:
       title: Self-directed
       id: infopic
