@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Overview MOE Sexuality Education.md
       - Release of O Levels Results 2025.md
       - Application Forms for Sec 4NA.md
       - Purchase of uniform.md
