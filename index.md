@@ -31,7 +31,7 @@ sections:
         succeed in diverse environments.
       image: /images/IMG_0080__3_.jpg
       alt: Adaptable Punggolites
-      button: our CCAs
+      button: our Co-curricular activities
       url: https://punggolsec.moe.edu.sg/the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies/art-club/
   - infopic:
       title: Future-Ready
