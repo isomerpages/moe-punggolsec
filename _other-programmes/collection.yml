@@ -1,5 +1,5 @@
 collections:
-  signature-programmes:
+  other-programmes:
     output: true
     order:
       - Aesthetics Programme.md
