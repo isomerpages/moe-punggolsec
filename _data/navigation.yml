@@ -3,7 +3,7 @@ links:
   - title: Our School
     collection: our-school
   - title: The PSS Experience
-    url: /the-pss-learning-experience/character-and-citizenship-education
+    url: /the-pss-learning-experience/academic-subjects/english-language-n-literature/
     sublinks:
       - title: Academic Subjects
         url: /the-pss-learning-experience/academic-subjects/english-language-n-literature
@@ -11,11 +11,22 @@ links:
         url: /the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies/art-club/
       - title: CCE
         url: /the-pss-learning-experience/character-and-citizenship-education/
-      - title: Signature Programmes
+      - title: Applied Learning Programme
         url: /signature-programmes/applied-learning-programme-in-environment-education/
-      - title: Aesthetics Programme
-        url: /the-pss-learning-experience/aesthetics-programme
+      - title: Learning for Life Programme
+        url: /signature-programmes/learning-for-life-programme-in-community-and-youth-leadership/
+      - title: Other programmes
+        url: /other-programmes/talent-development-programme/
   - title: Punggolites
-    collection: punggolites
+    url: /permalink
+    sublinks:
+      - title: Direct School Admission 2025
+        url: /direct-school-admission-dsa-2025/
+      - title: Timetable
+        url: /punggolites/timetable/
+      - title: Assessment Matters
+        url: /punggolites/assessment-matters/
+      - title: Useful Links
+        url: /for-students/useful-links/
   - title: Parents and Partners
     collection: for-parents
