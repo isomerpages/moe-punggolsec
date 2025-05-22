@@ -22,7 +22,7 @@ sections:
         growth with curiosity, initiative, and resilience.
       image: /images/IMG_0008__3_.jpg
       alt: Image alt text
-      button: Find out more about our academic subjects
+      button: our academic subjects
       url: https://punggolsec.moe.edu.sg/the-pss-learning-experience/academic-subjects/english-language-n-literature/
   - infopic:
       title: Adaptable
@@ -31,7 +31,7 @@ sections:
         succeed in diverse environments.
       image: /images/IMG_0080__3_.jpg
       alt: Adaptable Punggolites
-      button: find out more about our CCAs
+      button: our CCAs
       url: https://punggolsec.moe.edu.sg/the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies/art-club/
   - infopic:
       title: Future-Ready
@@ -40,6 +40,8 @@ sections:
         values to thrive in a changing world.
       image: /images/IMG_0334__3_.jpg
       alt: Image alt text
+      url: https://www.punggolsec.moe.edu.sg/signature-programmes/applied-learning-programme-in-environment-education/
+      button: Applied Learning Programme
   - infopic:
       title: Active Contributor
       id: infopic
@@ -47,4 +49,6 @@ sections:
         communities and make a positive impact.
       image: /images/IMG_0319__3_.jpg
       alt: Image alt text
+      button: Learning for Life Programme
+      url: https://punggolsec.moe.edu.sg/signature-programmes/learning-for-life-programme-in-community-and-youth-leadership/
 ---
