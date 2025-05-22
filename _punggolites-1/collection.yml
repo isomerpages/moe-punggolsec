@@ -1,5 +1,4 @@
 collections:
   punggolites-1:
     output: true
-    order:
-      - Useful Links for Students.md
+    order: []
