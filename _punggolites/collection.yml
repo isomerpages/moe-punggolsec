@@ -2,5 +2,6 @@ collections:
   punggolites:
     output: true
     order:
+      - Assessment Matter.md
       - Timetable.md
       - Direct School Admission (DSA) 2025.md
