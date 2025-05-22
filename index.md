@@ -7,10 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Punggol_Secondary_School__1366_x_500_px___6_.png
+      background: /images/PSS_Website_Banner_2025.jpg
       title: Punggol Secondary School
       variant: image
       subtitle: Achievers with Character
+      key_highlights:
+        - title: Direct School Admission 2025
+          description: Click here to find out more!
+          url: ""
   - infopic:
       title: Self-directed
       id: infopic
@@ -18,6 +22,8 @@ sections:
         growth with curiosity, initiative, and resilience.
       image: /images/IMG_0008__3_.jpg
       alt: Image alt text
+      button: Find out more about our academic subjects
+      url: https://punggolsec.moe.edu.sg/the-pss-learning-experience/academic-subjects/english-language-n-literature/
   - infopic:
       title: Adaptable
       id: infopic
@@ -25,6 +31,8 @@ sections:
         succeed in diverse environments.
       image: /images/IMG_0080__3_.jpg
       alt: Adaptable Punggolites
+      button: find out more about our CCAs
+      url: https://punggolsec.moe.edu.sg/the-pss-learning-experience/co-curricular-activities-ccas/clubs-and-societies/art-club/
   - infopic:
       title: Future-Ready
       id: infopic
@@ -39,14 +47,4 @@ sections:
         communities and make a positive impact.
       image: /images/IMG_0319__3_.jpg
       alt: Image alt text
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Direct School Admission (DSA) 2025
-          date: 02 May 2025
-          announcement: Dear P6s, we invite you to join our school through 2025 DSA. Click
-            on the link below to join the school.
-          link_text: Direct School Admission 2025
-          link_url: /direct-school-admission-dsa-2025/
 ---
