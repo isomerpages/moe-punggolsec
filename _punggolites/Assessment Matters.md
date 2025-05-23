@@ -1,8 +1,8 @@
 ---
 title: Assessment Matters
-permalink: /useful-links/for-students/assessment-matters/
-description: ""
+permalink: /punggolites/assessment-matters/
 variant: tiptap
+description: ""
 ---
 <p><strong>Dear Students</strong>,</p>
 <p>Please refer to your respective assessment timetable:</p>
@@ -25,7 +25,7 @@ variant: tiptap
 <p>Secondary 3</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Secondary 4 &amp; 5</p>
+<p>Secondary 4&amp;5</p>
 </th>
 </tr>
 <tr>
@@ -42,34 +42,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_4___WA1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec4/5 WA1 Letter</a>
+<p><a href="/files/2025_Sec_4___WA1_Schedule.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 WA1 Letter</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Secondary 4 Normal Academic &amp; Normal Technical Preliminary Examination Timetable</strong>
 </p>
-<p>Please refer to this link for the 4NA and 4NT Prelims Timetable: <a href="https://go.gov.sg/pss4nprelims" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pss4nprelims</a>
+<p>Please refer to this link for the 4NA and 4NT Prelims Timetable:</p>
+<p><a href="https://go.gov.sg/pss4nprelims" rel="noopener nofollow" target="_blank">https://go.gov.sg/pss4nprelims</a>
 </p>
 <p><strong>Secondary 4 Express/5 Normal Academic Preliminary Examination Timetable</strong>
 </p>
-<p>Please refer to this link for the 4E5N Prelims Timetable: <a href="https://go.gov.sg/pss4e5nprelims" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pss4e5nprelims</a>
+<p>Please refer to this link for the 4E5N Prelims Timetable:</p>
+<p><a href="https://go.gov.sg/pss4e5nprelims" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/pss4e5nprelims</u></a>
 </p>
-<p></p>
-<p></p>

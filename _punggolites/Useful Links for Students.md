@@ -1,9 +1,8 @@
 ---
-title: For Students
-permalink: /for-students/useful-links/
+title: Useful Links for Students
+permalink: /punggolites/useful-links-for-students/
 variant: tiptap
 description: ""
-third_nav_title: Useful Links
 ---
 <h4><strong>Academic</strong></h4>
 <ul data-tight="true" class="tight">
