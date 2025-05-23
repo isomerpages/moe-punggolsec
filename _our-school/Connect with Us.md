@@ -16,7 +16,7 @@ variant: tiptap
 <br>Closed on weekends and public holidays.</p>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="punggol_ss@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/email_icon_2048x2048_iejnvv9u.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Email us</div><div class="isomer-card-description">Click here to contact us via email for any questions or support.</div><div class="isomer-card-link">Our Email Address</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:punggol_ss@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/email_icon_2048x2048_iejnvv9u.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Email us</div><div class="isomer-card-description">Click here to contact us via email for any questions or support.</div><div class="isomer-card-link">punggol_ss@moe.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ask.gov.sg/punggolsec" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
