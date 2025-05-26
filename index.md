@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PSS_Website_Banner__1_.jpg
+      background: /images/White_and_Blue_Geometric_Modern_School_Admission_Banner__3_.jpg
       title: Punggol Secondary School
       variant: image
       subtitle: Achievers with Character
@@ -15,6 +15,9 @@ sections:
         - title: Direct School Admission (DSA) 2025
           description: Click here to find out more!
           url: https://www.punggolsec.moe.edu.sg/direct-school-admission-dsa-2025/
+        - title: Follow us on Instagram!
+          description: For our updates and events
+          url: https://www.instagram.com/punggol_ss
   - infopic:
       title: Self-directed
       id: infopic
