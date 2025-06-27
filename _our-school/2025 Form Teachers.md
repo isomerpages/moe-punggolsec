@@ -273,7 +273,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p></p>
+<p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Poh Keng (James)</p>
