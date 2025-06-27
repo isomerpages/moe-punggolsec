@@ -18,6 +18,9 @@ sections:
         - title: Follow us on Instagram!
           description: For our updates and events
           url: https://www.instagram.com/punggol_ss
+        - title: Sem 2 Timetable
+          description: Link for Sem 2 Timetable
+          url: https://www.punggolsec.moe.edu.sg/punggolites/timetable/
   - infopic:
       title: Self-directed
       id: infopic

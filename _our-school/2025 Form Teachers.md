@@ -264,15 +264,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thin Jie Hao Adriel</p>
+<p>Ms Kho Puay Hwee &nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thin_jie_hao_adriel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thin_jie_hao_adriel@schools.gov.sg</u></a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kho_puay_hwee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>2C</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Poh Keng (James)</p>
@@ -336,7 +337,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -352,6 +353,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_xinghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_xinghui@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm R Sithaletchmi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">R_Sithaletchmi_B@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -455,7 +465,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,6 +473,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yong_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_yong_kiong@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Wenting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_wenting_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -661,7 +680,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -669,14 +688,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_kim_whye_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_kim_whye_kelvin@schools.gov.sg</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rina Kawamoto</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rina_kawamoto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rina_kawamoto@schools.gov.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
