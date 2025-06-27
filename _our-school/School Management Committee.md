@@ -392,159 +392,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Mother Tongue Languages (Tamil Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yogeswari Ponnambalam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yogeswari_ponnambalam@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Master, Lead &amp; Senior Teachers</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email address</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yusri Ahmat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yusri_ahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yusri_ahmat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lawrence Tang Kok Onn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lawrence_tang_kok_onn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lawrence_tang_kok_onn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Kim Whye Kelvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://lee_kim_whye_kelvin@schools.gov.sg%20/" rel="noopener noreferrer nofollow" target="_blank">lee_kim_whye_kelvin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Quek Jee Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_jee_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_jee_wei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Low Tuck Chuen Stephen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_tuck_chuen_stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_tuck_chuen_stephen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Design &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Li Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_li_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_yen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST English Language &amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Anju Babu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anju_babu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anju_babu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST History</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Foo Yong Shiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_yong_shiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yong_shiong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ho Wei Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_wei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Mother Tongue Languages (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Shu Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Shu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_yi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Mother Tongue Languages (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Julaiha Haron</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:julaiha_haron@schools.gov.sg" rel="noopener nofollow" target="_blank">julaiha_haron@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
