@@ -65,6 +65,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Chee Kiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:punggol_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggol_ss@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
