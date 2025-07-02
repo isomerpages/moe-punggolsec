@@ -168,7 +168,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,6 +184,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sithravelu_sathiyakala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sithravelu_sathiyakala@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ramachandran Vellaisamy A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ramachandran_vellaisamy_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
