@@ -240,23 +240,31 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2A</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Xin Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_xin_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_xin_wei@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kelly Foo Kai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kelly_foo_kai_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Wardi Endra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wardi_endra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wardi_endra@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Xin Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_xin_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_xin_wei@schools.gov.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -393,22 +401,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2H</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms See Ko Li Jessica</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:see_ko_li_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>see_ko_li_jessica@schools.gov.sg</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tang Chong Woei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_chong_woei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tang_chong_woei@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Ms Jill Yong Li Wei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">jill_yong_li_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Seet Pek Hoon Gloria Maria</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gloria_maria_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_maria_seet@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
