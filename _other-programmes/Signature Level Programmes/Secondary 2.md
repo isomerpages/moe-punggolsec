@@ -6,8 +6,7 @@ third_nav_title: Signature Level Programmes
 variant: tiptap
 ---
 <h2>Taking Responsibility for Self, Peers and the Community</h2>
-<p><strong>2024 Year Head 2: Mr Ong Kai Wei</strong>
-<br><strong>2024 Assistant Year Head 2: Mr Royce Teo Jian Xing</strong>
+<p><strong>2025 Year Head 2: Ms Srividya Vijayakumar</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Term_2_Photo_1.jpg">
