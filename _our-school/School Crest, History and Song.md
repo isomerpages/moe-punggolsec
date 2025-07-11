@@ -2,8 +2,8 @@
 title: School Crest, History and Song
 permalink: /our-school/school-crest-history-and-song/
 description: ""
+variant: markdown
 ---
-![](/images/Our%20School/subbanner.jpg)
 
 ## School Crest, History and Song
 

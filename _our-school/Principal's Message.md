@@ -4,7 +4,6 @@ permalink: /our-school/principals-message/
 description: ""
 variant: markdown
 ---
-![](/images/Our%20School/subbanner.jpg)
 
 ## Principal's Message
 

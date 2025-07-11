@@ -4,9 +4,6 @@ permalink: /our-school/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20School/subbanner.jpg">
-</div>
 <h2>School Management Committee</h2>
 <h3>Key Personnel</h3>
 <table style="minWidth: 75px">
