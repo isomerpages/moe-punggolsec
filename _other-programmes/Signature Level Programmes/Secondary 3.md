@@ -6,7 +6,7 @@ third_nav_title: Signature Level Programmes
 variant: tiptap
 ---
 <h2>Serving Others, Striving Forward</h2>
-<p><strong>2024 Year Head 3: Mr Zulkefli Abdol Shukor</strong>
+<p><strong>2025 Year Head 3: Mr Ong Kai Wei</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_First_Days_of_school_Bonding.jpg">
