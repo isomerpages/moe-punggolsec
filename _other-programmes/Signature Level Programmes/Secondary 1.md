@@ -6,10 +6,8 @@ third_nav_title: Signature Level Programmes
 variant: tiptap
 ---
 <h2>Discovering &amp; Leading Myself</h2>
-<p><strong>2024 Year Head 1: Ms Srividya Vijayakumar</strong>
-<br><strong>2024 Assistant Year Head 1: Ms Elaine Lui</strong>
+<p><strong>2025 Year Head: Ms Srividya Vijayakumar</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_Students_learning_about_urban_farming_at_Kok_Fah_farm_.jpg">
 </div>
