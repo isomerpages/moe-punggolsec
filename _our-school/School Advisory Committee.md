@@ -4,8 +4,6 @@ permalink: /our-school/school-advisory-committtee/
 description: ""
 variant: markdown
 ---
-![](/images/Our%20School/subbanner.jpg)
-
 ## School Advisory Committtee
 
 <table>
