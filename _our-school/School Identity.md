@@ -4,7 +4,6 @@ permalink: /our-school/school-identity/
 description: ""
 variant: markdown
 ---
-![](/images/Our%20School/subbanner.jpg)
 
 ## School Identity
 
