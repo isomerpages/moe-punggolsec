@@ -4,9 +4,6 @@ permalink: /our-school/2025-form-teachers/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20School/subbanner.jpg">
-</div>
 <h2>2025 Form Teachers</h2>
 <p><strong>Secondary 1</strong>
 </p>
