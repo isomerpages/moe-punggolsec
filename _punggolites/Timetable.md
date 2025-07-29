@@ -14,4 +14,5 @@ accordingly.</p>
 2 timetable from T3W5</p>
 <p><a href="/files/2025_Timetable_for_each_class_Sem_2__from_T3W5_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Class Timetable (from T3W5)</a>
 </p>
-<p></p>
+<p>(A&nbsp;<a href="https://www.punggolsec.moe.edu.sg/files/Useful%20Links/For%20Students/Timetable%20Abbreviations%202021%20Sem%202.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>guide</u></a>&nbsp;explaining
+the abbreviations used.)</p>
