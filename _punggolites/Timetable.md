@@ -15,6 +15,3 @@ accordingly.</p>
 <p><a href="/files/2025_Timetable_for_each_class_Sem_2__from_T3W5_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Class Timetable (from T3W5)</a>
 </p>
 <p></p>
-<p></p>
-<p><a href="/files/2025_Timetable_for_each_class_Sem_2__from_T3W5_.pdf" rel="noopener nofollow" target="_blank">2025 Timetable for each class Sem 2 from T3W5</a>
-</p>
