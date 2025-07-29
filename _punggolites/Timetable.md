@@ -10,9 +10,11 @@ students will have an odd and even week timetable.</p>
 accordingly.</p>
 <p></p>
 <h3><strong>Class Timetable 2025</strong></h3>
-<p>Please refer to&nbsp;your class timetable (Updated 27 June):&nbsp;Semester
-2 timetable</p>
-<p><a href="/files/2025_Sem_2_Class_Timetable_27_June.pdf" rel="noopener nofollow" target="_blank">Sem 2 Timetable (Updated 27th June)</a>
+<p>Please refer to&nbsp;your class timetable (Updated 25th July):&nbsp;Semester
+2 timetable from T3W5</p>
+<p><a href="/files/2025_Timetable_for_each_class_Sem_2__from_T3W5_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Class Timetable (from T3W5)</a>
 </p>
-<p>(A&nbsp;<a href="/files/Useful%20Links/For%20Students/Timetable%20Abbreviations%202021%20Sem%202.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;explaining
-the abbreviations used.)</p>
+<p></p>
+<p></p>
+<p><a href="/files/2025_Timetable_for_each_class_Sem_2__from_T3W5_.pdf" rel="noopener nofollow" target="_blank">2025 Timetable for each class Sem 2 from T3W5</a>
+</p>
