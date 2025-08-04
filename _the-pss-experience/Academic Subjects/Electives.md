@@ -6,10 +6,11 @@ variant: tiptap
 third_nav_title: Academic Subjects
 ---
 <h2>Electives</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Electives/A%20student%20participating%20in%20an%20elective%20module%20activity.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EBS_students_on_their_VR_experience__6.jpg">
 </div>
-<p><strong><em>A student participating in a supervised cooking activity at a cafe</em></strong>
+<p><strong><em>EBS students on their VR experience</em></strong>
 </p>
 <p>Computer Applications (CPA), Elements of Business (EBS), Mobile Robotics
 (MR) and Principles of Accounts (POA) advocate for critical thinking as
@@ -21,16 +22,17 @@ and non-accounting information to help businesses make decisions.</p>
 learning connected to real-life applications. The EBS Unit explores the
 use of Virtual Reality, it increases student engagement and encourages
 critical thinking of the content and concepts learned.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Electives/Students%20serving%20mocktails%20and%20explaining%20the%20different%20types%20of%20cultery%20to%20their%20peers.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MR_students_discussing_their_planning_for_the_building_of_robot_4.jpg">
 </div>
-<p><strong><em>Students serving mocktails and explaining the different types of cutlery to their peers</em></strong>
+<p><strong><em>MR students discussing their planning for the building of robot</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Electives/Students%20engage%20preschool%20children.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MR_Competitio1.jpg">
 </div>
-<p><strong><em>Students engaging preschool children in a fun lesson</em></strong>
+<p><strong><em>Students taking part in the MR competition</em></strong>
 </p>
 <p></p>
 <p></p>
