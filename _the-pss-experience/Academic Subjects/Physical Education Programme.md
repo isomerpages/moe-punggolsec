@@ -6,10 +6,11 @@ variant: tiptap
 third_nav_title: Academic Subjects
 ---
 <h2>Physical Education Programme</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Physical%20Education%20Programme/A%20good%20start%20is%20as%20important%20as%20being%20consistent.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Games Carnival- Building friendships through competition" src="/images/Games_Carnival___Building_Friendships_through_competition.jpg">
 </div>
-<p><strong><em> Students enthusiastically starting the cross-country</em></strong>
+<p><strong><em>Games Carnival- Building friendships through competition</em></strong>
 </p>
 <p>The Physical Education Department, through the learning of sports, games
 and outdoor learning, provides opportunities for every Punggolite to acquire
@@ -21,16 +22,20 @@ Games Carnival Recreational Competitions provide ample opportunities for
 students to develop self-management, social awareness and, while practicing
 communication and collaborative skills when working in groups. These are
 essential skills to prepare students for their future beyond school.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Physical%20Education%20Programme/Remove_Starting%20Strong.jpg">
-</div>
-<p><strong><em> Participants gearing to start the 400 metre event</em></strong>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Academic%20Subjects/Physical%20Education%20Programme/Reaching%20high%20and%20up.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nature_appreciation_and_hike.jpg">
 </div>
-<p><strong><em> Students participating in an inter-class frisbee competition</em></strong>
+<p><strong><em>Nature appreciation and hike</em></strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Having_fun_safely_during_the_Cycling_Expedition.jpg">
+</div>
+<p><strong><em>Having fun safely during a cycling expedition</em></strong>
 </p>
 <p></p>
 <p></p>
