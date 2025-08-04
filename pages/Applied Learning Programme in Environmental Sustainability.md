@@ -4,13 +4,12 @@ permalink: /signature-programmes/applied-learning-programme-in-environment-educa
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/ALP%20Objectives%20Website.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02__Students_exploring_block_programming_for_Smart_Hydroponic_System.jpg">
 </div>
-<p><strong><em>Learning objectives of ALP</em></strong>
+<p><strong><em>Students exploring block programming for Smart Hydroponic System</em></strong>
 </p>
-<p></p>
-<p></p>
 <p>Environmental Sustainability is our school’s signature programme to promote
 adaptive thinking.</p>
 <p>Our school partners with Science Centre to design lesson packages to teach
