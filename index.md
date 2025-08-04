@@ -21,6 +21,9 @@ sections:
         - title: Sem 2 Timetable
           description: Link for Sem 2 Timetable
           url: https://www.punggolsec.moe.edu.sg/punggolites/timetable/
+        - title: Launch of SPARK studio
+          description: Click here for more info!
+          url: https://sites.google.com/moe.edu.sg/pss-dnt-sparkstudio/home
   - infopic:
       title: Self-directed
       id: infopic
