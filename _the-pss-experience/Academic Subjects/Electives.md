@@ -10,7 +10,7 @@ third_nav_title: Academic Subjects
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EBS_students_on_their_VR_experience__6.jpg">
 </div>
-<p><strong><em>EBS students on their VR experience </em></strong>
+<p><strong><em>EBS students on their VR experience</em></strong>
 </p>
 <p>Computer Applications (CPA), Elements of Business (EBS), Mobile Robotics
 (MR) and Principles of Accounts (POA) advocate for critical thinking as
