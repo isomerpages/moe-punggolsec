@@ -6,6 +6,8 @@ description: ""
 ---
 <p><strong>Dear Students</strong>,</p>
 <p>Please refer to your respective assessment timetable:</p>
+<p><strong><u>Weighted Assessment 3</u></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -40,13 +42,56 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 4 Normal Academic &amp; Normal Technical Preliminary Examination Timetable</strong>
+<p><strong><u>EOY Examination</u></strong>
 </p>
-<p>Please refer to this link for the 4NA and 4NT Prelims Timetable:</p>
-<p><a href="https://go.gov.sg/pss4nprelims" rel="noopener nofollow" target="_blank">https://go.gov.sg/pss4nprelims</a>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 4NA/NT Prelims</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec. 4 Express Prelims</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/sec1eye" rel="noopener nofollow" target="_blank">Sec 1 End-of-Year Examination</a>
 </p>
-<p><strong>Secondary 4 Express/5 Normal Academic Preliminary Examination Timetable</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/sec2eye" rel="noopener nofollow" target="_blank">Sec 2 End-of-Year Examination</a>
 </p>
-<p>Please refer to this link for the 4E5N Prelims Timetable:</p>
-<p><a href="https://go.gov.sg/pss4e5nprelims" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/pss4e5nprelims</u></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/sec3eye" rel="noopener nofollow" target="_blank">Sec 3 End-of-Year Examination</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pss4nprelims" rel="noopener nofollow" target="_blank">Sec 4NANT Preliminary examination</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pss4e5nprelims" rel="noopener nofollow" target="_blank">Sec 4 Express Preliminary Examination</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
