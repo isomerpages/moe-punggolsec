@@ -24,12 +24,12 @@ communication and collaborative skills when working in groups. These are
 essential skills to prepare students for their future beyond school.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nature_appreciation_and_hike.jpg">
-</div>
-<p><strong><em>Nature appreciation and hike</em></strong>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Annual Cross Country- Girls Start" src="/images/Annual_Cross_Country___Girls_Start.jpg">
+</div>
+<p><strong><em>Annual Cross Country- Girls Start</em></strong>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
