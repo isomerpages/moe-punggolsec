@@ -12,18 +12,18 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: Direct School Admission (DSA) 2025
-          description: Click here to find out more!
-          url: https://www.punggolsec.moe.edu.sg/direct-school-admission-dsa-2025/
-        - title: Follow us on Instagram!
-          description: For our updates and events
-          url: https://www.instagram.com/punggol_ss
         - title: Sem 2 Timetable
           description: Link for Sem 2 Timetable
           url: https://www.punggolsec.moe.edu.sg/punggolites/timetable/
+        - title: END-YEAR-EXAMINATION (EYE) SCHEDULE
+          description: Link to examination schedule
+          url: https://www.punggolsec.moe.edu.sg/punggolites/assessment-matters/
         - title: Launch of SPARK studio
           description: Click here for more info!
           url: https://sites.google.com/moe.edu.sg/pss-dnt-sparkstudio/home
+        - title: Follow us on Instagram!
+          description: For our updates and events
+          url: https://www.instagram.com/punggol_ss
   - infopic:
       title: Self-directed
       id: infopic

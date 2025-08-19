@@ -42,7 +42,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong><u>EOY Examination</u></strong>
+<p><strong><u>End of Year (EYE) Examination</u></strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
