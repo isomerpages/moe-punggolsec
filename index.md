@@ -18,12 +18,12 @@ sections:
         - title: END-YEAR-EXAMINATION (EYE) SCHEDULE
           description: Link to examination schedule
           url: https://www.punggolsec.moe.edu.sg/punggolites/assessment-matters/
-        - title: Follow us on Instagram!
-          description: For our updates and events
-          url: https://www.instagram.com/punggol_ss
         - title: Launch of SPARK studio
           description: Click here for more info!
           url: https://sites.google.com/moe.edu.sg/pss-dnt-sparkstudio/home
+        - title: Follow us on Instagram!
+          description: For our updates and events
+          url: https://www.instagram.com/punggol_ss
   - infopic:
       title: Self-directed
       id: infopic
