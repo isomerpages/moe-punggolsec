@@ -12,9 +12,6 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: Sem 2 Timetable
-          description: Link for Sem 2 Timetable
-          url: https://www.punggolsec.moe.edu.sg/punggolites/timetable/
         - title: END-YEAR-EXAMINATION (EYE) SCHEDULE
           description: Link to examination schedule
           url: https://www.punggolsec.moe.edu.sg/punggolites/assessment-matters/
