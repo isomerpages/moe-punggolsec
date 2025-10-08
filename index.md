@@ -12,12 +12,12 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: Follow us on Instagram!
-          description: For our updates and events
-          url: https://www.instagram.com/punggol_ss
         - title: Registration for 2025 Open House
           description: Click here to register now
           url: https://go.gov.sg/2025-pss-oh
+        - title: Follow us on Instagram!
+          description: For our updates and events
+          url: https://www.instagram.com/punggol_ss
         - title: Canteen Stall Vendor Wanted
           description: Now Accepting Applications
           url: /parents-and-partners/canteen-advertisement
