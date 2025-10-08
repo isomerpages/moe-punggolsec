@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Canteen advertisement.md
       - Forms.md
       - Parents Gateway.md
       - Sec 2 Parents Engagement Slides.md
