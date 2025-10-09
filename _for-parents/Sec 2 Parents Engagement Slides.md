@@ -1,6 +1,6 @@
 ---
 title: Sec 2 Parents Engagement Slides
-permalink: /sec-2-parents-engagement-slides/
+permalink: /parents-and-partners/sec-2-parents-engagement-slides/
 variant: tiptap
 description: ""
 ---

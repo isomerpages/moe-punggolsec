@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /useful-links/for-parents/parent-support-group/
+permalink: /parents-and-partners/parent-support-group/
 description: ""
 variant: tiptap
 ---

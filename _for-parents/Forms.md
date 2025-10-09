@@ -1,6 +1,6 @@
 ---
 title: Forms
-permalink: /useful-links/for-parents/forms/
+permalink: /parents-and-partners/forms/
 description: ""
 variant: tiptap
 ---

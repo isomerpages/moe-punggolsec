@@ -1,6 +1,6 @@
 ---
 title: Positive Parenting Programme
-permalink: /useful-links/for-parents/positive-parenting-programme/
+permalink: /parents-and-partners/positive-parenting-programme/
 description: ""
 variant: tiptap
 ---
