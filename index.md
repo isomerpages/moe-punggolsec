@@ -18,7 +18,7 @@ sections:
         - title: Follow us on Instagram!
           description: For our updates and events
           url: https://www.instagram.com/punggol_ss
-        - title: Canteen Stall Vendor Wanted
+        - title: Join our school canteen team!
           description: Now Accepting Applications
           url: /parents-and-partners/canteen-advertisement
   - infopic:
