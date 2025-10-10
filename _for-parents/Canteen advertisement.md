@@ -47,7 +47,7 @@ Food Agency (SFA).</p>
 </ul>
 <p><strong>Application Procedure</strong>
 </p>
-<p><a href="https://www.westwoodpri.moe.edu.sg/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>&nbsp;must
+<p><a href="/files/Application_Form_for_School_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application form </a>must
 be completed and submitted to our school’s General Office with the following
 documents:</p>
 <ul data-tight="true" class="tight">
