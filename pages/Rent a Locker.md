@@ -108,9 +108,6 @@ or email to <a rel="noopener noreferrer nofollow" target="_blank">admin@rent-a-l
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <p><strong>Q: On the frontpage, after selecting the schools from the list and I get an error.</strong>
 </p>
 <p>A: This problem might arise when you accessing the website from a school
@@ -191,4 +188,8 @@ Name (3) Name of Institution (4) Contact Number</p>
 </p>
 <p>A: At the moment, no. eNETS is in the process of upgrading their servers.
 Hopefully, the migration will be completed by the end of the year.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
