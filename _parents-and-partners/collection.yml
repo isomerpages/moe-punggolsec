@@ -2,10 +2,10 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - Nominations for PAT and OYEA 2026.md
       - Forms.md
       - Parents Gateway.md
       - Sec 2 Parents Engagement Slides.md
       - Parent Support Group.md
       - Positive Parenting Programme.md
       - Canteen advertisement.md
+      - Nominations for PAT and OYEA 2026.md
