@@ -9,4 +9,11 @@ more about the President’s Award for Teachers (PAT) and the Outstanding
 Youth in Education Award (OYEA) below and submit your nominations for teachers
 who inspire and make a difference.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA.jpg">
+</div>
 <p></p>
