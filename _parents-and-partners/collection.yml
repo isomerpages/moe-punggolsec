@@ -1,5 +1,5 @@
 collections:
-  for-parents:
+  parents-and-partners:
     output: true
     order:
       - Forms.md
