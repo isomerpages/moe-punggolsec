@@ -1,6 +1,6 @@
 ---
-title: Book Lists (2025)
-permalink: /punggolites/book-lists-2025/
+title: Book Lists (2026)
+permalink: /punggolites/book-lists-2026/
 variant: tiptap
 description: ""
 ---
@@ -36,24 +36,23 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">All Levels</a>
-</p>
+<p>To be updated</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">All Levels</a>
+<p><a href="/files/Booklist_2026_PGS_S2.pdf" rel="noopener noreferrer nofollow" target="_blank">All Subject Levels</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3Exp_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
+<p><a href="/files/Sec_3Exp_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">All Subject Levels</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4Exp_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
+<p><a href="/files/Booklist_2026_PGS_S4E.pdf" rel="noopener nofollow" target="_blank">Express</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_5NA_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
+<p><a href="/files/Booklist_2026_PGS_S5NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 </tr>
@@ -65,11 +64,10 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3NA_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4NA_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
+<p><a href="/files/Booklist_2026_PGS_S4NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,11 +82,10 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3NT_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4NT_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical</a>
+<p><a href="/files/Booklist_2026_PGS_S4NT.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
