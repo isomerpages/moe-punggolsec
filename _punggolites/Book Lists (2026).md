@@ -48,7 +48,7 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_PGS_S4E.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
+<p><a href="/files/Booklist_2026_PGS_S4E.pdf" rel="noopener nofollow" target="_blank">Express</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,8 +67,7 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4NA_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academ</a>
-<a href="/files/Booklist_2026_PGS_S4NA.pdf" rel="noopener nofollow" target="_blank">ic</a>
+<p><a href="/files/Booklist_2026_PGS_S4NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
