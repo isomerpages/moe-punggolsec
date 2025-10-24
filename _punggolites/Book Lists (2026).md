@@ -52,8 +52,7 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_5NA_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Nor</a>
-<a href="/files/Booklist_2026_PGS_S5NA.pdf" rel="noopener nofollow" target="_blank">mal</a><a href="/files/Sec_5NA_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Academic</a>
+<p><a href="/files/Booklist_2026_PGS_S5NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 </tr>
@@ -87,8 +86,7 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4NT_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">No</a>
-<a href="/files/Booklist_2026_PGS_S4NT.pdf" rel="noopener nofollow" target="_blank">rmal</a><a href="/files/Sec_4NT_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Technical</a>
+<p><a href="/files/Booklist_2026_PGS_S4NT.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
