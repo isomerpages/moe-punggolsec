@@ -52,8 +52,6 @@ Food Agency (SFA).</p>
 </ul>
 <p><strong>Application Procedure</strong>
 </p>
-<p><strong>Application Procedure</strong>
-</p>
 <p><a href="/files/Application_Form_for_School_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application form </a>must
 be completed and submitted to our school’s General Office with the following
 documents:</p>
