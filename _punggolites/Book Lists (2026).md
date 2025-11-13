@@ -44,7 +44,7 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3Exp_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">All Subject Levels</a>
+<p><a href="/files/Booklist_2026_PGS_S3.pdf" rel="noopener nofollow" target="_blank">All Subject Levels</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
