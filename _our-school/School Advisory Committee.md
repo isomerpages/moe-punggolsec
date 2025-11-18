@@ -110,24 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wee Fong Chi
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Tee Kiang, Junius
@@ -140,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chiang Chuay Boey (Jesprine)</p>
@@ -151,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Chin Aik</p>
