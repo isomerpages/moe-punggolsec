@@ -12,15 +12,12 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: Registration for 2025 Open House
-          description: Click here to register now
-          url: https://go.gov.sg/2025-pss-oh
+        - title: Nomination for PAT and OYEA
+          description: Now open for submissions
+          url: https://www.punggolsec.moe.edu.sg/parents-and-partners/vote-for-pat-and-oyea-today/
         - title: Follow us on Instagram!
           description: For our updates and events
           url: https://www.instagram.com/punggol_ss
-        - title: Join our school canteen team!
-          description: Now Accepting Applications
-          url: /parents-and-partners/canteen-advertisement
   - infopic:
       title: Self-directed
       id: infopic
