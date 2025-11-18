@@ -12,7 +12,7 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: Nominate teachers for 2026 PAT and OYEA
+        - title: Nomination for PAT and OYEA
           description: Now open for submissions
           url: https://www.punggolsec.moe.edu.sg/parents-and-partners/vote-for-pat-and-oyea-today/
         - title: Follow us on Instagram!
