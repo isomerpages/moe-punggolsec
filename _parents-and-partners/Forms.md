@@ -27,7 +27,7 @@ office.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Useful%20Links/For%20Parents/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme Application Form</a>
+<p><a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme Application Form</a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ office.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">Application for Financial Assistance (e-form)</a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">Application for Financial Assistance (e-form)</a>
 </p>
 </td>
 </tr>
