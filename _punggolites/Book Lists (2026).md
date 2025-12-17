@@ -36,7 +36,8 @@ apply). Alternatively, you may pick them up at the school bookshop.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p><a href="/files/Booklist_2026_PGS_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">All Subject Levels</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist_2026_PGS_S2.pdf" rel="noopener noreferrer nofollow" target="_blank">All Subject Levels</a>
