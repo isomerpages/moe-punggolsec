@@ -2,7 +2,7 @@
 title: PSS Student Support Team
 permalink: /the-pss-learning-experience/character-and-citizenship-education/pss-student-support-team/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>PSS Student Support Team</h2>
 <p><strong>THE TEAM &amp; WHAT WE DO</strong>
@@ -71,6 +71,6 @@ where safety becomes a concern to the student, or law has been breached.</p>
 <p><strong>School Education and Career Guidance Counsellor</strong>
 </p>
 <p>ECG counsellor provides education and career guidance support to all students.</p>
-<p>Students may request for an appointment at https://go.gov.sg/pssecg</p>
-<p>Students can also email Ms Grace Champion at <a href="mailto:champion_grace@schools.gov.sg" rel="noopener nofollow" target="_blank">champion_grace@schools.gov.sg</a>
+<p>Students may request for an appointment at <a href="https://go.gov.sg/pssecg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pssecg</a>.</p>
+<p>Students can also email Mr Marcus Wong at <a href="mailto:champion_grace@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_kok_loong_marcus@moe.edu.sg</a>
 </p>
