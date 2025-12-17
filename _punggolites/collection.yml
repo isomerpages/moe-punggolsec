@@ -2,7 +2,6 @@ collections:
   punggolites:
     output: true
     order:
-      - Direct School Admission (DSA) 2025.md
       - Timetable.md
       - Book Lists (2026).md
       - Assessment Matters.md
