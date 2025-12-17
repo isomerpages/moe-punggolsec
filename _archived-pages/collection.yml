@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Direct School Admission (DSA) 2025.md
       - Parenting Resources by MOE.md
       - Secondary 5.md
       - Secondary 4.md
