@@ -32,7 +32,7 @@ links listed below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>
+<p><a href="https://go.gov.sg/nlevel-ecgparentresources" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +41,7 @@ links listed below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>http://go.gov.sg/nlevel-ecgparentresources</u></a>
+<p><a href="https://go.gov.sg/nlevel-ecgparentresources" rel="noopener noreferrer nofollow" target="_blank"><u>http://go.gov.sg/nlevel-ecgparentresources</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +50,7 @@ links listed below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>http://go.gov.sg/nlevel-selparentresources</u></a>
+<p><a href="https://go.gov.sg/nlevel-selparentresources" rel="noopener noreferrer nofollow" target="_blank"><u>http://go.gov.sg/nlevel-selparentresources</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
