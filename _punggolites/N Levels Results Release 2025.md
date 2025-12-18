@@ -75,7 +75,7 @@ links listed below.</p>
 their schools or make an ECG counselling appointment with the ECG Centre
 @ MOE from 11-26 December 2025 (Weekday: 9.00 am to 5.00 pm; Saturday &amp;
 Eve of Public Holidays: 9.00 am to 12.00 pm) through the appointment booking
-form below.</p>
+form above.</p>
 <p>
 <br><strong>Collection of GCE N-Level Results</strong>
 </p>
