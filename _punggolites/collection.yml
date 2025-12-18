@@ -2,7 +2,6 @@ collections:
   punggolites:
     output: true
     order:
-      - PSS School Magazine 2025.md
       - N Level Results Release 2025.md
       - Timetable.md
       - Book Lists (2026).md
