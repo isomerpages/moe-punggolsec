@@ -57,6 +57,15 @@ links listed below.</p>
 <p>Social and Emotional learning: Resources for Parents</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/69425fe134cf17659e566aa1" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69425fe134cf17659e566aa1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application for Admission to 5N in 2026</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
