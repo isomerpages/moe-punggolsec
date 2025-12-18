@@ -12,9 +12,12 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: N Levels Results Release 2025
+        - title: N Level Results Release 2025
           description: Click here for more info
-          url: /n-levels-results-release-2025/
+          url: /n-level-results-release-2025/
+        - title: PSS School Magazine 2025
+          description: View it here
+          url: https://issuu.com/oxfordgraphic/docs/punggol_secondary_school_yearbook_2025_building_c?fr=sZDA1Zjg5NTEwMDM
         - title: Nomination for PAT and OYEA
           description: Now open for submissions
           url: https://www.punggolsec.moe.edu.sg/parents-and-partners/vote-for-pat-and-oyea-today/
