@@ -1,6 +1,6 @@
 ---
-title: N Levels Results Release 2025
-permalink: /n-levels-results-release-2025/
+title: N Level Results Release 2025
+permalink: /n-level-results-release-2025/
 variant: tiptap
 description: ""
 ---
@@ -66,7 +66,7 @@ links listed below.</p>
 their schools or make an ECG counselling appointment with the ECG Centre
 @ MOE from 11-26 December 2025 (Weekday: 9.00 am to 5.00 pm; Saturday &amp;
 Eve of Public Holidays: 9.00 am to 12.00 pm) through the appointment booking
-form below.</p>
+form above.</p>
 <p>
 <br><strong>Collection of GCE N-Level Results</strong>
 </p>
@@ -114,6 +114,15 @@ when collecting the results.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for Admission to 5N in 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/69425fe134cf17659e566aa1" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69425fe134cf17659e566aa1</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>PFP Factsheet</p>
