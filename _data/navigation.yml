@@ -18,19 +18,6 @@ links:
       - title: Other programmes
         url: /other-programmes/signature-level-programmes/secondary-1/
   - title: Punggolites
-    url: /n-levels-results-release-2025/
-    sublinks:
-      - title: Sec 1 Registration
-        url: /sec-1-registration/
-      - title: N Level Results Release 2025
-        url: /n-level-results-release-2025/
-      - title: Timetable
-        url: /punggolites/timetable/
-      - title: Book Lists (2026)
-        url: /punggolites/book-lists-2026/
-      - title: Assessment Matters
-        url: /punggolites/assessment-matters/
-      - title: Useful Links for Students
-        url: /punggolites/useful-links-for-students/
+    collection: punggolites
   - title: Parents And Partners
     collection: parents-and-partners
