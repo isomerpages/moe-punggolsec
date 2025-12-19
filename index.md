@@ -17,7 +17,7 @@ sections:
           url: /n-level-results-release-2025/
         - title: School Magazine 2025
           description: View it here
-          url: https://issuu.com/oxfordgraphic/docs/punggol_secondary_school_yearbook_2025_building_c?fr=sZDA1Zjg5NTEwMDM
+          url: /school-magazine-2025/
         - title: Sec 1 Registration
           description: Click here for more info
           url: /sec-1-registration/
