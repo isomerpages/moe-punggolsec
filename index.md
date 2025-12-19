@@ -18,9 +18,9 @@ sections:
         - title: School Magazine 2025
           description: View it here
           url: https://issuu.com/oxfordgraphic/docs/punggol_secondary_school_yearbook_2025_building_c?fr=sZDA1Zjg5NTEwMDM
-        - title: Nomination for PAT and OYEA
-          description: Now open for submissions
-          url: https://www.punggolsec.moe.edu.sg/parents-and-partners/vote-for-pat-and-oyea-today/
+        - title: Sec 1 Registration
+          description: Click here for more info
+          url: /sec-1-registration/
         - title: Follow us on Instagram!
           description: For our updates and events
           url: https://www.instagram.com/punggol_ss
