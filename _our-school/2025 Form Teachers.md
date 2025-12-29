@@ -6,12 +6,10 @@ variant: tiptap
 ---
 <h2>2026 Form Teachers</h2>
 <p><strong>Secondary 1</strong>
-</p>
-<p>Year Head: Mr Zulkefli Abdol Shukor&nbsp; &nbsp;</p>
-<p><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zulkefli_b_abd_shukor@schools.gov.sg</u></a>
-</p>
-<p>Assistant Year Head (covering): Mr Royce Teo Jian Xing</p>
-<p><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>royce_teo_jian_xing@schools.gov.sg</u></a>
+<br>Year Head: Mr Zulkefli Abdol Shukor&nbsp;
+<br><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zulkefli_b_abd_shukor@schools.gov.sg</u></a>
+<br>Assistant Year Head (covering): Mr Royce Teo Jian Xing
+<br><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>royce_teo_jian_xing@schools.gov.sg</u></a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -208,9 +206,8 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>Secondary 2</strong>
-</p>
-<p>Assistant Year Head : Ms Noor Hafizah Alwi</p>
-<p><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noor_hafizah_alwi@schools.gov.sg</u> </a>&nbsp;</p>
+<br>Assistant Year Head : Ms Noor Hafizah Alwi
+<br><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noor_hafizah_alwi@schools.gov.sg</u> </a>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -413,8 +410,7 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>Secondary 3</strong>
-</p>
-<p>Year Head: Ms Srividya Vijayakumar &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<br>Year Head: Ms Srividya Vijayakumar &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; <a href="mailto:srividya_vijayakumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>srividya_vijayakumar@schools.gov.sg</u></a>
 </p>
 <table style="minWidth: 75px">
@@ -632,9 +628,8 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>Secondary 4/5</strong>
-</p>
-<p>Year Head: Mr Ong Kai Wei &nbsp;</p>
-<p><a href="mailto:ong_kai_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_kai_wei@schools.gov.sg</u></a> &nbsp;</p>
+<br>Year Head: Mr Ong Kai Wei &nbsp;
+<br><a href="mailto:ong_kai_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_kai_wei@schools.gov.sg</u></a> &nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
