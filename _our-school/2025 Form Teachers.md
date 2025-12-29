@@ -226,6 +226,22 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chen Xinghui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_xinghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_xinghui@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ang Xin Wei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,11 +258,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wardi Endra</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wardi_endra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wardi_endra@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -260,11 +275,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lui Yi Lin Elaine</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lui_yi_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lui_yi_lin_elaine@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -295,6 +309,22 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Wee Kee Selina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_wee_kee_selina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_wee_kee_selina@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -408,23 +438,43 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Wong Sijin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lin_sijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lin_sijin@schools.gov.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Wee Kee Selina</p>
+<p>Mr Lee Kim Whye Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_wee_kee_selina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_wee_kee_selina@schools.gov.sg</u></a>&nbsp;</p>
+<p><a href="mailto:lee_kim_whye_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_kim_whye_kelvin@schools.gov.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lui Yi Lin Elaine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lui_yi_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lui_yi_lin_elaine@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Kah Gek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_kah_gek@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sindhya Varthini Kunasegaran</p>
@@ -439,33 +489,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_choon_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_choon_cheng@schools.gov.sg</u></a>&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>3F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Kah Gek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_kah_gek@schools.gov.sg</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chen Xinghui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_xinghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_xinghui@schools.gov.sg</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -488,22 +511,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Chong Woei</p>
+<p>Mr Wardi Endra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_chong_woei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tang_chong_woei@schools.gov.sg</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wardi_endra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wardi_endra@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -516,13 +532,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3I</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Raihana Binte Ramli</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raihana_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>raihana_ramli@schools.gov.sg</u></a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -535,7 +551,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 3</strong>
+<p><strong>Secondary 4</strong>
 </p>
 <p>Year Head: Mr Ong Kai Wei &nbsp;</p>
 <p><a href="mailto:ong_kai_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_kai_wei@schools.gov.sg</u></a> &nbsp;</p>
@@ -796,10 +812,10 @@ variant: tiptap
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kim Whye Kelvin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_kim_whye_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_kim_whye_kelvin@schools.gov.sg</u></a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -855,10 +871,10 @@ variant: tiptap
 <p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong Sijin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_sijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lin_sijin@schools.gov.sg</u></a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
