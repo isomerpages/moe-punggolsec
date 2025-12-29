@@ -524,7 +524,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Joann David</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -532,18 +532,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>3I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Goh Poh Keng (James)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_poh_keng_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_poh_keng_james@schools.gov.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tay Eng Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
