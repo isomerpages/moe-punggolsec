@@ -581,10 +581,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Laila</p>
+<p>Ms Tay Choon Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Tay_choon_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_choon_yee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
