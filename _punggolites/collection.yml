@@ -2,8 +2,10 @@ collections:
   punggolites:
     output: true
     order:
+      - O Levels Results Release 2025.md
       - Sec 1 Registration.md
       - N Level Results Release 2025.md
+      - School Magazine 2025.md
       - Timetable.md
       - Book Lists (2026).md
       - Assessment Matters.md
