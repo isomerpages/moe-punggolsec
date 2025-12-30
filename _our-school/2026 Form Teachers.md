@@ -349,7 +349,7 @@ variant: tiptap
 <p>Mr Lim Zhenghong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_zhenghong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Lim_zhenghong@schools.gov.sg</u></a>
+<p><a href="mailto:Lim_zhenghong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_zhenghong@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -449,7 +449,7 @@ variant: tiptap
 <p>&nbsp;Ms Jill Yong Li Wei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">jill_yong_li_wei@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">jill_yong_li_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -458,7 +458,7 @@ variant: tiptap
 <p>Mdm R Sithaletchmi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">R_Sithaletchmi_B@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">r_sithaletchmi_B@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -584,7 +584,7 @@ variant: tiptap
 <p>Ms Tay Choon Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tay_choon_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_choon_yee@schools.gov.sg</a>
+<p><a href="mailto:Tay_choon_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_choon_yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -605,7 +605,7 @@ variant: tiptap
 <p>Ms Joann David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Joann_DAVID@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joann_DAVID@schools.gov.sg</a>
+<p><a href="mailto:Joann_DAVID@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joann_david@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -695,7 +695,7 @@ variant: tiptap
 <p>Ms Yap Su Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Su_Fen_Yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Su_Fen_Yap@schools.gov.sg</a>
+<p><a href="mailto:Su_Fen_Yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_fen_yap@schools.gov.sg</a>
 </p>
 </td>
 </tr>
