@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>Secondary 1</strong>
 <br>Year Head: Mr Zulkefli Abdol Shukor&nbsp;
 <br><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zulkefli_b_abd_shukor@schools.gov.sg</u></a>
-<br>Assistant Year Head (covering): Mr Royce Teo Jian Xing
+<br>Assistant Year Head: Mr Royce Teo Jian Xing
 <br><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>royce_teo_jian_xing@schools.gov.sg</u></a>
 </p>
 <table style="minWidth: 75px">
@@ -192,7 +192,8 @@ variant: tiptap
 <p>Ms Premesha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:premesha_ap_s@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">premesha_ap_s@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -603,7 +604,8 @@ variant: tiptap
 <p>Ms Joann David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Joann_DAVID@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joann_DAVID@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -622,7 +624,8 @@ variant: tiptap
 <p>Ms Tay Eng Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tay_eng_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_eng_leng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -691,7 +694,8 @@ variant: tiptap
 <p>Ms Yap Su Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Su_Fen_Yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Su_Fen_Yap@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
