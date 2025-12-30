@@ -401,6 +401,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Engagement &amp; Partnerships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yap Su Fen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Su_Fen_Yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Su_Fen_Yap@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH Student Leadership (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
