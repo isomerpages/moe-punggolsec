@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>2026 Form Teachers</h2>
 <p><strong>Secondary 1</strong>
-<br>Year Head: Mr Zulkefli Abdol Shukor&nbsp;
+<br>Year Head: Mr Zulkefli Abdul Shukor&nbsp;
 <br><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zulkefli_b_abd_shukor@schools.gov.sg</u></a>
 <br>Assistant Year Head: Mr Royce Teo Jian Xing
 <br><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>royce_teo_jian_xing@schools.gov.sg</u></a>
