@@ -10,8 +10,8 @@ students will have an odd and even week timetable.</p>
 accordingly.</p>
 <p></p>
 <h3><strong>Class Timetable 2026</strong></h3>
-<p>Please refer to&nbsp;your class timetable (updated 29 Dec 2025):&nbsp;</p>
-<p><a href="/files/2026_Sem_1_Class_Timetable_31_Dec1250.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Class Timetable (Updated 31 Dec)</a>
+<p>Please refer to&nbsp;your class timetable (updated 31 Dec 2025):&nbsp;</p>
+<p><a href="/files/2026_Sem_1_Class_Timetable_31_Dec1250.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Class Timetable</a>
 </p>
 <p>(A&nbsp;<a href="https://www.punggolsec.moe.edu.sg/files/Useful%20Links/For%20Students/Timetable%20Abbreviations%202021%20Sem%202.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>guide</u></a>&nbsp;explaining
 the abbreviations used.)</p>
