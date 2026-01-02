@@ -210,7 +210,7 @@ variant: tiptap
 <p>Year Head 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zulkefli Abdol Shukor</p>
+<p>Mr Zulkefli Abdul Shukor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkefli_b_abd_shukor@schools.gov.sg</a>
@@ -232,7 +232,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head 2</p>
+<p>Assistant Year Head 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Noor Hafizah Alwi</p>
