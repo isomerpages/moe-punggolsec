@@ -8,33 +8,36 @@ variant: tiptap
 <h2>Serving Others, Striving Forward</h2>
 <p><strong>Year Head 3: Ms Srividya Vijayakumar</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_First_Days_of_school_Bonding.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Aesthetic_Learning_Journey.jpg">
 </div>
-<p><strong><em>First day of school bonding</em></strong>
+<p><strong><em>Sec 3 Aesthetic Learning Journey</em></strong>
 <br>
 </p>
-<p>The Secondary Three Punggolites have had an exciting year, navigating
-the transition from lower to upper secondary with enthusiasm and mutual
-support. Four days were dedicated to class and cohort bonding, where students
-strengthened their relationships with teachers and peers. During Student
-Development Week, they engaged in activities like making soaps and bath
-bombs in their Applied Learning Programme (ALP), while collaborating on
-Values-in-Action (VIA) projects with external organizations. They also
-explored Applied Elective Modules at ITE and Republic Polytechnic. Through
-these experiences, the cohort has built resilience and demonstrated adaptability,
-ready to take on future challenges with confidence.
+<p>The Secondary Three year marked an exciting transition as students stepped
+confidently into Upper Secondary. The year began with two days of bonding
+activities, fostering new friendships and camaraderie. Through the applied
+elective modules at ITE and various&nbsp;polytechnics, students gained
+valuable insights into real-world learning. During Student Development
+Week, they participated in engaging programmes such as the Poly Taster
+Programme at Republic Polytechnic, financial literacy workshops, mass dance
+sessions and student-led bonding activities. These opportunities strengthened
+resilience, adaptability, and teamwork - qualities that will empower our
+Secondary Threes to serve effectively and stride forward with confidence.
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Secondary_3_Student_Leaders.jpg">
-</div>
-<p><strong><em>2024 Sec 3 Student Leaders</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/APLM_ITE_Experience.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_ALP.jpg">
 </div>
-<p><strong><em>Sec 3 ITE Experience</em></strong>
+<p><strong><em>Sec 3 Applied Learning Programme (ALP)</em></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_SIL.jpg">
+</div>
+<p><strong><em>Sec 3 Student Initiated Learning</em></strong>
 </p>
 <p></p>

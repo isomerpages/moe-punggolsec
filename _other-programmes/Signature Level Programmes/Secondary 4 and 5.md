@@ -8,34 +8,34 @@ variant: tiptap
 <h2>Achieving Excellence, Influencing Positively</h2>
 <p><strong>Year Head 4 &amp; 5: Mr Ong Kai Wei</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Graduating_Cohort_at_end_of_Project_Confidence.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_Investiture_Hand_Over.jpg">
 </div>
-<p><strong><em>Graduating Cohort at end of graduation hike Project Confidence</em></strong>
+<p><strong><em>Investiture and Hand Over</em></strong>
 <br>
 </p>
-<p>As the most senior students, the Secondary Four and Five cohort takes
-great pride in mentoring their juniors, leading by example in all they
-do. This year, through Project Eveready, we focused on building self-confidence
-and adaptive thinking to face the challenges of an uncertain future. Activities
-like raft building, orienteering, and presentations taught us the power
-of determination and a positive mindset in overcoming obstacles. We’ve
-pushed our boundaries in competitions, continually challenging ourselves
-to reach new heights.</p>
-<p>As we approach our inaugural Graduation Tea, let’s keep inspiring one
-another, striving for excellence, and leaving a lasting legacy.</p>
+<p>As the seniors of Punggol Secondary, our Secondary Four and Five students
+led with purpose and pride - mentoring their juniors, striving for excellence,
+and exemplifying the school’s core values. Through Project Autonomy, they
+cultivated self-belief, supported one another and charted their shared
+journeys with determination. Competing alongside peers from other schools,
+they displayed perseverance, unity and school spirit at every stage. These
+meaningful experiences strengthened friendships and created lasting memories.
+As they look ahead, our graduating students are committed to excellence
+and service, carrying forward the Punggolite legacy with pride and purpose.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_Class_take_a_break_during_level_programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_RHD.jpg">
 </div>
-<p><strong><em>Sec 4 students out on learning journey for their level programme</em></strong>
-</p>
-<p>
+<p><strong><em>All dressed up for Racial Harmony Day (RHD)</em></strong>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/07_Participating_in_Heritage_Trails.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_Bonding_Bowling.jpg">
 </div>
-<p><strong><em>Participating in Heritage Trails</em></strong>
+<p><strong><em>Bonding at Bowling</em></strong>
 </p>
 <p></p>
 <p></p>
