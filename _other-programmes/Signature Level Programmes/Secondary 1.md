@@ -9,36 +9,37 @@ variant: tiptap
 <p><strong>Year Head 1: Mr Zulkefli Abdul Shukor</strong>
 <br><strong>Assistant Year Head 1: Mr Royce Teo Jian Xing</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_Students_learning_about_urban_farming_at_Kok_Fah_farm_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250225_100726.jpg">
 </div>
-<p><strong><em>Students learning about urban farming at Kok Fah farm</em></strong>
+<p><strong><em>Rock climbing activity during Secondary One Outdoor Adventure Camp</em></strong>
+</p>
+<p></p>
+<p>Our Secondary One Punggolites began their journey with a vibrant three-day
+orientation programme filled with laughter, new friendships and a memorable
+campfire night. The excitement continued with a three-day, two-night outdoor
+camp that strengthened resilience and class spirit. During Student Development
+Weeks, students explored coding, embarked on learning journeys, joined
+their first-ever PSS Games Carnival, and took part in a self-leadership
+workshop to enhance their confidence and communication skills. Through
+these enriching and meaningful experiences, our Secondary Ones discovered
+more about themselves, developed greater self-direction and adaptability,
+and grew confidence to embrace the challenges and opportunities ahead.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20251015_154004.jpg">
+</div>
+<p><strong><em>Students trying out disability floorball at E1 Cluster Sports Fiesta </em></strong>
 </p>
 <p></p>
 <p></p>
-<p>2024 kicked off with an exciting three-day orientation. Our Secondary
-One Punggolites dove into the school’s culture, made new friends, and began
-their journey of growth. In Term 2, they faced challenges during a 3-day,
-2-night outdoor camp, building resilience and teamwork. Student Development
-Week was packed with energy, as students proudly presented their Values-in-Action
-(VIA) projects and enjoyed the fun of Math Games. They explored the rich
-heritage of Kampong Glam, Chinatown, and Little India before embarking
-on a learning journey to Kok Fah Farm and Urban Rooftop Farms. These activities
-nurtured self-directed, adaptable learners, ready for future challenges.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/08_Students_embarking_on_cycling_at_East_Coast_Park_during_their_Outdoor_Camp_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3593.jpg">
 </div>
-<p><strong><em>Students embarking on cycling at East Coast Park during their Outdoor Camp</em></strong>
-</p>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_Students_persevering_through_the_low_elements_obstacle_course_duing_the_Outdoor_Camp_.jpg">
-</div>
-<p><strong><em>Students persevering through the low elements obstacle course during the Outdoor Camp</em></strong>
+<p><strong><em>Tea pulling activity at Arab Street</em></strong>
 </p>
 <p></p>
 <p></p>
