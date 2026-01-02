@@ -13,7 +13,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250225_100726.jpg">
 </div>
-<p><strong><em>Rock climbing activity during Secondary One Outdoor Adventure Camp</em></strong>
+<p><strong><em>Rock climbing activity at Secondary One Outdoor Adventure Learning Camp</em></strong>
 </p>
 <p></p>
 <p>Our Secondary One Punggolites began their journey with a vibrant three-day
@@ -31,7 +31,7 @@ and grew confidence to embrace the challenges and opportunities ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20251015_154004.jpg">
 </div>
-<p><strong><em>Students trying out disability floorball at E1 Cluster Sports Fiesta </em></strong>
+<p><strong><em>Students trying out disability floorball at E1 Cluster Sports Fiesta</em></strong>
 </p>
 <p></p>
 <p></p>
