@@ -26,15 +26,17 @@ of the Civic District. As part of their Values in Action programme, students
 planned and organised the lively Punggol Carnival, demonstrating teamwork,
 leadership, and service. These experiences nurtured responsibility, self-direction,
 and a deep sense of community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Signature%20Programmes/Signature%20Level%20Programmes/Sec%202/VIA%20Learning%20Briefing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ_to_Civil_District.jpg">
 </div>
 <p><strong><em>Learning Journey to Civic District</em></strong>
 </p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Term_3_Photo_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Archery.jpg">
 </div>
 <p><strong><em>Students practicing Archery</em></strong>
 </p>
