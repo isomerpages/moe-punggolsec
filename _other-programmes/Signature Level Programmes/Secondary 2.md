@@ -38,7 +38,7 @@ and a deep sense of community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Archery.jpg">
 </div>
-<p><strong><em>Students practicing Archery</em></strong>
+<p><strong><em>Students practising Archery</em></strong>
 </p>
 <p></p>
 <p></p>
