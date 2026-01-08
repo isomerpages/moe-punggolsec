@@ -401,7 +401,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Engagement &amp; Partnerships</p>
+<p>SH Engagement &amp; Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yap Su Fen</p>
