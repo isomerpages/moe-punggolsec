@@ -12,9 +12,9 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: N Level Results Release 2025
+        - title: O Level Results Release 2025
           description: Click here for more info
-          url: /n-level-results-release-2025/
+          url: /o-level-results-release-2025/
         - title: School Magazine 2025
           description: View it here
           url: /school-magazine-2025/
