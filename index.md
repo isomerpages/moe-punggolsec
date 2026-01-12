@@ -18,9 +18,9 @@ sections:
         - title: School Magazine 2025
           description: View it here
           url: /school-magazine-2025/
-        - title: Sec 1 Registration
-          description: Click here for more info
-          url: /sec-1-registration/
+        - title: Secondary 1 Matters
+          description: "[NEW!] CCA Allocation info"
+          url: /sec-1-matters/
         - title: Follow us on Instagram!
           description: For our updates and events
           url: https://www.instagram.com/punggol_ss
