@@ -35,7 +35,7 @@ today (19/12/25) for your necessary follow up. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 CCA Allocation Exercise 2026</p>
+<p>Sec 1 CCA Allocation Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Sec_1_CCA_Allocation_Exercise_2026.pdf" rel="noopener nofollow" target="_blank">PDF</a>
