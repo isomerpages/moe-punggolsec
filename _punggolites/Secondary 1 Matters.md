@@ -1,6 +1,6 @@
 ---
-title: Sec 1 Registration
-permalink: /sec-1-registration/
+title: Secondary 1 Matters
+permalink: /sec-1-matters/
 variant: tiptap
 description: ""
 ---
@@ -30,6 +30,15 @@ today (19/12/25) for your necessary follow up. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/FSBB_Information__for_2026_S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 CCA Allocation Exercise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_CCA_Allocation_Exercise_2026.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
