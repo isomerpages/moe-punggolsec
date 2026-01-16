@@ -57,8 +57,7 @@ perception) on self-esteem, the impact of one’s self-esteem on our mental
 well-being as well as relationships with others. Students will also learn
 how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
-entering into a dating relationship.&nbsp;</p>
-<p>&nbsp;</p>
+entering into a dating relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that self-perception
@@ -90,7 +89,6 @@ and others, and that grief and loss due to rejections and broken relationships
 is normal and that one can recover from the experience. They will learn
 that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building
