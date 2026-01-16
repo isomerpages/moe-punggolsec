@@ -92,7 +92,6 @@ of self.&nbsp;</p>
 <p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and psychological
