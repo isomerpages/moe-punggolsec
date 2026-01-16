@@ -5,7 +5,7 @@ description: ""
 third_nav_title: MOE Sexuality Ed in Schools
 variant: tiptap
 ---
-<p><strong>At Punggol Secondary School, the following Sexuality Education lessons for Sec 3 will be taught in <u>2025</u>:</strong>
+<p><strong>At Punggol Secondary School, the following Sexuality Education lessons for Sec 3 will be taught in <u>2026</u>:</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -39,8 +39,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -59,8 +57,7 @@ perception) on self-esteem, the impact of one’s self-esteem on our mental
 well-being as well as relationships with others. Students will also learn
 how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
-entering into a dating relationship.&nbsp;</p>
-<p>&nbsp;</p>
+entering into a dating relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that self-perception
@@ -72,7 +69,6 @@ and behaviours</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise what healthy
 dating relationships involve and know that readiness is important when
 entering into a dating relationship</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
@@ -92,7 +88,6 @@ and others, and that grief and loss due to rejections and broken relationships
 is normal and that one can recover from the experience. They will learn
 that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: MOE Sexuality Ed in Schools
 variant: tiptap
 ---
-<p><strong>At Punggol Secondary School, the following Sexuality Education lessons for Sec 4 will be taught in <u>2025</u>:</strong>
+<p><strong>At Punggol Secondary School, the following Sexuality Education lessons for Sec 4 will be taught in <u>2026</u>:</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -37,8 +37,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +56,6 @@ on individuals. Students will learn to be aware of possible gender stereotypes
 that may affect one’s family and future decisions. They will also learn
 to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes
@@ -90,7 +87,6 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways of coping
@@ -105,7 +101,6 @@ harm to our mental and emotional well-being</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance of ensuring
 that non-verbal messages match with verbal ones, when communicating personal
 and emotional boundaries in a relationship</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
@@ -138,7 +133,6 @@ mutual effort</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that conflicts are normal
 in any relationship, including marriage, and the way in which a couple
 handles conflict is critical to the success of their marriage</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>

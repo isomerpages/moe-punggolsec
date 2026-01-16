@@ -5,7 +5,7 @@ description: ""
 third_nav_title: MOE Sexuality Ed in Schools
 variant: tiptap
 ---
-<p><strong>At Punggol Secondary School, the following Sexuality Education lessons for Sec 5 will be taught in <u>2025</u>:</strong>
+<p><strong>At Punggol Secondary School, the following Sexuality Education lessons for Sec 5 will be taught in <u>2026</u>:</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -37,8 +37,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +56,6 @@ of showing respect to the opposite sex by using appropriate words and actions.
 Students will examine personal boundaries from different perspectives and
 learn the importance of making sound values-based decisions and acting
 in consideration of the well-being of themselves and others.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our
