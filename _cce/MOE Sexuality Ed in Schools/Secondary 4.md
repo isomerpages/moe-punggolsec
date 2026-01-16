@@ -133,7 +133,6 @@ mutual effort</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that conflicts are normal
 in any relationship, including marriage, and the way in which a couple
 handles conflict is critical to the success of their marriage</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
