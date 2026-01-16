@@ -69,7 +69,6 @@ and behaviours</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise what healthy
 dating relationships involve and know that readiness is important when
 entering into a dating relationship</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
