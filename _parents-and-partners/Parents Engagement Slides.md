@@ -4,7 +4,8 @@ permalink: /parents-and-partners/parents-engagement-slides/
 variant: tiptap
 description: ""
 ---
-<p>Dear Parents,
+<p>Dear Parents,</p>
+<p>
 <br>Please find attached the resources for our 2026 Parent Engagement Sessions
 below:</p>
 <table style="minWidth: 75px">
