@@ -56,7 +56,6 @@ of showing respect to the opposite sex by using appropriate words and actions.
 Students will examine personal boundaries from different perspectives and
 learn the importance of making sound values-based decisions and acting
 in consideration of the well-being of themselves and others.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our
