@@ -56,7 +56,6 @@ on individuals. Students will learn to be aware of possible gender stereotypes
 that may affect one’s family and future decisions. They will also learn
 to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes
@@ -88,7 +87,6 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways of coping
@@ -103,7 +101,6 @@ harm to our mental and emotional well-being</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance of ensuring
 that non-verbal messages match with verbal ones, when communicating personal
 and emotional boundaries in a relationship</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
