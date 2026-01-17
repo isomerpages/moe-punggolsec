@@ -6,7 +6,7 @@ third_nav_title: MOE Sexuality Ed in Schools
 variant: tiptap
 ---
 <h2>MOE Sexuality Education in Schools</h2>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
@@ -112,8 +112,7 @@ are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 3 Week 9)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
