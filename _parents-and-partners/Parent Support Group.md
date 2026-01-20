@@ -91,7 +91,7 @@ with a values-based and value-added education.</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Angela Tan Huey Min</p>
+<p>Ms Lynn Yap</p>
 </td>
 </tr>
 <tr>
