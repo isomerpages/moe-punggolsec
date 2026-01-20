@@ -2,6 +2,7 @@ collections:
   archived-pages:
     output: true
     order:
+      - Nominations for PAT and OYEA 2026.md
       - Direct School Admission (DSA) 2025.md
       - Parenting Resources by MOE.md
       - Secondary 5.md
