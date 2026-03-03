@@ -2,11 +2,11 @@ collections:
   our-school:
     output: true
     order:
-      - 2026 Subject Teachers.md
       - School Crest, History and Song.md
       - School Identity.md
       - Principal's Message.md
       - School Advisory Committee.md
       - School Management Committee.md
       - 2026 Form Teachers.md
+      - 2026 Subject Teachers.md
       - Connect with Us.md
