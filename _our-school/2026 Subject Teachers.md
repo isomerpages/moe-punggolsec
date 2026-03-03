@@ -34,7 +34,8 @@ description: ""
 <br>HOD Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sultan_shaheed@schools.gov.sg</p>
+<p><a href="mailto:sultan_shaheed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sultan_shaheed@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +47,8 @@ description: ""
 <br>SH Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eunice_low@schools.gov.sg</p>
+<p><a href="mailto:eunice_low@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_low@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +60,8 @@ description: ""
 <br>ST Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_li_yen@schools.gov.sg</p>
+<p><a href="mailto:lim_li_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_yen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +72,8 @@ description: ""
 <p>Ms Lee Wee Kee Selina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_wee_kee_selina@schools.gov.sg</p>
+<p><a href="mailto:lee_wee_kee_selina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wee_kee_selina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +84,8 @@ description: ""
 <p>Ms Raihana Binte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>raihana_ramli@schools.gov.sg</p>
+<p><a href="mailto:raihana_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raihana_ramli@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +96,8 @@ description: ""
 <p>Ms Thurayya Binte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>thurayya_roslan@schools.gov.sg</p>
+<p><a href="mailto:thurayya_roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thurayya_roslan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +108,8 @@ description: ""
 <p>Mr Jimmy Chiang Chun Man</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chiang_chun_man@schools.gov.sg</p>
+<p><a href="mailto:chiang_chun_man@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_chun_man@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +120,8 @@ description: ""
 <p>Ms Dahlia Binti Abdul Samad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dahlia_abdul_samad@schools.gov.sg</p>
+<p><a href="mailto:dahlia_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dahlia_abdul_samad@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +132,8 @@ description: ""
 <p>Mdm Lee Kah Gek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_kah_gek@schools.gov.sg</p>
+<p><a href="mailto:lee_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kah_gek@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +144,8 @@ description: ""
 <p>Mdm Noor Ashikin Bte Shahirudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noor_ashikin_shahirudin@schools.gov.sg</p>
+<p><a href="mailto:noor_ashikin_shahirudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_ashikin_shahirudin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +156,8 @@ description: ""
 <p>Ms See Ko Li Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>see_ko_li_jessica@schools.gov.sg</p>
+<p><a href="mailto:see_ko_li_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_ko_li_jessica@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +168,8 @@ description: ""
 <p>Ms Sithravelu Sathiyakala</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sithravelu_sathiyakala@schools.gov.sg</p>
+<p><a href="mailto:sithravelu_sathiyakala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sithravelu_sathiyakala@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -192,7 +204,8 @@ description: ""
 <br>HOD Info. &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_fulia@schools.gov.sg</p>
+<p><a href="mailto:ng_fulia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_fulia@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +217,8 @@ description: ""
 <br>SH Electives</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_poh_keng_james@schools.gov.sg</p>
+<p><a href="mailto:goh_poh_keng_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_poh_keng_james@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +230,8 @@ description: ""
 <br>SH Info. &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_zulaiha_mohamed_mohse@schools.gov.sg</p>
+<p><a href="mailto:siti_zulaiha_mohamed_mohse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zulaiha_mohamed_mohse@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +242,8 @@ description: ""
 <p>Ms Candy Tan Hui Sze&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_hui_sze@schools.gov.sg</p>
+<p><a href="mailto:tan_hui_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_sze@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +254,8 @@ description: ""
 <p>Mdm Lee Kah Gek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_kah_gek@schools.gov.sg</p>
+<p><a href="mailto:lee_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kah_gek@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +278,8 @@ description: ""
 <p>Mr Wong Boon Leong Vincent</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_boon_leong_vincent@schools.gov.sg</p>
+<p><a href="mailto:wong_boon_leong_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_boon_leong_vincent@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +302,8 @@ description: ""
 <p>Ms Jenny Kho Puay Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kho_puay_hwee@schools.gov.sg</p>
+<p><a href="mailto:kho_puay_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kho_puay_hwee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -319,7 +338,8 @@ description: ""
 <br>HOD English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_li_yen_a@schools.gov.sg</p>
+<p><a href="mailto:lim_li_yen_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_yen_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -344,7 +364,8 @@ description: ""
 <br>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_sijin@schools.gov.sg</p>
+<p><a href="mailto:lin_sijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_sijin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -356,7 +377,8 @@ description: ""
 <br>SH Student Well-being and Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_jun_ho@schools.gov.sg</p>
+<p><a href="mailto:tan_jun_ho@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_ho@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -368,7 +390,8 @@ description: ""
 <br>Assistant Year Head 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noor_hafizah_alwi@schools.gov.sg</p>
+<p><a href="mailto:noor_hafizah_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_hafizah_alwi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -380,7 +403,8 @@ description: ""
 <br>SH Info. &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_zulaiha_mohamed_mohse@schools.gov.sg</p>
+<p><a href="mailto:siti_zulaiha_mohamed_mohse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zulaiha_mohamed_mohse@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +429,8 @@ description: ""
 <br>ST English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>anju_babu@schools.gov.sg</p>
+<p><a href="mailto:anju_babu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anju_babu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -416,7 +441,8 @@ description: ""
 <p>Mr Benjamin Seethor Chee Mang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>benjamin_seethor@schools.gov.sg</p>
+<p><a href="mailto:benjamin_seethor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_seethor@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -439,7 +465,8 @@ description: ""
 <p>Ms Lee Pei Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_pei_hua@schools.gov.sg</p>
+<p><a href="mailto:lee_pei_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_hua@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -450,7 +477,8 @@ description: ""
 <p>Ms Natalie Goh Chang Xiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>natalie_goh_chang_xiu@schools.gov.sg</p>
+<p><a href="mailto:natalie_goh_chang_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natalie_goh_chang_xiu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -485,7 +513,8 @@ description: ""
 <p>Ms Jill Yong Li Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jill_ong_li_wei@schools.gov.sg</p>
+<p><a href="mailto:jill_ong_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jill_ong_li_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -508,7 +537,8 @@ description: ""
 <p>Ms Natasha Siow Xian Pei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>natasha_siow_xian_pei@schools.gov.sg</p>
+<p><a href="mailto:natasha_siow_xian_pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_siow_xian_pei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -555,7 +585,8 @@ description: ""
 <br>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shan_mugam_sidambaram@schools.gov.sg</p>
+<p><a href="mailto:shan_mugam_sidambaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shan_mugam_sidambaram@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -567,7 +598,8 @@ description: ""
 <br>Year Head 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zulkefli_b_abd_shukor@schools.gov.sg</p>
+<p><a href="mailto:zulkefli_b_abd_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkefli_b_abd_shukor@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +611,8 @@ description: ""
 <br>SH Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lui_yi_lin_elaine@schools.gov.sg</p>
+<p><a href="mailto:lui_yi_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lui_yi_lin_elaine@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -604,7 +637,8 @@ description: ""
 <br>SH Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sindhya_varthini_kunasegaran@schools.gov.sg</p>
+<p><a href="mailto:sindhya_varthini_kunasegaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sindhya_varthini_kunasegaran@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -616,7 +650,8 @@ description: ""
 <br>ST History</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_yong_shiong@schools.gov.sg</p>
+<p><a href="mailto:foo_yong_shiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yong_shiong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -628,7 +663,8 @@ description: ""
 <br>ST Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>quek_jee_wei@schools.gov.sg</p>
+<p><a href="mailto:quek_jee_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_jee_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -651,7 +687,8 @@ description: ""
 <p>Mdm Rosmiyati Bte Bustami</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rosmiyati_bustami@schools.gov.sg</p>
+<p><a href="mailto:rosmiyati_bustami@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rosmiyati_bustami@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -674,7 +711,8 @@ description: ""
 <p>Mr Su Fook Kwee Stephen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>su_fook_kwee_stephen@schools.gov.sg</p>
+<p><a href="mailto:su_fook_kwee_stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_fook_kwee_stephen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -685,7 +723,8 @@ description: ""
 <p>Mr Glenn Daniel Yeong Zhen Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>glenn_yeong_zhen_peng@schools.gov.sg</p>
+<p><a href="mailto:glenn_yeong_zhen_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">glenn_yeong_zhen_peng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -696,7 +735,8 @@ description: ""
 <p>Mr Lee Jing Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_jing_yu@schools.gov.sg</p>
+<p><a href="mailto:lee_jing_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_yu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -719,7 +759,8 @@ description: ""
 <p>Mr Khairul Ikhwan Bin Ridzwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khairul_ikhwan_ridzwan@schools.gov.sg</p>
+<p><a href="mailto:khairul_ikhwan_ridzwan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairul_ikhwan_ridzwan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -730,7 +771,8 @@ description: ""
 <p>Mr Peh Aik Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>peh_aik_hui@schools.gov.sg</p>
+<p><a href="mailto:peh_aik_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peh_aik_hui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -765,7 +807,8 @@ description: ""
 <br>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_chieh_sin_jaselin@schools.gov.sg</p>
+<p><a href="mailto:ang_chieh_sin_jaselin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chieh_sin_jaselin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -777,7 +820,8 @@ description: ""
 <br>Year Head 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_kai_wei@schools.gov.sg</p>
+<p><a href="mailto:ong_kai_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kai_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -789,7 +833,8 @@ description: ""
 <br>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eunice_ong@schools.gov.sg</p>
+<p><a href="mailto:eunice_ong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_ong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -801,7 +846,8 @@ description: ""
 <br>SH Electives</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_poh_keng_james@schools.gov.sg</p>
+<p><a href="mailto:goh_poh_keng_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_poh_keng_james@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -813,7 +859,8 @@ description: ""
 <br>ST Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_wei_ling@schools.gov.sg</p>
+<p><a href="mailto:ho_wei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -824,7 +871,8 @@ description: ""
 <p>Mr Neo Eugene&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eugene_neo@schools.gov.sg</p>
+<p><a href="mailto:eugene_neo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eugene_neo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -835,7 +883,8 @@ description: ""
 <p>Mrs Rafi (Siti Ateka Atan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_ateka_atan@schools.gov.sg</p>
+<p><a href="mailto:siti_ateka_atan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_ateka_atan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -846,7 +895,8 @@ description: ""
 <p>Mdm Tng Say Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tng_say_ping@schools.gov.sg</p>
+<p><a href="mailto:tng_say_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_say_ping@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -857,7 +907,8 @@ description: ""
 <p>Mr Alex Tan Boon Kah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>alex_tan_boon_kah@schools.gov.sg</p>
+<p><a href="mailto:alex_tan_boon_kah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alex_tan_boon_kah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -868,7 +919,8 @@ description: ""
 <p>Mrs Lee Wei Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_wei_wei_a@schools.gov.sg</p>
+<p><a href="mailto:ong_wei_wei_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_wei_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -891,7 +943,8 @@ description: ""
 <p>Mr Christopher Chia Jia Juen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_ jia_ juen@schools.gov.sg</p>
+<p><a href="mailto:chia_jia_juen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_jia_juen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -902,7 +955,8 @@ description: ""
 <p>Mr Ding Ming Dih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ding_ming_dih@schools.gov.sg</p>
+<p><a href="mailto:ding_ming_dih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ding_ming_dih@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -913,7 +967,8 @@ description: ""
 <p>Mr Foo Yeow Chong Gerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_yeow_chong_gerald@schools.gov.sg</p>
+<p><a href="mailto:foo_yeow_chong_gerald@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yeow_chong_gerald@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -960,7 +1015,8 @@ description: ""
 <br>HOD Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siang_yong_eng@schools.gov.sg</p>
+<p><a href="mailto:siang_yong_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siang_yong_eng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -972,7 +1028,8 @@ description: ""
 <br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tee_bei_si@schools.gov.sg</p>
+<p><a href="mailto:tee_bei_si@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_bei_si@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -984,7 +1041,8 @@ description: ""
 <br>Year Head 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>srividya_vijayakumar@schools.gov.sg</p>
+<p><a href="mailto:srividya_vijayakumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">srividya_vijayakumar@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -996,7 +1054,8 @@ description: ""
 <br>SH Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wardi_endra@schools.gov.sg</p>
+<p><a href="mailto:wardi_endra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wardi_endra@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1008,7 +1067,8 @@ description: ""
 <br>SH Student Leadership (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_yong_kiong@schools.gov.sg</p>
+<p><a href="mailto:lim_yong_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yong_kiong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1020,7 +1080,8 @@ description: ""
 <br>ST Mother Tongue Languages (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_shu_yi@schools.gov.sg</p>
+<p><a href="mailto:tan_shu_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_yi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1032,7 +1093,8 @@ description: ""
 <br>ST Mother Tongue Languages (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>julaiha_haron@schools.gov.sg</p>
+<p><a href="mailto:julaiha_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julaiha_haron@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1044,7 +1106,8 @@ description: ""
 <br>ST Mother Tongue Languages (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yogeswari_ponnambalam@schools.gov.sg</p>
+<p><a href="mailto:yogeswari_ponnambalam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yogeswari_ponnambalam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1055,7 +1118,8 @@ description: ""
 <p>Mr Lua Yik Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lua_yik_pin@schools.gov.sg</p>
+<p><a href="mailto:lua_yik_pin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lua_yik_pin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1066,7 +1130,8 @@ description: ""
 <p>Ms Esther Lye Jie Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>esther_lye_jie_yi@schools.gov.sg</p>
+<p><a href="mailto:esther_lye_jie_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">esther_lye_jie_yi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1089,7 +1154,8 @@ description: ""
 <p>Ms Moo Sheau Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>moo_sheau_yuan@schools.gov.sg</p>
+<p><a href="mailto:moo_sheau_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moo_sheau_yuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1100,7 +1166,8 @@ description: ""
 <p>Ms Shian Pui Kuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shian_pui_kuen@schools.gov.sg</p>
+<p><a href="mailto:shian_pui_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shian_pui_kuen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1111,7 +1178,8 @@ description: ""
 <p>Mdm Junaidah Bte Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>junaidah_rahman@schools.gov.sg</p>
+<p><a href="mailto:junaidah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junaidah_rahman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1134,7 +1202,8 @@ description: ""
 <p>Ms Sabrina Binte Rakib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>binte_rakib_sabrina@schools.gov.sg</p>
+<p><a href="mailto:binte_rakib_sabrina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">binte_rakib_sabrina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1145,7 +1214,8 @@ description: ""
 <p>Ms Premesha A/P S Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Premesha_AP_S@schools.gov.sg</p>
+<p><a href="mailto:Premesha_AP_S@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Premesha_AP_S@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1180,7 +1250,8 @@ description: ""
 <br>Assistant Year Head 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>royce_teo_jian_xing@schools.gov.sg</p>
+<p><a href="mailto:royce_teo_jian_xing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">royce_teo_jian_xing@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1191,7 +1262,8 @@ description: ""
 <p>Ms Ang Xin Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_xin_wei@schools.gov.sg</p>
+<p><a href="mailto:ang_xin_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_xin_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1227,7 +1299,8 @@ description: ""
 <br>Co-Curricular Activity (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_sai_yin_henry@schools.gov.sg</p>
+<p><a href="mailto:wong_sai_yin_henry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sai_yin_henry@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1239,7 +1312,8 @@ description: ""
 <br>LT Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yusri_ahmat@schools.gov.sg</p>
+<p><a href="mailto:yusri_ahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yusri_ahmat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1252,7 +1326,8 @@ description: ""
 <br>Co-Curricular Activity (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>joel_wei_maojie@schools.gov.sg</p>
+<p><a href="mailto:joel_wei_maojie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joel_wei_maojie@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1286,7 +1361,8 @@ description: ""
 <p>Mr Wong Boon Leong Vincent</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_boon_leong_vincent@schools.gov.sg</p>
+<p><a href="mailto:wong_boon_leong_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_boon_leong_vincent@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1346,7 +1422,8 @@ description: ""
 <br>HOD Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_poh_ling_jasmine@schools.gov.sg</p>
+<p><a href="mailto:goh_poh_ling_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_poh_ling_jasmine@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1358,7 +1435,8 @@ description: ""
 <br>LT Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lawrence_tang_kok_onn@schools.gov.sg</p>
+<p><a href="mailto:lawrence_tang_kok_onn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lawrence_tang_kok_onn@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1370,7 +1448,8 @@ description: ""
 <br>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_zhenghong@schools.gov.sg</p>
+<p><a href="mailto:lim_zhenghong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhenghong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1382,7 +1461,8 @@ description: ""
 <br>ST Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_tuck_chuen_stephen@schools.gov.sg</p>
+<p><a href="mailto:low_tuck_chuen_stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_tuck_chuen_stephen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1394,7 +1474,8 @@ description: ""
 <br>ST Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_kim_whye_kelvin@schools.gov.sg</p>
+<p><a href="mailto:lee_kim_whye_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kim_whye_kelvin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1405,7 +1486,8 @@ description: ""
 <p>Mr Teo Chin Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_chin_ann@schools.gov.sg</p>
+<p><a href="mailto:teo_chin_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chin_ann@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1416,7 +1498,8 @@ description: ""
 <p>Ms Debbie Teo Jia Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>debbie_teo_jia_ling@schools.gov.sg</p>
+<p><a href="mailto:debbie_teo_jia_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">debbie_teo_jia_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1439,7 +1522,8 @@ description: ""
 <p>Mrs Ow (Audrey Chua Soo Kee)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_soo_kee@schools.gov.sg</p>
+<p><a href="mailto:chua_soo_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_soo_kee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1450,7 +1534,8 @@ description: ""
 <p>Ms Mabel Tan Xiao Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_xiao_ying@schools.gov.sg</p>
+<p><a href="mailto:tan_xiao_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xiao_ying@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1461,7 +1546,8 @@ description: ""
 <p>Ms Merlin Yeo Hwee Yua (Merlin Yang Huiya)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>merlin_yeo_hwee_yua@schools.gov.sg</p>
+<p><a href="mailto:merlin_yeo_hwee_yua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">merlin_yeo_hwee_yua@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1472,7 +1558,8 @@ description: ""
 <p>Mdm Masrurah Bte Marzuki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>masrurah_marzuki@schools.gov.sg</p>
+<p><a href="mailto:masrurah_marzuki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">masrurah_marzuki@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1483,7 +1570,8 @@ description: ""
 <p>Mr Ng Choon Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_choon_cheng@schools.gov.sg</p>
+<p><a href="mailto:ng_choon_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_cheng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1494,7 +1582,8 @@ description: ""
 <p>Mr Sebastian Lee Keang Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_keang_pheng@schools.gov.sg</p>
+<p><a href="mailto:lee_keang_pheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_keang_pheng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1505,7 +1594,8 @@ description: ""
 <p>Mr Neo Eugene&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eugene_neo@schools.gov.sg</p>
+<p><a href="mailto:eugene_neo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eugene_neo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1539,7 +1629,8 @@ description: ""
 <p>Mdm Ang Chye Gek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_chye_gek@schools.gov.sg</p>
+<p><a href="mailto:ang_chye_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chye_gek@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1562,7 +1653,8 @@ description: ""
 <p>Mdm Norshida Bte Mahmood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norshida_mahmood@schools.gov.sg</p>
+<p><a href="mailto:norshida_mahmood@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norshida_mahmood@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1585,7 +1677,8 @@ description: ""
 <p>Ms Nazratul Nadiah Binte Zailani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;nazratul_nadiah_zailani@schools.gov.sg</p>
+<p>&nbsp;<a href="mailto:nazratul_nadiah_zailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazratul_nadiah_zailani@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
