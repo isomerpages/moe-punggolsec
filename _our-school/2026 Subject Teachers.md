@@ -307,7 +307,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>English</strong></h4>
+<h4><strong>English Language and Literature</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -981,7 +981,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Mother Tongue</strong></h4>
+<h4><strong>Mother Tongue Languages</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
