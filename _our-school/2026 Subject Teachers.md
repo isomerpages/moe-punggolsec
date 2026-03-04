@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>2026 Subject Teachers</h2>
-<p><strong>Craft &amp; Technology</strong>
-</p>
+<h4><strong>Craft &amp; Technology</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -175,8 +174,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Electives</strong>
-</p>
+<h4><strong>Electives</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -309,8 +307,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>English</strong>
-</p>
+<h4><strong>English</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -556,8 +553,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Humanities</strong>
-</p>
+<h4><strong>Humanities</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -778,8 +774,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Mathematics</strong>
-</p>
+<h4><strong>Mathematics</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -986,8 +981,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Mother Tongue</strong>
-</p>
+<h4><strong>Mother Tongue</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1221,8 +1215,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Music</strong>
-</p>
+<h4><strong>Music</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1269,8 +1262,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Physical Education</strong>
-</p>
+<h4><strong>Physical Education</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1380,8 +1372,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Science</strong>
-</p>
+<h4><strong>Science</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1601,8 +1592,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Student Support</strong>
-</p>
+<h4><strong>Student Support</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
