@@ -622,7 +622,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Eng Leng</p>
+<p>Mr Tay Eng Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_eng_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_eng_leng@schools.gov.sg</a>
