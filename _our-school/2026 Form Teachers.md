@@ -486,10 +486,10 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seet Pek Hoon Gloria Maria</p>
+<p>Ms Jessica See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gloria_maria_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_maria_seet@schools.gov.sg</a>
+<p><a href="mailto:see_ko_li_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_ko_li_jessica@schools.gov.sg</a>
 </p>
 </td>
 </tr>
