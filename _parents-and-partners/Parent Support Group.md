@@ -10,7 +10,7 @@ parents and the school to support every Punggolite to excel.</p>
 <h3>Mission</h3>
 <p>To engage parents to actively partner with the school to nurture students
 with a values-based and value-added education.</p>
-<h3>2025 Parent Support Group (PSG) EXCO</h3>
+<h3>2026 Parent Support Group (PSG) EXCO</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,25 +34,15 @@ with a values-based and value-added education.</p>
 <p>Chairperson:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kokela Vani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice Chairperson:</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Quek Meng Fung</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Project Coordinators:
-<br>
-</p>
+<p>Vice Chairpersons:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Angela Tan Huey Min</p>
+<p>Mdm Samantha Ng</p>
 </td>
 </tr>
 <tr>
@@ -60,10 +50,18 @@ with a values-based and value-added education.</p>
 <p>Mdm Julieanna Binte Md Noor</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Project Coordinator:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Angela Tan Huey Min</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<h3>2025 Level Coordinators</h3>
+<h3>2026 Level Coordinators</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -83,7 +81,7 @@ with a values-based and value-added education.</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wu Meilan (Jean)</p>
+<p>Mdm Julieanna Binte Md Noor</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +89,7 @@ with a values-based and value-added education.</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Yap</p>
+<p>Mdm Jean Wu Meilan</p>
 </td>
 </tr>
 <tr>
@@ -99,12 +97,12 @@ with a values-based and value-added education.</p>
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Samantha Ng Sok Hiang</p>
+<p>Mdm Lynn Yap</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5</p>
+<p>Sec 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Chee</p>
