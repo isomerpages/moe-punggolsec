@@ -23,7 +23,7 @@ Jan 2026) :&nbsp;</p>
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Punggol_Secondary_School__Singapore_Sec_1.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+<p><a href="/files/2026_Term_2_Sec_1_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ Jan 2026) :&nbsp;</p>
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Punggol_Secondary_School__Singapore_Sec_2.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+<p><a href="/files/2026_Term_2_Sec_2_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ Jan 2026) :&nbsp;</p>
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Punggol_Secondary_School__Singapore_Sec_3.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+<p><a href="/files/2026_Term_2_Sec_3_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ Jan 2026) :&nbsp;</p>
 <p>Secondary 4 and 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Punggol_Secondary_School__Singapore_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+<p><a href="/files/2026_Term_2_Sec_4_5_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
