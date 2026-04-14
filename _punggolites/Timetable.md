@@ -10,8 +10,8 @@ students will have an odd and even week timetable.</p>
 accordingly.</p>
 <p></p>
 <h3><strong>Class Timetable 2026</strong></h3>
-<p>Please refer to&nbsp;your Semester 1 class timetable below (updated 24
-March 2026) :&nbsp;</p>
+<p>Please refer to&nbsp;your Semester 1 class timetable below (updated 14
+April 2026) :&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
