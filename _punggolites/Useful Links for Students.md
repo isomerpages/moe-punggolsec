@@ -23,10 +23,6 @@ description: ""
 <h4><strong>Administration</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://form.gov.sg/5e659fdb6bbaaf0011251cc9" rel="noopener noreferrer nofollow" target="_blank">Password Reset (MIMS/ Icon/ PLD/ SLS)</a></strong>
-</p>
-</li>
-<li>
 <p><strong><a href="https://punggolsec.moe.edu.sg/punggolites/useful-links/useful-links-for-students/rent-a-locker/" rel="noopener noreferrer nofollow" target="_blank">Rent a Locker</a></strong>
 </p>
 <p></p>
