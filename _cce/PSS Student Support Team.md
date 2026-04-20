@@ -47,7 +47,7 @@ into mainstream schools.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nazratul Nadiah, Extn: 288</p>
+<p>Ms Nazratul Nadiah, Extn: 290</p>
 </li>
 </ul>
 </li>
