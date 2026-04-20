@@ -45,19 +45,32 @@ description: ""
 <p></p>
 <p><strong><u>Preliminary Examinations</u></strong>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Secondary 4 &amp; 5</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4A to 4E (G3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4F to 4H (G2, G1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzW8wM6UEW6ldGuOHdywnYA_A6SU9Hsz3gtJwNWdww6w4l53_5vknzE0m6ocDcc-fRw7EsV0qnptbk/pubhtml?widget=true&amp;headers=false%22%20frameborder=%220%22%20allowfullscreen=%22true%22%20referrerpolicy=%22strict-origin-when-cross-origin" rel="noopener nofollow" target="_blank">Exam schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
