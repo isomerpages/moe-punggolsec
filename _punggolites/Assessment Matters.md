@@ -57,9 +57,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzW8wM6UEW6ldGuOHdywnYA_A6SU9Hsz3gtJwNWdww6w4l53_5vknzE0m6ocDcc-fRw7EsV0qnptbk/pubhtml?widget=true&amp;headers=false"></iframe>
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
