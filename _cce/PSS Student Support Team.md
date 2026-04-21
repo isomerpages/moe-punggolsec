@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Alison Tan, Extn: 260</p>
+<p>Ms Janene, Extn: 260</p>
 </li>
 <li>
 <p>Ms Ang Chye Gek, Extn: 261</p>
@@ -30,7 +30,10 @@ counselling support for students’ mental health and social-emotional developme
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Norshida Mahmood, Extn:287</p>
+<p>Norshida Mahmood, Extn: 287</p>
+</li>
+<li>
+<p>Ms Zhu Wenwen, Extn: 288</p>
 </li>
 </ul>
 </li>
@@ -44,7 +47,7 @@ into mainstream schools.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nazratul Nadiah, Extn:288</p>
+<p>Ms Nazratul Nadiah, Extn: 290</p>
 </li>
 </ul>
 </li>
