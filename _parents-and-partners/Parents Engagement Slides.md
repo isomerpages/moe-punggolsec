@@ -27,6 +27,18 @@ below:</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026_Sec__2_Parent_Engagement_slides_For_Parents.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
