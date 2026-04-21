@@ -57,12 +57,11 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>4F, 4G, 4H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzW8wM6UEW6ldGuOHdywnYA_A6SU9Hsz3gtJwNWdww6w4l53_5vknzE0m6ocDcc-fRw7EsV0qnptbk/pubhtml?widget=true&amp;headers=false%22%20frameborder=%220%22%20allowfullscreen=%22true%22%20referrerpolicy=%22strict-origin-when-cross-origin" rel="noopener nofollow" target="_blank">Exam schedule</a>
-</p>
+<td rowspan="1" colspan="2">
+<p>For classes 4F, 4G and 4H</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="700" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzW8wM6UEW6ldGuOHdywnYA_A6SU9Hsz3gtJwNWdww6w4l53_5vknzE0m6ocDcc-fRw7EsV0qnptbk/pubhtml?widget=true&amp;headers=false&amp;widget=false"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
