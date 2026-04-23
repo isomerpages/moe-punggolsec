@@ -222,7 +222,11 @@ or recorded accompaniment)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students will be assessed based on the following:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students will be assessed based on the following:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Interest and aptitude in Science</p>
