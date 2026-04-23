@@ -204,12 +204,9 @@ and/or any local, regional or international competition(s)</p>
 <p>Students will be accessed based on the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Audition</p>
+<p>Audition - Shortlisted candidates are to perform 2 contrasting pieces
+(with live or recorded accompaniment)</p>
 </li>
-</ul>
-<p>Shortlisted candidates are to perform 2 contrasting pieces (with live
-or recorded accompaniment)</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Interview</p>
 </li>
