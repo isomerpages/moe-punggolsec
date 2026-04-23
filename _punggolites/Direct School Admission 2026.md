@@ -46,12 +46,20 @@ in Punggol Secondary School to apply for our DSA programme.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students will be trained by a professional
-coach appointed by the school and be developed in their skills and competencies
-to play competitive volleyball e.g. through a rigorous CCA training programme
-and friendly matches with other teams and alumni.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Students will have an opportunity to be selected
-to represent the school in Volleyball tournaments (Zonal / Nationals).</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students will be trained by a professional coach appointed by the school
+and be developed in their skills and competencies to play competitive volleyball
+e.g. through a rigorous CCA training programme and friendly matches with
+other teams and alumni.</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Students will have an opportunity to be selected to represent the school
+in Volleyball tournaments (Zonal / Nationals).</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
@@ -60,13 +68,20 @@ to represent the school in Volleyball tournaments (Zonal / Nationals).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students will be trained by a professional
-instructor appointed by the school to be developed in their musicality,
-ability to sing, and confidence in public performances as part of the school
-choir e.g. through a rigorous CCA training programme, and exchange programmes
-with other schools.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Students will have an opportunity to be selected
-to represent the school in the Singapore Youth Festival (SYF) Arts Presentation.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students will be trained by a professional instructor appointed by the
+school to be developed in their musicality, ability to sing, and confidence
+in public performances as part of the school choir e.g. through a rigorous
+CCA training programme, and exchange programmes with other schools.</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Students will have an opportunity to be selected to represent the school
+in the Singapore Youth Festival (SYF) Arts Presentation.</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
@@ -75,14 +90,19 @@ to represent the school in the Singapore Youth Festival (SYF) Arts Presentation.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students will be trained by our teacher in-charge
-to be developed in skills to serve the school and community in areas related
-to environmental science.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Students will have opportunities to learn basic
-research and presentation skills, and also apply their knowledge via hands-on
-activities within the school and beyond and through competitions.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students will be trained by our teacher in-charge to be developed in skills
+to serve the school and community in areas related to environmental science.</p>
+</li>
+<li>
+<p>Students will have opportunities to learn basic research and presentation
+skills, and also apply their knowledge via hands-on activities within the
+school and beyond and through competitions.</p>
 <p>Students who accept the DSA offer for Environmental Science will join
 the Environment Club CCA.</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
@@ -139,6 +159,8 @@ and/or</p>
 <p>Students must have achieved at least a Silver award in Primary 4/6 NAPFA
 results.</p>
 </li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p>Selection Trial</p>
 </li>
@@ -227,10 +249,10 @@ or projects at school or national level</p>
 the students’ aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>&nbsp;Application for DSA-Sec can be submitted through the online DSA-Sec
-Portal. The application is free-of-charge and will be open from 6 May 2026,
-11am to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website
-– www.moe.gov.sg/dsa-sec.</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 6 May 2026, 11am
+to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website –
+www.moe.gov.sg/dsa-sec.</p>
 <p>Applicants who do not have prior experiences may also apply. The school
 will access applicants based on the selection criteria, which may include
 accessing the potential of the applicants.</p>
