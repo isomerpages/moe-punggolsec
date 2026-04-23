@@ -18,9 +18,9 @@ sections:
         - title: School Magazine 2025
           description: View it here
           url: /school-magazine-2025/
-        - title: Secondary 1 Matters
-          description: "[NEW!] CCA Allocation info"
-          url: /sec-1-matters/
+        - title: DSA 2026
+          description: "[NEW!] DSA Application info"
+          url: /direct-school-admission-2026/
         - title: Follow us on Instagram!
           description: For our updates and events
           url: https://www.instagram.com/punggol_ss
