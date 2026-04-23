@@ -81,7 +81,6 @@ to environmental science.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Students will have opportunities to learn basic
 research and presentation skills, and also apply their knowledge via hands-on
 activities within the school and beyond and through competitions.</p>
-<p>&nbsp;</p>
 <p>Students who accept the DSA offer for Environmental Science will join
 the Environment Club CCA.</p>
 </td>
@@ -135,7 +134,7 @@ and/or</p>
 / National)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Students must have achieved at least a Silver award in Primary 4/6 NAPFA
