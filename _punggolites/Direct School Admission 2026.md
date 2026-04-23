@@ -14,8 +14,8 @@ Propriety&nbsp;礼, Righteousness&nbsp;义, Integrity&nbsp;廉&nbsp;and Self-Res
 <p>The Vision of the school is to develop future-ready Punggolites who are
 active contributors. The Mission of the school is to nurture a vibrant
 community of self-directed and adaptable Punggolites, grounded in values.&nbsp;</p>
-<p>&nbsp;We aim to nurture students into Achievers with Character&nbsp;who
-are confident and motivated to&nbsp;excel in both the academic and non-academic
+<p>We aim to nurture students into Achievers with Character&nbsp;who are
+confident and motivated to&nbsp;excel in both the academic and non-academic
 domains.</p>
 <p>We welcome students with outstanding talents and who value such an education
 in Punggol Secondary School to apply for our DSA programme.</p>
@@ -228,4 +228,28 @@ or projects at school or national level</p>
 </tr>
 </tbody>
 </table>
+<p><u>Notes</u>:</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the students’ aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>&nbsp;Application for DSA-Sec can be submitted through the online DSA-Sec
+Portal. The application is free-of-charge and will be open from 6 May 2026,
+11am to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website
+– www.moe.gov.sg/dsa-sec.</p>
+<p>Applicants who do not have prior experiences may also apply. The school
+will access applicants based on the selection criteria, which may include
+accessing the potential of the applicants.</p>
+<p>Due to different profiles of applicants, selection / shortlisting trends
+may differ year on year.</p>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted / given an offer.</p>
+<p>You will receive notification from the school by 29 June 202, if your
+child has been shortlisted to undergo Direct School Admission (DSA) Selection.</p>
+<p>Applicants will be informed of the outcome between 17 August and 28 August
+2026.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
+<hr>
 <p></p>
