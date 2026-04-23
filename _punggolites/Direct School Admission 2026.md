@@ -134,15 +134,11 @@ and/or</p>
 / National)</p>
 </li>
 </ul>
-<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Students must have achieved at least a Silver award in Primary 4/6 NAPFA
 results.</p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="3" data-tight="true" class="tight">
 <li>
 <p>Selection Trial</p>
 </li>
@@ -182,8 +178,7 @@ in 2026 and/or</p>
 and/or any local, regional or international competition(s)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>2. Selection Trial</p>
+<p>&nbsp;2. Selection Trial</p>
 <p>Students will be accessed based on the following:</p>
 <ul data-tight="true" class="tight">
 <li>
