@@ -60,7 +60,15 @@ description: ""
 <td rowspan="1" colspan="2">
 <p>For classes 4F, 4G and 4H</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="700" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzW8wM6UEW6ldGuOHdywnYA_A6SU9Hsz3gtJwNWdww6w4l53_5vknzE0m6ocDcc-fRw7EsV0qnptbk/pubhtml?widget=true&amp;headers=false&amp;widget=false"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzW8wM6UEW6ldGuOHdywnYA_A6SU9Hsz3gtJwNWdww6w4l53_5vknzE0m6ocDcc-fRw7EsV0qnptbk/pubhtml?widget=true&amp;headers=false&amp;widget=false"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>For classes 4A to 4E, and SBB students</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYwjMyTzk7PKwyxo7V3uy22zNA5YmqTZSAk8Q2vNNP_W8BBYgwem1rqpUOATemIa_PswR4DTQvK8eQ/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 </td>
 </tr>
