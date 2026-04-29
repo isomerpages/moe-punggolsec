@@ -60,7 +60,7 @@ description: ""
 <td rowspan="1" colspan="2">
 <p>For classes 4F, 4G and 4H</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzW8wM6UEW6ldGuOHdywnYA_A6SU9Hsz3gtJwNWdww6w4l53_5vknzE0m6ocDcc-fRw7EsV0qnptbk/pubhtml?&amp;wdZoom=50 widget=true&amp;headers=false&amp;widget=false"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="transform:scale(0.75); transform-origin:top left; width:133%; height:600px;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzW8wM6UEW6ldGuOHdywnYA_A6SU9Hsz3gtJwNWdww6w4l53_5vknzE0m6ocDcc-fRw7EsV0qnptbk/pubhtml?widget=false&amp;headers=false"></iframe>
 </div>
 </td>
 </tr>
@@ -68,7 +68,7 @@ description: ""
 <td rowspan="1" colspan="2">
 <p>For classes 4A to 4E, and SBB students</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYwjMyTzk7PKwyxo7V3uy22zNA5YmqTZSAk8Q2vNNP_W8BBYgwem1rqpUOATemIa_PswR4DTQvK8eQ/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="transform:scale(0.75); transform-origin:top left; width:133%; height:600px;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYwjMyTzk7PKwyxo7V3uy22zNA5YmqTZSAk8Q2vNNP_W8BBYgwem1rqpUOATemIa_PswR4DTQvK8eQ/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 </td>
 </tr>
