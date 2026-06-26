@@ -10,8 +10,8 @@ students will have an odd and even week timetable.</p>
 accordingly.</p>
 <p></p>
 <h3><strong>Class Timetable 2026</strong></h3>
-<p>Please refer to&nbsp;your Semester 1 class timetable below (updated 14
-April 2026) :&nbsp;</p>
+<p>Please refer to&nbsp;your Semester 2 class timetable below (updated 26
+June 2026) :&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,7 +23,7 @@ April 2026) :&nbsp;</p>
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_Term_2_Sec_1_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+<p><a href="/files/2026_Sem_2_Sec_1_Class_Timetable__updated_26_Jun_.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ April 2026) :&nbsp;</p>
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_Term_2_Sec_2_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+<p><a href="/files/2026_Sem_2_Sec_2_Class_Timetable__updated_26_Jun_.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ April 2026) :&nbsp;</p>
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_Term_2_Sec_3_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+<p><a href="/files/2026_Sem_2_Sec_3_Class_Timetable__updated_26_Jun_.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ April 2026) :&nbsp;</p>
 <p>Secondary 4 and 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_Term_2_Sec_4_5_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+<p><a href="/files/2026_Sem_2_Sec_4_and_5_Timetable.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
