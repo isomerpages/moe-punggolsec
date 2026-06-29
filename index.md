@@ -12,9 +12,9 @@ sections:
       variant: image
       subtitle: Achievers with Character
       key_highlights:
-        - title: School Canteen Advertisement
+        - title: Latest Class TimeTable
           description: Click here for more info
-          url: /canteen-stall-vendors/
+          url: /punggolites/timetable/
         - title: School Magazine 2025
           description: View it here
           url: /school-magazine-2025/
