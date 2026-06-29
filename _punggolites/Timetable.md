@@ -57,5 +57,3 @@ June 2026) :&nbsp;</p>
 </tbody>
 </table>
 <p></p>
-<p>(A&nbsp;<a href="https://www.punggolsec.moe.edu.sg/files/Useful%20Links/For%20Students/Timetable%20Abbreviations%202021%20Sem%202.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>guide</u></a>&nbsp;explaining
-the abbreviations used.)</p>
