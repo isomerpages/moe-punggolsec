@@ -54,6 +54,15 @@ June 2026) :&nbsp;</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guide for Abbreviations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_Abbreviations.pdf" rel="noopener nofollow" target="_blank">PDF</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
